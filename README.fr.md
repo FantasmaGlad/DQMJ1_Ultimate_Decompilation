@@ -1,5 +1,9 @@
 # Dragon Quest Monsters: Joker — Décompilation Intégrale & Rétro-Ingénierie
 
+<p align="center">
+  <img src="assets/images/logo.png" alt="Dragon Quest Monsters: Joker Logo" width="460" />
+</p>
+
 [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
 [![Cible Matérielle](https://img.shields.io/badge/Cible-Nintendo%20DS%20%7C%20ARMv5TE%20%2B%20ARMv4T-informational.svg)]()
 [![Taux de Décompilation](https://img.shields.io/badge/D%C3%A9compilation-100%25%20%287%20140%20fonctions%29-success.svg)]()
@@ -8,6 +12,7 @@
 [![Formats Propriétaires](https://img.shields.io/badge/D%C3%A9codeurs-SDAT%20%7C%20NSBMD%20%7C%20D16%20%7C%20FPK%20%7C%20EVT-purple.svg)]()
 [![Multilingue](https://img.shields.io/badge/Localisation-5%20Langues%20%28EN%2FFR%2FDE%2FIT%2FES%29-teal.svg)]()
 [![Statut](https://img.shields.io/badge/Statut-Recherche%20Industrielle-brightgreen.svg)]()
+[![Wiki Compagnon](https://img.shields.io/badge/Wiki%20en%20ligne-dqmj1.wiki-blueviolet.svg?style=flat)](https://dqmj1.wiki/)
 
 Projet complet de rétro-ingénierie avancée, analyse de bytecode et décompilation C pour **Dragon Quest Monsters: Joker** (Nintendo DS, version européenne `NTR-AJRP-EUR`).
 
@@ -18,6 +23,25 @@ Ce dépôt illustre une démarche complète de reverse engineering bas niveau : 
 > - [Extracted Assets Inventory & Research Status (docs/WHAT_IS_DONE.md)](docs/WHAT_IS_DONE.md)
 > - [Contributing Guidelines (CONTRIBUTING.md)](CONTRIBUTING.md)
 > - [Code of Conduct (CODE_OF_CONDUCT.md)](CODE_OF_CONDUCT.md)
+
+
+---
+
+## Wiki 3D interactif compagnon : [dqmj1.wiki](https://dqmj1.wiki/)
+
+Toutes les données, formules et ressources extraites dans ce dépôt alimentent directement l'encyclopédie web et le compendium 3D en production : **[https://dqmj1.wiki](https://dqmj1.wiki/)** (Page dédiée au projet sur le wiki : [dqmj1.wiki/github](https://dqmj1.wiki/github)).
+
+Modules interactifs alimentés par la décompilation :
+- **[Bestiaire 3D des monstres](https://dqmj1.wiki/)** : Rendu WebGL temps réel des 210 monstres, 6 animations officielles, plafonds et statistiques de base.
+- **[Simulateur interactif de synthèse](https://dqmj1.wiki/synthese)** : Arbre React Flow et moteur de fusion 2 parents fidèle à la routine `FUN_0218bee8`.
+- **[Recherche inversée de synthèse](https://dqmj1.wiki/synthese/recherche)** : Calcul de lignées optimales, recettes quadrilinéaires à 4 parents et formes d'Incarnus.
+- **[Cartes 3D & minicartes](https://dqmj1.wiki/maps)** : 90 cartes 3D interactives, coordonnées réelles des coffres, collisions physiques et minicartes officielles.
+- **[Calculateur de dégâts & Arène](https://dqmj1.wiki/degats)** : Formules de combat authentiques (`DamageTbl.bin`), paliers de sagesse, tension et simulateur d'arène.
+- **[Studio audio & musiques](https://dqmj1.wiki/musiques)** : 25 thèmes de Koichi Sugiyama et 292 bruitages SFX resynthétisés depuis les séquences SSEQ.
+- **[API REST ouverte (v1)](https://dqmj1.wiki/api)** : Accès programmatique libre, gratuit et sans clé d'API à l'ensemble du jeu de données.
+
+> **Infrastructure & Auto-Hébergement Communautaire :**
+> Le site compagnon en ligne, l'API REST publique et l'infrastructure de téléchargement des assets 3D sont intégralement auto-hébergés sur des serveurs physiques dédiés mis à disposition par **FantasmaGlad**. La bande passante très haut débit, le stockage NVMe haute capacité et la disponibilité continue sont offerts sans aucune contrepartie financière, sans publicité et sans abonnement, au bénéfice de l'ensemble de la communauté Dragon Quest et des chercheurs en rétro-ingénierie.
 
 
 ---
@@ -34,6 +58,19 @@ Ce dépôt illustre une démarche complète de reverse engineering bas niveau : 
 - **Formules & Mécaniques de jeu** : Moteur de synthèse (formule canonique `FUN_0218bee8`), caractéristiques de base niveau 1 de la ROM, courbes de croissance, résistances élémentaires, équipes de dresseurs et tables de décision tactique de l'IA (`AI_*.bin`).
 
 ---
+
+---
+
+## Modèle 3D animé de référence : Wulfspade (No. 336 / m176)
+
+Afin d'illustrer la fidélité de notre chaîne de conversion 3D et de réextraction squelettique sans exiger d'extraction préalable, le dépôt intègre l'actif de production complet de **Wulfspade** (*Apik*, Espèce n° 336, identifiant interne `m176`) :
+
+- **Emplacement** : [`assets/models/wulfspade_m176/`](assets/models/wulfspade_m176/)
+- **Formats inclus** :
+  - `m176.glb` : Format glTF binaire autonome intégrant le maillage, le squelette 28 os, la pondération de sommet, la texture diffuse et 10 animations.
+  - `m176.gltf` + `m176.bin` + `m176_1.png` : Format glTF 2.0 textuel décomposé.
+- **Animations incluses** : Pose de combat, repos terrain, cycle de course, frappe physique, incantation magique, coup léger, projection lourde, défaite, cri de victoire et garde alternative.
+- **Compatibilité** : Conforme au standard glTF 2.0 / GLB, immédiatement importable dans Blender, three.js, Godot ou Unity.
 
 ## Compétences Techniques & Valeur Ingénierie
 
@@ -108,19 +145,19 @@ La Nintendo DS fonctionne autour de deux processeurs asynchrones avec mémoire p
 
 ```bash
 # Synthèse des monstres
-python3 tools/extraire_synthese.py
+python3 tools/extract_synthesis.py
 
 # Statistiques de base niveau 1 et plafonds
-python3 tools/extraire_stats_especes.py
+python3 tools/extract_monster_stats.py
 
 # Profils et arbres décisionnels d'IA de combat
-python3 tools/extraire_ia_combat.py
+python3 tools/extract_battle_ai.py
 
 # Coffres 3D et coordonnées physiques
-python3 tools/extraire_coffres_3d.py
+python3 tools/extract_chests_3d.py
 
 # Rendu audio SSEQ vers MP3
-python3 tools/rendre_sequences_sseq.py
+python3 tools/render_sseq_audio.py
 ```
 
 ---

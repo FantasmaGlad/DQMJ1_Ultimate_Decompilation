@@ -1,5 +1,9 @@
 # Dragon Quest Monsters: Joker — Ultimate Decompilation & Reverse Engineering
 
+<p align="center">
+  <img src="assets/images/logo.png" alt="Dragon Quest Monsters: Joker Logo" width="460" />
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Target-Nintendo%20DS%20%7C%20ARMv5TE%20%2B%20ARMv4T-informational.svg)]()
 [![Decompilation Rate](https://img.shields.io/badge/Decompilation-100%25%20%287%2C140%20funcs%29-success.svg)]()
@@ -8,6 +12,7 @@
 [![File Formats](https://img.shields.io/badge/Custom%20Parsers-SDAT%20%7C%20NSBMD%20%7C%20D16%20%7C%20FPK%20%7C%20EVT-purple.svg)]()
 [![Multi-language](https://img.shields.io/badge/Data%20Localization-5%20Languages%20%28EN%2FFR%2FDE%2FIT%2FES%29-teal.svg)]()
 [![Status](https://img.shields.io/badge/Status-Production%20Grade%20Research-brightgreen.svg)]()
+[![Companion Wiki](https://img.shields.io/badge/Companion%20Wiki-dqmj1.wiki-blueviolet.svg?style=flat)](https://dqmj1.wiki/)
 
 Comprehensive reverse engineering, bytecode analysis, and full-stack C decompilation for **Dragon Quest Monsters: Joker** (Nintendo DS, 2006-2008, European version `NTR-AJRP-EUR`).
 
@@ -18,6 +23,25 @@ This repository showcases advanced systems-level reverse engineering, proprietar
 > - [Inventaire des actifs extraits et statut R&D (docs/WHAT_IS_DONE.md)](docs/WHAT_IS_DONE.md)
 > - [Documentation technique exhaustive de A à Z (docs/fr/GUIDE_COMPLET.md)](docs/fr/GUIDE_COMPLET.md)
 > - [Guide d'extraction des ressources multimédias (docs/fr/EXTRACTION_RESSOURCES.md)](docs/fr/EXTRACTION_RESSOURCES.md)
+
+
+---
+
+## Interactive 3D Companion Wiki: [dqmj1.wiki](https://dqmj1.wiki/)
+
+All algorithms, models, and binary tables reverse-engineered in this repository directly power the production companion web encyclopedia and 3D compendium: **[https://dqmj1.wiki](https://dqmj1.wiki/)** (Web overview page: [dqmj1.wiki/github](https://dqmj1.wiki/github)).
+
+Key live modules running on decompiled game data:
+- **[3D Monster Bestiary](https://dqmj1.wiki/)**: Real-time WebGL rendering of 210 monster species, 6 official animations, stat ceilings, and base stats.
+- **[Interactive Synthesis Simulator](https://dqmj1.wiki/synthese)**: Live React Flow graph and exact two-parent breeding engine faithful to `FUN_0218bee8`.
+- **[Reverse Synthesis Search](https://dqmj1.wiki/synthese/recherche)**: Shortest breeding paths, 4-parent quadrilinear recipes, and Incarnus pedigree resolution.
+- **[3D World Maps & Minimaps](https://dqmj1.wiki/maps)**: 90 3D world maps with physical chest coordinates, collision physics, and lower-screen 2D minimaps.
+- **[Damage & Battle Simulator](https://dqmj1.wiki/degats)**: Authentic game formulas (`DamageTbl.bin`), Wisdom thresholds, tension multipliers, and 2D Battle Arena.
+- **[Soundtrack & Audio Studio](https://dqmj1.wiki/musiques)**: 25 Sugiyama themes and 292 sound effects resynthesized from ROM sequences.
+- **[Open REST API (v1)](https://dqmj1.wiki/api)**: Free, keyless public endpoints for programmatic queries across the entire extracted dataset.
+
+> **Community Infrastructure & Self-Hosting:**
+> The live companion website, public REST API, and high-resolution 3D asset downloads are 100% self-hosted on dedicated personal infrastructure provided by **FantasmaGlad**. Bandwidth, high-capacity NVMe storage, and continuous server availability are freely made available to the worldwide Dragon Quest, emulation, and reverse-engineering communities with zero advertisements and zero subscription fees.
 
 
 ---
@@ -34,6 +58,19 @@ This repository showcases advanced systems-level reverse engineering, proprietar
 - **Data Tables & Game Mechanics**: Synthesis algorithms, monster species base stats, growth curves, elemental resistances, trainer teams, and battle AI logic (`AI_*.bin`).
 
 ---
+
+---
+
+## Sample 3D Animated Asset: Wulfspade (No. 336 / m176)
+
+To demonstrate the fidelity of our 3D model and skeletal animation extraction pipeline without requiring extraction from scratch, this repository includes the complete production asset for **Wulfspade** (Species No. 336, internal ID `m176`, known as *Apik* in French):
+
+- **Location**: [`assets/models/wulfspade_m176/`](assets/models/wulfspade_m176/)
+- **Formats Included**:
+  - `m176.glb`: Self-contained binary glTF with 28-bone skeletal rig, vertex weighting, diffuse texture, and 10 animations.
+  - `m176.gltf` + `m176.bin` + `m176_1.png`: Decomposed glTF 2.0 format.
+- **Included Animations**: Battle Idle, Field Idle, Walk/Run Cycle, Physical Attack, Spell Cast, Light Damage, Heavy Knockback, Defeat, Victory Roar, and Alternate Idle.
+- **Compatibility**: Standard glTF 2.0 / GLB compatible with Blender, three.js, Godot, Unity, and modern 3D engines.
 
 ## Technical Competencies & Engineering Highlights
 
@@ -108,7 +145,7 @@ DQMJ1_Ultimate_Decompilation/
 |   |-- ghidra_scripts/       Ghidra headless automation scripts
 |   |-- blender/              Blender scene setup and automation
 |   |-- optimiser/            Node.js glTF processing pipelines
-|   `-- extraire_*.py         Python decoders for game data and assets
+|   `-- extract_*.py         Python decoders for game data and assets
 |-- assets/                   Extracted game data (JSON, images)
 |-- docs/                     Documentation and research notes
 |   |-- en/                   Technical documentation (English)
@@ -137,19 +174,19 @@ DQMJ1_Ultimate_Decompilation/
 
 ```bash
 # Extract synthesis recipes and matrix
-python3 tools/extraire_synthese.py
+python3 tools/extract_synthesis.py
 
 # Extract complete monster species base stats and limits
-python3 tools/extraire_stats_especes.py
+python3 tools/extract_monster_stats.py
 
 # Extract battle AI rules and decision trees
-python3 tools/extraire_ia_combat.py
+python3 tools/extract_battle_ai.py
 
 # Decode map layouts and 3D chest coordinates
-python3 tools/extraire_coffres_3d.py
+python3 tools/extract_chests_3d.py
 
 # Render SSEQ sequence music to WAV/MP3
-python3 tools/rendre_sequences_sseq.py
+python3 tools/render_sseq_audio.py
 ```
 
 ---

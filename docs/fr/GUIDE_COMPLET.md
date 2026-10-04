@@ -1813,7 +1813,7 @@ seul cœur ARM ne peut pas reproduire ça.
 
 ### 11.2 Ce qu'on peut faire, par ordre de réalisme
 
-#### Option 1 — L'émulateur (recommandé) ⭐
+#### Option 1 — L'émulateur (recommandé)
 
 C'est **la vraie réponse** à « voir le code en action ». Un émulateur
 reproduit le matériel DS en logiciel : il intercepte chaque accès à
@@ -2400,10 +2400,10 @@ python3 tools/swartowav.py --all out/sound/SWAR out/wav_swar
 ~/.local/bin/re-models work/extracted/data out/models
 
 # 8. Construire la bibliotheque ModelBlender (411 .blend autonomes)
-python3 tools/construire_modelblender.py        # ~40 min
-python3 tools/reparer_echecs.py                 # les 4 modeles recalcitrants
-python3 tools/creer_catalogue.py                # CATALOGUE.md
-tools/generer_apercus.sh 8                      # 411 vignettes
+python3 tools/build_blender_library.py        # ~40 min
+python3 tools/fix_conversion_failures.py                 # les 4 modeles recalcitrants
+python3 tools/create_catalog.py                # CATALOGUE.md
+tools/generate_previews.sh 8                      # 411 vignettes
 ```
 
 ### 17.2 Commandes utiles au quotidien

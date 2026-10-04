@@ -45,16 +45,17 @@
 set -euo pipefail
 
 GHIDRA="${GHIDRA_HOME:-/opt/ghidra}"
-PROJ="${PROJ_DIR:-$HOME/Documents/ReverseEngeneering/work/ghidra_proj}"
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+PROJ="${PROJ_DIR:-$REPO_ROOT/work/ghidra_proj}"
 SRC="${1:?Usage: nds-decompile.sh <rom.nds|dossier_extrait>}"
-BASE="$HOME/Documents/ReverseEngeneering/work"
+BASE="${BASE_DIR:-$REPO_ROOT/work}"
 
 # Si on recoit une ROM brute, on l'extrait d'abord.
 if [[ "$SRC" == *.nds ]]; then
     WORK="$BASE/extracted"
     if [[ ! -f "$WORK/arm9.bin" ]]; then
         echo ">>> Extraction de la ROM..."
-        "$HOME/Documents/ReverseEngeneering/tools/nds-inspect.sh" "$SRC" "$WORK" >/dev/null
+        "$REPO_ROOT/tools/nds-inspect.sh" "$SRC" "$WORK" >/dev/null
     fi
 else
     WORK="$SRC"
@@ -91,7 +92,7 @@ decompile() {
         -processor "$lang" \
         -loader BinaryLoader \
         -loader-baseAddr "$addr" \
-        -scriptPath "$HOME/Documents/ReverseEngeneering/tools/ghidra_scripts" \
+        -scriptPath "$REPO_ROOT/tools/ghidra_scripts" \
         -postScript ExportDecompiled.java "$name" \
         -deleteProject \
         2>&1 | grep -E 'INFO|ERROR|WARN|Export' | tail -n 20
@@ -122,7 +123,7 @@ fi
 echo
 echo "=============================================="
 echo " Termine."
-for f in "$HOME/Documents/ReverseEngeneering/work/decompiled"/*.c; do
+for f in "$BASE/decompiled"/*.c; do
     printf '  %-24s %6d fonctions\n' "$(basename "$f")" "$(grep -c '^// ----' "$f")"
 done
 echo "=============================================="
