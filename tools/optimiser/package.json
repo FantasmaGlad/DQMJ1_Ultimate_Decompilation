@@ -1,0 +1,13 @@
+{
+  "name": "optimiser-cartes",
+  "private": true,
+  "type": "module",
+  "description": "Regroupe et compresse les GLB de cartes (un fichier autonome par carte)",
+  "dependencies": {
+    "@gltf-transform/core": "^4.0.0",
+    "@gltf-transform/extensions": "^4.0.0",
+    "@gltf-transform/functions": "^4.0.0",
+    "meshoptimizer": "^0.22.0",
+    "sharp": "^0.33.0"
+  }
+}

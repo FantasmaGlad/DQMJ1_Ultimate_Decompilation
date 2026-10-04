@@ -1,0 +1,884 @@
+{
+ "1": {
+  "item_id": 1,
+  "name_en": "medicinal herb",
+  "name_fr": "herbe médicin",
+  "buy_price": 8,
+  "sell_price": 4
+ },
+ "2": {
+  "item_id": 2,
+  "name_en": "strong medicine",
+  "name_fr": "remède puiss",
+  "buy_price": 50,
+  "sell_price": 25
+ },
+ "3": {
+  "item_id": 3,
+  "name_en": "special medicine",
+  "name_fr": "remède spécial",
+  "buy_price": 250,
+  "sell_price": 125
+ },
+ "4": {
+  "item_id": 4,
+  "name_en": "multi medicine",
+  "name_fr": "multiremède",
+  "buy_price": 600,
+  "sell_price": 300
+ },
+ "5": {
+  "item_id": 5,
+  "name_en": "Yggdrasil dew",
+  "name_fr": "rosée d'Yggdr",
+  "buy_price": 3000,
+  "sell_price": 1500
+ },
+ "6": {
+  "item_id": 6,
+  "name_en": "magic elixir",
+  "name_fr": "élixir magique",
+  "buy_price": 300,
+  "sell_price": 150
+ },
+ "7": {
+  "item_id": 7,
+  "name_en": "sage's elixir",
+  "name_fr": "élixir du sage",
+  "buy_price": 750,
+  "sell_price": 375
+ },
+ "8": {
+  "item_id": 8,
+  "name_en": "elfin elixir",
+  "name_fr": "élixir elfique",
+  "buy_price": 1260,
+  "sell_price": 630
+ },
+ "9": {
+  "item_id": 9,
+  "name_en": "Yggdrasil leaf",
+  "name_fr": "feuille d'Yggdr",
+  "buy_price": 1500,
+  "sell_price": 750
+ },
+ "10": {
+  "item_id": 10,
+  "name_en": "antidotal herb",
+  "name_fr": "herbe curative",
+  "buy_price": 10,
+  "sell_price": 5
+ },
+ "11": {
+  "item_id": 11,
+  "name_en": "moonwort bulb",
+  "name_fr": "botryche lun",
+  "buy_price": 30,
+  "sell_price": 15
+ },
+ "12": {
+  "item_id": 12,
+  "name_en": "panacea",
+  "name_fr": "panacée",
+  "buy_price": 550,
+  "sell_price": 275
+ },
+ "13": {
+  "item_id": 13,
+  "name_en": "antimag powder",
+  "name_fr": "poudre antimag",
+  "buy_price": 100,
+  "sell_price": 50
+ },
+ "14": {
+  "item_id": 14,
+  "name_en": "Oomph powder",
+  "name_fr": "poudre Décuplo",
+  "buy_price": 900,
+  "sell_price": 450
+ },
+ "15": {
+  "item_id": 15,
+  "name_en": "wizard's penny",
+  "name_fr": "denier de sorc",
+  "buy_price": 310,
+  "sell_price": 155
+ },
+ "16": {
+  "item_id": 16,
+  "name_en": "wizard shilling",
+  "name_fr": "sou de sorcier",
+  "buy_price": 960,
+  "sell_price": 480
+ },
+ "17": {
+  "item_id": 17,
+  "name_en": "Insulade",
+  "name_fr": "Isolacto",
+  "buy_price": 350,
+  "sell_price": 175
+ },
+ "18": {
+  "item_id": 18,
+  "name_en": "jumbo Insulade",
+  "name_fr": "maxi Isolacto",
+  "buy_price": 1050,
+  "sell_price": 525
+ },
+ "19": {
+  "item_id": 19,
+  "name_en": "seed of skill",
+  "name_fr": "graine Compét",
+  "buy_price": 46,
+  "sell_price": 23
+ },
+ "20": {
+  "item_id": 20,
+  "name_en": "seed of life",
+  "name_fr": "graine de Vie",
+  "buy_price": 36,
+  "sell_price": 18
+ },
+ "21": {
+  "item_id": 21,
+  "name_en": "seed of magic",
+  "name_fr": "graine de Magie",
+  "buy_price": 40,
+  "sell_price": 20
+ },
+ "22": {
+  "item_id": 22,
+  "name_en": "seed of str",
+  "name_fr": "graine de Force",
+  "buy_price": 30,
+  "sell_price": 15
+ },
+ "23": {
+  "item_id": 23,
+  "name_en": "seed of def",
+  "name_fr": "graine Défense",
+  "buy_price": 30,
+  "sell_price": 15
+ },
+ "24": {
+  "item_id": 24,
+  "name_en": "seed of agility",
+  "name_fr": "graine d'Agilité",
+  "buy_price": 26,
+  "sell_price": 13
+ },
+ "25": {
+  "item_id": 25,
+  "name_en": "seed of wisdom",
+  "name_fr": "graine Sagesse",
+  "buy_price": 20,
+  "sell_price": 10
+ },
+ "26": {
+  "item_id": 26,
+  "name_en": "chimaera wing",
+  "name_fr": "aile de chimère",
+  "buy_price": 25,
+  "sell_price": 13
+ },
+ "27": {
+  "item_id": 27,
+  "name_en": "exodust",
+  "name_fr": "évacuopoudre",
+  "buy_price": 50,
+  "sell_price": 25
+ },
+ "28": {
+  "item_id": 28,
+  "name_en": "loyalty card",
+  "name_fr": "carte fidélité",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "29": {
+  "item_id": 29,
+  "name_en": "gold nugget",
+  "name_fr": "pépite d'or",
+  "buy_price": 0,
+  "sell_price": 5000
+ },
+ "30": {
+  "item_id": 30,
+  "name_en": "Positive Puller",
+  "name_fr": "Positif mag",
+  "buy_price": 7300,
+  "sell_price": 730
+ },
+ "31": {
+  "item_id": 31,
+  "name_en": "Think Negative",
+  "name_fr": "Pensée nég",
+  "buy_price": 7500,
+  "sell_price": 750
+ },
+ "32": {
+  "item_id": 32,
+  "name_en": "Neutral Grnd",
+  "name_fr": "Terr' neutre",
+  "buy_price": 14500,
+  "sell_price": 1450
+ },
+ "33": {
+  "item_id": 33,
+  "name_en": "lunar tablet",
+  "name_fr": "tablette lun",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "34": {
+  "item_id": 34,
+  "name_en": "solar tablet",
+  "name_fr": "tablette sol",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "35": {
+  "item_id": 35,
+  "name_en": "baryon sphere",
+  "name_fr": "sphère baryon",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "36": {
+  "item_id": 36,
+  "name_en": "How to Zoom",
+  "name_fr": "Téléportation",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "37": {
+  "item_id": 37,
+  "name_en": "The Joy of",
+  "name_fr": "Joies vac",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "38": {
+  "item_id": 38,
+  "name_en": "Whistling for",
+  "name_fr": "Sifflet nuls",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "39": {
+  "item_id": 39,
+  "name_en": "The Art of",
+  "name_fr": "L'art d'Invis",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "40": {
+  "item_id": 40,
+  "name_en": "brass key",
+  "name_fr": "clef de bronze",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "41": {
+  "item_id": 41,
+  "name_en": "darkonium",
+  "name_fr": "ténérium",
+  "buy_price": 0,
+  "sell_price": 3500
+ },
+ "42": {
+  "item_id": 42,
+  "name_en": "metal ticket",
+  "name_fr": "métallo-ticket",
+  "buy_price": 0,
+  "sell_price": 0
+ },
+ "48": {
+  "item_id": 48,
+  "name_en": "Wulfspade Bk",
+  "name_fr": "Livre d'Apik",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "49": {
+  "item_id": 49,
+  "name_en": "Hawkhart Bk",
+  "name_fr": "Livre d'Akœur",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "50": {
+  "item_id": 50,
+  "name_en": "Diamagon Bk",
+  "name_fr": "Livre d'Akaro",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "51": {
+  "item_id": 51,
+  "name_en": "Cluboon Bk",
+  "name_fr": "Livre d'Atrèfle",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "52": {
+  "item_id": 52,
+  "name_en": "warrior's scroll",
+  "name_fr": "parch' guerrier",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "53": {
+  "item_id": 53,
+  "name_en": "mage's scroll",
+  "name_fr": "parch' du mage",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "54": {
+  "item_id": 54,
+  "name_en": "priest's scroll",
+  "name_fr": "parch' prêtre",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "55": {
+  "item_id": 55,
+  "name_en": "mart art scroll",
+  "name_fr": "parch' martial",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "56": {
+  "item_id": 56,
+  "name_en": "sage's scroll",
+  "name_fr": "parch' du sage",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "57": {
+  "item_id": 57,
+  "name_en": "thief's scroll",
+  "name_fr": "parch' voleur",
+  "buy_price": 0,
+  "sell_price": 1
+ },
+ "80": {
+  "item_id": 80,
+  "name_en": "copper sword",
+  "name_fr": "épée de cuivre",
+  "buy_price": 270,
+  "sell_price": 135
+ },
+ "81": {
+  "item_id": 81,
+  "name_en": "divine dagger",
+  "name_fr": "dague divine",
+  "buy_price": 530,
+  "sell_price": 265
+ },
+ "82": {
+  "item_id": 82,
+  "name_en": "rapier",
+  "name_fr": "rapière",
+  "buy_price": 840,
+  "sell_price": 420
+ },
+ "83": {
+  "item_id": 83,
+  "name_en": "steel brdswd",
+  "name_fr": "épée lge acier",
+  "buy_price": 2000,
+  "sell_price": 1000
+ },
+ "84": {
+  "item_id": 84,
+  "name_en": "zombiesbane",
+  "name_fr": "fléau zombies",
+  "buy_price": 3850,
+  "sell_price": 1925
+ },
+ "85": {
+  "item_id": 85,
+  "name_en": "dragonsbane",
+  "name_fr": "fléau dragons",
+  "buy_price": 4700,
+  "sell_price": 2350
+ },
+ "86": {
+  "item_id": 86,
+  "name_en": "obsidian sword",
+  "name_fr": "épée obsidienne",
+  "buy_price": 7000,
+  "sell_price": 3500
+ },
+ "87": {
+  "item_id": 87,
+  "name_en": "silver brdswd",
+  "name_fr": "épée lge d'arg",
+  "buy_price": 11200,
+  "sell_price": 5600
+ },
+ "88": {
+  "item_id": 88,
+  "name_en": "zombiesblight",
+  "name_fr": "châtim' zombies",
+  "buy_price": 9800,
+  "sell_price": 4900
+ },
+ "89": {
+  "item_id": 89,
+  "name_en": "dragonsblight",
+  "name_fr": "châtim' dragons",
+  "buy_price": 10000,
+  "sell_price": 5000
+ },
+ "90": {
+  "item_id": 90,
+  "name_en": "giant's sword",
+  "name_fr": "épée de géant",
+  "buy_price": 39000,
+  "sell_price": 19500
+ },
+ "91": {
+  "item_id": 91,
+  "name_en": "zombie slayer",
+  "name_fr": "tueuse zombies",
+  "buy_price": 17000,
+  "sell_price": 8500
+ },
+ "92": {
+  "item_id": 92,
+  "name_en": "dragon slayer",
+  "name_fr": "tueuse dragons",
+  "buy_price": 17500,
+  "sell_price": 8750
+ },
+ "93": {
+  "item_id": 93,
+  "name_en": "lost katana",
+  "name_fr": "katana perdu",
+  "buy_price": 20000,
+  "sell_price": 10000
+ },
+ "94": {
+  "item_id": 94,
+  "name_en": "metal king swd",
+  "name_fr": "épée royale",
+  "buy_price": 62300,
+  "sell_price": 31150
+ },
+ "95": {
+  "item_id": 95,
+  "name_en": "iron lance",
+  "name_fr": "lance de fer",
+  "buy_price": 310,
+  "sell_price": 155
+ },
+ "96": {
+  "item_id": 96,
+  "name_en": "pitchfork",
+  "name_fr": "fourche",
+  "buy_price": 780,
+  "sell_price": 390
+ },
+ "97": {
+  "item_id": 97,
+  "name_en": "sacred spear",
+  "name_fr": "pique sacrée",
+  "buy_price": 920,
+  "sell_price": 460
+ },
+ "98": {
+  "item_id": 98,
+  "name_en": "partisan",
+  "name_fr": "pertuisane",
+  "buy_price": 2300,
+  "sell_price": 1150
+ },
+ "99": {
+  "item_id": 99,
+  "name_en": "holy lance",
+  "name_fr": "lance sacrée",
+  "buy_price": 2850,
+  "sell_price": 1425
+ },
+ "100": {
+  "item_id": 100,
+  "name_en": "hunting spear",
+  "name_fr": "lance chasse",
+  "buy_price": 4400,
+  "sell_price": 2200
+ },
+ "101": {
+  "item_id": 101,
+  "name_en": "dragon lance",
+  "name_fr": "lance Dragon",
+  "buy_price": 5300,
+  "sell_price": 2650
+ },
+ "102": {
+  "item_id": 102,
+  "name_en": "halberd",
+  "name_fr": "hallebarde",
+  "buy_price": 9600,
+  "sell_price": 4800
+ },
+ "103": {
+  "item_id": 103,
+  "name_en": "hero spear",
+  "name_fr": "lance de héros",
+  "buy_price": 15500,
+  "sell_price": 7750
+ },
+ "104": {
+  "item_id": 104,
+  "name_en": "Gáe Bolg",
+  "name_fr": "Gae Bolga",
+  "buy_price": 42500,
+  "sell_price": 21250
+ },
+ "105": {
+  "item_id": 105,
+  "name_en": "stone axe",
+  "name_fr": "hache de pierre",
+  "buy_price": 120,
+  "sell_price": 60
+ },
+ "106": {
+  "item_id": 106,
+  "name_en": "woodcutter axe",
+  "name_fr": "hache bûcheron",
+  "buy_price": 650,
+  "sell_price": 325
+ },
+ "107": {
+  "item_id": 107,
+  "name_en": "iron axe",
+  "name_fr": "hache de fer",
+  "buy_price": 990,
+  "sell_price": 495
+ },
+ "108": {
+  "item_id": 108,
+  "name_en": "woodsman axe",
+  "name_fr": "hache boquillon",
+  "buy_price": 2150,
+  "sell_price": 1075
+ },
+ "109": {
+  "item_id": 109,
+  "name_en": "headsman axe",
+  "name_fr": "hache bourreau",
+  "buy_price": 2600,
+  "sell_price": 1300
+ },
+ "110": {
+  "item_id": 110,
+  "name_en": "battleaxe",
+  "name_fr": "hache guerre",
+  "buy_price": 6700,
+  "sell_price": 3350
+ },
+ "111": {
+  "item_id": 111,
+  "name_en": "forester's axe",
+  "name_fr": "hache forestier",
+  "buy_price": 8200,
+  "sell_price": 4100
+ },
+ "112": {
+  "item_id": 112,
+  "name_en": "king axe",
+  "name_fr": "hache de roi",
+  "buy_price": 27500,
+  "sell_price": 13750
+ },
+ "113": {
+  "item_id": 113,
+  "name_en": "ranger's axe",
+  "name_fr": "hache de garde",
+  "buy_price": 16000,
+  "sell_price": 8000
+ },
+ "114": {
+  "item_id": 114,
+  "name_en": "execution axe",
+  "name_fr": "hache d'exécut",
+  "buy_price": 38500,
+  "sell_price": 19250
+ },
+ "115": {
+  "item_id": 115,
+  "name_en": "oaken club",
+  "name_fr": "massue chêne",
+  "buy_price": 90,
+  "sell_price": 45
+ },
+ "116": {
+  "item_id": 116,
+  "name_en": "sludgehammer",
+  "name_fr": "maillet de boue",
+  "buy_price": 400,
+  "sell_price": 200
+ },
+ "117": {
+  "item_id": 117,
+  "name_en": "iron hammer",
+  "name_fr": "marteau de fer",
+  "buy_price": 1540,
+  "sell_price": 770
+ },
+ "118": {
+  "item_id": 118,
+  "name_en": "war hammer",
+  "name_fr": "marteau armes",
+  "buy_price": 3200,
+  "sell_price": 1600
+ },
+ "119": {
+  "item_id": 119,
+  "name_en": "miracle mallet",
+  "name_fr": "maillet miracul",
+  "buy_price": 5800,
+  "sell_price": 2900
+ },
+ "120": {
+  "item_id": 120,
+  "name_en": "giant wrench",
+  "name_fr": "clef géante",
+  "buy_price": 7300,
+  "sell_price": 3650
+ },
+ "121": {
+  "item_id": 121,
+  "name_en": "sledgehammer",
+  "name_fr": "masse guerre",
+  "buy_price": 8200,
+  "sell_price": 4100
+ },
+ "122": {
+  "item_id": 122,
+  "name_en": "marauder maul",
+  "name_fr": "massue maraud",
+  "buy_price": 43000,
+  "sell_price": 21500
+ },
+ "123": {
+  "item_id": 123,
+  "name_en": "warlord hammer",
+  "name_fr": "marteau guerre",
+  "buy_price": 17000,
+  "sell_price": 8500
+ },
+ "124": {
+  "item_id": 124,
+  "name_en": "miracle mace",
+  "name_fr": "masse miracul",
+  "buy_price": 57500,
+  "sell_price": 28750
+ },
+ "125": {
+  "item_id": 125,
+  "name_en": "leather whip",
+  "name_fr": "fouet de cuir",
+  "buy_price": 380,
+  "sell_price": 190
+ },
+ "126": {
+  "item_id": 126,
+  "name_en": "battle whip",
+  "name_fr": "fouet combat",
+  "buy_price": 630,
+  "sell_price": 315
+ },
+ "127": {
+  "item_id": 127,
+  "name_en": "thorn whip",
+  "name_fr": "fouet d'épines",
+  "buy_price": 1400,
+  "sell_price": 700
+ },
+ "128": {
+  "item_id": 128,
+  "name_en": "sidewinder",
+  "name_fr": "claque-vent",
+  "buy_price": 4000,
+  "sell_price": 2000
+ },
+ "129": {
+  "item_id": 129,
+  "name_en": "snakeskin whip",
+  "name_fr": "fouet Serpent",
+  "buy_price": 1800,
+  "sell_price": 900
+ },
+ "130": {
+  "item_id": 130,
+  "name_en": "chain whip",
+  "name_fr": "fouet chaïne",
+  "buy_price": 2800,
+  "sell_price": 1400
+ },
+ "131": {
+  "item_id": 131,
+  "name_en": "dragontail whip",
+  "name_fr": "fouet Dragon",
+  "buy_price": 6700,
+  "sell_price": 3350
+ },
+ "132": {
+  "item_id": 132,
+  "name_en": "spiked stl whip",
+  "name_fr": "fouet d'acier",
+  "buy_price": 18800,
+  "sell_price": 9400
+ },
+ "133": {
+  "item_id": 133,
+  "name_en": "scourge whip",
+  "name_fr": "fouet discipline",
+  "buy_price": 9200,
+  "sell_price": 4600
+ },
+ "134": {
+  "item_id": 134,
+  "name_en": "Gringham whip",
+  "name_fr": "fouet Gringham",
+  "buy_price": 58000,
+  "sell_price": 29000
+ },
+ "135": {
+  "item_id": 135,
+  "name_en": "stone claws",
+  "name_fr": "griffes pierre",
+  "buy_price": 75,
+  "sell_price": 37
+ },
+ "136": {
+  "item_id": 136,
+  "name_en": "metal claws",
+  "name_fr": "griffes métal",
+  "buy_price": 500,
+  "sell_price": 250
+ },
+ "137": {
+  "item_id": 137,
+  "name_en": "iron claws",
+  "name_fr": "griffes de fer",
+  "buy_price": 1150,
+  "sell_price": 575
+ },
+ "138": {
+  "item_id": 138,
+  "name_en": "sacred claws",
+  "name_fr": "griffes sacrées",
+  "buy_price": 2500,
+  "sell_price": 1250
+ },
+ "139": {
+  "item_id": 139,
+  "name_en": "razor claws",
+  "name_fr": "griffes sabres",
+  "buy_price": 3100,
+  "sell_price": 1550
+ },
+ "140": {
+  "item_id": 140,
+  "name_en": "steel claws",
+  "name_fr": "griffes d'acier",
+  "buy_price": 5500,
+  "sell_price": 2750
+ },
+ "141": {
+  "item_id": 141,
+  "name_en": "metal talons",
+  "name_fr": "serres métal",
+  "buy_price": 7200,
+  "sell_price": 3600
+ },
+ "142": {
+  "item_id": 142,
+  "name_en": "gryphon talons",
+  "name_fr": "serres griffon",
+  "buy_price": 34500,
+  "sell_price": 17250
+ },
+ "143": {
+  "item_id": 143,
+  "name_en": "sacred talons",
+  "name_fr": "serres sacrées",
+  "buy_price": 6500,
+  "sell_price": 3250
+ },
+ "144": {
+  "item_id": 144,
+  "name_en": "orichalc claws",
+  "name_fr": "griffes orichal",
+  "buy_price": 51500,
+  "sell_price": 25750
+ },
+ "145": {
+  "item_id": 145,
+  "name_en": "cypress staff",
+  "name_fr": "bâton cyprès",
+  "buy_price": 150,
+  "sell_price": 75
+ },
+ "146": {
+  "item_id": 146,
+  "name_en": "rune staff",
+  "name_fr": "bâton runique",
+  "buy_price": 730,
+  "sell_price": 365
+ },
+ "147": {
+  "item_id": 147,
+  "name_en": "phoenix sceptre",
+  "name_fr": "sceptre Phénix",
+  "buy_price": 1200,
+  "sell_price": 600
+ },
+ "149": {
+  "item_id": 149,
+  "name_en": "Plus sceptre",
+  "name_fr": "sceptre Plus",
+  "buy_price": 1600,
+  "sell_price": 800
+ },
+ "150": {
+  "item_id": 150,
+  "name_en": "Minus sceptre",
+  "name_fr": "sceptre Moins",
+  "buy_price": 1600,
+  "sell_price": 800
+ },
+ "151": {
+  "item_id": 151,
+  "name_en": "crystal staff",
+  "name_fr": "bâton cristal",
+  "buy_price": 3600,
+  "sell_price": 1800
+ },
+ "152": {
+  "item_id": 152,
+  "name_en": "staff of dark",
+  "name_fr": "bâton ténèbres",
+  "buy_price": 4000,
+  "sell_price": 2000
+ },
+ "153": {
+  "item_id": 153,
+  "name_en": "sage's staff",
+  "name_fr": "bâton du sage",
+  "buy_price": 7500,
+  "sell_price": 3750
+ },
+ "154": {
+  "item_id": 154,
+  "name_en": "royal rod",
+  "name_fr": "sceptre royal",
+  "buy_price": 41500,
+  "sell_price": 20750
+ }
+}

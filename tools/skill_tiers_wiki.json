@@ -1,0 +1,7163 @@
+{
+ "Martyr": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Double-Edged Slash"
+     },
+     {
+      "points": 18,
+      "name": "Body Slam"
+     },
+     {
+      "points": 26,
+      "name": "Blowback"
+     },
+     {
+      "points": 35,
+      "name": "Double Up"
+     },
+     {
+      "points": 45,
+      "name": "One-on-One"
+     },
+     {
+      "points": 57,
+      "name": "Kamikazee"
+     },
+     {
+      "points": 75,
+      "name": "Kerplunk Dance"
+     },
+     {
+      "points": 100,
+      "name": "Kerplunk"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Healer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Fullheal"
+     },
+     {
+      "points": 15,
+      "name": "Give Magic"
+     },
+     {
+      "points": 25,
+      "name": "Mist Me"
+     },
+     {
+      "points": 35,
+      "name": "Magic Barrier"
+     },
+     {
+      "points": 45,
+      "name": "Multiheal"
+     },
+     {
+      "points": 60,
+      "name": "Kazing"
+     },
+     {
+      "points": 80,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 100,
+      "name": "Omniheal"
+     }
+    ]
+   }
+  ]
+ },
+ "Bird Brain": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Accelerate"
+     },
+     {
+      "points": 8,
+      "name": "Woosh"
+     },
+     {
+      "points": 18,
+      "name": "Acceleratle"
+     },
+     {
+      "points": 28,
+      "name": "Swoosh"
+     },
+     {
+      "points": 40,
+      "name": "Insulate"
+     },
+     {
+      "points": 48,
+      "name": "Sandstorm"
+     },
+     {
+      "points": 63,
+      "name": "Multislash"
+     },
+     {
+      "points": 80,
+      "name": "Insulatle"
+     },
+     {
+      "points": 100,
+      "name": "Brake Wind"
+     }
+    ]
+   }
+  ]
+ },
+ "Bang & Woosh": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 2,
+      "name": "Woosh"
+     },
+     {
+      "points": 6,
+      "name": "Bang"
+     },
+     {
+      "points": 13,
+      "name": "Swoosh"
+     },
+     {
+      "points": 23,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 34,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 50,
+      "name": "Boom"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Swoosh"
+     },
+     {
+      "points": 8,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 16,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 28,
+      "name": "Boom"
+     },
+     {
+      "points": 42,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 57,
+      "name": "Kaboom"
+     },
+     {
+      "points": 75,
+      "name": "Bang Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 14,
+      "name": "Kaboom"
+     },
+     {
+      "points": 26,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 38,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 63,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 90,
+      "name": "Kaboomle"
+     },
+     {
+      "points": 95,
+      "name": "Bang Guard"
+     },
+     {
+      "points": 100,
+      "name": "Woosh Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Diamagon": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Crack"
+     },
+     {
+      "points": 13,
+      "name": "Midheal"
+     },
+     {
+      "points": 18,
+      "name": "Waterspout"
+     },
+     {
+      "points": 23,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 33,
+      "name": "Crackle"
+     },
+     {
+      "points": 48,
+      "name": "Zing"
+     },
+     {
+      "points": 60,
+      "name": "Geyser"
+     },
+     {
+      "points": 75,
+      "name": "Water Guard"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Crackle"
+     },
+     {
+      "points": 15,
+      "name": "Fullheal"
+     },
+     {
+      "points": 23,
+      "name": "Geyser"
+     },
+     {
+      "points": 33,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 45,
+      "name": "Kacrack"
+     },
+     {
+      "points": 55,
+      "name": "Tidal Wave"
+     },
+     {
+      "points": 70,
+      "name": "Kazing"
+     },
+     {
+      "points": 85,
+      "name": "Water Guard"
+     },
+     {
+      "points": 100,
+      "name": "Crack Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Crackle"
+     },
+     {
+      "points": 10,
+      "name": "Boom"
+     },
+     {
+      "points": 20,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 30,
+      "name": "Disruptive Wave"
+     },
+     {
+      "points": 40,
+      "name": "Kacrack"
+     },
+     {
+      "points": 50,
+      "name": "Kaboom"
+     },
+     {
+      "points": 70,
+      "name": "Gigaslash"
+     },
+     {
+      "points": 100,
+      "name": "Magic Burst"
+     }
+    ]
+   }
+  ]
+ },
+ "Muspell": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Frizz"
+     },
+     {
+      "points": 10,
+      "name": "Zam"
+     },
+     {
+      "points": 16,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 22,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 32,
+      "name": "Zammle"
+     },
+     {
+      "points": 42,
+      "name": "Frizzle"
+     },
+     {
+      "points": 56,
+      "name": "Whack"
+     },
+     {
+      "points": 70,
+      "name": "Uncarnate"
+     },
+     {
+      "points": 100,
+      "name": "Magic Burst"
+     }
+    ]
+   }
+  ]
+ },
+ "Cursader": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Zammle"
+     },
+     {
+      "points": 10,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 17,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 25,
+      "name": "Whack"
+     },
+     {
+      "points": 35,
+      "name": "Kazam"
+     },
+     {
+      "points": 47,
+      "name": "Thwack"
+     },
+     {
+      "points": 60,
+      "name": "Disruptive Wave"
+     },
+     {
+      "points": 80,
+      "name": "Zam Guard"
+     },
+     {
+      "points": 100,
+      "name": "Whack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Agility Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Agility +20"
+     },
+     {
+      "points": 20,
+      "name": "Agility +20"
+     },
+     {
+      "points": 30,
+      "name": "Agility +20"
+     },
+     {
+      "points": 40,
+      "name": "Agility +20"
+     },
+     {
+      "points": 50,
+      "name": "Agility +20"
+     },
+     {
+      "points": 60,
+      "name": "Agility +20"
+     },
+     {
+      "points": 70,
+      "name": "Agility +20"
+     },
+     {
+      "points": 80,
+      "name": "Agility +20"
+     },
+     {
+      "points": 90,
+      "name": "Agility +20"
+     },
+     {
+      "points": 100,
+      "name": "Agility +20"
+     }
+    ]
+   }
+  ]
+ },
+ "Fire Breath Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 9,
+      "name": "Attack +10"
+     },
+     {
+      "points": 15,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 22,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 42,
+      "name": "Fire Breath Guard"
+     },
+     {
+      "points": 52,
+      "name": "Attack +5"
+     },
+     {
+      "points": 64,
+      "name": "Magic Miser"
+     },
+     {
+      "points": 76,
+      "name": "Fire Breath Guard"
+     },
+     {
+      "points": 100,
+      "name": "Magic Scrooge"
+     }
+    ]
+   }
+  ]
+ },
+ "Nimzo": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Blowback"
+     },
+     {
+      "points": 10,
+      "name": "Kaping"
+     },
+     {
+      "points": 15,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 20,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 35,
+      "name": "Inferno"
+     },
+     {
+      "points": 50,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 65,
+      "name": "Kaboom"
+     },
+     {
+      "points": 80,
+      "name": "Scorch"
+     },
+     {
+      "points": 100,
+      "name": "Disruptive Wave"
+     }
+    ]
+   }
+  ]
+ },
+ "Boom Boxer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Bang"
+     },
+     {
+      "points": 18,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 24,
+      "name": "Slowing Slug"
+     },
+     {
+      "points": 34,
+      "name": "War Cry"
+     },
+     {
+      "points": 47,
+      "name": "Boom"
+     },
+     {
+      "points": 62,
+      "name": "One-on-One"
+     },
+     {
+      "points": 80,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 100,
+      "name": "Bang Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Wind Blower": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Woosh"
+     },
+     {
+      "points": 16,
+      "name": "Dodgy Dance"
+     },
+     {
+      "points": 26,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 35,
+      "name": "Slowing Slug"
+     },
+     {
+      "points": 47,
+      "name": "Swoosh"
+     },
+     {
+      "points": 62,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 80,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 100,
+      "name": "Woosh Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Mage": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Swoosh"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 17,
+      "name": "Frizzle"
+     },
+     {
+      "points": 24,
+      "name": "Wisdom +10"
+     },
+     {
+      "points": 32,
+      "name": "Crackle"
+     },
+     {
+      "points": 40,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 49,
+      "name": "Boom"
+     },
+     {
+      "points": 59,
+      "name": "Wisdom +10"
+     },
+     {
+      "points": 70,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 100,
+      "name": "Magic Regenerator"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Dark Dynamiter": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 8,
+      "name": "Kazam"
+     },
+     {
+      "points": 13,
+      "name": "Kaboom"
+     },
+     {
+      "points": 22,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 31,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 40,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 60,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 80,
+      "name": "Kazammle"
+     },
+     {
+      "points": 100,
+      "name": "Kaboomle"
+     }
+    ]
+   }
+  ]
+ },
+ "Toxifier": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Poisonous Poke"
+     },
+     {
+      "points": 12,
+      "name": "Poison Breath"
+     },
+     {
+      "points": 18,
+      "name": "Paralyzing Punch"
+     },
+     {
+      "points": 26,
+      "name": "Burning Breath"
+     },
+     {
+      "points": 38,
+      "name": "Venom Breath"
+     },
+     {
+      "points": 50,
+      "name": "Venomous Volley"
+     },
+     {
+      "points": 75,
+      "name": "Poison Guard"
+     },
+     {
+      "points": 100,
+      "name": "Paralysis Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Frizz & Zap": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Frizz"
+     },
+     {
+      "points": 8,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 17,
+      "name": "Zap"
+     },
+     {
+      "points": 26,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 38,
+      "name": "Frizzle"
+     },
+     {
+      "points": 50,
+      "name": "Zapple"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 9,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 19,
+      "name": "Frizzle"
+     },
+     {
+      "points": 29,
+      "name": "Zapple"
+     },
+     {
+      "points": 43,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 57,
+      "name": "Kazap"
+     },
+     {
+      "points": 75,
+      "name": "Frizz Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 9,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 18,
+      "name": "Kazap"
+     },
+     {
+      "points": 29,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 40,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 65,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 90,
+      "name": "Kazapple"
+     },
+     {
+      "points": 95,
+      "name": "Frizz Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Wulfspade": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Zap"
+     },
+     {
+      "points": 11,
+      "name": "Oomph"
+     },
+     {
+      "points": 18,
+      "name": "Lightning Slash"
+     },
+     {
+      "points": 28,
+      "name": "Spark"
+     },
+     {
+      "points": 40,
+      "name": "Zapple"
+     },
+     {
+      "points": 48,
+      "name": "Sag"
+     },
+     {
+      "points": 60,
+      "name": "Lightning"
+     },
+     {
+      "points": 75,
+      "name": "Lightning Guard"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Zapple"
+     },
+     {
+      "points": 15,
+      "name": "Oomphle"
+     },
+     {
+      "points": 23,
+      "name": "Lightning"
+     },
+     {
+      "points": 33,
+      "name": "Thunderbolt Slash"
+     },
+     {
+      "points": 45,
+      "name": "Lightning Storm"
+     },
+     {
+      "points": 60,
+      "name": "Kazap"
+     },
+     {
+      "points": 70,
+      "name": "Kasag"
+     },
+     {
+      "points": 85,
+      "name": "Lightning Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Critical Miss"
+     },
+     {
+      "points": 20,
+      "name": "Kafuddle"
+     },
+     {
+      "points": 32,
+      "name": "Counter"
+     },
+     {
+      "points": 42,
+      "name": "Follow Suit"
+     },
+     {
+      "points": 55,
+      "name": "Kamikazee"
+     },
+     {
+      "points": 70,
+      "name": "Oomphle"
+     },
+     {
+      "points": 85,
+      "name": "Kasag"
+     },
+     {
+      "points": 100,
+      "name": "Kerplunk"
+     }
+    ]
+   }
+  ]
+ },
+ "Antimagic": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Fizzle"
+     },
+     {
+      "points": 10,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 18,
+      "name": "Ping"
+     },
+     {
+      "points": 26,
+      "name": "Dim"
+     },
+     {
+      "points": 38,
+      "name": "Magic Barrier"
+     },
+     {
+      "points": 46,
+      "name": "Stupefying Strike"
+     },
+     {
+      "points": 56,
+      "name": "Bounce"
+     },
+     {
+      "points": 65,
+      "name": "Dim Guard"
+     },
+     {
+      "points": 75,
+      "name": "Fizzle Guard"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 10,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 25,
+      "name": "Magic Barrier"
+     },
+     {
+      "points": 35,
+      "name": "Stupefying Strike"
+     },
+     {
+      "points": 49,
+      "name": "Bounce"
+     },
+     {
+      "points": 65,
+      "name": "Kadim"
+     },
+     {
+      "points": 81,
+      "name": "Kaping"
+     },
+     {
+      "points": 90,
+      "name": "Dim Guard"
+     },
+     {
+      "points": 100,
+      "name": "Fizzle Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Graveheart": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Poisonous Poke"
+     },
+     {
+      "points": 14,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 22,
+      "name": "Sleep Sock"
+     },
+     {
+      "points": 32,
+      "name": "Slowing Slug"
+     },
+     {
+      "points": 45,
+      "name": "Sweet Breath"
+     },
+     {
+      "points": 60,
+      "name": "Venomous Volley"
+     },
+     {
+      "points": 80,
+      "name": "Kamikazee"
+     },
+     {
+      "points": 100,
+      "name": "Whack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Anti-metal": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Accelerate"
+     },
+     {
+      "points": 12,
+      "name": "Metal Slash"
+     },
+     {
+      "points": 20,
+      "name": "Oomph"
+     },
+     {
+      "points": 30,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 40,
+      "name": "Acceleratle"
+     },
+     {
+      "points": 50,
+      "name": "Hatchet Man"
+     },
+     {
+      "points": 70,
+      "name": "Speed +30"
+     },
+     {
+      "points": 100,
+      "name": "Metal Beater"
+     }
+    ]
+   }
+  ]
+ },
+ "Huntsman": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Sleep Sock"
+     },
+     {
+      "points": 20,
+      "name": "Penny Pincher"
+     },
+     {
+      "points": 30,
+      "name": "Klepto Clobber"
+     },
+     {
+      "points": 40,
+      "name": "Metal Slash"
+     },
+     {
+      "points": 50,
+      "name": "Dragon Slash"
+     },
+     {
+      "points": 60,
+      "name": "Double Up"
+     },
+     {
+      "points": 80,
+      "name": "Uncarnate"
+     },
+     {
+      "points": 100,
+      "name": "Assassin's Stab"
+     }
+    ]
+   }
+  ]
+ },
+ "Wisdom Booster": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Wisdom +5"
+     },
+     {
+      "points": 8,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 14,
+      "name": "Wisdom +5"
+     },
+     {
+      "points": 20,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 29,
+      "name": "Wisdom +10"
+     },
+     {
+      "points": 38,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 50,
+      "name": "Wisdom +10"
+     }
+    ]
+   }
+  ]
+ },
+ "Firewind Slashes": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 16,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 29,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 44,
+      "name": "Dragon Slash"
+     },
+     {
+      "points": 60,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 80,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 100,
+      "name": "Blast Slash"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Helpful": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Acceleratle"
+     },
+     {
+      "points": 16,
+      "name": "Kabuff"
+     },
+     {
+      "points": 24,
+      "name": "Deceleratle"
+     },
+     {
+      "points": 32,
+      "name": "Kasap"
+     },
+     {
+      "points": 47,
+      "name": "Kaping"
+     },
+     {
+      "points": 62,
+      "name": "Oomphle"
+     },
+     {
+      "points": 80,
+      "name": "Kadim"
+     },
+     {
+      "points": 100,
+      "name": "Kasag"
+     }
+    ]
+   }
+  ]
+ },
+ "Naturalist": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 83,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Heart Breaker"
+     },
+     {
+      "points": 7,
+      "name": "Sandstorm"
+     },
+     {
+      "points": 11,
+      "name": "Dragon Slash"
+     },
+     {
+      "points": 15,
+      "name": "Body Slam"
+     },
+     {
+      "points": 21,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 30,
+      "name": "Tongue Lashing"
+     },
+     {
+      "points": 45,
+      "name": "War Cry"
+     },
+     {
+      "points": 63,
+      "name": "Uncarnate"
+     },
+     {
+      "points": 83,
+      "name": "Hatchet Man"
+     }
+    ]
+   }
+  ]
+ },
+ "Dhoulmagus": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Kasap"
+     },
+     {
+      "points": 9,
+      "name": "War Cry"
+     },
+     {
+      "points": 14,
+      "name": "Bemusing Breath"
+     },
+     {
+      "points": 24,
+      "name": "Bounce"
+     },
+     {
+      "points": 34,
+      "name": "Disruptive Wave"
+     },
+     {
+      "points": 46,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 58,
+      "name": "Kacrack"
+     },
+     {
+      "points": 70,
+      "name": "Kamikazee"
+     },
+     {
+      "points": 100,
+      "name": "Kasag"
+     }
+    ]
+   }
+  ]
+ },
+ "Cleanser": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heal"
+     },
+     {
+      "points": 8,
+      "name": "Squelch"
+     },
+     {
+      "points": 14,
+      "name": "Tingle"
+     },
+     {
+      "points": 30,
+      "name": "Zing"
+     },
+     {
+      "points": 44,
+      "name": "Amor Seco Rain"
+     },
+     {
+      "points": 58,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 80,
+      "name": "Kazing"
+     },
+     {
+      "points": 100,
+      "name": "Disruptive Wave"
+     }
+    ]
+   }
+  ]
+ },
+ "Speedster": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Accelerate"
+     },
+     {
+      "points": 11,
+      "name": "Heal"
+     },
+     {
+      "points": 19,
+      "name": "Dodgy Dance"
+     },
+     {
+      "points": 25,
+      "name": "Sandstorm"
+     },
+     {
+      "points": 35,
+      "name": "Acceleratle"
+     },
+     {
+      "points": 47,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 61,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 76,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 100,
+      "name": "Decelerate Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Mage Aid": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Drain Magic"
+     },
+     {
+      "points": 10,
+      "name": "Accelerate"
+     },
+     {
+      "points": 18,
+      "name": "Share Magic"
+     },
+     {
+      "points": 26,
+      "name": "Fizzle"
+     },
+     {
+      "points": 38,
+      "name": "Ping"
+     },
+     {
+      "points": 52,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 70,
+      "name": "Give Magic"
+     },
+     {
+      "points": 85,
+      "name": "Drain Magic Guard"
+     },
+     {
+      "points": 100,
+      "name": "Dim Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Bang & Crack": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Bang"
+     },
+     {
+      "points": 10,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 15,
+      "name": "Crack"
+     },
+     {
+      "points": 22,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 36,
+      "name": "Crackle"
+     },
+     {
+      "points": 50,
+      "name": "Boom"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 8,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 16,
+      "name": "Crackle"
+     },
+     {
+      "points": 28,
+      "name": "Boom"
+     },
+     {
+      "points": 42,
+      "name": "Kacrack"
+     },
+     {
+      "points": 57,
+      "name": "Kaboom"
+     },
+     {
+      "points": 75,
+      "name": "Bang Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kacrack"
+     },
+     {
+      "points": 14,
+      "name": "Kaboom"
+     },
+     {
+      "points": 26,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 38,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 63,
+      "name": "Kacrackle"
+     },
+     {
+      "points": 90,
+      "name": "Kaboomle"
+     },
+     {
+      "points": 95,
+      "name": "Bang Guard"
+     },
+     {
+      "points": 100,
+      "name": "Crack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Water Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 9,
+      "name": "Defense +5"
+     },
+     {
+      "points": 15,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 22,
+      "name": "Wisdom +5"
+     },
+     {
+      "points": 42,
+      "name": "Water Guard"
+     },
+     {
+      "points": 52,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 64,
+      "name": "Magic Miser"
+     },
+     {
+      "points": 76,
+      "name": "Water Guard"
+     },
+     {
+      "points": 100,
+      "name": "Magic Scrooge"
+     }
+    ]
+   }
+  ]
+ },
+ "Trickster": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Decelerate"
+     },
+     {
+      "points": 12,
+      "name": "Double-Edged Slash"
+     },
+     {
+      "points": 20,
+      "name": "Weird Dance"
+     },
+     {
+      "points": 31,
+      "name": "Deceleratle"
+     },
+     {
+      "points": 42,
+      "name": "Dim"
+     },
+     {
+      "points": 55,
+      "name": "Breathtaking Bash"
+     },
+     {
+      "points": 70,
+      "name": "Break-dance Beat"
+     },
+     {
+      "points": 85,
+      "name": "Stupefying Strike"
+     },
+     {
+      "points": 100,
+      "name": "Blowback"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Knight": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 16,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 24,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 32,
+      "name": "Thunderbolt Slash"
+     },
+     {
+      "points": 40,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 48,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 56,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 76,
+      "name": "Gigaslash"
+     },
+     {
+      "points": 100,
+      "name": "Gigagash"
+     }
+    ]
+   }
+  ]
+ },
+ "Slimer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 2,
+      "name": "Frizz"
+     },
+     {
+      "points": 6,
+      "name": "Heal"
+     },
+     {
+      "points": 16,
+      "name": "Zap"
+     },
+     {
+      "points": 22,
+      "name": "Body Slam"
+     },
+     {
+      "points": 30,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 40,
+      "name": "Sag"
+     },
+     {
+      "points": 55,
+      "name": "Midheal"
+     },
+     {
+      "points": 75,
+      "name": "Share Magic"
+     },
+     {
+      "points": 100,
+      "name": "Steady Recovery"
+     }
+    ]
+   }
+  ]
+ },
+ "Crusader": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Zap"
+     },
+     {
+      "points": 8,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 16,
+      "name": "Multiheal"
+     },
+     {
+      "points": 24,
+      "name": "Zapple"
+     },
+     {
+      "points": 36,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 48,
+      "name": "Reheal"
+     },
+     {
+      "points": 64,
+      "name": "Omniheal"
+     },
+     {
+      "points": 80,
+      "name": "Kazap"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Charmer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Fizzle"
+     },
+     {
+      "points": 16,
+      "name": "Snooze"
+     },
+     {
+      "points": 25,
+      "name": "Drain Magic"
+     },
+     {
+      "points": 35,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 45,
+      "name": "Dazzle"
+     },
+     {
+      "points": 60,
+      "name": "Kasnooze"
+     },
+     {
+      "points": 70,
+      "name": "Fuddle"
+     },
+     {
+      "points": 80,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 100,
+      "name": "Kafuddle"
+     }
+    ]
+   }
+  ]
+ },
+ "Nightmare": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Drain Magic"
+     },
+     {
+      "points": 10,
+      "name": "Sleep Sock"
+     },
+     {
+      "points": 16,
+      "name": "Sweet Breath"
+     },
+     {
+      "points": 26,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 40,
+      "name": "Death Dance"
+     },
+     {
+      "points": 50,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 75,
+      "name": "Sleep Guard"
+     },
+     {
+      "points": 100,
+      "name": "Drain Magic Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Woosh & Zam": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Woosh"
+     },
+     {
+      "points": 10,
+      "name": "Zam"
+     },
+     {
+      "points": 17,
+      "name": "Swoosh"
+     },
+     {
+      "points": 26,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 35,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 50,
+      "name": "Zammle"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Swoosh"
+     },
+     {
+      "points": 12,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 21,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 32,
+      "name": "Zammle"
+     },
+     {
+      "points": 47,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 62,
+      "name": "Kazam"
+     },
+     {
+      "points": 75,
+      "name": "Woosh Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 15,
+      "name": "Kazam"
+     },
+     {
+      "points": 27,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 39,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 64,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 90,
+      "name": "Kazammle"
+     },
+     {
+      "points": 95,
+      "name": "Woosh Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zam Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Cleric": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Zapple"
+     },
+     {
+      "points": 10,
+      "name": "Multiheal"
+     },
+     {
+      "points": 20,
+      "name": "Reheal"
+     },
+     {
+      "points": 30,
+      "name": "Kazap"
+     },
+     {
+      "points": 45,
+      "name": "Gigaslash"
+     },
+     {
+      "points": 60,
+      "name": "Omniheal"
+     },
+     {
+      "points": 80,
+      "name": "Gigagash"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Fear-monger": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heart Breaker"
+     },
+     {
+      "points": 8,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 14,
+      "name": "Fuddle"
+     },
+     {
+      "points": 22,
+      "name": "Tongue Lashing"
+     },
+     {
+      "points": 30,
+      "name": "Bemusing Breath"
+     },
+     {
+      "points": 42,
+      "name": "Baffling Bonk"
+     },
+     {
+      "points": 56,
+      "name": "Kafuddle"
+     },
+     {
+      "points": 76,
+      "name": "Inaction Guard"
+     },
+     {
+      "points": 100,
+      "name": "Confusion Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Cluboon": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Bang"
+     },
+     {
+      "points": 12,
+      "name": "Stone's Throw"
+     },
+     {
+      "points": 18,
+      "name": "Buff"
+     },
+     {
+      "points": 26,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 38,
+      "name": "Boom"
+     },
+     {
+      "points": 48,
+      "name": "Sap"
+     },
+     {
+      "points": 60,
+      "name": "Boulder Bash"
+     },
+     {
+      "points": 75,
+      "name": "Earth Guard"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Boom"
+     },
+     {
+      "points": 16,
+      "name": "Kabuff"
+     },
+     {
+      "points": 24,
+      "name": "Boulder Bash"
+     },
+     {
+      "points": 33,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 43,
+      "name": "Boulder Toss"
+     },
+     {
+      "points": 55,
+      "name": "Kasap"
+     },
+     {
+      "points": 70,
+      "name": "Kaboom"
+     },
+     {
+      "points": 85,
+      "name": "Earth Guard"
+     },
+     {
+      "points": 100,
+      "name": "Bang Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 13,
+      "name": "Blinding Blow"
+     },
+     {
+      "points": 18,
+      "name": "Hatchet Man"
+     },
+     {
+      "points": 28,
+      "name": "Multislash"
+     },
+     {
+      "points": 38,
+      "name": "Assassin's Stab"
+     },
+     {
+      "points": 53,
+      "name": "Gigaslash"
+     },
+     {
+      "points": 75,
+      "name": "Gigagash"
+     },
+     {
+      "points": 100,
+      "name": "Dazzle Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Seal": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Fizzle"
+     },
+     {
+      "points": 11,
+      "name": "Drain Magic"
+     },
+     {
+      "points": 20,
+      "name": "Breathtaking Bash"
+     },
+     {
+      "points": 30,
+      "name": "Break-dance Beat"
+     },
+     {
+      "points": 42,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 55,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 69,
+      "name": "Critical Miss"
+     },
+     {
+      "points": 84,
+      "name": "Ban Dance"
+     },
+     {
+      "points": 100,
+      "name": "Gobstopper"
+     }
+    ]
+   }
+  ]
+ },
+ "Darklight Slashes": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 16,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 29,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 44,
+      "name": "Uncarnate"
+     },
+     {
+      "points": 60,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 80,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 100,
+      "name": "Shadow Slash"
+     }
+    ]
+   }
+  ]
+ },
+ "Berserker": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 13,
+      "name": "Double-Edged Slash"
+     },
+     {
+      "points": 20,
+      "name": "Body Slam"
+     },
+     {
+      "points": 28,
+      "name": "Double Up"
+     },
+     {
+      "points": 36,
+      "name": "One-on-One"
+     },
+     {
+      "points": 50,
+      "name": "Hatchet Man"
+     },
+     {
+      "points": 70,
+      "name": "Kerplunk Dance"
+     },
+     {
+      "points": 100,
+      "name": "Whack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Attack Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Attack +3"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +5"
+     },
+     {
+      "points": 14,
+      "name": "Attack +3"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 29,
+      "name": "Attack +5"
+     },
+     {
+      "points": 38,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 50,
+      "name": "Attack +5"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Attack +5"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 14,
+      "name": "Attack +5"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 28,
+      "name": "Attack +5"
+     },
+     {
+      "points": 36,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 48,
+      "name": "Attack +10"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 75,
+      "name": "Attack +10"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Attack +10"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 13,
+      "name": "Attack +10"
+     },
+     {
+      "points": 18,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 27,
+      "name": "Attack +10"
+     },
+     {
+      "points": 36,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 48,
+      "name": "Attack +20"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 75,
+      "name": "Attack +20"
+     },
+     {
+      "points": 100,
+      "name": "Sag Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Hypnotist": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Snooze"
+     },
+     {
+      "points": 12,
+      "name": "Dazzle"
+     },
+     {
+      "points": 16,
+      "name": "Fuddle"
+     },
+     {
+      "points": 20,
+      "name": "Bemusing Breath"
+     },
+     {
+      "points": 24,
+      "name": "Tongue Lashing"
+     },
+     {
+      "points": 34,
+      "name": "Kasnooze"
+     },
+     {
+      "points": 44,
+      "name": "Kafuddle"
+     },
+     {
+      "points": 72,
+      "name": "Confusion Guard"
+     },
+     {
+      "points": 100,
+      "name": "Sleep Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Saboteur": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Decelerate"
+     },
+     {
+      "points": 14,
+      "name": "Sap"
+     },
+     {
+      "points": 26,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 38,
+      "name": "Slowing Slug"
+     },
+     {
+      "points": 51,
+      "name": "Deceleratle"
+     },
+     {
+      "points": 64,
+      "name": "Kasap"
+     },
+     {
+      "points": 82,
+      "name": "Sap Guard"
+     },
+     {
+      "points": 100,
+      "name": "Decelerate Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Defense Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Defense +5"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 14,
+      "name": "Defense +5"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 29,
+      "name": "Defense +10"
+     },
+     {
+      "points": 38,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 50,
+      "name": "Defense +10"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Defense +10"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 14,
+      "name": "Defense +10"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 28,
+      "name": "Defense +20"
+     },
+     {
+      "points": 36,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 48,
+      "name": "Defense +20"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 75,
+      "name": "Defense +20"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Defense +20"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 13,
+      "name": "Defense +20"
+     },
+     {
+      "points": 18,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 27,
+      "name": "Defense +20"
+     },
+     {
+      "points": 36,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 48,
+      "name": "Defense +20"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 75,
+      "name": "Defense +20"
+     },
+     {
+      "points": 100,
+      "name": "Sap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Woosh & Zap": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Woosh"
+     },
+     {
+      "points": 8,
+      "name": "Zap"
+     },
+     {
+      "points": 16,
+      "name": "Swoosh"
+     },
+     {
+      "points": 26,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 36,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 50,
+      "name": "Zapple"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Swoosh"
+     },
+     {
+      "points": 8,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 19,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 30,
+      "name": "Zapple"
+     },
+     {
+      "points": 45,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 62,
+      "name": "Kazap"
+     },
+     {
+      "points": 75,
+      "name": "Woosh Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 15,
+      "name": "Kazap"
+     },
+     {
+      "points": 27,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 39,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 64,
+      "name": "Kazapple"
+     },
+     {
+      "points": 90,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 95,
+      "name": "Woosh Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Health Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 30,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 40,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 50,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 70,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 80,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 90,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 100,
+      "name": "Maximum HP +20"
+     }
+    ]
+   }
+  ]
+ },
+ "Fire": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Frizz"
+     },
+     {
+      "points": 7,
+      "name": "Fire Breath"
+     },
+     {
+      "points": 14,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 27,
+      "name": "Flame Breath"
+     },
+     {
+      "points": 40,
+      "name": "Frizzle"
+     },
+     {
+      "points": 50,
+      "name": "Deep Breath"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Flame Breath"
+     },
+     {
+      "points": 8,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 19,
+      "name": "Frizzle"
+     },
+     {
+      "points": 30,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 45,
+      "name": "Inferno"
+     },
+     {
+      "points": 60,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 75,
+      "name": "Frizz Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 15,
+      "name": "Inferno"
+     },
+     {
+      "points": 27,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 39,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 64,
+      "name": "Scorch"
+     },
+     {
+      "points": 90,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 95,
+      "name": "Frizz Guard"
+     },
+     {
+      "points": 100,
+      "name": "Fire Breath Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Frizz & Zam": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 2,
+      "name": "Frizz"
+     },
+     {
+      "points": 6,
+      "name": "Zam"
+     },
+     {
+      "points": 14,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 22,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 36,
+      "name": "Zammle"
+     },
+     {
+      "points": 50,
+      "name": "Frizzle"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 10,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 20,
+      "name": "Zammle"
+     },
+     {
+      "points": 30,
+      "name": "Frizzle"
+     },
+     {
+      "points": 44,
+      "name": "Kazam"
+     },
+     {
+      "points": 59,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 75,
+      "name": "Frizz Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 16,
+      "name": "Kazam"
+     },
+     {
+      "points": 28,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 40,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 65,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 90,
+      "name": "Kazammle"
+     },
+     {
+      "points": 95,
+      "name": "Frizz Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zam Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Crack & Zam": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Crack"
+     },
+     {
+      "points": 6,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 14,
+      "name": "Zam"
+     },
+     {
+      "points": 24,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 37,
+      "name": "Zammle"
+     },
+     {
+      "points": 50,
+      "name": "Crackle"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 10,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 21,
+      "name": "Zammle"
+     },
+     {
+      "points": 32,
+      "name": "Crackle"
+     },
+     {
+      "points": 47,
+      "name": "Kacrack"
+     },
+     {
+      "points": 62,
+      "name": "Kazam"
+     },
+     {
+      "points": 75,
+      "name": "Crack Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kacrack"
+     },
+     {
+      "points": 15,
+      "name": "Kazam"
+     },
+     {
+      "points": 27,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 39,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 64,
+      "name": "Kacrackle"
+     },
+     {
+      "points": 90,
+      "name": "Kazammle"
+     },
+     {
+      "points": 95,
+      "name": "Crack Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zam Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Captain Crow": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Penny Pincher"
+     },
+     {
+      "points": 8,
+      "name": "Klepto Clobber"
+     },
+     {
+      "points": 13,
+      "name": "Blinding Blow"
+     },
+     {
+      "points": 23,
+      "name": "Multislash"
+     },
+     {
+      "points": 35,
+      "name": "Thunderbolt Slash"
+     },
+     {
+      "points": 55,
+      "name": "Gigaslash"
+     },
+     {
+      "points": 85,
+      "name": "Gigagash"
+     },
+     {
+      "points": 100,
+      "name": "Master of Weapons"
+     }
+    ]
+   }
+  ]
+ },
+ "Fortifier": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Accelerate"
+     },
+     {
+      "points": 8,
+      "name": "Heal"
+     },
+     {
+      "points": 14,
+      "name": "Buff"
+     },
+     {
+      "points": 22,
+      "name": "Ping"
+     },
+     {
+      "points": 32,
+      "name": "Oomph"
+     },
+     {
+      "points": 42,
+      "name": "Acceleratle"
+     },
+     {
+      "points": 54,
+      "name": "Kabuff"
+     },
+     {
+      "points": 76,
+      "name": "Kaping"
+     },
+     {
+      "points": 100,
+      "name": "Oomphle"
+     }
+    ]
+   }
+  ]
+ },
+ "Bolsterer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Buff"
+     },
+     {
+      "points": 8,
+      "name": "Sandstorm"
+     },
+     {
+      "points": 16,
+      "name": "Insulate"
+     },
+     {
+      "points": 26,
+      "name": "Defense +10"
+     },
+     {
+      "points": 38,
+      "name": "Kabuff"
+     },
+     {
+      "points": 52,
+      "name": "Insulatle"
+     },
+     {
+      "points": 66,
+      "name": "Magic Barrier"
+     },
+     {
+      "points": 82,
+      "name": "Mist Me"
+     },
+     {
+      "points": 100,
+      "name": "Sap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Cold Sleep": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Snooze"
+     },
+     {
+      "points": 12,
+      "name": "Cool Breath"
+     },
+     {
+      "points": 22,
+      "name": "Sleep Sock"
+     },
+     {
+      "points": 34,
+      "name": "Whack"
+     },
+     {
+      "points": 44,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 56,
+      "name": "Kasnooze"
+     },
+     {
+      "points": 78,
+      "name": "Sleep Guard"
+     },
+     {
+      "points": 100,
+      "name": "Whack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Ice": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Cool Breath"
+     },
+     {
+      "points": 7,
+      "name": "Crack"
+     },
+     {
+      "points": 14,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 27,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 40,
+      "name": "Crackle"
+     },
+     {
+      "points": 50,
+      "name": "Deep Breath"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 8,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 19,
+      "name": "Crackle"
+     },
+     {
+      "points": 30,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 45,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 60,
+      "name": "Kacrack"
+     },
+     {
+      "points": 75,
+      "name": "Crack Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 15,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 27,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 39,
+      "name": "Kacrack"
+     },
+     {
+      "points": 64,
+      "name": "C-c-cold Breath"
+     },
+     {
+      "points": 90,
+      "name": "Kacrackle"
+     },
+     {
+      "points": 95,
+      "name": "Crack Guard"
+     },
+     {
+      "points": 100,
+      "name": "Cold Breath Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Assassin": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Sleep Sock"
+     },
+     {
+      "points": 20,
+      "name": "Paralyzing Punch"
+     },
+     {
+      "points": 30,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 40,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 50,
+      "name": "Baffling Bonk"
+     },
+     {
+      "points": 60,
+      "name": "Multislash"
+     },
+     {
+      "points": 75,
+      "name": "Assassin's Stab"
+     },
+     {
+      "points": 100,
+      "name": "Whack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Defense Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Defense +20"
+     },
+     {
+      "points": 20,
+      "name": "Defense +20"
+     },
+     {
+      "points": 30,
+      "name": "Defense +20"
+     },
+     {
+      "points": 40,
+      "name": "Defense +20"
+     },
+     {
+      "points": 50,
+      "name": "Defense +20"
+     },
+     {
+      "points": 60,
+      "name": "Defense +20"
+     },
+     {
+      "points": 70,
+      "name": "Defense +20"
+     },
+     {
+      "points": 80,
+      "name": "Defense +20"
+     },
+     {
+      "points": 90,
+      "name": "Defense +20"
+     },
+     {
+      "points": 100,
+      "name": "Defense +20"
+     }
+    ]
+   }
+  ]
+ },
+ "Woosh & Crack": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Woosh"
+     },
+     {
+      "points": 7,
+      "name": "Crack"
+     },
+     {
+      "points": 16,
+      "name": "Swoosh"
+     },
+     {
+      "points": 27,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 38,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 50,
+      "name": "Crackle"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Swoosh"
+     },
+     {
+      "points": 10,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 21,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 32,
+      "name": "Crackle"
+     },
+     {
+      "points": 47,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 62,
+      "name": "Kacrack"
+     },
+     {
+      "points": 75,
+      "name": "Woosh Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 15,
+      "name": "Kacrack"
+     },
+     {
+      "points": 27,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 39,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 64,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 90,
+      "name": "Kacrackle"
+     },
+     {
+      "points": 95,
+      "name": "Woosh Guard"
+     },
+     {
+      "points": 100,
+      "name": "Crack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Hive Mind": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Buff"
+     },
+     {
+      "points": 10,
+      "name": "Snooze"
+     },
+     {
+      "points": 15,
+      "name": "Heart Breaker"
+     },
+     {
+      "points": 25,
+      "name": "Sleep Sock"
+     },
+     {
+      "points": 35,
+      "name": "Paralyzing Punch"
+     },
+     {
+      "points": 50,
+      "name": "Kasnooze"
+     },
+     {
+      "points": 65,
+      "name": "Defending Champion"
+     },
+     {
+      "points": 80,
+      "name": "Fuddle Dance"
+     },
+     {
+      "points": 100,
+      "name": "Hustle Dance"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Breath": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Sweet Breath"
+     },
+     {
+      "points": 11,
+      "name": "Blowback"
+     },
+     {
+      "points": 19,
+      "name": "Venom Breath"
+     },
+     {
+      "points": 27,
+      "name": "Bemusing Breath"
+     },
+     {
+      "points": 35,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 45,
+      "name": "Burning Breath"
+     },
+     {
+      "points": 60,
+      "name": "Scorch"
+     },
+     {
+      "points": 75,
+      "name": "C-c-cold Breath"
+     },
+     {
+      "points": 100,
+      "name": "Gobstopper Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Warrior": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 10,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 17,
+      "name": "Metal Slash"
+     },
+     {
+      "points": 24,
+      "name": "Attack +10"
+     },
+     {
+      "points": 32,
+      "name": "Dragon Slash"
+     },
+     {
+      "points": 40,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 49,
+      "name": "Multislash"
+     },
+     {
+      "points": 59,
+      "name": "Attack +10"
+     },
+     {
+      "points": 70,
+      "name": "Hatchet Man"
+     },
+     {
+      "points": 100,
+      "name": "Master of Weapons"
+     }
+    ]
+   }
+  ]
+ },
+ "Priest": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Heal"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 17,
+      "name": "Squelch"
+     },
+     {
+      "points": 24,
+      "name": "Wisdom +5"
+     },
+     {
+      "points": 32,
+      "name": "Midheal"
+     },
+     {
+      "points": 40,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 49,
+      "name": "Zing"
+     },
+     {
+      "points": 59,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 70,
+      "name": "Whack"
+     },
+     {
+      "points": 100,
+      "name": "Magic Regenerator"
+     }
+    ]
+   }
+  ]
+ },
+ "Ice Breath Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 9,
+      "name": "Defense +10"
+     },
+     {
+      "points": 15,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 22,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 42,
+      "name": "Ice Breath Guard"
+     },
+     {
+      "points": 52,
+      "name": "Defense +5"
+     },
+     {
+      "points": 64,
+      "name": "Magic Miser"
+     },
+     {
+      "points": 76,
+      "name": "Ice Breath Guard"
+     },
+     {
+      "points": 100,
+      "name": "Magic Scrooge"
+     }
+    ]
+   }
+  ]
+ },
+ "Fire Fighter": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Frizz"
+     },
+     {
+      "points": 13,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 23,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 34,
+      "name": "Body Slam"
+     },
+     {
+      "points": 47,
+      "name": "Frizzle"
+     },
+     {
+      "points": 62,
+      "name": "War Cry"
+     },
+     {
+      "points": 80,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 100,
+      "name": "Frizz Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Niflheim": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Cool Breath"
+     },
+     {
+      "points": 16,
+      "name": "Zam"
+     },
+     {
+      "points": 24,
+      "name": "Crack"
+     },
+     {
+      "points": 32,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 44,
+      "name": "Zammle"
+     },
+     {
+      "points": 56,
+      "name": "Crackle"
+     },
+     {
+      "points": 76,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 100,
+      "name": "Kazam"
+     }
+    ]
+   }
+  ]
+ },
+ "Crack & Zap": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Crack"
+     },
+     {
+      "points": 8,
+      "name": "Zap"
+     },
+     {
+      "points": 16,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 24,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 36,
+      "name": "Zapple"
+     },
+     {
+      "points": 50,
+      "name": "Crackle"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 8,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 19,
+      "name": "Zapple"
+     },
+     {
+      "points": 30,
+      "name": "Crackle"
+     },
+     {
+      "points": 45,
+      "name": "Kacrack"
+     },
+     {
+      "points": 60,
+      "name": "Kazap"
+     },
+     {
+      "points": 75,
+      "name": "Crack Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kacrack"
+     },
+     {
+      "points": 15,
+      "name": "Kazap"
+     },
+     {
+      "points": 27,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 39,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 64,
+      "name": "Kacrackle"
+     },
+     {
+      "points": 90,
+      "name": "Kazapple"
+     },
+     {
+      "points": 95,
+      "name": "Crack Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Reaper": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 8,
+      "name": "Zam"
+     },
+     {
+      "points": 17,
+      "name": "Cool Breath"
+     },
+     {
+      "points": 26,
+      "name": "Whack"
+     },
+     {
+      "points": 38,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 53,
+      "name": "Zammle"
+     },
+     {
+      "points": 68,
+      "name": "Death Dance"
+     },
+     {
+      "points": 84,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 100,
+      "name": "Thwack"
+     }
+    ]
+   }
+  ]
+ },
+ "Iceplosion Slashes": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 16,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 29,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 44,
+      "name": "Metal Slash"
+     },
+     {
+      "points": 60,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 80,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 100,
+      "name": "Blast Slash"
+     }
+    ]
+   }
+  ]
+ },
+ "Dancer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Dodgy Dance"
+     },
+     {
+      "points": 12,
+      "name": "Weird Dance"
+     },
+     {
+      "points": 22,
+      "name": "Fuddle Dance"
+     },
+     {
+      "points": 32,
+      "name": "Tap Dance"
+     },
+     {
+      "points": 42,
+      "name": "Sultry Dance"
+     },
+     {
+      "points": 52,
+      "name": "Ban Dance"
+     },
+     {
+      "points": 67,
+      "name": "Hustle Dance"
+     },
+     {
+      "points": 82,
+      "name": "Death Dance"
+     },
+     {
+      "points": 100,
+      "name": "Kerplunk Dance"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Cold Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 30,
+      "name": "Maximum HP +30"
+     },
+     {
+      "points": 50,
+      "name": "Maximum MP +30"
+     },
+     {
+      "points": 70,
+      "name": "Crack Guard"
+     },
+     {
+      "points": 100,
+      "name": "Ice Breath Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Champion": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Double-Edged Slash"
+     },
+     {
+      "points": 13,
+      "name": "Body Slam"
+     },
+     {
+      "points": 19,
+      "name": "Double Up"
+     },
+     {
+      "points": 31,
+      "name": "Oomph"
+     },
+     {
+      "points": 40,
+      "name": "Hatchet Man"
+     },
+     {
+      "points": 52,
+      "name": "Meditation"
+     },
+     {
+      "points": 70,
+      "name": "Oomphle"
+     },
+     {
+      "points": 100,
+      "name": "Sag Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Materialist": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Buff"
+     },
+     {
+      "points": 14,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 24,
+      "name": "Metal Slash"
+     },
+     {
+      "points": 34,
+      "name": "Hatchet Man"
+     },
+     {
+      "points": 46,
+      "name": "Kabuff"
+     },
+     {
+      "points": 61,
+      "name": "Bounce"
+     },
+     {
+      "points": 76,
+      "name": "Kamikazee"
+     },
+     {
+      "points": 100,
+      "name": "Kerplunk"
+     }
+    ]
+   }
+  ]
+ },
+ "Anti-dragon": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Dragon Slash"
+     },
+     {
+      "points": 10,
+      "name": "Insulate"
+     },
+     {
+      "points": 18,
+      "name": "Blowback"
+     },
+     {
+      "points": 28,
+      "name": "Gobstopper"
+     },
+     {
+      "points": 38,
+      "name": "Breathtaking Bash"
+     },
+     {
+      "points": 50,
+      "name": "Insulatle"
+     },
+     {
+      "points": 64,
+      "name": "Brake Wind"
+     },
+     {
+      "points": 80,
+      "name": "Fire Breath Guard"
+     },
+     {
+      "points": 100,
+      "name": "Cold Breath Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Bad Breath": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Poison Breath"
+     },
+     {
+      "points": 12,
+      "name": "Sweet Breath"
+     },
+     {
+      "points": 22,
+      "name": "Blowback"
+     },
+     {
+      "points": 34,
+      "name": "Bemusing Breath"
+     },
+     {
+      "points": 46,
+      "name": "Brake Wind"
+     },
+     {
+      "points": 63,
+      "name": "Burning Breath"
+     },
+     {
+      "points": 80,
+      "name": "Venom Breath"
+     },
+     {
+      "points": 100,
+      "name": "Poison Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Dr. Snapped": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "War Cry"
+     },
+     {
+      "points": 16,
+      "name": "Clang"
+     },
+     {
+      "points": 26,
+      "name": "Meditation"
+     },
+     {
+      "points": 40,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 54,
+      "name": "Kazammle"
+     },
+     {
+      "points": 64,
+      "name": "Decelerate Guard"
+     },
+     {
+      "points": 74,
+      "name": "Gobstopper Guard"
+     },
+     {
+      "points": 86,
+      "name": "Kasag"
+     },
+     {
+      "points": 100,
+      "name": "Lightning Storm"
+     }
+    ]
+   }
+  ]
+ },
+ "Mime": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Tap Dance"
+     },
+     {
+      "points": 10,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 18,
+      "name": "Sultry Dance"
+     },
+     {
+      "points": 28,
+      "name": "Ban Dance"
+     },
+     {
+      "points": 40,
+      "name": "Gobstopper"
+     },
+     {
+      "points": 52,
+      "name": "Tongue Lashing"
+     },
+     {
+      "points": 76,
+      "name": "Hustle Dance"
+     },
+     {
+      "points": 100,
+      "name": "Follow Suit"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Blessed Blizzardier": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 8,
+      "name": "Kazap"
+     },
+     {
+      "points": 13,
+      "name": "Kacrack"
+     },
+     {
+      "points": 22,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 31,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 40,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 60,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 80,
+      "name": "Kazapple"
+     },
+     {
+      "points": 100,
+      "name": "Kacrackle"
+     }
+    ]
+   }
+  ]
+ },
+ "Bang & Zam": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Bang"
+     },
+     {
+      "points": 11,
+      "name": "Zam"
+     },
+     {
+      "points": 18,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 25,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 36,
+      "name": "Zammle"
+     },
+     {
+      "points": 50,
+      "name": "Boom"
+     }
+    ]
+   }
+  ]
+ },
+ "Bombardier": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Bang"
+     },
+     {
+      "points": 10,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 18,
+      "name": "Kamikazee"
+     },
+     {
+      "points": 31,
+      "name": "Boom"
+     },
+     {
+      "points": 47,
+      "name": "Kerplunk"
+     },
+     {
+      "points": 65,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 85,
+      "name": "Kaboom"
+     },
+     {
+      "points": 100,
+      "name": "Bang Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Attack Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Attack +10"
+     },
+     {
+      "points": 20,
+      "name": "Attack +20"
+     },
+     {
+      "points": 30,
+      "name": "Attack +10"
+     },
+     {
+      "points": 40,
+      "name": "Attack +20"
+     },
+     {
+      "points": 50,
+      "name": "Attack +10"
+     },
+     {
+      "points": 60,
+      "name": "Attack +20"
+     },
+     {
+      "points": 70,
+      "name": "Attack +10"
+     },
+     {
+      "points": 80,
+      "name": "Attack +20"
+     },
+     {
+      "points": 90,
+      "name": "Attack +10"
+     },
+     {
+      "points": 100,
+      "name": "Attack +20"
+     }
+    ]
+   }
+  ]
+ },
+ "Dragonlord": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 9,
+      "name": "Fullheal"
+     },
+     {
+      "points": 19,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 29,
+      "name": "Inferno"
+     },
+     {
+      "points": 44,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 60,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 80,
+      "name": "C-c-cold Breath"
+     },
+     {
+      "points": 100,
+      "name": "Scorch"
+     }
+    ]
+   }
+  ]
+ },
+ "Hawkhart": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Frizz"
+     },
+     {
+      "points": 11,
+      "name": "Snooze"
+     },
+     {
+      "points": 19,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 28,
+      "name": "Frizzle"
+     },
+     {
+      "points": 38,
+      "name": "Singe"
+     },
+     {
+      "points": 48,
+      "name": "Dazzle"
+     },
+     {
+      "points": 60,
+      "name": "Sear"
+     },
+     {
+      "points": 75,
+      "name": "Fire Guard"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Frizzle"
+     },
+     {
+      "points": 10,
+      "name": "Dazzle"
+     },
+     {
+      "points": 18,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 30,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 42,
+      "name": "Sear"
+     },
+     {
+      "points": 58,
+      "name": "Cremate"
+     },
+     {
+      "points": 70,
+      "name": "Kasnooze"
+     },
+     {
+      "points": 85,
+      "name": "Fire Guard"
+     },
+     {
+      "points": 100,
+      "name": "Frizz Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heal"
+     },
+     {
+      "points": 12,
+      "name": "Zing"
+     },
+     {
+      "points": 20,
+      "name": "Midheal"
+     },
+     {
+      "points": 29,
+      "name": "Multiheal"
+     },
+     {
+      "points": 44,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 58,
+      "name": "Reheal"
+     },
+     {
+      "points": 68,
+      "name": "Fullheal"
+     },
+     {
+      "points": 80,
+      "name": "Kazing"
+     },
+     {
+      "points": 100,
+      "name": "Omniheal"
+     }
+    ]
+   }
+  ]
+ },
+ "Leopold": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 20,
+      "name": "Whack"
+     },
+     {
+      "points": 30,
+      "name": "Critical Miss"
+     },
+     {
+      "points": 40,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 55,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 70,
+      "name": "Uncarnate"
+     },
+     {
+      "points": 85,
+      "name": "Thwack"
+     },
+     {
+      "points": 100,
+      "name": "C-c-cold Breath"
+     }
+    ]
+   }
+  ]
+ },
+ "Dark Knight": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Zam"
+     },
+     {
+      "points": 11,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 17,
+      "name": "Tap Dance"
+     },
+     {
+      "points": 27,
+      "name": "War Cry"
+     },
+     {
+      "points": 45,
+      "name": "Zammle"
+     },
+     {
+      "points": 55,
+      "name": "Weakening Wallop"
+     },
+     {
+      "points": 75,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 100,
+      "name": "Zam Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Magic Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 20,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 30,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 40,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 50,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 60,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 70,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 80,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 90,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 100,
+      "name": "Maximum MP +20"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Mage": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 15,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 30,
+      "name": "Kazapple"
+     },
+     {
+      "points": 45,
+      "name": "Kazammle"
+     },
+     {
+      "points": 60,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 75,
+      "name": "Kacrackle"
+     },
+     {
+      "points": 90,
+      "name": "Kaboomle"
+     },
+     {
+      "points": 100,
+      "name": "Magic Scrooge"
+     }
+    ]
+   }
+  ]
+ },
+ "Healer": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heal"
+     },
+     {
+      "points": 12,
+      "name": "Buff"
+     },
+     {
+      "points": 28,
+      "name": "Midheal"
+     },
+     {
+      "points": 42,
+      "name": "Zing"
+     },
+     {
+      "points": 52,
+      "name": "Reheal"
+     },
+     {
+      "points": 62,
+      "name": "Meditation"
+     },
+     {
+      "points": 75,
+      "name": "Fullheal"
+     },
+     {
+      "points": 100,
+      "name": "Kazing"
+     }
+    ]
+   }
+  ]
+ },
+ "All-Rounder": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Weird Dance"
+     },
+     {
+      "points": 12,
+      "name": "Weakening Wallop"
+     },
+     {
+      "points": 20,
+      "name": "Fuddle Dance"
+     },
+     {
+      "points": 28,
+      "name": "Bemusing Breath"
+     },
+     {
+      "points": 39,
+      "name": "Break-dance Beat"
+     },
+     {
+      "points": 52,
+      "name": "Critical Miss"
+     },
+     {
+      "points": 65,
+      "name": "Amor Seco Rain"
+     },
+     {
+      "points": 80,
+      "name": "Song of Salvation"
+     },
+     {
+      "points": 100,
+      "name": "Follow Suit"
+     }
+    ]
+   }
+  ]
+ },
+ "Toughie": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Sandstorm"
+     },
+     {
+      "points": 20,
+      "name": "Body Slam"
+     },
+     {
+      "points": 30,
+      "name": "Blowback"
+     },
+     {
+      "points": 40,
+      "name": "Sultry Dance"
+     },
+     {
+      "points": 50,
+      "name": "War Cry"
+     },
+     {
+      "points": 65,
+      "name": "Hustle Dance"
+     },
+     {
+      "points": 75,
+      "name": "One-on-One"
+     },
+     {
+      "points": 100,
+      "name": "Counter"
+     }
+    ]
+   }
+  ]
+ },
+ "Diabolist": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Frizz"
+     },
+     {
+      "points": 10,
+      "name": "Frizzle"
+     },
+     {
+      "points": 16,
+      "name": "Sap"
+     },
+     {
+      "points": 24,
+      "name": "Zam"
+     },
+     {
+      "points": 36,
+      "name": "Kafizzle"
+     },
+     {
+      "points": 53,
+      "name": "Magic Frailty"
+     },
+     {
+      "points": 70,
+      "name": "Sag"
+     },
+     {
+      "points": 85,
+      "name": "Whack"
+     },
+     {
+      "points": 100,
+      "name": "Magic Barrier"
+     }
+    ]
+   }
+  ]
+ },
+ "Icemeister": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Crack"
+     },
+     {
+      "points": 17,
+      "name": "Frost Slash"
+     },
+     {
+      "points": 24,
+      "name": "Tongue Lashing"
+     },
+     {
+      "points": 34,
+      "name": "Breathtaking Bash"
+     },
+     {
+      "points": 48,
+      "name": "Crackle"
+     },
+     {
+      "points": 63,
+      "name": "Meditation"
+     },
+     {
+      "points": 80,
+      "name": "Blizzard Slash"
+     },
+     {
+      "points": 100,
+      "name": "Crack Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Breath": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Fire Breath"
+     },
+     {
+      "points": 10,
+      "name": "Cool Breath"
+     },
+     {
+      "points": 18,
+      "name": "Flame Breath"
+     },
+     {
+      "points": 26,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 38,
+      "name": "Blowback"
+     },
+     {
+      "points": 50,
+      "name": "Deep Breath"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Flame Breath"
+     },
+     {
+      "points": 14,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 24,
+      "name": "Blowback"
+     },
+     {
+      "points": 34,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 47,
+      "name": "Inferno"
+     },
+     {
+      "points": 60,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 100,
+      "name": "Fire Breath Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Blowback"
+     },
+     {
+      "points": 12,
+      "name": "Deep Breath"
+     },
+     {
+      "points": 22,
+      "name": "Inferno"
+     },
+     {
+      "points": 32,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 44,
+      "name": "Scorch"
+     },
+     {
+      "points": 56,
+      "name": "C-c-cold Breath"
+     },
+     {
+      "points": 76,
+      "name": "Fire Breath Guard"
+     },
+     {
+      "points": 100,
+      "name": "Cold Breath Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Thunderwind Slashes": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 16,
+      "name": "Shade Slash"
+     },
+     {
+      "points": 29,
+      "name": "Lightning Slash"
+     },
+     {
+      "points": 44,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 60,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 80,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 100,
+      "name": "Thunderbolt Slash"
+     }
+    ]
+   }
+  ]
+ },
+ "Mortamor": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 10,
+      "name": "Venom Breath"
+     },
+     {
+      "points": 20,
+      "name": "Burning Breath"
+     },
+     {
+      "points": 30,
+      "name": "Meditation"
+     },
+     {
+      "points": 40,
+      "name": "Inferno"
+     },
+     {
+      "points": 55,
+      "name": "Kaboom"
+     },
+     {
+      "points": 70,
+      "name": "Kazam"
+     },
+     {
+      "points": 100,
+      "name": "Disruptive Wave"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Wisdom Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 20,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 30,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 40,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 50,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 60,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 70,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 80,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 90,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 100,
+      "name": "Wisdom +20"
+     }
+    ]
+   }
+  ]
+ },
+ "Diminisher": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 10,
+      "name": "Slowing Slug"
+     },
+     {
+      "points": 20,
+      "name": "Weakening Wallop"
+     },
+     {
+      "points": 30,
+      "name": "Stupefying Strike"
+     },
+     {
+      "points": 40,
+      "name": "Helm Splitter"
+     },
+     {
+      "points": 50,
+      "name": "Breathtaking Bash"
+     },
+     {
+      "points": 60,
+      "name": "Break-dance Beat"
+     },
+     {
+      "points": 75,
+      "name": "Blinding Blow"
+     },
+     {
+      "points": 100,
+      "name": "Assassin's Stab"
+     }
+    ]
+   }
+  ]
+ },
+ "Sage": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Zapple"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 17,
+      "name": "Zammle"
+     },
+     {
+      "points": 24,
+      "name": "Wisdom +10"
+     },
+     {
+      "points": 32,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 40,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 49,
+      "name": "Multiheal"
+     },
+     {
+      "points": 59,
+      "name": "Wisdom +20"
+     },
+     {
+      "points": 70,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 100,
+      "name": "Magic Scrooge"
+     }
+    ]
+   }
+  ]
+ },
+ "Dragovian Lord": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Zapple"
+     },
+     {
+      "points": 8,
+      "name": "Magic Barrier"
+     },
+     {
+      "points": 15,
+      "name": "C-c-cold Breath"
+     },
+     {
+      "points": 23,
+      "name": "Kazap"
+     },
+     {
+      "points": 33,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 45,
+      "name": "Scorch"
+     },
+     {
+      "points": 70,
+      "name": "Magic Burst"
+     },
+     {
+      "points": 100,
+      "name": "Gigagash"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Heat Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 30,
+      "name": "Maximum HP +30"
+     },
+     {
+      "points": 50,
+      "name": "Maximum MP +30"
+     },
+     {
+      "points": 70,
+      "name": "Frizz Guard"
+     },
+     {
+      "points": 100,
+      "name": "Fire Breath Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Bounty Hunter": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Klepto Clobber"
+     },
+     {
+      "points": 10,
+      "name": "Dodgy Dance"
+     },
+     {
+      "points": 20,
+      "name": "Penny Pincher"
+     },
+     {
+      "points": 30,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 45,
+      "name": "Metal Slash"
+     },
+     {
+      "points": 60,
+      "name": "Paralyzing Punch"
+     },
+     {
+      "points": 75,
+      "name": "Assassin's Stab"
+     },
+     {
+      "points": 100,
+      "name": "Metal Beater"
+     }
+    ]
+   }
+  ]
+ },
+ "Rhapthorne": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Drain Magic"
+     },
+     {
+      "points": 10,
+      "name": "Kadim"
+     },
+     {
+      "points": 18,
+      "name": "Kasnooze"
+     },
+     {
+      "points": 30,
+      "name": "Clang"
+     },
+     {
+      "points": 40,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 50,
+      "name": "Cold Blizzard"
+     },
+     {
+      "points": 65,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 80,
+      "name": "Kacrack"
+     },
+     {
+      "points": 100,
+      "name": "Death Dance"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Dazzle"
+     },
+     {
+      "points": 8,
+      "name": "Sweet Breath"
+     },
+     {
+      "points": 12,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 20,
+      "name": "Shadow Slash"
+     },
+     {
+      "points": 33,
+      "name": "C-c-cold Breath"
+     },
+     {
+      "points": 51,
+      "name": "Disruptive Wave"
+     },
+     {
+      "points": 73,
+      "name": "Kazammle"
+     },
+     {
+      "points": 100,
+      "name": "Kaboomle"
+     }
+    ]
+   }
+  ]
+ },
+ "Aquapothecary": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Heal"
+     },
+     {
+      "points": 10,
+      "name": "Crack"
+     },
+     {
+      "points": 15,
+      "name": "Sultry Dance"
+     },
+     {
+      "points": 23,
+      "name": "Midheal"
+     },
+     {
+      "points": 33,
+      "name": "Mist Me"
+     },
+     {
+      "points": 45,
+      "name": "Crackle"
+     },
+     {
+      "points": 60,
+      "name": "Amor Seco Rain"
+     },
+     {
+      "points": 80,
+      "name": "Song of Salvation"
+     },
+     {
+      "points": 100,
+      "name": "Water Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Frizz & Woosh": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Frizz"
+     },
+     {
+      "points": 7,
+      "name": "Woosh"
+     },
+     {
+      "points": 14,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 24,
+      "name": "Swoosh"
+     },
+     {
+      "points": 35,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 50,
+      "name": "Frizzle"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 8,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 18,
+      "name": "Swoosh"
+     },
+     {
+      "points": 28,
+      "name": "Frizzle"
+     },
+     {
+      "points": 43,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 58,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 75,
+      "name": "Frizz Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kaswoosh"
+     },
+     {
+      "points": 15,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 27,
+      "name": "Gale Slash"
+     },
+     {
+      "points": 39,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 64,
+      "name": "Kaswooshle"
+     },
+     {
+      "points": 90,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 95,
+      "name": "Frizz Guard"
+     },
+     {
+      "points": 100,
+      "name": "Woosh Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Darklight Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 30,
+      "name": "Maximum HP +30"
+     },
+     {
+      "points": 50,
+      "name": "Maximum MP +30"
+     },
+     {
+      "points": 70,
+      "name": "Zap Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zam Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Martial Artist": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Heart Breaker"
+     },
+     {
+      "points": 10,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 17,
+      "name": "Body Slam"
+     },
+     {
+      "points": 24,
+      "name": "Attack +10"
+     },
+     {
+      "points": 32,
+      "name": "Mercurial Thrust"
+     },
+     {
+      "points": 40,
+      "name": "Agility +20"
+     },
+     {
+      "points": 49,
+      "name": "Defending Champion"
+     },
+     {
+      "points": 59,
+      "name": "Attack +10"
+     },
+     {
+      "points": 70,
+      "name": "Double Up"
+     },
+     {
+      "points": 100,
+      "name": "Able Ambusher"
+     }
+    ]
+   }
+  ]
+ },
+ "Cure-all": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heal"
+     },
+     {
+      "points": 12,
+      "name": "Tingle"
+     },
+     {
+      "points": 20,
+      "name": "Kabuff"
+     },
+     {
+      "points": 30,
+      "name": "Multiheal"
+     },
+     {
+      "points": 40,
+      "name": "Wave of Relief"
+     },
+     {
+      "points": 55,
+      "name": "Amor Seco Rain"
+     },
+     {
+      "points": 75,
+      "name": "Song of Salvation"
+     },
+     {
+      "points": 100,
+      "name": "Omniheal"
+     }
+    ]
+   }
+  ]
+ },
+ "Bang & Zap": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Bang"
+     },
+     {
+      "points": 9,
+      "name": "Zap"
+     },
+     {
+      "points": 14,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 19,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 32,
+      "name": "Zapple"
+     },
+     {
+      "points": 50,
+      "name": "Boom"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 7,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 15,
+      "name": "Zapple"
+     },
+     {
+      "points": 25,
+      "name": "Boom"
+     },
+     {
+      "points": 40,
+      "name": "Kazap"
+     },
+     {
+      "points": 55,
+      "name": "Kaboom"
+     },
+     {
+      "points": 75,
+      "name": "Bang Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 7,
+      "name": "Kazap"
+     },
+     {
+      "points": 15,
+      "name": "Kaboom"
+     },
+     {
+      "points": 25,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 37,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 62,
+      "name": "Kazapple"
+     },
+     {
+      "points": 90,
+      "name": "Kaboomle"
+     },
+     {
+      "points": 95,
+      "name": "Bang Guard"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Defender": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Buff"
+     },
+     {
+      "points": 11,
+      "name": "Heal"
+     },
+     {
+      "points": 17,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 27,
+      "name": "Kabuff"
+     },
+     {
+      "points": 42,
+      "name": "Defending Champion"
+     },
+     {
+      "points": 57,
+      "name": "Midheal"
+     },
+     {
+      "points": 77,
+      "name": "Weakening Wallop"
+     },
+     {
+      "points": 100,
+      "name": "Sap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Barricade": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Kabuff"
+     },
+     {
+      "points": 9,
+      "name": "Blowback"
+     },
+     {
+      "points": 14,
+      "name": "Defending Champion"
+     },
+     {
+      "points": 22,
+      "name": "Clang"
+     },
+     {
+      "points": 30,
+      "name": "Brake Wind"
+     },
+     {
+      "points": 40,
+      "name": "Bounce"
+     },
+     {
+      "points": 50,
+      "name": "Mist Me"
+     },
+     {
+      "points": 75,
+      "name": "Counter"
+     },
+     {
+      "points": 100,
+      "name": "Sap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Estark": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Double-Edged Slash"
+     },
+     {
+      "points": 11,
+      "name": "Multislash"
+     },
+     {
+      "points": 19,
+      "name": "Spooky Aura"
+     },
+     {
+      "points": 31,
+      "name": "Kacrack"
+     },
+     {
+      "points": 43,
+      "name": "Kazam"
+     },
+     {
+      "points": 58,
+      "name": "Assassin's Stab"
+     },
+     {
+      "points": 70,
+      "name": "Wave of Panic"
+     },
+     {
+      "points": 100,
+      "name": "Disruptive Wave"
+     }
+    ]
+   }
+  ]
+ },
+ "Agility Boost": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Agility +5"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +5"
+     },
+     {
+      "points": 14,
+      "name": "Agility +5"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 29,
+      "name": "Agility +10"
+     },
+     {
+      "points": 38,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 50,
+      "name": "Agility +10"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Agility +10"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 14,
+      "name": "Agility +10"
+     },
+     {
+      "points": 20,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 28,
+      "name": "Agility +20"
+     },
+     {
+      "points": 36,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 48,
+      "name": "Agility +20"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 75,
+      "name": "Agility +20"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Agility +20"
+     },
+     {
+      "points": 8,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 13,
+      "name": "Agility +20"
+     },
+     {
+      "points": 18,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 27,
+      "name": "Agility +20"
+     },
+     {
+      "points": 36,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 48,
+      "name": "Agility +20"
+     },
+     {
+      "points": 60,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 75,
+      "name": "Agility +20"
+     },
+     {
+      "points": 100,
+      "name": "Decelerate Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Enfeebler": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Sag"
+     },
+     {
+      "points": 16,
+      "name": "Dim"
+     },
+     {
+      "points": 28,
+      "name": "Weakening Wallop"
+     },
+     {
+      "points": 40,
+      "name": "Stupefying Strike"
+     },
+     {
+      "points": 55,
+      "name": "Kasag"
+     },
+     {
+      "points": 70,
+      "name": "Kadim"
+     },
+     {
+      "points": 85,
+      "name": "Sag Guard"
+     },
+     {
+      "points": 100,
+      "name": "Dim Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Über Windblast Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Maximum HP +20"
+     },
+     {
+      "points": 10,
+      "name": "Maximum MP +20"
+     },
+     {
+      "points": 30,
+      "name": "Maximum HP +30"
+     },
+     {
+      "points": 50,
+      "name": "Maximum MP +30"
+     },
+     {
+      "points": 70,
+      "name": "Woosh Guard"
+     },
+     {
+      "points": 100,
+      "name": "Bang Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Frizz & Bang": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 50,
+    "unlocks": [
+     {
+      "points": 3,
+      "name": "Frizz"
+     },
+     {
+      "points": 8,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 15,
+      "name": "Bang"
+     },
+     {
+      "points": 24,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 36,
+      "name": "Frizzle"
+     },
+     {
+      "points": 50,
+      "name": "Boom"
+     }
+    ]
+   },
+   {
+    "tier": 2,
+    "points_to_master": 75,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 10,
+      "name": "Bomb Slash"
+     },
+     {
+      "points": 20,
+      "name": "Frizzle"
+     },
+     {
+      "points": 30,
+      "name": "Boom"
+     },
+     {
+      "points": 45,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 60,
+      "name": "Kaboom"
+     },
+     {
+      "points": 75,
+      "name": "Frizz Guard"
+     }
+    ]
+   },
+   {
+    "tier": 3,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 8,
+      "name": "Kafrizz"
+     },
+     {
+      "points": 16,
+      "name": "Kaboom"
+     },
+     {
+      "points": 28,
+      "name": "Inferno Slash"
+     },
+     {
+      "points": 40,
+      "name": "Blast Slash"
+     },
+     {
+      "points": 65,
+      "name": "Kafrizzle"
+     },
+     {
+      "points": 90,
+      "name": "Kaboomle"
+     },
+     {
+      "points": 95,
+      "name": "Frizz Guard"
+     },
+     {
+      "points": 100,
+      "name": "Bang Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Guerrilla": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heart Breaker"
+     },
+     {
+      "points": 11,
+      "name": "Slowing Slug"
+     },
+     {
+      "points": 19,
+      "name": "Poisonous Poke"
+     },
+     {
+      "points": 29,
+      "name": "Baffling Bonk"
+     },
+     {
+      "points": 39,
+      "name": "Blinding Blow"
+     },
+     {
+      "points": 51,
+      "name": "Dodgy Dance"
+     },
+     {
+      "points": 63,
+      "name": "Paralyzing Punch"
+     },
+     {
+      "points": 80,
+      "name": "Venomous Volley"
+     },
+     {
+      "points": 100,
+      "name": "Brake Wind"
+     }
+    ]
+   }
+  ]
+ },
+ "Thief": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Accelerate"
+     },
+     {
+      "points": 10,
+      "name": "Agility +10"
+     },
+     {
+      "points": 17,
+      "name": "Klepto Clobber"
+     },
+     {
+      "points": 24,
+      "name": "Agility +10"
+     },
+     {
+      "points": 32,
+      "name": "Acceleratle"
+     },
+     {
+      "points": 40,
+      "name": "Agility +10"
+     },
+     {
+      "points": 49,
+      "name": "Penny Pincher"
+     },
+     {
+      "points": 59,
+      "name": "Agility +10"
+     },
+     {
+      "points": 70,
+      "name": "Dodgy Dance"
+     },
+     {
+      "points": 100,
+      "name": "Decelerate Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "White Knight": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 6,
+      "name": "Zap"
+     },
+     {
+      "points": 12,
+      "name": "Hallowed Slash"
+     },
+     {
+      "points": 19,
+      "name": "Dazzleflash"
+     },
+     {
+      "points": 29,
+      "name": "Baffling Bonk"
+     },
+     {
+      "points": 45,
+      "name": "Zapple"
+     },
+     {
+      "points": 55,
+      "name": "Stupefying Strike"
+     },
+     {
+      "points": 75,
+      "name": "Sacred Slash"
+     },
+     {
+      "points": 100,
+      "name": "Zap Guard"
+     }
+    ]
+   }
+  ]
+ },
+ "Dragon Lore": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 5,
+      "name": "Fire Breath"
+     },
+     {
+      "points": 10,
+      "name": "Cool Breath"
+     },
+     {
+      "points": 18,
+      "name": "Sandstorm"
+     },
+     {
+      "points": 26,
+      "name": "War Cry"
+     },
+     {
+      "points": 37,
+      "name": "Flame Slash"
+     },
+     {
+      "points": 48,
+      "name": "Gust Slash"
+     },
+     {
+      "points": 64,
+      "name": "Lightning Slash"
+     },
+     {
+      "points": 82,
+      "name": "Chilly Breath"
+     },
+     {
+      "points": 100,
+      "name": "Flame Breath"
+     }
+    ]
+   }
+  ]
+ },
+ "Green Finger": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Heal"
+     },
+     {
+      "points": 14,
+      "name": "Blinding Blow"
+     },
+     {
+      "points": 22,
+      "name": "Squelch"
+     },
+     {
+      "points": 30,
+      "name": "Tingle"
+     },
+     {
+      "points": 42,
+      "name": "Midheal"
+     },
+     {
+      "points": 54,
+      "name": "Share Magic"
+     },
+     {
+      "points": 64,
+      "name": "Weird Dance"
+     },
+     {
+      "points": 84,
+      "name": "Song of Salvation"
+     },
+     {
+      "points": 100,
+      "name": "Tap Dance"
+     }
+    ]
+   }
+  ]
+ },
+ "Crack Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 16,
+    "unlocks": [
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Defence +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 1,
+      "name": "Castslasher"
+     }
+    ]
+   }
+  ]
+ },
+ "Woosh Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 100,
+    "unlocks": [
+     {
+      "points": 4,
+      "name": "Wisdom +5"
+     },
+     {
+      "points": 9,
+      "name": "Attack +10"
+     },
+     {
+      "points": 15,
+      "name": "Wisdom +10"
+     },
+     {
+      "points": 22,
+      "name": "Maximum MP +10"
+     },
+     {
+      "points": 42,
+      "name": "Woosh Guard"
+     },
+     {
+      "points": 52,
+      "name": "Magic Miser"
+     },
+     {
+      "points": 64,
+      "name": "Maximum HP +10"
+     },
+     {
+      "points": 76,
+      "name": "Woosh Guard"
+     },
+     {
+      "points": 100,
+      "name": "Magic Scrooge"
+     }
+    ]
+   }
+  ]
+ },
+ "Frizz Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 16,
+    "unlocks": [
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 8,
+      "name": "Max. HP +8"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 8,
+      "name": "Max. HP +8"
+     },
+     {
+      "points": 1,
+      "name": "Castslasher"
+     }
+    ]
+   }
+  ]
+ },
+ "Zam Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 16,
+    "unlocks": [
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 1,
+      "name": "Castslasher"
+     }
+    ]
+   }
+  ]
+ },
+ "Bang Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 16,
+    "unlocks": [
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 1,
+      "name": "Castslasher"
+     }
+    ]
+   }
+  ]
+ },
+ "Zap Ward": {
+  "tiers": [
+   {
+    "tier": 1,
+    "points_to_master": 16,
+    "unlocks": [
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 16,
+      "name": "Wisdom +16"
+     },
+     {
+      "points": 16,
+      "name": "Max. MP +16"
+     },
+     {
+      "points": 1,
+      "name": "Castslasher"
+     }
+    ]
+   }
+  ]
+ },
+ "_provenance": "Sourcé du wiki communautaire dragon-quest.org (catégorie \"Dragon Quest Monsters: Joker skill sets\" + 6 pages \"<élément> Ward (Talent)\" trouvées séparément), recherche web autorisée par le propriétaire le 2026-09-25 — PAS extrait de la ROM ni confirmé par désassemblage. Voir docs/DATA_RESEARCH_PLAN.md item 17. Clé = nom réel du panneau (base_name dans skills.json). Couverture : 128/142 panneaux distincts — 14 panneaux \"Ward\" (altérations de statut/éléments composés) n'ont aucune page dédiée trouvée sur ce wiki, volontairement absents plutôt que devinés. Remplace intégralement une extraction manuelle antérieure du 2026-09-25 dont le panneau \"Frizz & Bang\" contenait des noms incorrects pour 2 des 3 paliers (erreur corrigée par cette extraction automatisée directement depuis le wikitext brut mis en cache)."
+}

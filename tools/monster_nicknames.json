@@ -1,0 +1,1262 @@
+{
+ "m000": [
+  "Slimer",
+  "Slimer",
+  "Slimo",
+  "Mr Slim"
+ ],
+ "m005b": [
+  "Bubber",
+  "Bubbey",
+  "Bubbo",
+  "Mr Bubb"
+ ],
+ "m160": [
+  "Sheller",
+  "Shelley",
+  "Shello",
+  "Mr Shell"
+ ],
+ "m003": [
+  "Healer",
+  "Healey",
+  "Healo",
+  "Mr Heal"
+ ],
+ "m161": [
+  "Draker",
+  "Drakey",
+  "Drako",
+  "Mr Drak"
+ ],
+ "m000b": [
+  "Metaler",
+  "Metaley",
+  "Metalo",
+  "Mr Metal"
+ ],
+ "m004": [
+  "Braver",
+  "Bravey",
+  "Bravo",
+  "Mr Brav"
+ ],
+ "m162": [
+  "Wilder",
+  "Wildey",
+  "Wildo",
+  "Mr Wild"
+ ],
+ "m005": [
+  "Quider",
+  "Quidey",
+  "Quido",
+  "Mr Quid"
+ ],
+ "m163": [
+  "Angeler",
+  "Angeley",
+  "Angelo",
+  "Mr Angel"
+ ],
+ "m006": [
+  "Kinger",
+  "Kingey",
+  "Kingo",
+  "Mr King"
+ ],
+ "m164": [
+  "Gloob",
+  "Glop",
+  "Bubblo",
+  "Mr Bubbl"
+ ],
+ "m006b": [
+  "Chubber",
+  "Chubbey",
+  "Chubbo",
+  "Mr Chubb"
+ ],
+ "m165": [
+  "Grander",
+  "Grandey",
+  "Grando",
+  "Mr Grand"
+ ],
+ "m166": [
+  "Gemer",
+  "Gemey",
+  "Gemo",
+  "Mr Gem"
+ ],
+ "m009": [
+  "Troder",
+  "Trodey",
+  "Trodo",
+  "Mr Trod"
+ ],
+ "m000c": [
+  "Shesler",
+  "Shesley",
+  "Sheslo",
+  "Ms Shesl"
+ ],
+ "m160b": [
+  "Snailer",
+  "Snailey",
+  "Snailo",
+  "Mr Snail"
+ ],
+ "m003b": [
+  "Curer",
+  "Curey",
+  "Curo",
+  "Mr Cur"
+ ],
+ "m247": [
+  "Behemer",
+  "Behemey",
+  "Behemo",
+  "Mr Behem"
+ ],
+ "m247b": [
+  "Besser",
+  "Bessey",
+  "Besso",
+  "Ms Bess"
+ ],
+ "m161b": [
+  "Drager",
+  "Dragey",
+  "Drago",
+  "Mr Drag"
+ ],
+ "m004b": [
+  "Chromer",
+  "Chromey",
+  "Chromo",
+  "Mr Chrom"
+ ],
+ "m165b": [
+  "Kaiser",
+  "Kaisey",
+  "Kaiso",
+  "Mr Kais"
+ ],
+ "m004c": [
+  "Murker",
+  "Murkey",
+  "Murko",
+  "Mr Murk"
+ ],
+ "m163b": [
+  "Darer",
+  "Darey",
+  "Daro",
+  "Mr Dar"
+ ],
+ "m006c": [
+  "Currer",
+  "Currey",
+  "Curro",
+  "Mr Curr"
+ ],
+ "m166b": [
+  "Darrer",
+  "Darrey",
+  "Darro",
+  "Mr Darr"
+ ],
+ "m215": [
+  "Komoder",
+  "Komodey",
+  "Komodo",
+  "Mr Komod"
+ ],
+ "m130": [
+  "Argoner",
+  "Argoney",
+  "Argono",
+  "Mr Argon"
+ ],
+ "m218": [
+  "Greener",
+  "Greeney",
+  "Greeno",
+  "Mr Green"
+ ],
+ "m132": [
+  "Jarger",
+  "Jargey",
+  "Jargo",
+  "Mr Jarg"
+ ],
+ "m220": [
+  "Steeler",
+  "Steeley",
+  "Steelo",
+  "Mr Steel"
+ ],
+ "m134": [
+  "Hacker",
+  "Hackey",
+  "Hacko",
+  "Mr Hack"
+ ],
+ "m218b": [
+  "Redder",
+  "Reddey",
+  "Reddo",
+  "Mr Redd"
+ ],
+ "m132b": [
+  "Urner",
+  "Urney",
+  "Urno",
+  "Mr Urn"
+ ],
+ "m135": [
+  "Greater",
+  "Greatey",
+  "Greato",
+  "Mr Great"
+ ],
+ "m220b": [
+  "Wyrmer",
+  "Wyrmey",
+  "Wyrmo",
+  "Mr Wyrm"
+ ],
+ "m225": [
+  "Greader",
+  "Greadey",
+  "Greado",
+  "Mr Gread"
+ ],
+ "m226": [
+  "Larder",
+  "Lardey",
+  "Lardo",
+  "Mr Lard"
+ ],
+ "m198": [
+  "Lorder",
+  "Lordey",
+  "Lordo",
+  "Mr Lord"
+ ],
+ "m141": [
+  "Dragger",
+  "Draggey",
+  "Draggo",
+  "Mr Dragg"
+ ],
+ "m223": [
+  "Goner",
+  "Goney",
+  "Gono",
+  "Mr Gon"
+ ],
+ "m245": [
+  "Drak",
+  "Drake",
+  "Drakk",
+  "Mr Drak"
+ ],
+ "m215b": [
+  "Narer",
+  "Narey",
+  "Naro",
+  "Mr Nar"
+ ],
+ "m130b": [
+  "Fryer",
+  "Fryey",
+  "Fryo",
+  "Mr Fry"
+ ],
+ "m239": [
+  "Seader",
+  "Seadey",
+  "Seado",
+  "Mr Sead"
+ ],
+ "m233": [
+  "Loch",
+  "Finley",
+  "Nessie",
+  "Nessie"
+ ],
+ "m245b": [
+  "Snaper",
+  "Snapey",
+  "Snapo",
+  "Mr Snap"
+ ],
+ "m226b": [
+  "Larger",
+  "Largey",
+  "Largo",
+  "Mr Larg"
+ ],
+ "m134b": [
+  "Tyraner",
+  "Tyraney",
+  "Tyrano",
+  "Mr Tyran"
+ ],
+ "m225b": [
+  "Dreader",
+  "Dreadey",
+  "Dreado",
+  "Mr Dread"
+ ],
+ "m135b": [
+  "Froer",
+  "Froey",
+  "Froo",
+  "Mr Fro"
+ ],
+ "m233b": [
+  "Diver",
+  "Divey",
+  "Divo",
+  "Mr Div"
+ ],
+ "m239b": [
+  "Megaler",
+  "Megaley",
+  "Megalo",
+  "Mr Megal"
+ ],
+ "m141b": [
+  "Alaber",
+  "Alabey",
+  "Alabo",
+  "Mr Alab"
+ ],
+ "m207": [
+  "Punker",
+  "Punkey",
+  "Punko",
+  "Mr Punk"
+ ],
+ "m167": [
+  "Cubber",
+  "Cubbey",
+  "Cubbo",
+  "Mr Cubb"
+ ],
+ "m168": [
+  "Beater",
+  "Beatey",
+  "Beato",
+  "Mr Beat"
+ ],
+ "m201": [
+  "Starker",
+  "Starkey",
+  "Starko",
+  "Mr Stark"
+ ],
+ "m010": [
+  "Jailer",
+  "Jailey",
+  "Jailo",
+  "Mr Jail"
+ ],
+ "m020": [
+  "Kidder",
+  "Kiddey",
+  "Kiddo",
+  "Mr Kidd"
+ ],
+ "m232": [
+  "Chumer",
+  "Chumey",
+  "Chumo",
+  "Mr Chum"
+ ],
+ "m017": [
+  "Buzzer",
+  "Buzzey",
+  "Buzzo",
+  "Mr Buzz"
+ ],
+ "m018": [
+  "Chimer",
+  "Chimey",
+  "Chimo",
+  "Mr Chim"
+ ],
+ "m035": [
+  "Birdy",
+  "Plume",
+  "Beak",
+  "Mr Bird"
+ ],
+ "m244": [
+  "Ribbit",
+  "Croak",
+  "Tad",
+  "Mr Wart"
+ ],
+ "m169": [
+  "Craber",
+  "Crabey",
+  "Red",
+  "Mr Crab"
+ ],
+ "m014": [
+  "Fincher",
+  "Finchey",
+  "Cluck",
+  "Mr Finch"
+ ],
+ "m027": [
+  "Mother",
+  "Mothey",
+  "Giant",
+  "Mr Moth"
+ ],
+ "m029": [
+  "Treefer",
+  "Treefey",
+  "Treefo",
+  "Mr Treef"
+ ],
+ "m023": [
+  "Yabber",
+  "Yabbey",
+  "Yabbo",
+  "Mr Yabb"
+ ],
+ "m026": [
+  "Gorer",
+  "Gorey",
+  "Goro",
+  "Mr Gor"
+ ],
+ "m034": [
+  "Scorper",
+  "Scorpey",
+  "Scorpo",
+  "Mr Scorp"
+ ],
+ "m028": [
+  "Gater",
+  "Gatey",
+  "Gato",
+  "Mr Gat"
+ ],
+ "m031": [
+  "Saber",
+  "Sabey",
+  "Sabo",
+  "Mr Sab"
+ ],
+ "m035b": [
+  "Garuder",
+  "Garudey",
+  "Garudo",
+  "Mr Garud"
+ ],
+ "m041": [
+  "Squider",
+  "Squidey",
+  "Squido",
+  "Mr Squid"
+ ],
+ "m042": [
+  "Khaler",
+  "Khaley",
+  "Khalo",
+  "Mr Khal"
+ ],
+ "m043": [
+  "Polder",
+  "Poldey",
+  "Poldo",
+  "Mr Pold"
+ ],
+ "m044": [
+  "Emper",
+  "Empey",
+  "Empo",
+  "Ms Emp"
+ ],
+ "m011": [
+  "Jack",
+  "Bunny",
+  "Hare",
+  "Mr Hare"
+ ],
+ "m240": [
+  "Boarer",
+  "Boarey",
+  "Boaro",
+  "Mr Boar"
+ ],
+ "m241": [
+  "Eveeler",
+  "Eveeley",
+  "Eveelo",
+  "Mr Eveel"
+ ],
+ "m235": [
+  "Riper",
+  "Ripey",
+  "Ripo",
+  "Mr Rip"
+ ],
+ "m040b": [
+  "Buller",
+  "Bulley",
+  "Bullo",
+  "Mr Bull"
+ ],
+ "m099": [
+  "Moler",
+  "Moley",
+  "Molo",
+  "Mr Mol"
+ ],
+ "m056": [
+  "Boder",
+  "Bodey",
+  "Bodo",
+  "Mr Bod"
+ ],
+ "m102": [
+  "Hammer",
+  "Hammey",
+  "Hammo",
+  "Mr Hamm"
+ ],
+ "m066": [
+  "Sater",
+  "Satey",
+  "Sato",
+  "Mr Sat"
+ ],
+ "m037": [
+  "Jacker",
+  "Jackey",
+  "Jacko",
+  "Mr Jack"
+ ],
+ "m030": [
+  "Chainer",
+  "Chainey",
+  "Chaino",
+  "Mr Chain"
+ ],
+ "m101": [
+  "Pupper",
+  "Puppey",
+  "Puppo",
+  "Mr Pupp"
+ ],
+ "m040": [
+  "Beeter",
+  "Beetey",
+  "Beeto",
+  "Mr Beet"
+ ],
+ "m036": [
+  "Orcer",
+  "Orcey",
+  "Orco",
+  "Mr Orc"
+ ],
+ "m065": [
+  "Bash",
+  "Slash",
+  "Bash",
+  "Slash"
+ ],
+ "m231": [
+  "Faller",
+  "Falley",
+  "Fallo",
+  "Mr Fall"
+ ],
+ "m063": [
+  "Foxer",
+  "Foxey",
+  "Foxo",
+  "Mr Fox"
+ ],
+ "m066b": [
+  "Paner",
+  "Paney",
+  "Pano",
+  "Mr Pan"
+ ],
+ "m078": [
+  "Garger",
+  "Gargey",
+  "Gargo",
+  "Mr Garg"
+ ],
+ "m209": [
+  "Wearer",
+  "Wearey",
+  "Wearo",
+  "Mr Wear"
+ ],
+ "m082": [
+  "Giger",
+  "Gigey",
+  "Gigo",
+  "Mr Gig"
+ ],
+ "m077": [
+  "Teerer",
+  "Teerey",
+  "Teero",
+  "Mr Teer"
+ ],
+ "m073": [
+  "Macher",
+  "Machey",
+  "Mach",
+  "Mr Mach"
+ ],
+ "m083": [
+  "Bosser",
+  "Bossey",
+  "Bosso",
+  "Mr Boss"
+ ],
+ "m082b": [
+  "Atlaser",
+  "Atlasey",
+  "Atlaso",
+  "Mr Atlas"
+ ],
+ "m122": [
+  "Doner",
+  "Doney",
+  "Dono",
+  "Mr Don"
+ ],
+ "m081": [
+  "Rober",
+  "Robey",
+  "Robo",
+  "Mr Rob"
+ ],
+ "m095": [
+  "Mage",
+  "Magus",
+  "Mage",
+  "Mr Mage"
+ ],
+ "m096": [
+  "Rhap",
+  "Rhap",
+  "Rhap",
+  "Mr Rhap"
+ ],
+ "m097": [
+  "Rhap",
+  "Rhap",
+  "Rhap",
+  "Mr Rhap"
+ ],
+ "m180b": [
+  "Dark Ace",
+  "Dark Ace",
+  "Dark Ace",
+  "Dark Ace"
+ ],
+ "m102b": [
+  "Brower",
+  "Browey",
+  "Browo",
+  "Mr Brow"
+ ],
+ "m098": [
+  "Bager",
+  "Bagey",
+  "Bago",
+  "Mr Bag"
+ ],
+ "m194": [
+  "Waxer",
+  "Waxey",
+  "Waxo",
+  "Mr Wax"
+ ],
+ "m055": [
+  "Spirer",
+  "Spirey",
+  "Spiro",
+  "Mr Spir"
+ ],
+ "m106": [
+  "Mecher",
+  "Mechey",
+  "Mech",
+  "Mr Mech"
+ ],
+ "m103": [
+  "Mudder",
+  "Muddey",
+  "Muddo",
+  "Mr Mudd"
+ ],
+ "m105": [
+  "Dinger",
+  "Dingey",
+  "Dingo",
+  "Mr Ding"
+ ],
+ "m100": [
+  "Gooder",
+  "Goodey",
+  "Goodo",
+  "Mr Good"
+ ],
+ "m057": [
+  "Shader",
+  "Shadey",
+  "Shado",
+  "Mr Shad"
+ ],
+ "m107": [
+  "Canner",
+  "Canney",
+  "Canno",
+  "Mr Cann"
+ ],
+ "m070": [
+  "Spiter",
+  "Spitey",
+  "Spiter",
+  "Mr Spit"
+ ],
+ "m119b": [
+  "Gerald",
+  "T<04>K",
+  "Tarrant",
+  "DOSV<02>"
+ ],
+ "m108": [
+  "Bomber",
+  "Bombey",
+  "Bombo",
+  "Mr Bomb"
+ ],
+ "m109": [
+  "Mumer",
+  "Mumey",
+  "Mumo",
+  "Mr Mum"
+ ],
+ "m116": [
+  "Goler",
+  "Goley",
+  "Golo",
+  "Mr Gol"
+ ],
+ "m110": [
+  "Boher",
+  "Bohey",
+  "Bohee",
+  "Mr Boh"
+ ],
+ "m024": [
+  "Flamer",
+  "Flamey",
+  "Flamo",
+  "Mr Flam"
+ ],
+ "m111": [
+  "Jumer",
+  "Jumey",
+  "Jumo",
+  "Mr Jum"
+ ],
+ "m024b": [
+  "Froster",
+  "Frostey",
+  "Frosto",
+  "Mr Frost"
+ ],
+ "m112": [
+  "Boer",
+  "Boey",
+  "Boo",
+  "Mr Bo"
+ ],
+ "m025": [
+  "Kelper",
+  "Kelpey",
+  "Kelpo",
+  "Mr Kelp"
+ ],
+ "m107b": [
+  "Mimicer",
+  "Mimicey",
+  "Mimico",
+  "Mr Mimic"
+ ],
+ "m114": [
+  "Diemer",
+  "Diemey",
+  "Diemo",
+  "Mr Diem"
+ ],
+ "m116b": [
+  "Golder",
+  "Goldey",
+  "Goldo",
+  "Mr Gold"
+ ],
+ "m117": [
+  "Stater",
+  "Statey",
+  "Stato",
+  "Mr Stat"
+ ],
+ "m118": [
+  "Boxer",
+  "Boxey",
+  "Boxo",
+  "Mr Box"
+ ],
+ "m119": [
+  "Killer",
+  "Killey",
+  "Killo",
+  "Mr Kill"
+ ],
+ "m120": [
+  "Jumber",
+  "Jumbey",
+  "Jumbo",
+  "Mr Jumb"
+ ],
+ "m121": [
+  "Ruiner",
+  "Ruiney",
+  "Ruino",
+  "Mr Ruin"
+ ],
+ "m196": [
+  "Slayer",
+  "Slayey",
+  "Slayo",
+  "Mr Slay"
+ ],
+ "m197": [
+  "Ester",
+  "Estey",
+  "Esto",
+  "Mr Est"
+ ],
+ "m246_01": [
+  "Ancher",
+  "Anchey",
+  "Anch",
+  "Mr Anch"
+ ],
+ "m053": [
+  "Dracker",
+  "Drackey",
+  "Dracko",
+  "Mr Drack"
+ ],
+ "m067": [
+  "Liper",
+  "Lipey",
+  "Lipo",
+  "Mr Lip"
+ ],
+ "m058": [
+  "Winker",
+  "Winkey",
+  "Winko",
+  "Mr Wink"
+ ],
+ "m059": [
+  "Imper",
+  "Impey",
+  "Impo",
+  "Mr Imp"
+ ],
+ "m064": [
+  "Lumper",
+  "Lumpey",
+  "Lumpo",
+  "Mr Lump"
+ ],
+ "m068": [
+  "Batty",
+  "Vamp",
+  "Drac",
+  "Mr Drac"
+ ],
+ "m060": [
+  "Deviler",
+  "Deviley",
+  "Devilo",
+  "Mr Devil"
+ ],
+ "m062": [
+  "Mermer",
+  "Mermey",
+  "Mermo",
+  "Mr Merm"
+ ],
+ "m071": [
+  "Lesser",
+  "Lessey",
+  "Lesso",
+  "Mr Less"
+ ],
+ "m074": [
+  "Grypher",
+  "Gryphey",
+  "Gryph",
+  "Mr Gryph"
+ ],
+ "m075": [
+  "Octaver",
+  "Octavey",
+  "Octavo",
+  "Mr Octav"
+ ],
+ "m210": [
+  "Pither",
+  "Pithey",
+  "Silva",
+  "Mr Pith"
+ ],
+ "m084": [
+  "Archer",
+  "Archey",
+  "Arch",
+  "Mr Arch"
+ ],
+ "m211": [
+  "Mooser",
+  "Moosey",
+  "Mooso",
+  "Mr Moos"
+ ],
+ "m087": [
+  "Buffer",
+  "Buffey",
+  "Buffo",
+  "Mr Buff"
+ ],
+ "m074b": [
+  "Jamer",
+  "Jamey",
+  "Jamo",
+  "Mr Jam"
+ ],
+ "m088": [
+  "Mohawer",
+  "Mohawey",
+  "Mohawo",
+  "Mr Mohaw"
+ ],
+ "m210b": [
+  "Pazer",
+  "Pazey",
+  "Pazo",
+  "Mr Paz"
+ ],
+ "m188": [
+  "Gracer",
+  "Gracey",
+  "Graco",
+  "Mr Grac"
+ ],
+ "m084b": [
+  "Beler",
+  "Beley",
+  "Belo",
+  "Mr Bel"
+ ],
+ "m190": [
+  "Clubber",
+  "Clubbey",
+  "Clubbo",
+  "Mr Clubb"
+ ],
+ "m191": [
+  "Maler",
+  "Maley",
+  "Malo",
+  "Mr Mal"
+ ],
+ "m192": [
+  "Zomer",
+  "Zomey",
+  "Zomo",
+  "Mr Zom"
+ ],
+ "m213": [
+  "Nimer",
+  "Nimey",
+  "Nimo",
+  "Mr Nim"
+ ],
+ "m193": [
+  "Morter",
+  "Mortey",
+  "Morto",
+  "Mr Mort"
+ ],
+ "m205": [
+  "Orgoder",
+  "Orgodey",
+  "Orgodo",
+  "Mr Orgod"
+ ],
+ "m242": [
+  "Urcher",
+  "Urchey",
+  "Urcher",
+  "Mr Urch"
+ ],
+ "m084c": [
+  "Sundae",
+  "Mocha",
+  "Sweetie",
+  "Cocoa"
+ ],
+ "m152c": [
+  "Lether",
+  "Lethey",
+  "Leth",
+  "Mr Leth"
+ ],
+ "m248": [
+  "Drakker",
+  "Drakkey",
+  "Drakko",
+  "Mr Drakk"
+ ],
+ "m231b": [
+  "Wrecker",
+  "Wreckey",
+  "Wrecko",
+  "Mr Wreck"
+ ],
+ "m230": [
+  "Armser",
+  "Armsey",
+  "Armso",
+  "Mr Arms"
+ ],
+ "m199": [
+  "Boo",
+  "Ghast",
+  "Ghast",
+  "Mr Boo"
+ ],
+ "m200": [
+  "Bark",
+  "Leif",
+  "Twigs",
+  "Bark"
+ ],
+ "m146": [
+  "Hander",
+  "Handey",
+  "Hando",
+  "Mr Hand"
+ ],
+ "m147": [
+  "Mold",
+  "Mould",
+  "Funguy",
+  "Mr Mold"
+ ],
+ "m148": [
+  "Corpser",
+  "Corpsey",
+  "Corpso",
+  "Mr Corps"
+ ],
+ "m154": [
+  "Demoner",
+  "Demoney",
+  "Demono",
+  "Mr Demon"
+ ],
+ "m149": [
+  "Skeler",
+  "Skeley",
+  "Skelo",
+  "Mr Skel"
+ ],
+ "m152": [
+  "Rester",
+  "Restey",
+  "Resto",
+  "Mr Rest"
+ ],
+ "m155b": [
+  "Grimer",
+  "Grimey",
+  "Grimo",
+  "Mr Grim"
+ ],
+ "m150": [
+  "Mummer",
+  "Mummey",
+  "Mummo",
+  "Mr Mumm"
+ ],
+ "m151": [
+  "Spawner",
+  "Spawney",
+  "Spawno",
+  "Mr Spawn"
+ ],
+ "m025b": [
+  "Wailer",
+  "Wailey",
+  "Wailo",
+  "Mr Wail"
+ ],
+ "m153": [
+  "Fencer",
+  "Fencey",
+  "Fenco",
+  "Mr Fenc"
+ ],
+ "m152b": [
+  "Roser",
+  "Rosey",
+  "Roso",
+  "Mr Ros"
+ ],
+ "m155": [
+  "Baroner",
+  "Baroney",
+  "Barono",
+  "Mr Baron"
+ ],
+ "m156": [
+  "Duller",
+  "Dulley",
+  "Dullo",
+  "Mr Dull"
+ ],
+ "m157": [
+  "Souler",
+  "Souley",
+  "Soulo",
+  "Mr Soul"
+ ],
+ "m158": [
+  "Crower",
+  "Crowey",
+  "Crowo",
+  "Mr Crow"
+ ],
+ "m206": [
+  "Snapper",
+  "Snappey",
+  "Snappo",
+  "Mr Snapp"
+ ],
+ "m234": [
+  "Skiper",
+  "Skipey",
+  "Skipo",
+  "Mr Skip"
+ ],
+ "m236": [
+  "Flyer",
+  "Flyey",
+  "Flyo",
+  "Mr Fly"
+ ],
+ "m238": [
+  "Cerberus",
+  "Bark",
+  "Dogg",
+  "Mr Dogg"
+ ],
+ "m149b": [
+  "Solder",
+  "Soldey",
+  "Soldo",
+  "Mr Sold"
+ ],
+ "m153b": [
+  "Phanter",
+  "Phantey",
+  "Phanto",
+  "Mr Phant"
+ ],
+ "m157b": [
+  "Wighter",
+  "Wightey",
+  "Wighto",
+  "Mr Wight"
+ ],
+ "m176": [
+  "Speedius",
+  "Bow-wow",
+  "Speagle",
+  "Spadiel"
+ ],
+ "m177": [
+  "Airheart",
+  "Skyheart",
+  "Sparrow",
+  "Gullhart"
+ ],
+ "m178": [
+  "Clubonga",
+  "Ned",
+  "Clubape",
+  "Clubber"
+ ],
+ "m179": [
+  "Dinomond",
+  "Dino",
+  "Deeno",
+  "Dyno"
+ ],
+ "m180": [
+  "Speedius",
+  "Bow-wow",
+  "Speagle",
+  "Spadiel"
+ ],
+ "m181": [
+  "Airheart",
+  "Skyheart",
+  "Sparrow",
+  "Gullhart"
+ ],
+ "m182": [
+  "Clubonga",
+  "Ned",
+  "Clubape",
+  "Clubber"
+ ],
+ "m183": [
+  "Dinomond",
+  "Dino",
+  "Deeno",
+  "Dyno"
+ ],
+ "m180c": [
+  "Wilder",
+  "Wildey",
+  "Wildo",
+  "Mr Wild"
+ ]
+}

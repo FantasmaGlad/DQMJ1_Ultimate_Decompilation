@@ -1,0 +1,1280 @@
+{
+  "m000": {
+    "id": "m000",
+    "monster_id": 1,
+    "nom_fr": "Gluant",
+    "nom_en": "Slime"
+  },
+  "m005b": {
+    "id": "m005b",
+    "monster_id": 2,
+    "nom_fr": "Gluanbulle",
+    "nom_en": "Bubble Slime"
+  },
+  "m160": {
+    "id": "m160",
+    "monster_id": 3,
+    "nom_fr": "Gluanbulot",
+    "nom_en": "Shell Slime"
+  },
+  "m003": {
+    "id": "m003",
+    "monster_id": 4,
+    "nom_fr": "Médigluant",
+    "nom_en": "Healslime"
+  },
+  "m161": {
+    "id": "m161",
+    "monster_id": 5,
+    "nom_fr": "Gluancornu",
+    "nom_en": "Drake Slime"
+  },
+  "m000b": {
+    "id": "m000b",
+    "monster_id": 6,
+    "nom_fr": "Gluant de Métal",
+    "nom_en": "Metal Slime"
+  },
+  "m004": {
+    "id": "m004",
+    "monster_id": 7,
+    "nom_fr": "Monte-Gluant",
+    "nom_en": "Slime Knight"
+  },
+  "m162": {
+    "id": "m162",
+    "monster_id": 8,
+    "nom_fr": "Gluant de Crin",
+    "nom_en": "Wild Slime"
+  },
+  "m005": {
+    "id": "m005",
+    "monster_id": 9,
+    "nom_fr": "Gluant de Mercure",
+    "nom_en": "Liquid Metal Slime"
+  },
+  "m163": {
+    "id": "m163",
+    "monster_id": 10,
+    "nom_fr": "Gluangélique",
+    "nom_en": "Angel Slime"
+  },
+  "m006": {
+    "id": "m006",
+    "monster_id": 11,
+    "nom_fr": "Roi Gluant",
+    "nom_en": "King Slime"
+  },
+  "m164": {
+    "id": "m164",
+    "monster_id": 12,
+    "nom_fr": "Roi Gluanbulle",
+    "nom_en": "King Bubble Slime"
+  },
+  "m006b": {
+    "id": "m006b",
+    "monster_id": 13,
+    "nom_fr": "Roi Gluant de Métal",
+    "nom_en": "Metal King Slime"
+  },
+  "m165": {
+    "id": "m165",
+    "monster_id": 14,
+    "nom_fr": "Gluancien",
+    "nom_en": "Grandpa Slime"
+  },
+  "m166": {
+    "id": "m166",
+    "monster_id": 15,
+    "nom_fr": "Gluandor",
+    "nom_en": "Gem Slime"
+  },
+  "m009": {
+    "id": "m009",
+    "monster_id": 16,
+    "nom_fr": "Trode",
+    "nom_en": "Trode"
+  },
+  "m000c": {
+    "id": "m000c",
+    "monster_id": 17,
+    "nom_fr": "Gluante",
+    "nom_en": "She-Slime"
+  },
+  "m160b": {
+    "id": "m160b",
+    "monster_id": 18,
+    "nom_fr": "Escargluant",
+    "nom_en": "Snail Slime"
+  },
+  "m003b": {
+    "id": "m003b",
+    "monster_id": 19,
+    "nom_fr": "Guérigluant",
+    "nom_en": "Cureslime"
+  },
+  "m247": {
+    "id": "m247",
+    "monster_id": 20,
+    "nom_fr": "Gigluant",
+    "nom_en": "Behemoth Slime"
+  },
+  "m247b": {
+    "id": "m247b",
+    "monster_id": 21,
+    "nom_fr": "Gigluante",
+    "nom_en": "Beshemoth Slime"
+  },
+  "m161b": {
+    "id": "m161b",
+    "monster_id": 22,
+    "nom_fr": "Gluandragon",
+    "nom_en": "Dragon Slime"
+  },
+  "m004b": {
+    "id": "m004b",
+    "monster_id": 23,
+    "nom_fr": "Monte-Gluant de Métal",
+    "nom_en": "Metal Slime Knight"
+  },
+  "m165b": {
+    "id": "m165b",
+    "monster_id": 24,
+    "nom_fr": "Gluanpereur de Métal",
+    "nom_en": "Metal Kaiser Slime"
+  },
+  "m004c": {
+    "id": "m004c",
+    "monster_id": 25,
+    "nom_fr": "Monte-Vampigluant",
+    "nom_en": "Dark Slime Knight"
+  },
+  "m163b": {
+    "id": "m163b",
+    "monster_id": 26,
+    "nom_fr": "Vampigluant",
+    "nom_en": "Dark Slime"
+  },
+  "m006c": {
+    "id": "m006c",
+    "monster_id": 27,
+    "nom_fr": "Roi Guérigluant",
+    "nom_en": "King Cureslime"
+  },
+  "m166b": {
+    "id": "m166b",
+    "monster_id": 28,
+    "nom_fr": "Gluant Ténérium",
+    "nom_en": "Darkonium Slime"
+  },
+  "m215": {
+    "id": "m215",
+    "monster_id": 49,
+    "nom_fr": "Komodor",
+    "nom_en": "Komodo"
+  },
+  "m130": {
+    "id": "m130",
+    "monster_id": 51,
+    "nom_fr": "Lézard Argon",
+    "nom_en": "Argon Lizard"
+  },
+  "m218": {
+    "id": "m218",
+    "monster_id": 53,
+    "nom_fr": "Dragon Vert",
+    "nom_en": "Green Dragon"
+  },
+  "m132": {
+    "id": "m132",
+    "monster_id": 55,
+    "nom_fr": "Saint-Berneur",
+    "nom_en": "Jargon"
+  },
+  "m220": {
+    "id": "m220",
+    "monster_id": 56,
+    "nom_fr": "Dragon de Métal",
+    "nom_en": "Metal Dragon"
+  },
+  "m134": {
+    "id": "m134",
+    "monster_id": 58,
+    "nom_fr": "Hachosaure",
+    "nom_en": "Hacksaurus"
+  },
+  "m218b": {
+    "id": "m218b",
+    "monster_id": 59,
+    "nom_fr": "Dragon Rouge",
+    "nom_en": "Red Dragon"
+  },
+  "m132b": {
+    "id": "m132b",
+    "monster_id": 60,
+    "nom_fr": "Dragonflé",
+    "nom_en": "Dragurn"
+  },
+  "m135": {
+    "id": "m135",
+    "monster_id": 61,
+    "nom_fr": "Grand Lézard Argon",
+    "nom_en": "Great Argon Lizard"
+  },
+  "m220b": {
+    "id": "m220b",
+    "monster_id": 63,
+    "nom_fr": "Mécadragon",
+    "nom_en": "Mechan-O'-Wyrm"
+  },
+  "m225": {
+    "id": "m225",
+    "monster_id": 64,
+    "nom_fr": "Grand Dragon",
+    "nom_en": "Great Dragon"
+  },
+  "m226": {
+    "id": "m226",
+    "monster_id": 65,
+    "nom_fr": "Draculard",
+    "nom_en": "Drakulard"
+  },
+  "m198": {
+    "id": "m198",
+    "monster_id": 66,
+    "nom_fr": "Lordragon",
+    "nom_en": "Dragonlord"
+  },
+  "m141": {
+    "id": "m141",
+    "monster_id": 68,
+    "nom_fr": "Seigneur dragovien",
+    "nom_en": "Dragovian Lord"
+  },
+  "m223": {
+    "id": "m223",
+    "monster_id": 70,
+    "nom_fr": "Dragos",
+    "nom_en": "Skelegon"
+  },
+  "m245": {
+    "id": "m245",
+    "monster_id": 71,
+    "nom_fr": "Dragronce",
+    "nom_en": "Dragonthorn"
+  },
+  "m215b": {
+    "id": "m215b",
+    "monster_id": 72,
+    "nom_fr": "Dracorne",
+    "nom_en": "Nardragon"
+  },
+  "m130b": {
+    "id": "m130b",
+    "monster_id": 73,
+    "nom_fr": "Fri-Fri",
+    "nom_en": "Frou-Fry"
+  },
+  "m239": {
+    "id": "m239",
+    "monster_id": 74,
+    "nom_fr": "Dragon Marin",
+    "nom_en": "Sea Dragon"
+  },
+  "m233": {
+    "id": "m233",
+    "monster_id": 75,
+    "nom_fr": "Aquasaure",
+    "nom_en": "Seasaur"
+  },
+  "m245b": {
+    "id": "m245b",
+    "monster_id": 76,
+    "nom_fr": "Épironce",
+    "nom_en": "Snapdragon"
+  },
+  "m226b": {
+    "id": "m226b",
+    "monster_id": 77,
+    "nom_fr": "Dracularge",
+    "nom_en": "Drakularge"
+  },
+  "m134b": {
+    "id": "m134b",
+    "monster_id": 78,
+    "nom_fr": "Tyrantosaure",
+    "nom_en": "Tyrantosaurus"
+  },
+  "m225b": {
+    "id": "m225b",
+    "monster_id": 79,
+    "nom_fr": "Dragon Noir",
+    "nom_en": "Black Dragon"
+  },
+  "m135b": {
+    "id": "m135b",
+    "monster_id": 80,
+    "nom_fr": "Frou-Frou",
+    "nom_en": "Frou-Frou"
+  },
+  "m233b": {
+    "id": "m233b",
+    "monster_id": 81,
+    "nom_fr": "Abyssaure",
+    "nom_en": "Abyss Diver"
+  },
+  "m239b": {
+    "id": "m239b",
+    "monster_id": 82,
+    "nom_fr": "Mégalodon",
+    "nom_en": "Megalodon"
+  },
+  "m141b": {
+    "id": "m141b",
+    "monster_id": 83,
+    "nom_fr": "Dragon d'Albâtre",
+    "nom_en": "Alabast Dragon"
+  },
+  "m207": {
+    "id": "m207",
+    "monster_id": 96,
+    "nom_fr": "Ornithox",
+    "nom_en": "Platypunk"
+  },
+  "m167": {
+    "id": "m167",
+    "monster_id": 97,
+    "nom_fr": "Smilodon de Lait",
+    "nom_en": "Great Sabrecub"
+  },
+  "m168": {
+    "id": "m168",
+    "monster_id": 98,
+    "nom_fr": "Scarapince",
+    "nom_en": "Scissor Beatle"
+  },
+  "m201": {
+    "id": "m201",
+    "monster_id": 99,
+    "nom_fr": "Corbarbac",
+    "nom_en": "Stark Raven"
+  },
+  "m010": {
+    "id": "m010",
+    "monster_id": 100,
+    "nom_fr": "Chagriffeur",
+    "nom_en": "Jailcat"
+  },
+  "m020": {
+    "id": "m020",
+    "monster_id": 101,
+    "nom_fr": "Khalamarmot",
+    "nom_en": "Khalamari Kid"
+  },
+  "m232": {
+    "id": "m232",
+    "monster_id": 102,
+    "nom_fr": "Piperaduo",
+    "nom_en": "Capsichum"
+  },
+  "m017": {
+    "id": "m017",
+    "monster_id": 103,
+    "nom_fr": "Frelon de l'Enfer",
+    "nom_en": "Hell Hornet"
+  },
+  "m018": {
+    "id": "m018",
+    "monster_id": 104,
+    "nom_fr": "Chimère",
+    "nom_en": "Chimaera"
+  },
+  "m035": {
+    "id": "m035",
+    "monster_id": 105,
+    "nom_fr": "Condor Infernal",
+    "nom_en": "Hades Condor"
+  },
+  "m244": {
+    "id": "m244",
+    "monster_id": 106,
+    "nom_fr": "Face de Crapaud",
+    "nom_en": "Frogface"
+  },
+  "m169": {
+    "id": "m169",
+    "monster_id": 107,
+    "nom_fr": "Crabarbare",
+    "nom_en": "Crabid"
+  },
+  "m014": {
+    "id": "m014",
+    "monster_id": 108,
+    "nom_fr": "Taurapace",
+    "nom_en": "Bullfinch"
+  },
+  "m027": {
+    "id": "m027",
+    "monster_id": 110,
+    "nom_fr": "Phalène Géante",
+    "nom_en": "Giant Moth"
+  },
+  "m029": {
+    "id": "m029",
+    "monster_id": 111,
+    "nom_fr": "Tronc-Bine",
+    "nom_en": "Treeface"
+  },
+  "m023": {
+    "id": "m023",
+    "monster_id": 112,
+    "nom_fr": "Écrevicieux",
+    "nom_en": "Yabby"
+  },
+  "m026": {
+    "id": "m026",
+    "monster_id": 113,
+    "nom_fr": "Gorerille",
+    "nom_en": "Gorerilla"
+  },
+  "m034": {
+    "id": "m034",
+    "monster_id": 114,
+    "nom_fr": "Scorpion",
+    "nom_en": "Scorpion"
+  },
+  "m028": {
+    "id": "m028",
+    "monster_id": 115,
+    "nom_fr": "Aligatueur",
+    "nom_en": "Heligator"
+  },
+  "m031": {
+    "id": "m031",
+    "monster_id": 116,
+    "nom_fr": "Smilodon",
+    "nom_en": "Great Sabrecat"
+  },
+  "m035b": {
+    "id": "m035b",
+    "monster_id": 117,
+    "nom_fr": "Faucondor",
+    "nom_en": "Garuda"
+  },
+  "m041": {
+    "id": "m041",
+    "monster_id": 121,
+    "nom_fr": "Calmaroi",
+    "nom_en": "King Squid"
+  },
+  "m042": {
+    "id": "m042",
+    "monster_id": 122,
+    "nom_fr": "Khalamar",
+    "nom_en": "Khalamari"
+  },
+  "m043": {
+    "id": "m043",
+    "monster_id": 123,
+    "nom_fr": "Léopold",
+    "nom_en": "Leopold"
+  },
+  "m044": {
+    "id": "m044",
+    "monster_id": 124,
+    "nom_fr": "Empyréa",
+    "nom_en": "Empyrea"
+  },
+  "m011": {
+    "id": "m011",
+    "monster_id": 125,
+    "nom_fr": "Lièvrecorne",
+    "nom_en": "Spiked Hare"
+  },
+  "m240": {
+    "id": "m240",
+    "monster_id": 127,
+    "nom_fr": "Sanglimer",
+    "nom_en": "Wild Boarfish"
+  },
+  "m241": {
+    "id": "m241",
+    "monster_id": 128,
+    "nom_fr": "Malicongre",
+    "nom_en": "Eveel"
+  },
+  "m235": {
+    "id": "m235",
+    "monster_id": 129,
+    "nom_fr": "Rase-Marée",
+    "nom_en": "Riptide"
+  },
+  "m040b": {
+    "id": "m040b",
+    "monster_id": 130,
+    "nom_fr": "Scarabrute",
+    "nom_en": "Beetlebully"
+  },
+  "m099": {
+    "id": "m099",
+    "monster_id": 144,
+    "nom_fr": "Pataupe",
+    "nom_en": "Mischievous Mole"
+  },
+  "m056": {
+    "id": "m056",
+    "monster_id": 145,
+    "nom_fr": "Archer Vert",
+    "nom_en": "Bodkin Archer"
+  },
+  "m102": {
+    "id": "m102",
+    "monster_id": 146,
+    "nom_fr": "Marteleur",
+    "nom_en": "Hammerhood"
+  },
+  "m066": {
+    "id": "m066",
+    "monster_id": 147,
+    "nom_fr": "Faune",
+    "nom_en": "Satyr"
+  },
+  "m037": {
+    "id": "m037",
+    "monster_id": 148,
+    "nom_fr": "Carnigore",
+    "nom_en": "Jumping Jackal"
+  },
+  "m030": {
+    "id": "m030",
+    "monster_id": 150,
+    "nom_fr": "Canidémon",
+    "nom_en": "Chainine"
+  },
+  "m101": {
+    "id": "m101",
+    "monster_id": 151,
+    "nom_fr": "Marionnettiste",
+    "nom_en": "Puppeteer"
+  },
+  "m040": {
+    "id": "m040",
+    "monster_id": 152,
+    "nom_fr": "Scarablindé",
+    "nom_en": "Beetleboy"
+  },
+  "m036": {
+    "id": "m036",
+    "monster_id": 153,
+    "nom_fr": "Orque",
+    "nom_en": "Orc"
+  },
+  "m065": {
+    "id": "m065",
+    "monster_id": 154,
+    "nom_fr": "Chasseur de Têtes",
+    "nom_en": "Headhunter"
+  },
+  "m231": {
+    "id": "m231",
+    "monster_id": 155,
+    "nom_fr": "Prêtre Damné",
+    "nom_en": "Fallen Priest"
+  },
+  "m063": {
+    "id": "m063",
+    "monster_id": 156,
+    "nom_fr": "Mousquetueur",
+    "nom_en": "Fencing Fox"
+  },
+  "m066b": {
+    "id": "m066b",
+    "monster_id": 157,
+    "nom_fr": "Bélicorne",
+    "nom_en": "Pan Piper"
+  },
+  "m078": {
+    "id": "m078",
+    "monster_id": 159,
+    "nom_fr": "Gargouille",
+    "nom_en": "Gargoyle"
+  },
+  "m209": {
+    "id": "m209",
+    "monster_id": 160,
+    "nom_fr": "Tigriff",
+    "nom_en": "Weartiger"
+  },
+  "m082": {
+    "id": "m082",
+    "monster_id": 162,
+    "nom_fr": "Géant",
+    "nom_en": "Gigantes"
+  },
+  "m077": {
+    "id": "m077",
+    "monster_id": 163,
+    "nom_fr": "Cocoricoq",
+    "nom_en": "Cockateer"
+  },
+  "m073": {
+    "id": "m073",
+    "monster_id": 165,
+    "nom_fr": "Meno Macho",
+    "nom_en": "Notso Macho"
+  },
+  "m083": {
+    "id": "m083",
+    "monster_id": 167,
+    "nom_fr": "Chef Troll",
+    "nom_en": "Boss Troll"
+  },
+  "m082b": {
+    "id": "m082b",
+    "monster_id": 168,
+    "nom_fr": "Atlas",
+    "nom_en": "Atlas"
+  },
+  "m122": {
+    "id": "m122",
+    "monster_id": 169,
+    "nom_fr": "Mister Taupe",
+    "nom_en": "Don Mole"
+  },
+  "m081": {
+    "id": "m081",
+    "monster_id": 170,
+    "nom_fr": "Chaperon Vert",
+    "nom_en": "Robbin' Hood"
+  },
+  "m095": {
+    "id": "m095",
+    "monster_id": 171,
+    "nom_fr": "Dhoulmagus",
+    "nom_en": "Dhoulmagus"
+  },
+  "m096": {
+    "id": "m096",
+    "monster_id": 172,
+    "nom_fr": "Rhapthorne",
+    "nom_en": "Rhapthorne"
+  },
+  "m097": {
+    "id": "m097",
+    "monster_id": 173,
+    "nom_fr": "Rhapthorne",
+    "nom_en": "Rhapthorne"
+  },
+  "m180b": {
+    "id": "m180b",
+    "monster_id": 174,
+    "nom_fr": "As de Pique",
+    "nom_en": "Ace of Spades"
+  },
+  "m102b": {
+    "id": "m102b",
+    "monster_id": 175,
+    "nom_fr": "Martebrun",
+    "nom_en": "Brownie"
+  },
+  "m098": {
+    "id": "m098",
+    "monster_id": 192,
+    "nom_fr": "Maransac",
+    "nom_en": "Bag o' Laughs"
+  },
+  "m194": {
+    "id": "m194",
+    "monster_id": 193,
+    "nom_fr": "Tristecire",
+    "nom_en": "Wax Murderer"
+  },
+  "m055": {
+    "id": "m055",
+    "monster_id": 194,
+    "nom_fr": "Feu Follet",
+    "nom_en": "Firespirit"
+  },
+  "m106": {
+    "id": "m106",
+    "monster_id": 195,
+    "nom_fr": "Rouage-Gorge",
+    "nom_en": "Mecha-Mynah"
+  },
+  "m103": {
+    "id": "m103",
+    "monster_id": 196,
+    "nom_fr": "Pantin de Boue",
+    "nom_en": "Mud Mannequin"
+  },
+  "m105": {
+    "id": "m105",
+    "monster_id": 197,
+    "nom_fr": "Dingo-Dong",
+    "nom_en": "Dingaling"
+  },
+  "m100": {
+    "id": "m100",
+    "monster_id": 198,
+    "nom_fr": "Sacatrésor",
+    "nom_en": "Goodybag"
+  },
+  "m057": {
+    "id": "m057",
+    "monster_id": 199,
+    "nom_fr": "Ombre",
+    "nom_en": "Shadow"
+  },
+  "m107": {
+    "id": "m107",
+    "monster_id": 200,
+    "nom_fr": "Canniboîte",
+    "nom_en": "Cannibox"
+  },
+  "m070": {
+    "id": "m070",
+    "monster_id": 201,
+    "nom_fr": "Spitnik",
+    "nom_en": "Spitnik"
+  },
+  "m119b": {
+    "id": "m119b",
+    "monster_id": 202,
+    "nom_fr": "Mécachasseur",
+    "nom_en": "Hunter Mech"
+  },
+  "m108": {
+    "id": "m108",
+    "monster_id": 203,
+    "nom_fr": "Rochexplosif",
+    "nom_en": "Rockbomb"
+  },
+  "m109": {
+    "id": "m109",
+    "monster_id": 204,
+    "nom_fr": "Sal",
+    "nom_en": "Mum"
+  },
+  "m116": {
+    "id": "m116",
+    "monster_id": 205,
+    "nom_fr": "Golem",
+    "nom_en": "Golem"
+  },
+  "m110": {
+    "id": "m110",
+    "monster_id": 206,
+    "nom_fr": "Mi",
+    "nom_en": "Boh"
+  },
+  "m024": {
+    "id": "m024",
+    "monster_id": 207,
+    "nom_fr": "Brûleflamme",
+    "nom_en": "Dancing Flame"
+  },
+  "m111": {
+    "id": "m111",
+    "monster_id": 208,
+    "nom_fr": "Gon",
+    "nom_en": "Jum"
+  },
+  "m024b": {
+    "id": "m024b",
+    "monster_id": 209,
+    "nom_fr": "Brûlegel",
+    "nom_en": "Frostburn"
+  },
+  "m112": {
+    "id": "m112",
+    "monster_id": 210,
+    "nom_fr": "Dis",
+    "nom_en": "Boe"
+  },
+  "m025": {
+    "id": "m025",
+    "monster_id": 211,
+    "nom_fr": "Royalgue",
+    "nom_en": "King Kelp"
+  },
+  "m107b": {
+    "id": "m107b",
+    "monster_id": 212,
+    "nom_fr": "Imitapeur",
+    "nom_en": "Mimic"
+  },
+  "m114": {
+    "id": "m114",
+    "monster_id": 213,
+    "nom_fr": "Monstromasque",
+    "nom_en": "Diemon"
+  },
+  "m116b": {
+    "id": "m116b",
+    "monster_id": 215,
+    "nom_fr": "Golem d'Or",
+    "nom_en": "Gold Golem"
+  },
+  "m117": {
+    "id": "m117",
+    "monster_id": 216,
+    "nom_fr": "Statue Vivante",
+    "nom_en": "Living Statue"
+  },
+  "m118": {
+    "id": "m118",
+    "monster_id": 217,
+    "nom_fr": "Boïte à Pièges",
+    "nom_en": "Trap Box"
+  },
+  "m119": {
+    "id": "m119",
+    "monster_id": 218,
+    "nom_fr": "Machine à Tuer",
+    "nom_en": "Killing Machine"
+  },
+  "m120": {
+    "id": "m120",
+    "monster_id": 219,
+    "nom_fr": "Salmigondis",
+    "nom_en": "Mumboh-Jumboe"
+  },
+  "m121": {
+    "id": "m121",
+    "monster_id": 220,
+    "nom_fr": "Ruine",
+    "nom_en": "Ruin"
+  },
+  "m196": {
+    "id": "m196",
+    "monster_id": 221,
+    "nom_fr": "Psaro",
+    "nom_en": "Psaro"
+  },
+  "m197": {
+    "id": "m197",
+    "monster_id": 222,
+    "nom_fr": "Estark",
+    "nom_en": "Estark"
+  },
+  "m246": {
+    "id": "m246",
+    "monster_id": 223,
+    "nom_fr": "Mutancre",
+    "nom_en": "Anchorman"
+  },
+  "m053": {
+    "id": "m053",
+    "monster_id": 240,
+    "nom_fr": "Vampivol",
+    "nom_en": "Dracky"
+  },
+  "m067": {
+    "id": "m067",
+    "monster_id": 241,
+    "nom_fr": "Bisebave",
+    "nom_en": "Lips"
+  },
+  "m058": {
+    "id": "m058",
+    "monster_id": 242,
+    "nom_fr": "Clindœil",
+    "nom_en": "Winky"
+  },
+  "m059": {
+    "id": "m059",
+    "monster_id": 243,
+    "nom_fr": "Diablotin",
+    "nom_en": "Imp"
+  },
+  "m064": {
+    "id": "m064",
+    "monster_id": 244,
+    "nom_fr": "Sorcimol",
+    "nom_en": "Lump Wizard"
+  },
+  "m068": {
+    "id": "m068",
+    "monster_id": 245,
+    "nom_fr": "Empereur Nocturne",
+    "nom_en": "Night Emperor"
+  },
+  "m060": {
+    "id": "m060",
+    "monster_id": 246,
+    "nom_fr": "Diable Dansant",
+    "nom_en": "Dancing Devil"
+  },
+  "m062": {
+    "id": "m062",
+    "monster_id": 248,
+    "nom_fr": "Sirénien",
+    "nom_en": "Merman"
+  },
+  "m071": {
+    "id": "m071",
+    "monster_id": 249,
+    "nom_fr": "Démon Inférieur",
+    "nom_en": "Lesser Demon"
+  },
+  "m074": {
+    "id": "m074",
+    "monster_id": 250,
+    "nom_fr": "Griffon",
+    "nom_en": "Gryphon"
+  },
+  "m075": {
+    "id": "m075",
+    "monster_id": 252,
+    "nom_fr": "Garde Octavien",
+    "nom_en": "Octavian Sentry"
+  },
+  "m210": {
+    "id": "m210",
+    "monster_id": 253,
+    "nom_fr": "Silvapithèque",
+    "nom_en": "Silvapithecus"
+  },
+  "m084": {
+    "id": "m084",
+    "monster_id": 255,
+    "nom_fr": "Archidémon",
+    "nom_en": "Archdemon"
+  },
+  "m211": {
+    "id": "m211",
+    "monster_id": 256,
+    "nom_fr": "Belzébik",
+    "nom_en": "Moosifer"
+  },
+  "m087": {
+    "id": "m087",
+    "monster_id": 257,
+    "nom_fr": "Encorneur",
+    "nom_en": "Buffalogre"
+  },
+  "m074b": {
+    "id": "m074b",
+    "monster_id": 258,
+    "nom_fr": "Jamirus",
+    "nom_en": "Jamirus"
+  },
+  "m088": {
+    "id": "m088",
+    "monster_id": 259,
+    "nom_fr": "Sangliogre",
+    "nom_en": "Mohawker"
+  },
+  "m210b": {
+    "id": "m210b",
+    "monster_id": 260,
+    "nom_fr": "Pazuzu",
+    "nom_en": "Pazuzu"
+  },
+  "m188": {
+    "id": "m188",
+    "monster_id": 261,
+    "nom_fr": "Gracos",
+    "nom_en": "Gracos"
+  },
+  "m084b": {
+    "id": "m084b",
+    "monster_id": 262,
+    "nom_fr": "Bélial",
+    "nom_en": "Belial"
+  },
+  "m190": {
+    "id": "m190",
+    "monster_id": 263,
+    "nom_fr": "Bastonnier",
+    "nom_en": "Night Clubber"
+  },
+  "m191": {
+    "id": "m191",
+    "monster_id": 264,
+    "nom_fr": "Malroth",
+    "nom_en": "Malroth"
+  },
+  "m192": {
+    "id": "m192",
+    "monster_id": 265,
+    "nom_fr": "Zoma",
+    "nom_en": "Zoma"
+  },
+  "m213": {
+    "id": "m213",
+    "monster_id": 266,
+    "nom_fr": "Nimzo",
+    "nom_en": "Nimzo"
+  },
+  "m193": {
+    "id": "m193",
+    "monster_id": 267,
+    "nom_fr": "Mortamor",
+    "nom_en": "Mortamor"
+  },
+  "m205": {
+    "id": "m205",
+    "monster_id": 268,
+    "nom_fr": "Orgodémir",
+    "nom_en": "Orgodemir"
+  },
+  "m242": {
+    "id": "m242",
+    "monster_id": 269,
+    "nom_fr": "Biglœil",
+    "nom_en": "See Urchin"
+  },
+  "m084c": {
+    "id": "m084c",
+    "monster_id": 270,
+    "nom_fr": "Démon du Dessert",
+    "nom_en": "Dessert Demon"
+  },
+  "m152c": {
+    "id": "m152c",
+    "monster_id": 271,
+    "nom_fr": "Armure Fatale",
+    "nom_en": "Lethal Armour"
+  },
+  "m248": {
+    "id": "m248",
+    "monster_id": 272,
+    "nom_fr": "Grand Vampivol",
+    "nom_en": "Great Dracky"
+  },
+  "m231b": {
+    "id": "m231b",
+    "monster_id": 273,
+    "nom_fr": "Cyclomage",
+    "nom_en": "Wrecktor"
+  },
+  "m230": {
+    "id": "m230",
+    "monster_id": 274,
+    "nom_fr": "Shivattak",
+    "nom_en": "Demon-At-Arms"
+  },
+  "m199": {
+    "id": "m199",
+    "monster_id": 289,
+    "nom_fr": "Fantôme",
+    "nom_en": "Ghost"
+  },
+  "m200": {
+    "id": "m200",
+    "monster_id": 290,
+    "nom_fr": "Souche Louche",
+    "nom_en": "Stump Chump"
+  },
+  "m146": {
+    "id": "m146",
+    "monster_id": 292,
+    "nom_fr": "Main de Boue",
+    "nom_en": "Muddy Hand"
+  },
+  "m147": {
+    "id": "m147",
+    "monster_id": 294,
+    "nom_fr": "Champigoule",
+    "nom_en": "Funghoul"
+  },
+  "m148": {
+    "id": "m148",
+    "monster_id": 296,
+    "nom_fr": "Mort-Vivant",
+    "nom_en": "Walking Corpse"
+  },
+  "m154": {
+    "id": "m154",
+    "monster_id": 297,
+    "nom_fr": "Cavale-Démon",
+    "nom_en": "Demonrider"
+  },
+  "m149": {
+    "id": "m149",
+    "monster_id": 298,
+    "nom_fr": "Squelette",
+    "nom_en": "Skeleton"
+  },
+  "m152": {
+    "id": "m152",
+    "monster_id": 299,
+    "nom_fr": "Armure Errante",
+    "nom_en": "Restless Armour"
+  },
+  "m155b": {
+    "id": "m155b",
+    "monster_id": 300,
+    "nom_fr": "Cavalier Fantôme",
+    "nom_en": "Grim Rider"
+  },
+  "m150": {
+    "id": "m150",
+    "monster_id": 301,
+    "nom_fr": "Momignon",
+    "nom_en": "Mummy Boy"
+  },
+  "m151": {
+    "id": "m151",
+    "monster_id": 302,
+    "nom_fr": "Grouillâme",
+    "nom_en": "Soulspawn"
+  },
+  "m025b": {
+    "id": "m025b",
+    "monster_id": 303,
+    "nom_fr": "Hurlherbe",
+    "nom_en": "Wailin' Weed"
+  },
+  "m153": {
+    "id": "m153",
+    "monster_id": 304,
+    "nom_fr": "Escrimeur Fantôme",
+    "nom_en": "Phantom Fencer"
+  },
+  "m152b": {
+    "id": "m152b",
+    "monster_id": 305,
+    "nom_fr": "Rosegarde",
+    "nom_en": "Roseguardin"
+  },
+  "m155": {
+    "id": "m155",
+    "monster_id": 306,
+    "nom_fr": "Baron d'Os",
+    "nom_en": "Bone Baron"
+  },
+  "m156": {
+    "id": "m156",
+    "monster_id": 307,
+    "nom_fr": "Décapitête",
+    "nom_en": "Dullahan"
+  },
+  "m157": {
+    "id": "m157",
+    "monster_id": 308,
+    "nom_fr": "Âme en Peine",
+    "nom_en": "Tortured Soul"
+  },
+  "m158": {
+    "id": "m158",
+    "monster_id": 309,
+    "nom_fr": "Capitaine Crow",
+    "nom_en": "Captain Crow"
+  },
+  "m206": {
+    "id": "m206",
+    "monster_id": 310,
+    "nom_fr": "Dr Rebelote",
+    "nom_en": "Dr. Snapped"
+  },
+  "m234": {
+    "id": "m234",
+    "monster_id": 311,
+    "nom_fr": "Bottœil",
+    "nom_en": "Skipper"
+  },
+  "m236": {
+    "id": "m236",
+    "monster_id": 312,
+    "nom_fr": "Mouchomme",
+    "nom_en": "Flyguy"
+  },
+  "m238": {
+    "id": "m238",
+    "monster_id": 313,
+    "nom_fr": "Chien de l'Enfer",
+    "nom_en": "Hellhound"
+  },
+  "m149b": {
+    "id": "m149b",
+    "monster_id": 314,
+    "nom_fr": "Soldat Squelette",
+    "nom_en": "Skeleton Soldier"
+  },
+  "m153b": {
+    "id": "m153b",
+    "monster_id": 315,
+    "nom_fr": "Épéiste Fantôme",
+    "nom_en": "Phantom Swordsman"
+  },
+  "m157b": {
+    "id": "m157b",
+    "monster_id": 316,
+    "nom_fr": "Roi Maudit",
+    "nom_en": "Wight King"
+  },
+  "m176": {
+    "id": "m176",
+    "monster_id": 336,
+    "nom_fr": "Apik",
+    "nom_en": "Wulfspade"
+  },
+  "m177": {
+    "id": "m177",
+    "monster_id": 337,
+    "nom_fr": "Akœur",
+    "nom_en": "Hawkhart"
+  },
+  "m178": {
+    "id": "m178",
+    "monster_id": 338,
+    "nom_fr": "Atrèfle",
+    "nom_en": "Cluboon"
+  },
+  "m179": {
+    "id": "m179",
+    "monster_id": 339,
+    "nom_fr": "Akaro",
+    "nom_en": "Diamagon"
+  },
+  "m180": {
+    "id": "m180",
+    "monster_id": 340,
+    "nom_fr": "Atoupik",
+    "nom_en": "Wulfspade Ace"
+  },
+  "m181": {
+    "id": "m181",
+    "monster_id": 341,
+    "nom_fr": "Atoukœur",
+    "nom_en": "Hawkhart Ace"
+  },
+  "m182": {
+    "id": "m182",
+    "monster_id": 342,
+    "nom_fr": "Atoutrèfle",
+    "nom_en": "Cluboon Ace"
+  },
+  "m183": {
+    "id": "m183",
+    "monster_id": 343,
+    "nom_fr": "Atoukaro",
+    "nom_en": "Diamagon Ace"
+  },
+  "m180c": {
+    "id": "m180c",
+    "monster_id": 344,
+    "nom_fr": "Joker",
+    "nom_en": "Wildcard"
+  },
+  "m246_01": {
+    "id": "m246_01",
+    "monster_id": 223,
+    "nom_fr": "Mutancre (Ancre)",
+    "nom_en": "Anchorman (Anchor)"
+  },
+  "cool": {
+    "id": "cool",
+    "monster_id": 0,
+    "nom_fr": "Héros",
+    "nom_en": "Hero"
+  },
+  "cool_jet": {
+    "id": "cool_jet",
+    "monster_id": 0,
+    "nom_fr": "Héros (Scooter des mers)",
+    "nom_en": "Hero (Watercraft)"
+  }
+}

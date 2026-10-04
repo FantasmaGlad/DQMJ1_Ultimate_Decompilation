@@ -1,0 +1,3849 @@
+id,chemin,offset_rom,taille,type_suppose
+0,"<sans nom, id=0>",0x7ce00,378912,
+1,"<sans nom, id=1>",0xd9800,618112,
+2,"<sans nom, id=2>",0x170800,480736,
+3,AbilityTbl.bin,0x639d200,3168,Donnees brutes (a identifier)
+4,AI_ActionTBL.bin,0x6393600,256,Donnees brutes (a identifier)
+5,AI_CorrectTbl.bin,0x6393800,2048,Donnees brutes (a identifier)
+6,AI_IntelTBL.bin,0x6394000,2560,Donnees brutes (a identifier)
+7,AI_PatternTbl.bin,0x6394a00,31440,Donnees brutes (a identifier)
+8,AI_TargetSelectAllyTbl.bin,0x639c600,1280,Donnees brutes (a identifier)
+9,AI_TargetSelectEnemyTbl.bin,0x639cc00,768,Donnees brutes (a identifier)
+10,AI_TargetSelectItemTbl.bin,0x639d000,32,Donnees brutes (a identifier)
+11,b000h.scn,0x2899400,136,
+12,bd001.nsbmd,0x2899600,43140,Modele 3D
+13,bd011.nsbmd,0x28a4000,50176,Modele 3D
+14,bd012.nsbmd,0x28b0400,48564,Modele 3D
+15,bd013.nsbmd,0x28bc200,32080,Modele 3D
+16,bd013a.nsbmd,0x28c4000,67980,Modele 3D
+17,bd021.nsbmd,0x28d4a00,39476,Modele 3D
+18,bd031.nsbmd,0x28de600,92348,Modele 3D
+19,bd032.nsbmd,0x28f5000,19548,Modele 3D
+20,bd033.nsbmd,0x28f9e00,70764,Modele 3D
+21,bd034.nsbmd,0x290b400,70764,Modele 3D
+22,bd035.nsbmd,0x291ca00,70764,Modele 3D
+23,bd036.nsbmd,0x292e000,70764,Modele 3D
+24,bd041.nsbmd,0x293f600,37668,Modele 3D
+25,bd041a.nsbmd,0x2948a00,61392,Modele 3D
+26,bd042.nsbmd,0x2957a00,37668,Modele 3D
+27,bd051.nsbmd,0x2960e00,62552,Modele 3D
+28,bd052.nsbmd,0x2970400,61892,Modele 3D
+29,bd053a.nsbmd,0x297f600,45060,Modele 3D
+30,bd053b.nsbmd,0x298a800,46596,Modele 3D
+31,bd054a.nsbmd,0x2996000,79780,Modele 3D
+32,bd054b.nsbmd,0x29a9800,79448,Modele 3D
+33,bd071a.nsbmd,0x29bd000,85752,Modele 3D
+34,bd072a.nsbmd,0x29d2000,77500,Modele 3D
+35,bd073a.nsbmd,0x29e5000,70040,Modele 3D
+36,bd074a.nsbmd,0x29f6200,61320,Modele 3D
+37,bd075a.nsbmd,0x2a05200,61180,Modele 3D
+38,bd076a.nsbmd,0x2a14200,86056,Modele 3D
+39,bd077a.nsbmd,0x2a29400,43388,Modele 3D
+40,bd078a.nsbmd,0x2a33e00,45768,Modele 3D
+41,be004.nsbmd,0x2a3f200,67964,Modele 3D
+42,bf0011a.nsbmd,0x2a4fc00,82608,Modele 3D
+43,bf0011b.nsbmd,0x2a64000,73984,Modele 3D
+44,bf001a.nsbmd,0x2a76200,53612,Modele 3D
+45,bf001b.nsbmd,0x2a83400,67052,Modele 3D
+46,bf002a.nsbmd,0x2a93a00,39180,Modele 3D
+47,bf002b.nsbmd,0x2a9d400,60692,Modele 3D
+48,bf003a.nsbmd,0x2aac200,21324,Modele 3D
+49,bf003b.nsbmd,0x2ab1600,20692,Modele 3D
+50,bf004a.nsbmd,0x2ab6800,80096,Modele 3D
+51,bf004b.nsbmd,0x2aca200,80184,Modele 3D
+52,bf011a.nsbmd,0x2addc00,48320,Modele 3D
+53,bf011b.nsbmd,0x2ae9a00,54116,Modele 3D
+54,bf012a.nsbmd,0x2af6e00,33748,Modele 3D
+55,bf012b.nsbmd,0x2aff200,43428,Modele 3D
+56,bf013a.nsbmd,0x2b09c00,39612,Modele 3D
+57,bf013b.nsbmd,0x2b13800,45196,Modele 3D
+58,bf021a.nsbmd,0x2b1ea00,71504,Modele 3D
+59,bf031a.nsbmd,0x2b30200,37764,Modele 3D
+60,bf031b.nsbmd,0x2b39600,37764,Modele 3D
+61,bf032a.nsbmd,0x2b42a00,47552,Modele 3D
+62,bf032b.nsbmd,0x2b4e400,47436,Modele 3D
+63,bf033a.nsbmd,0x2b59e00,37760,Modele 3D
+64,bf033b.nsbmd,0x2b63200,37788,Modele 3D
+65,bf041a.nsbmd,0x2b6c600,44092,Modele 3D
+66,bf041b.nsbmd,0x2b77400,61840,Modele 3D
+67,bf042a.nsbmd,0x2b86600,37336,Modele 3D
+68,bf042b.nsbmd,0x2b8f800,37320,Modele 3D
+69,bf043a.nsbmd,0x2b98a00,37440,Modele 3D
+70,bf043b.nsbmd,0x2ba1e00,37432,Modele 3D
+71,bf044a.nsbmd,0x2bab200,20120,Modele 3D
+72,bf044b.nsbmd,0x2bb0200,18868,Modele 3D
+73,bf045a.nsbmd,0x2bb4c00,42788,Modele 3D
+74,bf045b.nsbmd,0x2bbf400,53092,Modele 3D
+75,bf046a.nsbmd,0x2bcc400,45576,Modele 3D
+76,bf046b.nsbmd,0x2bd7800,49688,Modele 3D
+77,bf047a.nsbmd,0x2be3c00,58144,Modele 3D
+78,bf047b.nsbmd,0x2bf2000,64284,Modele 3D
+79,bf051a.nsbmd,0x2c01c00,53316,Modele 3D
+80,bf051b.nsbmd,0x2c0ee00,50244,Modele 3D
+81,bf052a.nsbmd,0x2c1b400,51060,Modele 3D
+82,bf052b.nsbmd,0x2c27c00,47988,Modele 3D
+83,bf053a.nsbmd,0x2c33800,64928,Modele 3D
+84,bf053b.nsbmd,0x2c43600,65952,Modele 3D
+85,bf054.nsbmd,0x2c53800,53672,Modele 3D
+86,bf061a.nsbmd,0x2c60a00,46200,Modele 3D
+87,bf061b.nsbmd,0x2c6c000,41592,Modele 3D
+88,bf071a.nsbmd,0x2c76400,45856,Modele 3D
+89,bf072a.nsbmd,0x2c81800,96656,Modele 3D
+90,bf072b.nsbmd,0x2c99200,95740,Modele 3D
+91,bf073a.nsbmd,0x2cb0800,104892,Modele 3D
+92,bh002.nsbmd,0x2cca200,50416,Modele 3D
+93,bh002a.nsbmd,0x2cd6800,50040,Modele 3D
+94,bh003.nsbmd,0x2ce2c00,81520,Modele 3D
+95,btl_data.bin,0x6852800,17760,Donnees brutes (a identifier)
+96,BtlChrTbl.bin,0x639e000,10114,Donnees brutes (a identifier)
+97,BtlChrTimeTbl.bin,0x63a0800,4224,Donnees brutes (a identifier)
+98,BtlEfcTbl.bin,0x63a1a00,32256,Donnees brutes (a identifier)
+99,BtlEfcTblWhip.bin,0x63a9800,126,Donnees brutes (a identifier)
+100,BtlEnmyPrm.bin,0x63a9a00,77448,Donnees brutes (a identifier)
+101,BtlMstrPrm.bin,0x63bca00,5128,Donnees brutes (a identifier)
+102,ca01.can,0x2e69400,760,
+103,ca02.can,0x2e69800,760,
+104,ca03.can,0x2e69c00,2200,
+105,ca04.can,0x2e6a600,2200,
+106,ca05.can,0x2e6b000,2200,
+107,ca06.can,0x2e6ba00,2200,
+108,ca07.can,0x2e6c400,2200,
+109,ca08.can,0x2e6ce00,1480,
+110,ChgContentTbl.bin,0x63be000,7208,Donnees brutes (a identifier)
+111,ChgMnstrTbl.bin,0x63bfe00,3476,Donnees brutes (a identifier)
+112,console_data_D.bin,0x6856e00,118208,Donnees brutes (a identifier)
+113,console_data_E.bin,0x6873c00,118208,Donnees brutes (a identifier)
+114,console_data_F.bin,0x6890a00,118220,Donnees brutes (a identifier)
+115,console_data_I.bin,0x68ad800,118208,Donnees brutes (a identifier)
+116,console_data_S.bin,0x68ca600,118208,Donnees brutes (a identifier)
+117,cool.nsbmd,0x22c800,50868,Modele 3D
+118,cool_00.nsbca,0xaee600,7164,Animation de squelette 3D
+119,cool_01.nsbca,0xaf0200,4684,Animation de squelette 3D
+120,cool_02.nsbca,0xaf1600,68908,Animation de squelette 3D
+121,cool_03.nsbca,0xb02400,16980,Animation de squelette 3D
+122,cool_04.nsbca,0xb06800,4320,Animation de squelette 3D
+123,cool_05.nsbca,0xb07a00,2620,Animation de squelette 3D
+124,cool_06.nsbca,0xb08600,14852,Animation de squelette 3D
+125,cool_07.nsbca,0xb0c200,14592,Animation de squelette 3D
+126,cool_08.nsbca,0xb0fc00,3996,Animation de squelette 3D
+127,cool_09.nsbca,0xb10c00,7540,Animation de squelette 3D
+128,cool_10.nsbca,0xb12a00,5304,Animation de squelette 3D
+129,cool_11.nsbca,0xb14000,5140,Animation de squelette 3D
+130,cool_12.nsbca,0xb15600,5488,Animation de squelette 3D
+131,cool_13.nsbca,0xb16c00,3928,Animation de squelette 3D
+132,cool_14.nsbca,0xb17c00,15132,Animation de squelette 3D
+133,cool_15.nsbca,0xb1b800,4768,Animation de squelette 3D
+134,cool_16.nsbca,0xb1cc00,4720,Animation de squelette 3D
+135,cool_17.nsbca,0xb1e000,4592,Animation de squelette 3D
+136,cool_18.nsbca,0xb1f200,11424,Animation de squelette 3D
+137,cool_19.nsbca,0xb22000,4592,Animation de squelette 3D
+138,cool_20.nsbca,0xb23200,7444,Animation de squelette 3D
+139,cool_21.nsbca,0xb25000,7324,Animation de squelette 3D
+140,cool_22.nsbca,0xb26e00,4860,Animation de squelette 3D
+141,cool_23.nsbca,0xb28200,4404,Animation de squelette 3D
+142,cool_24.nsbca,0xb29400,4456,Animation de squelette 3D
+143,cool_25.nsbca,0xb2a600,7936,Animation de squelette 3D
+144,cool_26.nsbca,0xb2c600,4632,Animation de squelette 3D
+145,cool_27.nsbca,0xb2da00,3604,Animation de squelette 3D
+146,cool_28.nsbca,0xb2ea00,4560,Animation de squelette 3D
+147,cool_29.nsbca,0xb2fc00,4144,Animation de squelette 3D
+148,cool_30.nsbca,0xb30e00,6020,Animation de squelette 3D
+149,cool_31.nsbca,0xb32600,4736,Animation de squelette 3D
+150,cool_32.nsbca,0xb33a00,3328,Animation de squelette 3D
+151,cool_jet.nsbca,0xb34800,5972,Animation de squelette 3D
+152,cool_jet.nsbmd,0x239000,39088,Modele 3D
+153,D001.enct,0x2cf6c00,40,
+154,d001.evD,0x326ec00,28820,
+155,d001.evF,0x3275e00,28800,
+156,d001.evI,0x327d000,28888,
+157,d001.evS,0x3284200,28968,
+158,d001.evt,0x328b400,28648,
+159,d001.map,0x1609a00,153112,
+160,D011.enct,0x2cf6e00,40,
+161,d011.evD,0x3292400,37688,
+162,d011.evF,0x329b800,37688,
+163,d011.evI,0x32a4c00,37772,
+164,d011.evS,0x32ae000,37852,
+165,d011.evt,0x32b7400,37548,
+166,d011.map,0x162f200,115552,
+167,D012.enct,0x2cf7000,40,
+168,d012.evD,0x32c0800,29044,
+169,d012.evF,0x32c7a00,29044,
+170,d012.evI,0x32cec00,29128,
+171,d012.evS,0x32d5e00,29208,
+172,d012.evt,0x32dd200,28904,
+173,d012.map,0x164b600,203832,
+174,D013.enct,0x2cf7200,40,
+175,d013.evD,0x32e4400,25732,
+176,d013.evF,0x32eaa00,25720,
+177,d013.evI,0x32f1000,25804,
+178,d013.evS,0x32f7600,25896,
+179,d013.evt,0x32fdc00,25564,
+180,d013.map,0x167d400,98412,
+181,D014.enct,0x2cf7400,40,
+182,d014.evD,0x3304000,34740,
+183,d014.evF,0x330c800,34740,
+184,d014.evI,0x3315000,34824,
+185,d014.evS,0x331da00,34904,
+186,d014.evt,0x3326400,34600,
+187,d014.map,0x1695600,232120,
+188,d021.evD,0x332ec00,74792,
+189,d021.evF,0x3341200,75008,
+190,d021.evI,0x3353800,74020,
+191,d021.evS,0x3365a00,72852,
+192,d021.evt,0x3377800,72564,
+193,d021.map,0x16ce200,151524,
+194,d022.evD,0x3389400,48116,
+195,d022.evF,0x3395000,48024,
+196,d022.evI,0x33a0c00,47616,
+197,d022.evS,0x33ac600,47448,
+198,d022.evt,0x33b8000,47064,
+199,d022.map,0x16f3200,120080,
+200,d031.evD,0x33c3800,26684,
+201,d031.evF,0x33ca200,26756,
+202,d031.evI,0x33d0c00,26872,
+203,d031.evS,0x33d7600,26908,
+204,d031.evt,0x33de000,26560,
+205,d031.map,0x1710800,113692,
+206,D032.enct,0x2cf7600,232,
+207,d032.evD,0x33e4800,31644,
+208,d032.evF,0x33ec400,31720,
+209,d032.evI,0x33f4000,31848,
+210,d032.evS,0x33fbe00,31860,
+211,d032.evt,0x3403c00,31508,
+212,d032.map,0x172c600,196120,
+213,D033.enct,0x2cf7800,232,
+214,d033.evD,0x340b800,37340,
+215,d033.evF,0x3414a00,37444,
+216,d033.evI,0x341de00,37564,
+217,d033.evS,0x3427200,37564,
+218,d033.evt,0x3430600,37204,
+219,d033.map,0x175c600,151492,
+220,D034.enct,0x2cf7a00,360,
+221,d034.evD,0x3439800,39684,
+222,d034.evF,0x3443400,39764,
+223,d034.evI,0x344d000,39896,
+224,d034.evS,0x3456c00,39904,
+225,d034.evt,0x3460800,39548,
+226,d034.map,0x1781600,260244,
+227,D041.enct,0x2cf7c00,136,
+228,d041.evD,0x346a400,49580,
+229,d041.evF,0x3476600,49604,
+230,d041.evI,0x3482800,49576,
+231,d041.evS,0x348ea00,49584,
+232,d041.evt,0x349ac00,49288,
+233,d041.map,0x17c1000,242980,
+234,D042.enct,0x2cf7e00,136,
+235,d042.evD,0x34a6e00,36996,
+236,d042.evF,0x34b0000,36984,
+237,d042.evI,0x34b9200,37076,
+238,d042.evS,0x34c2400,37092,
+239,d042.evt,0x34cb600,36784,
+240,d042.map,0x17fc600,197652,
+241,D043.enct,0x2cf8000,136,
+242,d043.evD,0x34d4600,32300,
+243,d043.evF,0x34dc600,32304,
+244,d043.evI,0x34e4600,32372,
+245,d043.evS,0x34ec600,32464,
+246,d043.evt,0x34f4600,32152,
+247,d043.map,0x182cc00,204392,
+248,D044.enct,0x2cf8200,136,
+249,d044.evD,0x34fc400,44024,
+250,d044.evF,0x3507000,44072,
+251,d044.evI,0x3511e00,44052,
+252,d044.evS,0x351cc00,44072,
+253,d044.evt,0x3527a00,43788,
+254,d044.map,0x185ec00,201592,
+255,D045.enct,0x2cf8400,136,
+256,d045.evD,0x3532600,41028,
+257,d045.evF,0x353c800,41044,
+258,d045.evI,0x3546a00,41068,
+259,d045.evS,0x3550c00,41136,
+260,d045.evt,0x355ae00,40844,
+261,d045.map,0x1890000,223780,
+262,D046.enct,0x2cf8600,136,
+263,d046.evD,0x3564e00,32300,
+264,d046.evF,0x356ce00,32304,
+265,d046.evI,0x3574e00,32372,
+266,d046.evS,0x357ce00,32464,
+267,d046.evt,0x3584e00,32152,
+268,d046.map,0x18c6c00,210640,
+269,D051.enct,0x2cf8800,104,
+270,d051.evD,0x358cc00,53696,
+271,d051.evF,0x3599e00,53744,
+272,d051.evI,0x35a7000,53772,
+273,d051.evS,0x35b4400,53836,
+274,d051.evt,0x35c1800,53164,
+275,d051.map,0x18fa400,235908,
+276,d052.evD,0x35ce800,54556,
+277,d052.evF,0x35dbe00,54296,
+278,d052.evI,0x35e9400,54508,
+279,d052.evS,0x35f6a00,54264,
+280,d052.evt,0x3603e00,53656,
+281,d052.map,0x1933e00,88064,
+282,d053.evD,0x3611000,56328,
+283,d053.evF,0x361ee00,56592,
+284,d053.evI,0x362cc00,56948,
+285,d053.evS,0x363ac00,56400,
+286,d053.evt,0x3648a00,56116,
+287,d053.map,0x1949600,212740,
+288,d054.evD,0x3656600,65548,
+289,d054.evF,0x3666800,65680,
+290,d054.evI,0x3676a00,66132,
+291,d054.evS,0x3686e00,65180,
+292,d054.evt,0x3696e00,64764,
+293,d054.map,0x197d600,203628,
+294,d055.evD,0x36a6c00,25700,
+295,d055.evF,0x36ad200,25704,
+296,d055.evI,0x36b3800,25788,
+297,d055.evS,0x36b9e00,25868,
+298,d055.evt,0x36c0400,25560,
+299,d055.map,0x19af200,158944,
+300,D071.enct,0x2cf8a00,40,
+301,d071.evD,0x36c6800,26076,
+302,d071.evF,0x36cce00,26076,
+303,d071.evI,0x36d3400,26160,
+304,d071.evS,0x36d9c00,26240,
+305,d071.evt,0x36e0400,25936,
+306,d071.map,0x19d6000,109160,
+307,D072.enct,0x2cf8c00,40,
+308,d072.evD,0x36e6a00,32856,
+309,d072.evF,0x36eec00,32856,
+310,d072.evI,0x36f6e00,32940,
+311,d072.evS,0x36ff000,33020,
+312,d072.evt,0x3707200,32716,
+313,d072.map,0x19f0c00,116972,
+314,D073.enct,0x2cf8e00,40,
+315,d073.evD,0x370f200,28824,
+316,d073.evF,0x3716400,28820,
+317,d073.evI,0x371d600,28896,
+318,d073.evS,0x3724800,28984,
+319,d073.evt,0x372ba00,28676,
+320,d073.map,0x1a0d600,181348,
+321,D074.enct,0x2cf9000,40,
+322,d074.evD,0x3732c00,26636,
+323,d074.evF,0x3739600,26636,
+324,d074.evI,0x3740000,26720,
+325,d074.evS,0x3746a00,26800,
+326,d074.evt,0x374d400,26496,
+327,d074.map,0x1a39c00,87084,
+328,D075.enct,0x2cf9200,72,
+329,d075.evD,0x3753c00,36048,
+330,d075.evF,0x375ca00,36048,
+331,d075.evI,0x3765800,36140,
+332,d075.evS,0x376e600,36208,
+333,d075.evt,0x3777400,35900,
+334,d075.map,0x1a4f200,140212,
+335,D076.enct,0x2cf9400,40,
+336,d076.evD,0x3780200,26428,
+337,d076.evF,0x3786a00,26428,
+338,d076.evI,0x378d200,26512,
+339,d076.evS,0x3793a00,26592,
+340,d076.evt,0x379a200,26288,
+341,d076.map,0x1a71600,90672,
+342,d077.evD,0x37a0a00,28724,
+343,d077.evF,0x37a7c00,28728,
+344,d077.evI,0x37aee00,28812,
+345,d077.evS,0x37b6000,28892,
+346,d077.evt,0x37bd200,28580,
+347,d077.map,0x1a87a00,184188,
+348,D078.enct,0x2cf9600,40,
+349,d078.evD,0x37c4200,26196,
+350,d078.evF,0x37caa00,26212,
+351,d078.evI,0x37d1200,26280,
+352,d078.evS,0x37d7a00,26364,
+353,d078.evt,0x37de200,26048,
+354,d078.map,0x1ab4a00,151560,
+355,DamageItemTbl.bin,0x63c0c00,1280,Donnees brutes (a identifier)
+356,DamageTbl.bin,0x63c1200,2048,Donnees brutes (a identifier)
+357,demo000.bin,0x48df600,5576,Donnees brutes (a identifier)
+358,demo000.pos,0x48e0c00,512,
+359,demo001.bin,0x48e0e00,39264,Donnees brutes (a identifier)
+360,demo001.pos,0x48ea800,1448,
+361,demo002.bin,0x48eae00,38300,Donnees brutes (a identifier)
+362,demo002.pos,0x48f4400,944,
+363,demo003.bin,0x48f4800,4784,Donnees brutes (a identifier)
+364,demo003.pos,0x48f5c00,2528,
+365,demo004.bin,0x48f6600,26764,Donnees brutes (a identifier)
+366,demo004.pos,0x48fd000,368,
+367,demo005.bin,0x48fd200,71812,Donnees brutes (a identifier)
+368,demo005.pos,0x490ec00,2600,
+369,demo006.bin,0x490f800,45644,Donnees brutes (a identifier)
+370,demo006.pos,0x491ac00,872,
+371,demo007.bin,0x491b000,26908,Donnees brutes (a identifier)
+372,demo007.pos,0x4921a00,440,
+373,demo008.bin,0x4921c00,31752,Donnees brutes (a identifier)
+374,demo008.pos,0x4929a00,1016,
+375,demo009.bin,0x4929e00,27212,Donnees brutes (a identifier)
+376,demo009.pos,0x4930a00,1592,
+377,demo010.bin,0x4931200,38996,Donnees brutes (a identifier)
+378,demo010.pos,0x493ac00,1160,
+379,demo011.bin,0x493b200,41756,Donnees brutes (a identifier)
+380,demo011.pos,0x4945600,1016,
+381,demo012.bin,0x4945a00,35184,Donnees brutes (a identifier)
+382,demo012.pos,0x494e400,512,
+383,demo013.bin,0x494e600,29092,Donnees brutes (a identifier)
+384,demo013.pos,0x4955800,1592,
+385,demo014.bin,0x4956000,26156,Donnees brutes (a identifier)
+386,demo014.pos,0x495c800,656,
+387,demo015.bin,0x495cc00,25132,Donnees brutes (a identifier)
+388,demo015.pos,0x4963000,368,
+389,demo016.bin,0x4963200,28276,Donnees brutes (a identifier)
+390,demo016.pos,0x496a200,800,
+391,demo017.bin,0x496a600,5392,Donnees brutes (a identifier)
+392,demo017.pos,0x496bc00,1304,
+393,demo018.bin,0x496c200,30264,Donnees brutes (a identifier)
+394,demo018.pos,0x4973a00,800,
+395,demo019.bin,0x4973e00,5776,Donnees brutes (a identifier)
+396,demo019.pos,0x4975600,368,
+397,demo020.bin,0x4975800,31504,Donnees brutes (a identifier)
+398,demo020.pos,0x497d400,800,
+399,demo021.bin,0x497d800,5776,Donnees brutes (a identifier)
+400,demo021.pos,0x497f000,512,
+401,demo022.bin,0x497f200,30276,Donnees brutes (a identifier)
+402,demo022.pos,0x4986a00,800,
+403,demo023.bin,0x4986e00,5760,Donnees brutes (a identifier)
+404,demo023.pos,0x4988600,1016,
+405,demo024.bin,0x4988a00,39804,Donnees brutes (a identifier)
+406,demo024.pos,0x4992600,1448,
+407,demo025.bin,0x4992c00,40068,Donnees brutes (a identifier)
+408,demo025.pos,0x499ca00,656,
+409,demo026.bin,0x499ce00,45880,Donnees brutes (a identifier)
+410,demo026.pos,0x49a8200,1952,
+411,demo027.bin,0x49a8a00,46608,Donnees brutes (a identifier)
+412,demo027.pos,0x49b4200,1880,
+413,demo028.bin,0x49b4a00,46908,Donnees brutes (a identifier)
+414,demo028.pos,0x49c0200,1952,
+415,demo029.bin,0x49c0a00,47380,Donnees brutes (a identifier)
+416,demo029.pos,0x49cc400,1376,
+417,demo030.bin,0x49cca00,42048,Donnees brutes (a identifier)
+418,demo030.pos,0x49d7000,1304,
+419,demo031.bin,0x49d7600,26840,Donnees brutes (a identifier)
+420,demo031.pos,0x49de000,944,
+421,demo032.bin,0x49de400,27240,Donnees brutes (a identifier)
+422,demo032.pos,0x49e5000,944,
+423,demo033.bin,0x49e5400,52104,Donnees brutes (a identifier)
+424,demo033.pos,0x49f2000,1448,
+425,demo034.bin,0x49f2600,40704,Donnees brutes (a identifier)
+426,demo034.pos,0x49fc600,1520,
+427,demo035.bin,0x49fcc00,34204,Donnees brutes (a identifier)
+428,demo035.pos,0x4a05200,1592,
+429,demo036.bin,0x4a05a00,33564,Donnees brutes (a identifier)
+430,demo036.pos,0x4a0de00,2024,
+431,demo037.bin,0x4a0e600,38600,Donnees brutes (a identifier)
+432,demo037.pos,0x4a17e00,656,
+433,demo038.bin,0x4a18200,39628,Donnees brutes (a identifier)
+434,demo038.pos,0x4a21e00,728,
+435,demo039.bin,0x4a22200,38420,Donnees brutes (a identifier)
+436,demo039.pos,0x4a2ba00,728,
+437,demo040.bin,0x4a2be00,4760,Donnees brutes (a identifier)
+438,demo040.pos,0x4a2d200,296,
+439,demo041.bin,0x4a2d400,34096,Donnees brutes (a identifier)
+440,demo041.pos,0x4a35a00,1592,
+441,demo042.bin,0x4a36200,38040,Donnees brutes (a identifier)
+442,demo042.pos,0x4a3f800,944,
+443,demo043.bin,0x4a3fc00,28472,Donnees brutes (a identifier)
+444,demo043.pos,0x4a46c00,584,
+445,demo044.bin,0x4a47000,29444,Donnees brutes (a identifier)
+446,demo044.pos,0x4a4e400,2384,
+447,demo045.bin,0x4a4ee00,29612,Donnees brutes (a identifier)
+448,demo045.pos,0x4a56200,512,
+449,demo046.bin,0x4a56400,42712,Donnees brutes (a identifier)
+450,demo046.pos,0x4a60c00,1304,
+451,demo047.bin,0x4a61200,32588,Donnees brutes (a identifier)
+452,demo047.pos,0x4a69200,800,
+453,demo048.bin,0x4a69600,30124,Donnees brutes (a identifier)
+454,demo048.pos,0x4a70c00,1592,
+455,demo049.bin,0x4a71400,30556,Donnees brutes (a identifier)
+456,demo049.pos,0x4a78c00,656,
+457,demo050.bin,0x4a79000,28328,Donnees brutes (a identifier)
+458,demo050.pos,0x4a80000,440,
+459,demo051.bin,0x4a80200,35132,Donnees brutes (a identifier)
+460,demo051.pos,0x4a88c00,1448,
+461,demo052.bin,0x4a89200,32124,Donnees brutes (a identifier)
+462,demo052.pos,0x4a91000,1592,
+463,demo053.bin,0x4a91800,31692,Donnees brutes (a identifier)
+464,demo053.pos,0x4a99400,1592,
+465,demo054.bin,0x4a99c00,31684,Donnees brutes (a identifier)
+466,demo054.pos,0x4aa1800,1592,
+467,demo055.bin,0x4aa2000,31252,Donnees brutes (a identifier)
+468,demo055.pos,0x4aa9c00,1448,
+469,demo056.bin,0x4aaa200,27080,Donnees brutes (a identifier)
+470,demo056.pos,0x4ab0c00,440,
+471,demo057.bin,0x4ab0e00,27444,Donnees brutes (a identifier)
+472,demo057.pos,0x4ab7a00,440,
+473,demo058.bin,0x4ab7c00,44516,Donnees brutes (a identifier)
+474,demo058.pos,0x4ac2a00,1376,
+475,demo059.bin,0x4ac3000,35360,Donnees brutes (a identifier)
+476,demo059.pos,0x4acbc00,1088,
+477,demo060.bin,0x4acc200,35320,Donnees brutes (a identifier)
+478,demo060.pos,0x4ad4c00,1592,
+479,demo061.bin,0x4ad5400,47260,Donnees brutes (a identifier)
+480,demo061.pos,0x4ae0e00,3104,
+481,demo062.bin,0x4ae1c00,34436,Donnees brutes (a identifier)
+482,demo062.pos,0x4aea400,1592,
+483,demo063.bin,0x4aeac00,34728,Donnees brutes (a identifier)
+484,demo063.pos,0x4af3400,368,
+485,demo064.bin,0x4af3600,72640,Donnees brutes (a identifier)
+486,demo064.pos,0x4b05200,2600,
+487,demo065.bin,0x4b05e00,49724,Donnees brutes (a identifier)
+488,demo065.pos,0x4b12200,1232,
+489,demo066.bin,0x4b12800,27476,Donnees brutes (a identifier)
+490,demo066.pos,0x4b19400,872,
+491,demo067.bin,0x4b19800,28128,Donnees brutes (a identifier)
+492,demo067.pos,0x4b20600,1592,
+493,demo068.bin,0x4b20e00,28008,Donnees brutes (a identifier)
+494,demo068.pos,0x4b27c00,1304,
+495,demo069.bin,0x4b28200,99268,Donnees brutes (a identifier)
+496,demo069.pos,0x4b40600,4184,
+497,demo070.bin,0x4b41800,35256,Donnees brutes (a identifier)
+498,demo070.pos,0x4b4a200,728,
+499,demo071.bin,0x4b4a600,28396,Donnees brutes (a identifier)
+500,demo071.pos,0x4b51600,944,
+501,demo072.bin,0x4b51a00,28116,Donnees brutes (a identifier)
+502,demo072.pos,0x4b58800,872,
+503,demo073.bin,0x4b58c00,5056,Donnees brutes (a identifier)
+504,demo073.pos,0x4b5a000,728,
+505,demo074.bin,0x4b5a400,4800,Donnees brutes (a identifier)
+506,demo074.pos,0x4b5b800,584,
+507,demo075.bin,0x4b5bc00,5048,Donnees brutes (a identifier)
+508,demo075.pos,0x4b5d000,1592,
+509,demo076.bin,0x4b5d800,4976,Donnees brutes (a identifier)
+510,demo076.pos,0x4b5ec00,1592,
+511,demo077.bin,0x4b5f400,31716,Donnees brutes (a identifier)
+512,demo077.pos,0x4b67000,1232,
+513,demo078.bin,0x4b67600,31728,Donnees brutes (a identifier)
+514,demo078.pos,0x4b6f200,1232,
+515,demo079.bin,0x4b6f800,31948,Donnees brutes (a identifier)
+516,demo079.pos,0x4b77600,1232,
+517,demo080.bin,0x4b77c00,6708,Donnees brutes (a identifier)
+518,demo080.pos,0x4b79800,1664,
+519,demo081.bin,0x4b7a000,6708,Donnees brutes (a identifier)
+520,demo082.bin,0x4b7bc00,6708,Donnees brutes (a identifier)
+521,demo082.pos,0x4b7d800,1592,
+522,demo083.bin,0x4b7e000,6708,Donnees brutes (a identifier)
+523,demo084.bin,0x4b7fc00,6708,Donnees brutes (a identifier)
+524,demo085.bin,0x4b81800,6708,Donnees brutes (a identifier)
+525,demo086.bin,0x4b83400,4928,Donnees brutes (a identifier)
+526,demo086.pos,0x4b84800,368,
+527,demo087.bin,0x4b84a00,30428,Donnees brutes (a identifier)
+528,demo087.pos,0x4b8c200,1160,
+529,demo088.bin,0x4b8c800,36632,Donnees brutes (a identifier)
+530,demo089.bin,0x4b95800,27788,Donnees brutes (a identifier)
+531,demo089.pos,0x4b9c600,1664,
+532,demo090.bin,0x4b9ce00,31288,Donnees brutes (a identifier)
+533,demo091.bin,0x4ba4a00,29288,Donnees brutes (a identifier)
+534,demo092.bin,0x4babe00,4172,Donnees brutes (a identifier)
+535,demo093.bin,0x4bad000,4908,Donnees brutes (a identifier)
+536,demo094.bin,0x4bae400,4664,Donnees brutes (a identifier)
+537,demo095.bin,0x4baf800,4172,Donnees brutes (a identifier)
+538,demo096.bin,0x4bb0a00,4172,Donnees brutes (a identifier)
+539,demo097.bin,0x4bb1c00,24968,Donnees brutes (a identifier)
+540,demo098.bin,0x4bb7e00,4172,Donnees brutes (a identifier)
+541,demo099.bin,0x4bb9000,4172,Donnees brutes (a identifier)
+542,demo100.bin,0x4bba200,29760,Donnees brutes (a identifier)
+543,demo100.pos,0x4bc1800,656,
+544,demo101.bin,0x4bc1c00,92336,Donnees brutes (a identifier)
+545,demo101.pos,0x4bd8600,296,
+546,demo102.bin,0x4bd8800,5836,Donnees brutes (a identifier)
+547,demo102.pos,0x4bda000,2024,
+548,demo103.bin,0x4bda800,5836,Donnees brutes (a identifier)
+549,demo104.bin,0x4bdc000,5940,Donnees brutes (a identifier)
+550,demo105.bin,0x4bdd800,24348,Donnees brutes (a identifier)
+551,demo105.pos,0x4be3800,368,
+552,demo106.bin,0x4be3a00,81552,Donnees brutes (a identifier)
+553,demo107.bin,0x4bf7a00,62492,Donnees brutes (a identifier)
+554,demo107.pos,0x4c07000,800,
+555,demo108.bin,0x4c07400,28908,Donnees brutes (a identifier)
+556,demo109.bin,0x4c0e600,6172,Donnees brutes (a identifier)
+557,demo109.pos,0x4c10000,1808,
+558,demo110.bin,0x4c10800,5972,Donnees brutes (a identifier)
+559,demo111.bin,0x4c12000,55944,Donnees brutes (a identifier)
+560,demo112.bin,0x4c1fc00,44680,Donnees brutes (a identifier)
+561,demo113.bin,0x4c2ac00,4984,Donnees brutes (a identifier)
+562,demo114.bin,0x4c2c000,5000,Donnees brutes (a identifier)
+563,demo115.bin,0x4c2d400,6044,Donnees brutes (a identifier)
+564,demo116.bin,0x4c2ec00,32020,Donnees brutes (a identifier)
+565,demo116.pos,0x4c36a00,2024,
+566,demo117.bin,0x4c37200,49644,Donnees brutes (a identifier)
+567,demo118.bin,0x4c43400,30148,Donnees brutes (a identifier)
+568,demo119.bin,0x4c4aa00,5852,Donnees brutes (a identifier)
+569,demo119.pos,0x4c4c200,3464,
+570,demo120.bin,0x4c4d000,37460,Donnees brutes (a identifier)
+571,demo121.bin,0x4c56400,50640,Donnees brutes (a identifier)
+572,demo122.bin,0x4c62a00,71468,Donnees brutes (a identifier)
+573,demo122.pos,0x4c74200,1808,
+574,demo123.bin,0x4c74a00,50576,Donnees brutes (a identifier)
+575,demo123.pos,0x4c81000,1664,
+576,demo124.bin,0x4c81800,61128,Donnees brutes (a identifier)
+577,demo124.pos,0x4c90800,1808,
+578,demo125.bin,0x4c91000,25684,Donnees brutes (a identifier)
+579,demo125.pos,0x4c97600,368,
+580,demo126.bin,0x4c97800,47464,Donnees brutes (a identifier)
+581,demo126.pos,0x4ca3200,872,
+582,demo127.bin,0x4ca3600,5560,Donnees brutes (a identifier)
+583,demo127.pos,0x4ca4c00,1376,
+584,demo128.bin,0x4ca5200,31784,Donnees brutes (a identifier)
+585,demo129.bin,0x4cad000,4840,Donnees brutes (a identifier)
+586,demo130.bin,0x4cae400,29376,Donnees brutes (a identifier)
+587,demo130.pos,0x4cb5800,584,
+588,demo131.bin,0x4cb5c00,5040,Donnees brutes (a identifier)
+589,demo132.bin,0x4cb7000,29648,Donnees brutes (a identifier)
+590,demo133.bin,0x4cbe400,38748,Donnees brutes (a identifier)
+591,demo134.bin,0x4cc7c00,28408,Donnees brutes (a identifier)
+592,demo135.bin,0x4ccec00,196348,Donnees brutes (a identifier)
+593,demo136.bin,0x4cfec00,4696,Donnees brutes (a identifier)
+594,demo137.bin,0x4d00000,28188,Donnees brutes (a identifier)
+595,demo138.bin,0x4d07000,35396,Donnees brutes (a identifier)
+596,demo138.pos,0x4d0fc00,584,
+597,demo139.bin,0x4d10000,37820,Donnees brutes (a identifier)
+598,demo139.pos,0x4d19400,1808,
+599,demo140.bin,0x4d19c00,31952,Donnees brutes (a identifier)
+600,demo141.bin,0x4d21a00,25844,Donnees brutes (a identifier)
+601,demo142.bin,0x4d28000,39172,Donnees brutes (a identifier)
+602,demo143.bin,0x4d31a00,32144,Donnees brutes (a identifier)
+603,demo144.bin,0x4d39800,27756,Donnees brutes (a identifier)
+604,demo145.bin,0x4d40600,33900,Donnees brutes (a identifier)
+605,demo146.bin,0x4d48c00,28888,Donnees brutes (a identifier)
+606,demo147.bin,0x4d4fe00,27688,Donnees brutes (a identifier)
+607,demo148.bin,0x4d56c00,28172,Donnees brutes (a identifier)
+608,demo149.bin,0x4d5dc00,33824,Donnees brutes (a identifier)
+609,demo150.bin,0x4d66200,36996,Donnees brutes (a identifier)
+610,demo150.pos,0x4d6f400,1808,
+611,demo151.bin,0x4d6fc00,32868,Donnees brutes (a identifier)
+612,demo151.pos,0x4d77e00,728,
+613,demo152.bin,0x4d78200,5480,Donnees brutes (a identifier)
+614,demo152.pos,0x4d79800,1592,
+615,demo153.bin,0x4d7a000,6332,Donnees brutes (a identifier)
+616,demo154.bin,0x4d7ba00,6332,Donnees brutes (a identifier)
+617,demo155.bin,0x4d7d400,6128,Donnees brutes (a identifier)
+618,demo155.pos,0x4d7ec00,728,
+619,demo156.bin,0x4d7f000,35304,Donnees brutes (a identifier)
+620,demo157.bin,0x4d87a00,4908,Donnees brutes (a identifier)
+621,demo157.pos,0x4d88e00,296,
+622,demo158.bin,0x4d89000,5480,Donnees brutes (a identifier)
+623,demo159.bin,0x4d8a600,4908,Donnees brutes (a identifier)
+624,demo160.bin,0x4d8ba00,5480,Donnees brutes (a identifier)
+625,demo161.bin,0x4d8d000,4908,Donnees brutes (a identifier)
+626,demo162.bin,0x4d8e400,5480,Donnees brutes (a identifier)
+627,demo163.bin,0x4d8fa00,4908,Donnees brutes (a identifier)
+628,demo164.bin,0x4d90e00,5480,Donnees brutes (a identifier)
+629,demo165.bin,0x4d92400,4908,Donnees brutes (a identifier)
+630,demo166.bin,0x4d93800,5480,Donnees brutes (a identifier)
+631,demo167.bin,0x4d94e00,4908,Donnees brutes (a identifier)
+632,demo168.bin,0x4d96200,5480,Donnees brutes (a identifier)
+633,demo169.bin,0x4d97800,4908,Donnees brutes (a identifier)
+634,demo170.bin,0x4d98c00,5480,Donnees brutes (a identifier)
+635,demo171.bin,0x4d9a200,24508,Donnees brutes (a identifier)
+636,demo172.bin,0x4da0200,64224,Donnees brutes (a identifier)
+637,demo172.pos,0x4dafe00,2888,
+638,demo173.bin,0x4db0a00,66748,Donnees brutes (a identifier)
+639,demo173.pos,0x4dc1000,2960,
+640,demo174.bin,0x4dc1c00,66748,Donnees brutes (a identifier)
+641,demo174.pos,0x4dd2200,2960,
+642,demo175.bin,0x4dd2e00,66748,Donnees brutes (a identifier)
+643,demo175.pos,0x4de3400,2960,
+644,demo176.bin,0x4de4000,66748,Donnees brutes (a identifier)
+645,demo176.pos,0x4df4600,2960,
+646,demo177.bin,0x4df5200,43524,Donnees brutes (a identifier)
+647,demo178.bin,0x4dffe00,43524,Donnees brutes (a identifier)
+648,demo179.bin,0x4e0aa00,43524,Donnees brutes (a identifier)
+649,demo180.bin,0x4e15600,43524,Donnees brutes (a identifier)
+650,demo181.bin,0x4e20200,43524,Donnees brutes (a identifier)
+651,demo182.bin,0x4e2ae00,36712,Donnees brutes (a identifier)
+652,demo182.pos,0x4e33e00,1088,
+653,demo183.bin,0x4e34400,37276,Donnees brutes (a identifier)
+654,demo184.bin,0x4e3d600,34552,Donnees brutes (a identifier)
+655,demo185.bin,0x4e45e00,34552,Donnees brutes (a identifier)
+656,demo186.bin,0x4e4e600,34552,Donnees brutes (a identifier)
+657,demo187.bin,0x4e56e00,34552,Donnees brutes (a identifier)
+658,demo188.bin,0x4e5f600,34552,Donnees brutes (a identifier)
+659,demo189.bin,0x4e67e00,27420,Donnees brutes (a identifier)
+660,demo189.pos,0x4e6ea00,512,
+661,demo190.bin,0x4e6ec00,27660,Donnees brutes (a identifier)
+662,demo190.pos,0x4e75a00,512,
+663,demo191.bin,0x4e75c00,49608,Donnees brutes (a identifier)
+664,demo192.bin,0x4e81e00,25976,Donnees brutes (a identifier)
+665,demo193.bin,0x4e88400,64228,Donnees brutes (a identifier)
+666,demo194.bin,0x4e98000,66748,Donnees brutes (a identifier)
+667,demo195.bin,0x4ea8600,66748,Donnees brutes (a identifier)
+668,demo196.bin,0x4eb8c00,66748,Donnees brutes (a identifier)
+669,demo197.bin,0x4ec9200,66744,Donnees brutes (a identifier)
+670,demo198.bin,0x4ed9800,43524,Donnees brutes (a identifier)
+671,demo199.bin,0x4ee4400,43524,Donnees brutes (a identifier)
+672,demo200.bin,0x4eef000,43524,Donnees brutes (a identifier)
+673,demo201.bin,0x4ef9c00,43524,Donnees brutes (a identifier)
+674,demo202.bin,0x4f04800,43524,Donnees brutes (a identifier)
+675,demo203.bin,0x4f0f400,36712,Donnees brutes (a identifier)
+676,demo204.bin,0x4f18400,37276,Donnees brutes (a identifier)
+677,demo205.bin,0x4f21600,34552,Donnees brutes (a identifier)
+678,demo206.bin,0x4f29e00,34552,Donnees brutes (a identifier)
+679,demo207.bin,0x4f32600,34552,Donnees brutes (a identifier)
+680,demo208.bin,0x4f3ae00,34552,Donnees brutes (a identifier)
+681,demo209.bin,0x4f43600,34552,Donnees brutes (a identifier)
+682,demo210.bin,0x4f4be00,64228,Donnees brutes (a identifier)
+683,demo211.bin,0x4f5ba00,66748,Donnees brutes (a identifier)
+684,demo212.bin,0x4f6c000,66748,Donnees brutes (a identifier)
+685,demo213.bin,0x4f7c600,66748,Donnees brutes (a identifier)
+686,demo214.bin,0x4f8cc00,66748,Donnees brutes (a identifier)
+687,demo215.bin,0x4f9d200,43520,Donnees brutes (a identifier)
+688,demo216.bin,0x4fa7c00,43524,Donnees brutes (a identifier)
+689,demo217.bin,0x4fb2800,43524,Donnees brutes (a identifier)
+690,demo218.bin,0x4fbd400,43524,Donnees brutes (a identifier)
+691,demo219.bin,0x4fc8000,43524,Donnees brutes (a identifier)
+692,demo220.bin,0x4fd2c00,36712,Donnees brutes (a identifier)
+693,demo221.bin,0x4fdbc00,37276,Donnees brutes (a identifier)
+694,demo222.bin,0x4fe4e00,34552,Donnees brutes (a identifier)
+695,demo223.bin,0x4fed600,34552,Donnees brutes (a identifier)
+696,demo224.bin,0x4ff5e00,34552,Donnees brutes (a identifier)
+697,demo225.bin,0x4ffe600,34552,Donnees brutes (a identifier)
+698,demo226.bin,0x5006e00,34552,Donnees brutes (a identifier)
+699,demo227.bin,0x500f600,64220,Donnees brutes (a identifier)
+700,demo228.bin,0x501f200,66748,Donnees brutes (a identifier)
+701,demo229.bin,0x502f800,66748,Donnees brutes (a identifier)
+702,demo230.bin,0x503fe00,66748,Donnees brutes (a identifier)
+703,demo231.bin,0x5050400,66748,Donnees brutes (a identifier)
+704,demo232.bin,0x5060a00,43524,Donnees brutes (a identifier)
+705,demo233.bin,0x506b600,43524,Donnees brutes (a identifier)
+706,demo234.bin,0x5076200,43524,Donnees brutes (a identifier)
+707,demo235.bin,0x5080e00,43524,Donnees brutes (a identifier)
+708,demo236.bin,0x508ba00,43524,Donnees brutes (a identifier)
+709,demo237.bin,0x5096600,36712,Donnees brutes (a identifier)
+710,demo238.bin,0x509f600,37284,Donnees brutes (a identifier)
+711,demo239.bin,0x50a8800,34552,Donnees brutes (a identifier)
+712,demo240.bin,0x50b1000,34552,Donnees brutes (a identifier)
+713,demo241.bin,0x50b9800,34552,Donnees brutes (a identifier)
+714,demo242.bin,0x50c2000,34552,Donnees brutes (a identifier)
+715,demo243.bin,0x50ca800,34552,Donnees brutes (a identifier)
+716,DemoChrTbl.bin,0x63c1a00,10478,Donnees brutes (a identifier)
+717,dm_bry_00.nsbca,0xb36000,7768,Animation de squelette 3D
+718,dm_col_00.nsbca,0xb38000,4844,Animation de squelette 3D
+719,dm_col_01.nsbca,0xb39400,7536,Animation de squelette 3D
+720,dm_col_02.nsbca,0xb3b200,12420,Animation de squelette 3D
+721,dm_col_03.nsbca,0xb3e400,6496,Animation de squelette 3D
+722,dm_col_04.nsbca,0xb3fe00,7240,Animation de squelette 3D
+723,dm_col_05.nsbca,0xb41c00,7528,Animation de squelette 3D
+724,dm_col_06.nsbca,0xb43a00,3884,Animation de squelette 3D
+725,dm_col_07.nsbca,0xb44a00,5848,Animation de squelette 3D
+726,dm_col_08.nsbca,0xb46200,5252,Animation de squelette 3D
+727,dm_col_09.nsbca,0xb47800,7300,Animation de squelette 3D
+728,dm_col_10.nsbca,0xb49600,7256,Animation de squelette 3D
+729,dm_col_11.nsbca,0xb4b400,11580,Animation de squelette 3D
+730,dm_col_12.nsbca,0xb4e200,2688,Animation de squelette 3D
+731,dm_col_13.nsbca,0xb4ee00,2876,Animation de squelette 3D
+732,dm_col_14.nsbca,0xb4fa00,4228,Animation de squelette 3D
+733,dm_col_15.nsbca,0xb50c00,14288,Animation de squelette 3D
+734,dm_col_16.nsbca,0xb54400,5120,Animation de squelette 3D
+735,dm_col_17.nsbca,0xb55800,9064,Animation de squelette 3D
+736,dm_col_18.nsbca,0xb57c00,5112,Animation de squelette 3D
+737,dm_col_19.nsbca,0xb59000,4844,Animation de squelette 3D
+738,dm_col_20.nsbca,0xb5a400,7768,Animation de squelette 3D
+739,dm_gor_00.nsbca,0xb5c400,7768,Animation de squelette 3D
+740,dm_gor_01.nsbca,0xb5e400,7768,Animation de squelette 3D
+741,dm_gor_02.nsbca,0xb60400,7768,Animation de squelette 3D
+742,dm_gor_03.nsbca,0xb62400,7768,Animation de squelette 3D
+743,dm_gor_04.nsbca,0xb64400,7768,Animation de squelette 3D
+744,dm_gor_05.nsbca,0xb66400,7768,Animation de squelette 3D
+745,dm_gor_06.nsbca,0xb68400,7768,Animation de squelette 3D
+746,dm_gor_07.nsbca,0xb6a400,7768,Animation de squelette 3D
+747,dm_gor_08.nsbca,0xb6c400,7768,Animation de squelette 3D
+748,dm_gor_09.nsbca,0xb6e400,7768,Animation de squelette 3D
+749,dm_gor_10.nsbca,0xb70400,7768,Animation de squelette 3D
+750,dm_gpf_00.nsbca,0xb72400,7768,Animation de squelette 3D
+751,dm_hir_00.nsbca,0xb74400,4860,Animation de squelette 3D
+752,dm_hir_01.nsbca,0xb75800,2200,Animation de squelette 3D
+753,dm_hir_02.nsbca,0xb76200,3012,Animation de squelette 3D
+754,dm_hir_03.nsbca,0xb76e00,4020,Animation de squelette 3D
+755,dm_hir_04.nsbca,0xb77e00,1480,Animation de squelette 3D
+756,dm_hir_05.nsbca,0xb78400,876,Animation de squelette 3D
+757,dm_hir_06.nsbca,0xb78800,876,Animation de squelette 3D
+758,dm_hir_07.nsbca,0xb78c00,876,Animation de squelette 3D
+759,dm_hir_08.nsbca,0xb79000,876,Animation de squelette 3D
+760,dm_hir_09.nsbca,0xb79400,8768,Animation de squelette 3D
+761,dm_hir_10.nsbca,0xb7b800,5848,Animation de squelette 3D
+762,dm_kit_00.nsbca,0xb7d000,9068,Animation de squelette 3D
+763,dm_kit_01.nsbca,0xb7f400,7356,Animation de squelette 3D
+764,dm_kit_02.nsbca,0xb81200,8164,Animation de squelette 3D
+765,dm_kit_03.nsbca,0xb83200,7608,Animation de squelette 3D
+766,dm_kit_04.nsbca,0xb85000,2276,Animation de squelette 3D
+767,dm_kit_05.nsbca,0xb85a00,4752,Animation de squelette 3D
+768,dm_kit_06.nsbca,0xb86e00,7836,Animation de squelette 3D
+769,dm_kit_07.nsbca,0xb88e00,8788,Animation de squelette 3D
+770,dm_kit_08.nsbca,0xb8b200,6104,Animation de squelette 3D
+771,dm_kit_09.nsbca,0xb8ca00,7768,Animation de squelette 3D
+772,dm_kit_10.nsbca,0xb8ea00,7768,Animation de squelette 3D
+773,dm_ksk_00.nsbca,0xb90a00,1500,Animation de squelette 3D
+774,dm_last_00.nsbca,0xb91000,12376,Animation de squelette 3D
+775,dm_last_01.nsbca,0xb94200,19824,Animation de squelette 3D
+776,dm_last_02.nsbca,0xb99000,7768,Animation de squelette 3D
+777,dm_last_03.nsbca,0xb9b000,7768,Animation de squelette 3D
+778,dm_last_04.nsbca,0xb9d000,7768,Animation de squelette 3D
+779,dm_last_05.nsbca,0xb9f000,7768,Animation de squelette 3D
+780,dm_last_06.nsbca,0xba1000,7768,Animation de squelette 3D
+781,dm_last_07.nsbca,0xba3000,7768,Animation de squelette 3D
+782,dm_last_08.nsbca,0xba5000,7768,Animation de squelette 3D
+783,dm_last_09.nsbca,0xba7000,7768,Animation de squelette 3D
+784,dm_last_10.nsbca,0xba9000,7768,Animation de squelette 3D
+785,dm_pic_00.d16,0x6506200,98312,
+786,dm_pic_01.d16,0x651e400,98312,
+787,dm_pic_02.d16,0x6536600,98312,
+788,dm_pic_03.d16,0x654e800,98312,
+789,dm_pic_04.d16,0x6566a00,98312,
+790,dm_pic_05.d16,0x657ec00,98312,
+791,dm_pic_06.d16,0x6596e00,98312,
+792,dm_pic_07.d16,0x65af000,98312,
+793,dm_pic_07_D.d16,0x65c7200,98312,
+794,dm_pic_07_F.d16,0x65df400,98312,
+795,dm_pic_07_I.d16,0x65f7600,98312,
+796,dm_pic_07_S.d16,0x660f800,98312,
+797,dm_pic_08.d16,0x6627a00,98312,
+798,dm_pic_09.d16,0x663fc00,98312,
+799,dm_pic_10.d16,0x6657e00,98312,
+800,dm_pic_11.d16,0x6670000,98312,
+801,dm_pic_12.d16,0x6688200,98312,
+802,dm_pic_13.d16,0x66a0400,98312,
+803,dm_pic_14.d16,0x66b8600,98312,
+804,dm_pic_15.d16,0x66d0800,98312,
+805,dm_pic_16.d16,0x66e8a00,98312,
+806,dm_pic_16_D.d16,0x6700c00,98312,
+807,dm_pic_16_F.d16,0x6718e00,98312,
+808,dm_pic_16_I.d16,0x6731000,98312,
+809,dm_pic_16_S.d16,0x6749200,98312,
+810,dm_pic_17.d16,0x6761400,98312,
+811,dm_pic_18.d16,0x6779600,98312,
+812,dm_pic_19.d16,0x6791800,98312,
+813,dm_pic_20.d16,0x67a9a00,98312,
+814,dm_ryu_00.nsbca,0xbab000,7768,Animation de squelette 3D
+815,dm_ryu_01.nsbca,0xbad000,7768,Animation de squelette 3D
+816,dm_ryu_02.nsbca,0xbaf000,7768,Animation de squelette 3D
+817,dm_ryu_03.nsbca,0xbb1000,7768,Animation de squelette 3D
+818,dm_ryu_04.nsbca,0xbb3000,7768,Animation de squelette 3D
+819,dm_ryu_05.nsbca,0xbb5000,7768,Animation de squelette 3D
+820,dm_ryu_06.nsbca,0xbb7000,7768,Animation de squelette 3D
+821,dm_ryu_07.nsbca,0xbb9000,7768,Animation de squelette 3D
+822,dm_ryu_08.nsbca,0xbbb000,7768,Animation de squelette 3D
+823,dm_ryu_09.nsbca,0xbbd000,7768,Animation de squelette 3D
+824,dm_ryu_10.nsbca,0xbbf000,7768,Animation de squelette 3D
+825,dm_snj_00.nsbca,0xbc1000,37292,Animation de squelette 3D
+826,dm_snj_01.nsbca,0xbca200,35236,Animation de squelette 3D
+827,dm_snj_02.nsbca,0xbd2c00,40132,Animation de squelette 3D
+828,dm_snj_03.nsbca,0xbdca00,18736,Animation de squelette 3D
+829,dm_snj_04.nsbca,0xbe1400,17972,Animation de squelette 3D
+830,dm_snj_05.nsbca,0xbe5c00,31524,Animation de squelette 3D
+831,dm_snj_06.nsbca,0xbed800,7768,Animation de squelette 3D
+832,dm_snj_07.nsbca,0xbef800,7768,Animation de squelette 3D
+833,dm_snj_08.nsbca,0xbf1800,7768,Animation de squelette 3D
+834,dm_snj_09.nsbca,0xbf3800,7768,Animation de squelette 3D
+835,dm_snj_10.nsbca,0xbf5800,7768,Animation de squelette 3D
+836,dm_sty_00.nsbca,0xbf7800,3812,Animation de squelette 3D
+837,dm_sty_01.nsbca,0xbf8800,6780,Animation de squelette 3D
+838,dm_sty_02.nsbca,0xbfa400,7768,Animation de squelette 3D
+839,dm_sty_03.nsbca,0xbfc400,7768,Animation de squelette 3D
+840,dm_sty_04.nsbca,0xbfe400,7768,Animation de squelette 3D
+841,dm_sty_05.nsbca,0xc00400,7768,Animation de squelette 3D
+842,dm_tor_00.nsbca,0xc02400,1148,Animation de squelette 3D
+843,dm_tor_01.nsbca,0xc02a00,1164,Animation de squelette 3D
+844,dm_tor_02.nsbca,0xc03000,1164,Animation de squelette 3D
+845,dm_tor_03.nsbca,0xc03600,1164,Animation de squelette 3D
+846,dm_tor_04.nsbca,0xc03c00,54364,Animation de squelette 3D
+847,dm_tor_05.nsbca,0xc11200,9780,Animation de squelette 3D
+848,dm_tor_06.nsbca,0xc13a00,27688,Animation de squelette 3D
+849,dm_tor_07.nsbca,0xc1a800,26208,Animation de squelette 3D
+850,dm_tor_08.nsbca,0xc21000,24616,Animation de squelette 3D
+851,dm_tor_09.nsbca,0xc27200,20516,Animation de squelette 3D
+852,dm_tor_10.nsbca,0xc2c400,38008,Animation de squelette 3D
+853,dm_tor_11.nsbca,0xc35a00,9948,Animation de squelette 3D
+854,dm_tor_12.nsbca,0xc38200,29724,Animation de squelette 3D
+855,dm_tor_13.nsbca,0xc3f800,21356,Animation de squelette 3D
+856,dm_tor_14.nsbca,0xc44c00,10332,Animation de squelette 3D
+857,dm_tor_15.nsbca,0xc47600,26152,Animation de squelette 3D
+858,dm_tri_00.nsbca,0xc4de00,7768,Animation de squelette 3D
+859,dm_tri_01.nsbca,0xc4fe00,7768,Animation de squelette 3D
+860,dm_tri_02.nsbca,0xc51e00,7768,Animation de squelette 3D
+861,dm_tri_03.nsbca,0xc53e00,7768,Animation de squelette 3D
+862,dm_tri_04.nsbca,0xc55e00,7768,Animation de squelette 3D
+863,dm_tri_05.nsbca,0xc57e00,7768,Animation de squelette 3D
+864,dm_tri_06.nsbca,0xc59e00,7768,Animation de squelette 3D
+865,dm_tri_07.nsbca,0xc5be00,7768,Animation de squelette 3D
+866,dm_tri_08.nsbca,0xc5de00,7768,Animation de squelette 3D
+867,dm_tri_09.nsbca,0xc5fe00,14044,Animation de squelette 3D
+868,dm_tri_10.nsbca,0xc63600,5076,Animation de squelette 3D
+869,e001.map,0x1ad9c00,44820,
+870,e003.map,0x1ae4c00,2356,
+871,e004.evD,0x37e4800,10724,
+872,e004.evF,0x37e7200,10724,
+873,e004.evI,0x37e9c00,10724,
+874,e004.evS,0x37ec600,10724,
+875,e004.evt,0x37ef000,10724,
+876,e004.map,0x1ae5600,65388,
+877,e005.map,0x1af5600,169996,
+878,e006.map,0x1b1f000,75948,
+879,e007.map,0x1b31a00,143600,
+880,efc_001.efc,0x30f4e00,6088,
+881,efc_002.efc,0x30f6600,2100,
+882,efc_003.efc,0x30f7000,2464,
+883,efc_004.efc,0x30f7a00,15496,
+884,EFC_005.efc,0x2e6d400,14988,
+885,EFC_006.efc,0x2e71000,9768,
+886,EFC_007.efc,0x2e73800,12536,
+887,EFC_008.efc,0x2e76a00,30820,
+888,efc_010.efc,0x30fb800,9424,
+889,efc_011.efc,0x30fde00,5748,
+890,EFC_015.efc,0x2e7e400,11720,
+891,EFC_020.efc,0x2e81200,33464,
+892,EFC_021.efc,0x2e89600,44488,
+893,EFC_022.efc,0x2e94400,65148,
+894,EFC_023.efc,0x2ea4400,33988,
+895,EFC_024.efc,0x2eaca00,44460,
+896,EFC_025.efc,0x2eb7800,40292,
+897,EFC_030.efc,0x2ec1600,20232,
+898,EFC_031.efc,0x2ec6600,28736,
+899,EFC_032.efc,0x2ecd800,44516,
+900,EFC_033.efc,0x2ed8600,26292,
+901,EFC_034.efc,0x2edee00,33696,
+902,EFC_035.efc,0x2ee7200,28280,
+903,EFC_040.efc,0x2eee200,9956,
+904,EFC_041.efc,0x2ef0a00,12472,
+905,EFC_042.efc,0x2ef3c00,18656,
+906,EFC_043.efc,0x2ef8600,18124,
+907,EFC_044.efc,0x2efce00,35196,
+908,EFC_045.efc,0x2f05800,22240,
+909,EFC_050.efc,0x2f0b000,21976,
+910,EFC_051.efc,0x2f10600,35612,
+911,EFC_052.efc,0x2f19200,41528,
+912,EFC_053.efc,0x2f23600,24708,
+913,EFC_054.efc,0x2f29800,42260,
+914,EFC_055.efc,0x2f33e00,35940,
+915,EFC_060.efc,0x2f3cc00,6056,
+916,EFC_061.efc,0x2f3e400,2104,
+917,EFC_062.efc,0x2f3ee00,2480,
+918,EFC_063.efc,0x2f3f800,16928,
+919,efc_100.efc,0x30ff600,9624,
+920,efc_101.efc,0x3101c00,13576,
+921,efc_102.efc,0x3105200,19288,
+922,efc_103.efc,0x3109e00,26184,
+923,efc_105.efc,0x3110600,24116,
+924,efc_106.efc,0x3116600,40624,
+925,efc_107.efc,0x3120600,44804,
+926,efc_108.efc,0x312b600,46636,
+927,efc_110.efc,0x3136e00,20312,
+928,efc_111.efc,0x313be00,19484,
+929,efc_112.efc,0x3140c00,38432,
+930,efc_113.efc,0x314a400,10008,
+931,efc_115.efc,0x314cc00,15396,
+932,efc_116.efc,0x3150a00,24716,
+933,efc_117.efc,0x3156c00,26100,
+934,efc_118.efc,0x315d200,23348,
+935,efc_120.efc,0x3162e00,19264,
+936,efc_121.efc,0x3167a00,29360,
+937,efc_122.efc,0x316ee00,45896,
+938,efc_123.efc,0x317a200,46024,
+939,efc_125.efc,0x3185600,17020,
+940,efc_127.efc,0x3189a00,14796,
+941,efc_130.efc,0x318d400,13312,
+942,efc_131.efc,0x3190800,18492,
+943,efc_132.efc,0x3195200,15388,
+944,efc_133.efc,0x3199000,8992,
+945,efc_135.efc,0x319b400,41344,
+946,efc_136.efc,0x31a5600,27504,
+947,efc_137.efc,0x31ac200,22712,
+948,efc_138.efc,0x31b1c00,8248,
+949,efc_140.efc,0x31b3e00,19580,
+950,efc_141.efc,0x31b8c00,20996,
+951,efc_145.efc,0x31be000,12696,
+952,efc_146.efc,0x31c1200,13008,
+953,efc_150.efc,0x31c4600,13376,
+954,efc_152.efc,0x31c7c00,13324,
+955,efc_155.efc,0x31cb200,12704,
+956,efc_157.efc,0x31ce400,13420,
+957,efc_160.efc,0x31d1a00,13416,
+958,efc_162.efc,0x31d5000,12528,
+959,efc_165.efc,0x31d8200,13440,
+960,efc_167.efc,0x31db800,12516,
+961,efc_170.efc,0x31dea00,10880,
+962,efc_171.efc,0x31e1600,11956,
+963,efc_174.efc,0x31e4600,11940,
+964,efc_176.efc,0x31e7600,24788,
+965,efc_177.efc,0x31ed800,9616,
+966,efc_180.efc,0x31efe00,7072,
+967,efc_181.efc,0x31f1a00,17088,
+968,efc_182.efc,0x31f5e00,30448,
+969,efc_183.efc,0x31fd600,12244,
+970,efc_185.efc,0x3200600,9556,
+971,efc_186.efc,0x3202c00,16252,
+972,efc_187.efc,0x3206c00,12208,
+973,efc_188.efc,0x3209c00,13308,
+974,efc_190.efc,0x320d000,9580,
+975,efc_191.efc,0x320f600,16288,
+976,efc_192.efc,0x3213600,12264,
+977,efc_193.efc,0x3216600,13324,
+978,efc_195.efc,0x3219c00,12080,
+979,efc_196.efc,0x321cc00,20748,
+980,efc_197.efc,0x3221e00,13552,
+981,efc_198.efc,0x3225400,14308,
+982,efc_200.efc,0x3228c00,11344,
+983,efc_201.efc,0x322ba00,18992,
+984,efc_202.efc,0x3230600,11980,
+985,efc_203.efc,0x3233600,19932,
+986,efc_204.efc,0x3238400,12188,
+987,efc_205.efc,0x323b400,6500,
+988,efc_206.efc,0x323ce00,8144,
+989,efc_207.efc,0x323ee00,7844,
+990,efc_208.efc,0x3240e00,7468,
+991,efc_210.efc,0x3242c00,21020,
+992,efc_211.efc,0x3248000,25944,
+993,efc_212.efc,0x324e600,17184,
+994,EFC_213.efc,0x2f43c00,21728,
+995,EFC_215.efc,0x2f49200,16632,
+996,EFC_216.efc,0x2f4d400,18012,
+997,EFC_217.efc,0x2f51c00,30432,
+998,EFC_218.efc,0x2f59400,33264,
+999,EFC_219.efc,0x2f61600,21016,
+1000,EFC_220.efc,0x2f66a00,22492,
+1001,EFC_221.efc,0x2f6c200,13044,
+1002,EFC_222.efc,0x2f6f600,20360,
+1003,EFC_223.efc,0x2f74600,27816,
+1004,EFC_224.efc,0x2f7b400,33632,
+1005,EFC_225.efc,0x2f83800,31644,
+1006,EFC_226.efc,0x2f8b400,37108,
+1007,EFC_227.efc,0x2f94600,16524,
+1008,EFC_228.efc,0x2f98800,21832,
+1009,EFC_230.efc,0x2f9de00,11560,
+1010,EFC_231.efc,0x2fa0c00,11424,
+1011,EFC_232.efc,0x2fa3a00,11440,
+1012,EFC_233.efc,0x2fa6800,11608,
+1013,EFC_234.efc,0x2fa9600,11376,
+1014,EFC_235.efc,0x2fac400,25956,
+1015,EFC_236.efc,0x2fb2a00,28932,
+1016,EFC_237.efc,0x2fb9c00,21400,
+1017,EFC_239.efc,0x2fbf000,21672,
+1018,EFC_240.efc,0x2fc4600,17264,
+1019,efc_241.efc,0x3252a00,13480,
+1020,efc_242.efc,0x3256000,13336,
+1021,efc_243.efc,0x3259600,16332,
+1022,efc_244.efc,0x325d600,13304,
+1023,efc_245.efc,0x3260a00,13344,
+1024,efc_246.efc,0x3264000,6240,
+1025,EFC_247.efc,0x2fc8a00,6232,
+1026,efc_248.efc,0x3265a00,16036,
+1027,EFC_249.efc,0x2fca400,6624,
+1028,EFC_252.efc,0x2fcbe00,7964,
+1029,EFC_253.efc,0x2fcde00,15032,
+1030,EFC_254.efc,0x2fd1a00,13100,
+1031,EFC_256.efc,0x2fd4e00,12448,
+1032,EFC_257.efc,0x2fd8000,16316,
+1033,EFC_267.efc,0x2fdc000,10580,
+1034,EFC_268.efc,0x2fdea00,6620,
+1035,EFC_269.efc,0x2fe0400,17404,
+1036,EFC_270.efc,0x2fe4800,14712,
+1037,EFC_271.efc,0x2fe8200,17844,
+1038,EFC_272.efc,0x2fec800,23016,
+1039,EFC_273.efc,0x2ff2200,21860,
+1040,EFC_274.efc,0x2ff7800,23120,
+1041,EFC_275.efc,0x2ffd400,42868,
+1042,EFC_276.efc,0x3007c00,18560,
+1043,EFC_277.efc,0x300c600,6624,
+1044,EFC_278.efc,0x300e000,19008,
+1045,EFC_279.efc,0x3012c00,9340,
+1046,EFC_280.efc,0x3015200,12228,
+1047,EFC_281.efc,0x3018200,15500,
+1048,EFC_282.efc,0x301c000,14096,
+1049,EFC_283.efc,0x301f800,16696,
+1050,EFC_287.efc,0x3023a00,23132,
+1051,EFC_293.efc,0x3029600,17656,
+1052,EFC_295.efc,0x302dc00,33428,
+1053,EFC_296.efc,0x3036000,11384,
+1054,EFC_297.efc,0x3038e00,11420,
+1055,EFC_298.efc,0x303bc00,23632,
+1056,EFC_299.efc,0x3041a00,13912,
+1057,EFC_300.efc,0x3045200,13900,
+1058,EFC_301.efc,0x3048a00,11492,
+1059,EFC_302.efc,0x304b800,14108,
+1060,EFC_303.efc,0x304f000,13876,
+1061,EFC_304.efc,0x3052800,27784,
+1062,EFC_305.efc,0x3059600,21360,
+1063,EFC_306.efc,0x305ea00,35620,
+1064,EFC_307.efc,0x3067600,19032,
+1065,EFC_309.efc,0x306c200,14176,
+1066,EFC_310.efc,0x306fa00,18888,
+1067,EFC_311.efc,0x3074400,14196,
+1068,EFC_312.efc,0x3077c00,20408,
+1069,EFC_313.efc,0x307cc00,8560,
+1070,EFC_315.efc,0x307ee00,22092,
+1071,EFC_316.efc,0x3084600,22092,
+1072,EFC_400.efc,0x3089e00,11348,
+1073,EFC_401.efc,0x308cc00,11052,
+1074,EFC_402.efc,0x308f800,11308,
+1075,EFC_405.efc,0x3092600,21520,
+1076,EFC_406.efc,0x3097c00,22032,
+1077,EFC_407.efc,0x309d400,17260,
+1078,EFC_408.efc,0x30a1800,17856,
+1079,EFC_410.efc,0x30a5e00,15392,
+1080,EFC_411.efc,0x30a9c00,15036,
+1081,EFC_412.efc,0x30ad800,15520,
+1082,EFC_413.efc,0x30b1600,24196,
+1083,EFC_414.efc,0x30b7600,23116,
+1084,EFC_415.efc,0x30bd200,10896,
+1085,EFC_416.efc,0x30bfe00,8976,
+1086,EFC_417.efc,0x30c2200,17384,
+1087,EFC_418.efc,0x30c6600,8452,
+1088,EFC_420.efc,0x30c8800,11348,
+1089,EFC_425.efc,0x30cb600,24276,
+1090,EFC_426.efc,0x30d1600,27944,
+1091,EFC_427.efc,0x30d8400,28320,
+1092,EFC_428.efc,0x30df400,27448,
+1093,EFC_429.efc,0x30e6000,18468,
+1094,EFC_430.efc,0x30eaa00,41480,
+1095,efc_500.efc,0x3269a00,20796,
+1096,EnmyKindTbl.bin,0x63c4400,47880,Donnees brutes (a identifier)
+1097,EnmyPtnTbl.bin,0x63d0000,6920,Donnees brutes (a identifier)
+1098,ExperienceTbl.bin,0x63d1c00,7128,Donnees brutes (a identifier)
+1099,f000.evD,0x37f1a00,4932,
+1100,f000.evF,0x37f2e00,4932,
+1101,f000.evI,0x37f4200,4932,
+1102,f000.evS,0x37f5600,4932,
+1103,f000.evt,0x37f6a00,4932,
+1104,f010.evD,0x37f7e00,127520,
+1105,f010.evF,0x3817200,128296,
+1106,f010.evI,0x3836800,126904,
+1107,f010.evS,0x3855800,126520,
+1108,f010.evt,0x3874800,124692,
+1109,f010.map,0x1b54c00,94964,
+1110,f020.evD,0x3893000,262280,
+1111,f020.evF,0x38d3200,260996,
+1112,f020.evI,0x3912e00,260400,
+1113,f020.evS,0x3952800,253680,
+1114,f020.evt,0x3990800,252756,
+1115,f020.map,0x1b6c000,341148,
+1116,f030.evD,0x39ce400,23876,
+1117,f030.evF,0x39d4200,24404,
+1118,f030.evI,0x39da200,24112,
+1119,f030.evS,0x39e0200,23560,
+1120,f030.evt,0x39e6000,23316,
+1121,f030.map,0x1bbf600,164552,
+1122,f040.evD,0x39ebc00,96760,
+1123,f040.evF,0x3a03600,96860,
+1124,f040.evI,0x3a1b200,95952,
+1125,f040.evS,0x3a32a00,94320,
+1126,f040.evt,0x3a49c00,93752,
+1127,f040.map,0x1be7a00,214960,
+1128,f050.evD,0x3a60c00,82716,
+1129,f050.evF,0x3a75000,83728,
+1130,f050.evI,0x3a89800,83272,
+1131,f050.evS,0x3a9de00,81184,
+1132,f050.evt,0x3ab1c00,81024,
+1133,f050.map,0x1c1c200,157032,
+1134,f060.evD,0x3ac5a00,42400,
+1135,f060.evF,0x3ad0000,42060,
+1136,f060.evI,0x3ada600,41796,
+1137,f060.evS,0x3ae4a00,40724,
+1138,f060.evt,0x3aeea00,40636,
+1139,f060.map,0x1c42800,72668,
+1140,f070.evD,0x3af8a00,33516,
+1141,f070.evF,0x3b00e00,33368,
+1142,f070.evI,0x3b09200,33544,
+1143,f070.evS,0x3b11600,33336,
+1144,f070.evt,0x3b19a00,32972,
+1145,f070.map,0x1c54400,169048,
+1146,f080.evD,0x3b21c00,27404,
+1147,f080.evF,0x3b28800,27404,
+1148,f080.evI,0x3b2f400,27488,
+1149,f080.evS,0x3b36000,27568,
+1150,f080.evt,0x3b3cc00,27264,
+1151,f080.map,0x1c7da00,62772,
+1152,f090.evD,0x3b43800,61300,
+1153,f090.evF,0x3b52800,61156,
+1154,f090.evI,0x3b61800,61020,
+1155,f090.evS,0x3b70800,60256,
+1156,f090.evt,0x3b7f400,59824,
+1157,f090.map,0x1c8d000,179968,
+1158,f100.evD,0x3b8de00,41104,
+1159,f100.evF,0x3b98000,40920,
+1160,f100.evI,0x3ba2000,41132,
+1161,f100.evS,0x3bac200,40336,
+1162,f100.evt,0x3bb6000,40120,
+1163,f100.map,0x1cb9000,135832,
+1164,f111.evD,0x3bbfe00,58968,
+1165,f111.evF,0x3bce600,58948,
+1166,f111.evI,0x3bdce00,58632,
+1167,f111.evS,0x3beb400,58156,
+1168,f111.evt,0x3bf9800,57744,
+1169,f111.map,0x1cda400,230840,
+1170,F121.enct,0x2cf9800,40,
+1171,f121.evD,0x3c07a00,35572,
+1172,f121.evF,0x3c10600,35640,
+1173,f121.evI,0x3c19200,35616,
+1174,f121.evS,0x3c21e00,35760,
+1175,f121.evt,0x3c2aa00,35380,
+1176,f121.map,0x1d12a00,201164,
+1177,field_data.bin,0x68e7400,50584,Donnees brutes (a identifier)
+1178,fin.d16,0x67c1c00,98312,
+1179,FldChrTbl.bin,0x63d3800,10738,Donnees brutes (a identifier)
+1180,FldEnmyPrm.bin,0x63d6200,28168,Donnees brutes (a identifier)
+1181,FldMstrPrm.bin,0x63dd200,1032,Donnees brutes (a identifier)
+1182,h001.evD,0x3c33600,16328,
+1183,h001.evF,0x3c37600,16328,
+1184,h001.evI,0x3c3b600,16328,
+1185,h001.evS,0x3c3f600,16328,
+1186,h001.evt,0x3c43600,16328,
+1187,h001.map,0x1d43c00,91360,
+1188,h002.evD,0x3c47600,10392,
+1189,h002.evF,0x3c4a000,10392,
+1190,h002.evI,0x3c4ca00,10392,
+1191,h002.evS,0x3c4f400,10392,
+1192,h002.evt,0x3c51e00,10392,
+1193,h002.map,0x1d5a200,152024,
+1194,h003.evD,0x3c54800,15376,
+1195,h003.evF,0x3c58600,15376,
+1196,h003.evI,0x3c5c400,15376,
+1197,h003.evS,0x3c60200,15376,
+1198,h003.evt,0x3c64000,15376,
+1199,h003.map,0x1d7f400,191388,
+1200,I002.enct,0x2cf9a00,168,
+1201,i002.evD,0x3c67e00,53448,
+1202,i002.evF,0x3c75000,53692,
+1203,i002.evI,0x3c82200,54052,
+1204,i002.evS,0x3c8f600,53524,
+1205,i002.evt,0x3c9c800,53236,
+1206,i002.map,0x1dae000,192148,
+1207,I004.enct,0x2cf9c00,200,
+1208,i004.evD,0x3ca9800,52520,
+1209,i004.evF,0x3cb6600,52764,
+1210,i004.evI,0x3cc3600,53124,
+1211,i004.evS,0x3cd0600,52596,
+1212,i004.evt,0x3cdd400,52308,
+1213,i004.map,0x1ddd000,200672,
+1214,I008.enct,0x2cf9e00,104,
+1215,i008.evD,0x3cea200,54312,
+1216,i008.evF,0x3cf7800,54556,
+1217,i008.evI,0x3d04e00,54916,
+1218,i008.evS,0x3d12600,54388,
+1219,i008.evt,0x3d1fc00,54100,
+1220,i008.map,0x1e0e000,260020,
+1221,I009.enct,0x2cfa000,104,
+1222,i009.evD,0x3d2d000,55972,
+1223,i009.evF,0x3d3ac00,56216,
+1224,i009.evI,0x3d48800,56576,
+1225,i009.evS,0x3d56600,56048,
+1226,i009.evt,0x3d64200,55760,
+1227,i009.map,0x1e4d800,265428,
+1228,I010.enct,0x2cfa200,168,
+1229,i010.evD,0x3d71c00,48824,
+1230,i010.evF,0x3d7dc00,49068,
+1231,i010.evI,0x3d89c00,49428,
+1232,i010.evS,0x3d95e00,48900,
+1233,i010.evt,0x3da1e00,48612,
+1234,i010.map,0x1e8e600,241712,
+1235,info_wall_000.d16,0x6ceba00,98312,
+1236,info_wall_000_D.d16,0x67d9e00,98312,
+1237,info_wall_000_F.d16,0x67f2000,98312,
+1238,info_wall_000_I.d16,0x680a200,98312,
+1239,info_wall_000_S.d16,0x6822400,98312,
+1240,info_wall_001.d16,0x6d03c00,98312,
+1241,info_wall_002.d16,0x6d1be00,98312,
+1242,info_wall_003.d16,0x6d34000,98312,
+1243,info_wall_004.d16,0x6d4c200,98312,
+1244,infomation_data.bin,0x68f3a00,98324,Donnees brutes (a identifier)
+1245,island_data.bin,0x690bc00,54104,Donnees brutes (a identifier)
+1246,island_data_D.bin,0x6919000,54104,Donnees brutes (a identifier)
+1247,island_data_E.bin,0x6926400,54104,Donnees brutes (a identifier)
+1248,island_data_F.bin,0x6933800,54104,Donnees brutes (a identifier)
+1249,island_data_I.bin,0x6940c00,54104,Donnees brutes (a identifier)
+1250,island_data_S.bin,0x694e000,54104,Donnees brutes (a identifier)
+1251,ItemTbl.bin,0x63dd800,16016,Donnees brutes (a identifier)
+1252,joker_00.bin,0x695b400,1640,Donnees brutes (a identifier)
+1253,k001.evD,0x3dadc00,165248,
+1254,k001.evF,0x3dd6200,166588,
+1255,k001.evI,0x3dfee00,165008,
+1256,k001.evS,0x3e27400,161088,
+1257,k001.evt,0x3e4ea00,159480,
+1258,k001.map,0x1ec9800,196740,
+1259,k002.evD,0x3e75a00,178416,
+1260,k002.evF,0x3ea1400,178812,
+1261,k002.evI,0x3ecd000,177252,
+1262,k002.evS,0x3ef8600,173800,
+1263,k002.evt,0x3f22e00,172492,
+1264,k002.map,0x1ef9a00,91752,
+1265,k003.evD,0x3f4d000,4580,
+1266,k003.evF,0x3f4e200,4580,
+1267,k003.evI,0x3f4f400,4580,
+1268,k003.evS,0x3f50600,4580,
+1269,k003.evt,0x3f51800,4580,
+1270,k003.map,0x1f10200,127580,
+1271,keybord_data.bin,0x695bc00,51824,Donnees brutes (a identifier)
+1272,l000.nsbmd,0x242a00,33412,Modele 3D
+1273,m000.nsbmd,0x24ae00,24472,Modele 3D
+1274,m000_00.nsbca,0xc64a00,660,Animation de squelette 3D
+1275,m000_01.nsbca,0xc64e00,8208,Animation de squelette 3D
+1276,m000_02.nsbca,0xc67000,2212,Animation de squelette 3D
+1277,m000_03.nsbca,0xc67a00,3352,Animation de squelette 3D
+1278,m000_04.nsbca,0xc68800,1132,Animation de squelette 3D
+1279,m000_10.nsbca,0xc68e00,1528,Animation de squelette 3D
+1280,m000b.nsbmd,0x250e00,25072,Modele 3D
+1281,m000c.nsbmd,0x257000,24472,Modele 3D
+1282,m003.nsbmd,0x25d000,39592,Modele 3D
+1283,m003_00.nsbca,0xc69400,5496,Animation de squelette 3D
+1284,m003_01.nsbca,0xc6aa00,12704,Animation de squelette 3D
+1285,m003_02.nsbca,0xc6dc00,10004,Animation de squelette 3D
+1286,m003_03.nsbca,0xc70400,7604,Animation de squelette 3D
+1287,m003_04.nsbca,0xc72200,5584,Animation de squelette 3D
+1288,m003_10.nsbca,0xc73800,5560,Animation de squelette 3D
+1289,m003b.nsbmd,0x266c00,39592,Modele 3D
+1290,m004.nsbmd,0x270800,40328,Modele 3D
+1291,m004_00.nsbca,0xc74e00,4600,Animation de squelette 3D
+1292,m004_01.nsbca,0xc76000,10636,Animation de squelette 3D
+1293,m004_02.nsbca,0xc78a00,22720,Animation de squelette 3D
+1294,m004_03.nsbca,0xc7e400,17792,Animation de squelette 3D
+1295,m004_04.nsbca,0xc82a00,5752,Animation de squelette 3D
+1296,m004_10.nsbca,0xc84200,4688,Animation de squelette 3D
+1297,m004b.nsbmd,0x27a600,40328,Modele 3D
+1298,m004c.nsbmd,0x284400,39056,Modele 3D
+1299,m005.nsbmd,0x28de00,36728,Modele 3D
+1300,m005_00.nsbca,0xc85600,3344,Animation de squelette 3D
+1301,m005_01.nsbca,0xc86400,20592,Animation de squelette 3D
+1302,m005_02.nsbca,0xc8b600,26092,Animation de squelette 3D
+1303,m005_03.nsbca,0xc91c00,8048,Animation de squelette 3D
+1304,m005_04.nsbca,0xc93c00,5480,Animation de squelette 3D
+1305,m005_10.nsbca,0xc95200,3400,Animation de squelette 3D
+1306,m005b.nsbmd,0x296e00,36696,Modele 3D
+1307,m006.nsbmd,0x29fe00,36288,Modele 3D
+1308,m006_00.nsbca,0xc96000,1752,Animation de squelette 3D
+1309,m006_01.nsbca,0xc96800,5120,Animation de squelette 3D
+1310,m006_02.nsbca,0xc97c00,6080,Animation de squelette 3D
+1311,m006_03.nsbca,0xc99400,4508,Animation de squelette 3D
+1312,m006_04.nsbca,0xc9a600,1444,Animation de squelette 3D
+1313,m006_10.nsbca,0xc9ac00,2312,Animation de squelette 3D
+1314,m006b.nsbmd,0x2a8c00,35896,Modele 3D
+1315,m006c.nsbmd,0x2b1a00,36288,Modele 3D
+1316,m009.nsbmd,0x2ba800,45256,Modele 3D
+1317,m009_00.nsbca,0xc9b600,4120,Animation de squelette 3D
+1318,m009_01.nsbca,0xc9c800,15936,Animation de squelette 3D
+1319,m009_02.nsbca,0xca0800,11116,Animation de squelette 3D
+1320,m009_03.nsbca,0xca3400,7104,Animation de squelette 3D
+1321,m009_04.nsbca,0xca5000,5480,Animation de squelette 3D
+1322,m010.nsbmd,0x2c5a00,38848,Modele 3D
+1323,m010_00.nsbca,0xca6600,5676,Animation de squelette 3D
+1324,m010_01.nsbca,0xca7e00,12172,Animation de squelette 3D
+1325,m010_02.nsbca,0xcaae00,14380,Animation de squelette 3D
+1326,m010_03.nsbca,0xcae800,15188,Animation de squelette 3D
+1327,m010_04.nsbca,0xcb2400,6132,Animation de squelette 3D
+1328,m010_10.nsbca,0xcb3c00,6956,Animation de squelette 3D
+1329,m011.nsbmd,0x2cf200,35724,Modele 3D
+1330,m011_00.nsbca,0xcb5800,2428,Animation de squelette 3D
+1331,m011_01.nsbca,0xcb6200,7744,Animation de squelette 3D
+1332,m011_02.nsbca,0xcb8200,6192,Animation de squelette 3D
+1333,m011_03.nsbca,0xcb9c00,3000,Animation de squelette 3D
+1334,m011_04.nsbca,0xcba800,2672,Animation de squelette 3D
+1335,m011_10.nsbca,0xcbb400,2540,Animation de squelette 3D
+1336,m014.nsbmd,0x2d7e00,34536,Modele 3D
+1337,m014_00.nsbca,0xcbbe00,3916,Animation de squelette 3D
+1338,m014_01.nsbca,0xcbce00,19548,Animation de squelette 3D
+1339,m014_02.nsbca,0xcc1c00,17312,Animation de squelette 3D
+1340,m014_03.nsbca,0xcc6000,5324,Animation de squelette 3D
+1341,m014_04.nsbca,0xcc7600,3388,Animation de squelette 3D
+1342,m014_10.nsbca,0xcc8400,4440,Animation de squelette 3D
+1343,m017.nsbmd,0x2e0600,32932,Modele 3D
+1344,m017_00.nsbca,0xcc9600,3108,Animation de squelette 3D
+1345,m017_01.nsbca,0xcca400,11644,Animation de squelette 3D
+1346,m017_02.nsbca,0xccd200,5324,Animation de squelette 3D
+1347,m017_03.nsbca,0xcce800,5364,Animation de squelette 3D
+1348,m017_04.nsbca,0xccfe00,5840,Animation de squelette 3D
+1349,m017_10.nsbca,0xcd1600,2712,Animation de squelette 3D
+1350,m018.nsbmd,0x2e8800,35796,Modele 3D
+1351,m018_00.nsbca,0xcd2200,2840,Animation de squelette 3D
+1352,m018_01.nsbca,0xcd2e00,5124,Animation de squelette 3D
+1353,m018_02.nsbca,0xcd4400,3072,Animation de squelette 3D
+1354,m018_03.nsbca,0xcd5000,4240,Animation de squelette 3D
+1355,m018_04.nsbca,0xcd6200,1940,Animation de squelette 3D
+1356,m018_10.nsbca,0xcd6a00,2916,Animation de squelette 3D
+1357,m020.nsbmd,0x2f1400,39436,Modele 3D
+1358,m020_00.nsbca,0xcd7600,8744,Animation de squelette 3D
+1359,m020_01.nsbca,0xcd9a00,37316,Animation de squelette 3D
+1360,m020_02.nsbca,0xce2c00,12956,Animation de squelette 3D
+1361,m020_03.nsbca,0xce6000,15288,Animation de squelette 3D
+1362,m020_04.nsbca,0xce9c00,7224,Animation de squelette 3D
+1363,m020_10.nsbca,0xceba00,8844,Animation de squelette 3D
+1364,m023.nsbmd,0x2fb000,36904,Modele 3D
+1365,m023_00.nsbca,0xcede00,4944,Animation de squelette 3D
+1366,m023_01.nsbca,0xcef200,16584,Animation de squelette 3D
+1367,m023_02.nsbca,0xcf3400,4932,Animation de squelette 3D
+1368,m023_03.nsbca,0xcf4800,9700,Animation de squelette 3D
+1369,m023_04.nsbca,0xcf6e00,4996,Animation de squelette 3D
+1370,m023_10.nsbca,0xcf8200,5020,Animation de squelette 3D
+1371,m024.nsbmd,0x304200,28464,Modele 3D
+1372,m024_00.nsbca,0xcf9600,3368,Animation de squelette 3D
+1373,m024_01.nsbca,0xcfa400,9476,Animation de squelette 3D
+1374,m024_02.nsbca,0xcfca00,9544,Animation de squelette 3D
+1375,m024_03.nsbca,0xcff000,5932,Animation de squelette 3D
+1376,m024_04.nsbca,0xd00800,5460,Animation de squelette 3D
+1377,m024_10.nsbca,0xd01e00,5844,Animation de squelette 3D
+1378,m024b.nsbmd,0x30b200,28464,Modele 3D
+1379,m025.nsbmd,0x312200,45524,Modele 3D
+1380,m025_00.nsbca,0xd03600,8044,Animation de squelette 3D
+1381,m025_01.nsbca,0xd05600,18680,Animation de squelette 3D
+1382,m025_02.nsbca,0xd0a000,17440,Animation de squelette 3D
+1383,m025_03.nsbca,0xd0e600,19292,Animation de squelette 3D
+1384,m025_04.nsbca,0xd13200,6716,Animation de squelette 3D
+1385,m025_10.nsbca,0xd14e00,3896,Animation de squelette 3D
+1386,m025b.nsbmd,0x31d400,45524,Modele 3D
+1387,m026.nsbmd,0x328600,39712,Modele 3D
+1388,m026_00.nsbca,0xd15e00,8076,Animation de squelette 3D
+1389,m026_01.nsbca,0xd17e00,20860,Animation de squelette 3D
+1390,m026_02.nsbca,0xd1d000,17168,Animation de squelette 3D
+1391,m026_03.nsbca,0xd21400,7940,Animation de squelette 3D
+1392,m026_04.nsbca,0xd23400,5888,Animation de squelette 3D
+1393,m026_10.nsbca,0xd24c00,5536,Animation de squelette 3D
+1394,m027.nsbmd,0x332200,36536,Modele 3D
+1395,m027_00.nsbca,0xd26200,6072,Animation de squelette 3D
+1396,m027_01.nsbca,0xd27a00,26500,Animation de squelette 3D
+1397,m027_02.nsbca,0xd2e200,10740,Animation de squelette 3D
+1398,m027_03.nsbca,0xd30c00,21248,Animation de squelette 3D
+1399,m027_04.nsbca,0xd36000,24704,Animation de squelette 3D
+1400,m027_10.nsbca,0xd3c200,6128,Animation de squelette 3D
+1401,m028.nsbmd,0x33b200,42592,Modele 3D
+1402,m028_00.nsbca,0xd3da00,8876,Animation de squelette 3D
+1403,m028_01.nsbca,0xd3fe00,18764,Animation de squelette 3D
+1404,m028_02.nsbca,0xd44800,24496,Animation de squelette 3D
+1405,m028_03.nsbca,0xd4a800,9808,Animation de squelette 3D
+1406,m028_04.nsbca,0xd4d000,6328,Animation de squelette 3D
+1407,m028_10.nsbca,0xd4ea00,9480,Animation de squelette 3D
+1408,m029.nsbmd,0x345a00,37268,Modele 3D
+1409,m029_00.nsbca,0xd51000,5584,Animation de squelette 3D
+1410,m029_01.nsbca,0xd52600,38704,Animation de squelette 3D
+1411,m029_02.nsbca,0xd5be00,35332,Animation de squelette 3D
+1412,m029_03.nsbca,0xd64a00,14700,Animation de squelette 3D
+1413,m029_04.nsbca,0xd68400,10376,Animation de squelette 3D
+1414,m029_10.nsbca,0xd6ae00,11476,Animation de squelette 3D
+1415,m030.nsbmd,0x34ec00,45236,Modele 3D
+1416,m030_00.nsbca,0xd6dc00,3764,Animation de squelette 3D
+1417,m030_01.nsbca,0xd6ec00,36496,Animation de squelette 3D
+1418,m030_02.nsbca,0xd77c00,18644,Animation de squelette 3D
+1419,m030_03.nsbca,0xd7c600,12568,Animation de squelette 3D
+1420,m030_04.nsbca,0xd7f800,8928,Animation de squelette 3D
+1421,m030_10.nsbca,0xd81c00,7472,Animation de squelette 3D
+1422,m031.nsbmd,0x359e00,39108,Modele 3D
+1423,m031_00.nsbca,0xd83a00,5984,Animation de squelette 3D
+1424,m031_01.nsbca,0xd85200,31396,Animation de squelette 3D
+1425,m031_02.nsbca,0xd8ce00,16732,Animation de squelette 3D
+1426,m031_03.nsbca,0xd91000,16276,Animation de squelette 3D
+1427,m031_04.nsbca,0xd95000,9624,Animation de squelette 3D
+1428,m031_10.nsbca,0xd97600,4508,Animation de squelette 3D
+1429,m034.nsbmd,0x363800,36016,Modele 3D
+1430,m034_00.nsbca,0xd98800,3108,Animation de squelette 3D
+1431,m034_01.nsbca,0xd99600,19836,Animation de squelette 3D
+1432,m034_02.nsbca,0xd9e400,8304,Animation de squelette 3D
+1433,m034_03.nsbca,0xda0600,6716,Animation de squelette 3D
+1434,m034_04.nsbca,0xda2200,4796,Animation de squelette 3D
+1435,m034_10.nsbca,0xda3600,5964,Animation de squelette 3D
+1436,m035.nsbmd,0x36c600,44140,Modele 3D
+1437,m035_00.nsbca,0xda4e00,4048,Animation de squelette 3D
+1438,m035_01.nsbca,0xda5e00,15264,Animation de squelette 3D
+1439,m035_02.nsbca,0xda9a00,16620,Animation de squelette 3D
+1440,m035_03.nsbca,0xdadc00,8740,Animation de squelette 3D
+1441,m035_04.nsbca,0xdb0000,6312,Animation de squelette 3D
+1442,m035_10.nsbca,0xdb1a00,5944,Animation de squelette 3D
+1443,m035b.nsbmd,0x377400,44316,Modele 3D
+1444,m036.nsbmd,0x382200,44888,Modele 3D
+1445,m036_00.nsbca,0xdb3200,7476,Animation de squelette 3D
+1446,m036_01.nsbca,0xdb5000,31704,Animation de squelette 3D
+1447,m036_02.nsbca,0xdbcc00,20144,Animation de squelette 3D
+1448,m036_03.nsbca,0xdc1c00,11380,Animation de squelette 3D
+1449,m036_04.nsbca,0xdc4a00,3732,Animation de squelette 3D
+1450,m036_10.nsbca,0xdc5a00,4344,Animation de squelette 3D
+1451,m037.nsbmd,0x38d200,42812,Modele 3D
+1452,m037_00.nsbca,0xdc6c00,7916,Animation de squelette 3D
+1453,m037_01.nsbca,0xdc8c00,21316,Animation de squelette 3D
+1454,m037_02.nsbca,0xdce000,5688,Animation de squelette 3D
+1455,m037_03.nsbca,0xdcf800,7088,Animation de squelette 3D
+1456,m037_04.nsbca,0xdd1400,3020,Animation de squelette 3D
+1457,m037_10.nsbca,0xdd2000,5140,Animation de squelette 3D
+1458,m040.nsbmd,0x397a00,42844,Modele 3D
+1459,m040_00.nsbca,0xdd3600,4656,Animation de squelette 3D
+1460,m040_01.nsbca,0xdd4a00,21684,Animation de squelette 3D
+1461,m040_02.nsbca,0xdda000,12156,Animation de squelette 3D
+1462,m040_03.nsbca,0xddd000,11408,Animation de squelette 3D
+1463,m040_04.nsbca,0xddfe00,4640,Animation de squelette 3D
+1464,m040_10.nsbca,0xde1200,3308,Animation de squelette 3D
+1465,m040b.nsbmd,0x3a2200,44708,Modele 3D
+1466,m041.nsbmd,0x3ad200,38004,Modele 3D
+1467,m041_00.nsbca,0xde2000,4504,Animation de squelette 3D
+1468,m041_01.nsbca,0xde3200,14952,Animation de squelette 3D
+1469,m041_02.nsbca,0xde6e00,29108,Animation de squelette 3D
+1470,m041_03.nsbca,0xdee000,10592,Animation de squelette 3D
+1471,m041_04.nsbca,0xdf0a00,6760,Animation de squelette 3D
+1472,m041_10.nsbca,0xdf2600,5040,Animation de squelette 3D
+1473,m042.nsbmd,0x3b6800,50804,Modele 3D
+1474,m042_00.nsbca,0xdf3a00,13848,Animation de squelette 3D
+1475,m042_01.nsbca,0xdf7200,17816,Animation de squelette 3D
+1476,m042_02.nsbca,0xdfb800,23268,Animation de squelette 3D
+1477,m042_03.nsbca,0xe01400,11188,Animation de squelette 3D
+1478,m042_04.nsbca,0xe04000,10284,Animation de squelette 3D
+1479,m042_10.nsbca,0xe06a00,9384,Animation de squelette 3D
+1480,m043.nsbmd,0x3c3000,44084,Modele 3D
+1481,m043_00.nsbca,0xe09000,16060,Animation de squelette 3D
+1482,m043_01.nsbca,0xe0d000,19936,Animation de squelette 3D
+1483,m043_02.nsbca,0xe11e00,19020,Animation de squelette 3D
+1484,m043_03.nsbca,0xe16a00,21328,Animation de squelette 3D
+1485,m043_04.nsbca,0xe1be00,16060,Animation de squelette 3D
+1486,m044.nsbmd,0x3cde00,49780,Modele 3D
+1487,m044_00.nsbca,0xe1fe00,7812,Animation de squelette 3D
+1488,m044_01.nsbca,0xe21e00,28932,Animation de squelette 3D
+1489,m044_02.nsbca,0xe29000,19960,Animation de squelette 3D
+1490,m044_03.nsbca,0xe2de00,11356,Animation de squelette 3D
+1491,m044_04.nsbca,0xe30c00,7936,Animation de squelette 3D
+1492,m053.nsbmd,0x3da200,19796,Modele 3D
+1493,m053_00.nsbca,0xe32c00,1820,Animation de squelette 3D
+1494,m053_01.nsbca,0xe33400,5492,Animation de squelette 3D
+1495,m053_02.nsbca,0xe34a00,4296,Animation de squelette 3D
+1496,m053_03.nsbca,0xe35c00,9300,Animation de squelette 3D
+1497,m053_04.nsbca,0xe38200,1876,Animation de squelette 3D
+1498,m053_10.nsbca,0xe38a00,2260,Animation de squelette 3D
+1499,m055.nsbmd,0x3df000,19456,Modele 3D
+1500,m055_00.nsbca,0xe39400,2632,Animation de squelette 3D
+1501,m055_01.nsbca,0xe3a000,6008,Animation de squelette 3D
+1502,m055_02.nsbca,0xe3b800,10004,Animation de squelette 3D
+1503,m055_03.nsbca,0xe3e000,3452,Animation de squelette 3D
+1504,m055_04.nsbca,0xe3ee00,3176,Animation de squelette 3D
+1505,m055_10.nsbca,0xe3fc00,2548,Animation de squelette 3D
+1506,m056.nsbmd,0x3e3c00,44664,Modele 3D
+1507,m056_00.nsbca,0xe40600,3092,Animation de squelette 3D
+1508,m056_01.nsbca,0xe41400,16376,Animation de squelette 3D
+1509,m056_02.nsbca,0xe45400,23412,Animation de squelette 3D
+1510,m056_03.nsbca,0xe4b000,6964,Animation de squelette 3D
+1511,m056_04.nsbca,0xe4cc00,3764,Animation de squelette 3D
+1512,m056_10.nsbca,0xe4dc00,5128,Animation de squelette 3D
+1513,m057.nsbmd,0x3eec00,14072,Modele 3D
+1514,m057_00.nsbca,0xe4f200,5680,Animation de squelette 3D
+1515,m057_01.nsbca,0xe50a00,13168,Animation de squelette 3D
+1516,m057_02.nsbca,0xe53e00,13240,Animation de squelette 3D
+1517,m057_03.nsbca,0xe57200,8528,Animation de squelette 3D
+1518,m057_04.nsbca,0xe59400,3264,Animation de squelette 3D
+1519,m057_10.nsbca,0xe5a200,3600,Animation de squelette 3D
+1520,m058.nsbmd,0x3f2400,27300,Modele 3D
+1521,m058_00.nsbca,0xe5b200,3212,Animation de squelette 3D
+1522,m058_01.nsbca,0xe5c000,9064,Animation de squelette 3D
+1523,m058_02.nsbca,0xe5e400,13476,Animation de squelette 3D
+1524,m058_03.nsbca,0xe61a00,8732,Animation de squelette 3D
+1525,m058_04.nsbca,0xe63e00,4224,Animation de squelette 3D
+1526,m058_10.nsbca,0xe65000,6640,Animation de squelette 3D
+1527,m059.nsbmd,0x3f9000,38288,Modele 3D
+1528,m059_00.nsbca,0xe66a00,7004,Animation de squelette 3D
+1529,m059_01.nsbca,0xe68600,9504,Animation de squelette 3D
+1530,m059_02.nsbca,0xe6ac00,11148,Animation de squelette 3D
+1531,m059_03.nsbca,0xe6d800,9836,Animation de squelette 3D
+1532,m059_04.nsbca,0xe70000,4740,Animation de squelette 3D
+1533,m059_10.nsbca,0xe71400,5452,Animation de squelette 3D
+1534,m060.nsbmd,0x402600,39516,Modele 3D
+1535,m060_00.nsbca,0xe72a00,8692,Animation de squelette 3D
+1536,m060_01.nsbca,0xe74c00,24220,Animation de squelette 3D
+1537,m060_02.nsbca,0xe7ac00,31384,Animation de squelette 3D
+1538,m060_03.nsbca,0xe82800,24204,Animation de squelette 3D
+1539,m060_04.nsbca,0xe88800,5748,Animation de squelette 3D
+1540,m060_10.nsbca,0xe8a000,8588,Animation de squelette 3D
+1541,m062.nsbmd,0x40c200,42976,Modele 3D
+1542,m062_00.nsbca,0xe8c200,3264,Animation de squelette 3D
+1543,m062_01.nsbca,0xe8d000,17432,Animation de squelette 3D
+1544,m062_02.nsbca,0xe91600,29176,Animation de squelette 3D
+1545,m062_03.nsbca,0xe98800,8292,Animation de squelette 3D
+1546,m062_04.nsbca,0xe9aa00,4172,Animation de squelette 3D
+1547,m062_10.nsbca,0xe9bc00,2936,Animation de squelette 3D
+1548,m063.nsbmd,0x416a00,44764,Modele 3D
+1549,m063_00.nsbca,0xe9c800,6116,Animation de squelette 3D
+1550,m063_01.nsbca,0xe9e000,13168,Animation de squelette 3D
+1551,m063_02.nsbca,0xea1400,19424,Animation de squelette 3D
+1552,m063_03.nsbca,0xea6000,15420,Animation de squelette 3D
+1553,m063_04.nsbca,0xea9e00,8412,Animation de squelette 3D
+1554,m063_10.nsbca,0xeac000,3784,Animation de squelette 3D
+1555,m064.nsbmd,0x421a00,37276,Modele 3D
+1556,m064_00.nsbca,0xead000,1564,Animation de squelette 3D
+1557,m064_01.nsbca,0xead800,5104,Animation de squelette 3D
+1558,m064_02.nsbca,0xeaec00,4792,Animation de squelette 3D
+1559,m064_03.nsbca,0xeb0000,4044,Animation de squelette 3D
+1560,m064_04.nsbca,0xeb1000,1748,Animation de squelette 3D
+1561,m064_10.nsbca,0xeb1800,2224,Animation de squelette 3D
+1562,m065.nsbmd,0x42ac00,42212,Modele 3D
+1563,m065_00.nsbca,0xeb2200,6728,Animation de squelette 3D
+1564,m065_01.nsbca,0xeb3e00,22880,Animation de squelette 3D
+1565,m065_02.nsbca,0xeb9800,10608,Animation de squelette 3D
+1566,m065_03.nsbca,0xebc200,7324,Animation de squelette 3D
+1567,m065_04.nsbca,0xebe000,5528,Animation de squelette 3D
+1568,m065_10.nsbca,0xebf600,5148,Animation de squelette 3D
+1569,m066.nsbmd,0x435200,37268,Modele 3D
+1570,m066_00.nsbca,0xec0c00,5032,Animation de squelette 3D
+1571,m066_01.nsbca,0xec2000,13576,Animation de squelette 3D
+1572,m066_02.nsbca,0xec5600,8996,Animation de squelette 3D
+1573,m066_03.nsbca,0xec7a00,8144,Animation de squelette 3D
+1574,m066_04.nsbca,0xec9a00,3824,Animation de squelette 3D
+1575,m066_10.nsbca,0xecaa00,7688,Animation de squelette 3D
+1576,m066b.nsbmd,0x43e400,37256,Modele 3D
+1577,m067.nsbmd,0x447600,34748,Modele 3D
+1578,m067_00.nsbca,0xecca00,3228,Animation de squelette 3D
+1579,m067_01.nsbca,0xecd800,9388,Animation de squelette 3D
+1580,m067_02.nsbca,0xecfe00,4888,Animation de squelette 3D
+1581,m067_03.nsbca,0xed1200,5748,Animation de squelette 3D
+1582,m067_04.nsbca,0xed2a00,5092,Animation de squelette 3D
+1583,m067_10.nsbca,0xed3e00,3040,Animation de squelette 3D
+1584,m068.nsbmd,0x44fe00,40440,Modele 3D
+1585,m068_00.nsbca,0xed4a00,2740,Animation de squelette 3D
+1586,m068_01.nsbca,0xed5600,7736,Animation de squelette 3D
+1587,m068_02.nsbca,0xed7600,11984,Animation de squelette 3D
+1588,m068_03.nsbca,0xeda600,7760,Animation de squelette 3D
+1589,m068_04.nsbca,0xedc600,2364,Animation de squelette 3D
+1590,m068_10.nsbca,0xedd000,2804,Animation de squelette 3D
+1591,m070.nsbmd,0x459c00,40932,Modele 3D
+1592,m070_00.nsbca,0xeddc00,7176,Animation de squelette 3D
+1593,m070_01.nsbca,0xedfa00,33980,Animation de squelette 3D
+1594,m070_02.nsbca,0xee8000,28404,Animation de squelette 3D
+1595,m070_03.nsbca,0xeef000,14308,Animation de squelette 3D
+1596,m070_04.nsbca,0xef2800,6556,Animation de squelette 3D
+1597,m070_10.nsbca,0xef4200,7288,Animation de squelette 3D
+1598,m071.nsbmd,0x463c00,43780,Modele 3D
+1599,m071_00.nsbca,0xef6000,3604,Animation de squelette 3D
+1600,m071_01.nsbca,0xef7000,24952,Animation de squelette 3D
+1601,m071_02.nsbca,0xefd200,7380,Animation de squelette 3D
+1602,m071_03.nsbca,0xeff000,9488,Animation de squelette 3D
+1603,m071_04.nsbca,0xf01600,3024,Animation de squelette 3D
+1604,m071_10.nsbca,0xf02200,9856,Animation de squelette 3D
+1605,m073.nsbmd,0x46e800,44220,Modele 3D
+1606,m073_00.nsbca,0xf04a00,4056,Animation de squelette 3D
+1607,m073_01.nsbca,0xf05a00,17072,Animation de squelette 3D
+1608,m073_02.nsbca,0xf09e00,23640,Animation de squelette 3D
+1609,m073_03.nsbca,0xf0fc00,10832,Animation de squelette 3D
+1610,m073_04.nsbca,0xf12800,6780,Animation de squelette 3D
+1611,m073_10.nsbca,0xf14400,5796,Animation de squelette 3D
+1612,m074.nsbmd,0x479600,44172,Modele 3D
+1613,m074_00.nsbca,0xf15c00,5472,Animation de squelette 3D
+1614,m074_01.nsbca,0xf17200,22868,Animation de squelette 3D
+1615,m074_02.nsbca,0xf1cc00,24212,Animation de squelette 3D
+1616,m074_03.nsbca,0xf22c00,9672,Animation de squelette 3D
+1617,m074_04.nsbca,0xf25200,5872,Animation de squelette 3D
+1618,m074_10.nsbca,0xf26a00,11288,Animation de squelette 3D
+1619,m074b.nsbmd,0x484400,44240,Modele 3D
+1620,m075.nsbmd,0x48f200,48280,Modele 3D
+1621,m075_00.nsbca,0xf29800,10200,Animation de squelette 3D
+1622,m075_01.nsbca,0xf2c000,24312,Animation de squelette 3D
+1623,m075_02.nsbca,0xf32000,29100,Animation de squelette 3D
+1624,m075_03.nsbca,0xf39200,11196,Animation de squelette 3D
+1625,m075_04.nsbca,0xf3be00,8184,Animation de squelette 3D
+1626,m075_10.nsbca,0xf3de00,10348,Animation de squelette 3D
+1627,m077.nsbmd,0x49b000,47484,Modele 3D
+1628,m077_00.nsbca,0xf40800,4340,Animation de squelette 3D
+1629,m077_01.nsbca,0xf41a00,27436,Animation de squelette 3D
+1630,m077_02.nsbca,0xf48600,9740,Animation de squelette 3D
+1631,m077_03.nsbca,0xf4ae00,11240,Animation de squelette 3D
+1632,m077_04.nsbca,0xf4da00,11024,Animation de squelette 3D
+1633,m077_10.nsbca,0xf50600,13032,Animation de squelette 3D
+1634,m078.nsbmd,0x4a6a00,41480,Modele 3D
+1635,m078_00.nsbca,0xf53a00,3484,Animation de squelette 3D
+1636,m078_01.nsbca,0xf54800,9800,Animation de squelette 3D
+1637,m078_02.nsbca,0xf57000,18360,Animation de squelette 3D
+1638,m078_03.nsbca,0xf5b800,7040,Animation de squelette 3D
+1639,m078_04.nsbca,0xf5d400,6184,Animation de squelette 3D
+1640,m078_10.nsbca,0xf5ee00,5416,Animation de squelette 3D
+1641,m081.nsbmd,0x4b0e00,42528,Modele 3D
+1642,m081_00.nsbca,0xf60400,2804,Animation de squelette 3D
+1643,m081_01.nsbca,0xf61000,18528,Animation de squelette 3D
+1644,m081_02.nsbca,0xf65a00,14484,Animation de squelette 3D
+1645,m081_03.nsbca,0xf69400,5648,Animation de squelette 3D
+1646,m081_04.nsbca,0xf6ac00,2884,Animation de squelette 3D
+1647,m082.nsbmd,0x4bb600,44196,Modele 3D
+1648,m082_00.nsbca,0xf6b800,2788,Animation de squelette 3D
+1649,m082_01.nsbca,0xf6c400,26228,Animation de squelette 3D
+1650,m082_02.nsbca,0xf72c00,14616,Animation de squelette 3D
+1651,m082_03.nsbca,0xf76600,6128,Animation de squelette 3D
+1652,m082_04.nsbca,0xf77e00,4344,Animation de squelette 3D
+1653,m082_10.nsbca,0xf79000,8720,Animation de squelette 3D
+1654,m082b.nsbmd,0x4c6400,44152,Modele 3D
+1655,m083.nsbmd,0x4d1200,46988,Modele 3D
+1656,m083_00.nsbca,0xf7b400,5920,Animation de squelette 3D
+1657,m083_01.nsbca,0xf7cc00,39976,Animation de squelette 3D
+1658,m083_02.nsbca,0xf86a00,20928,Animation de squelette 3D
+1659,m083_03.nsbca,0xf8bc00,10408,Animation de squelette 3D
+1660,m083_04.nsbca,0xf8e600,5344,Animation de squelette 3D
+1661,m083_10.nsbca,0xf8fc00,6740,Animation de squelette 3D
+1662,m084.nsbmd,0x4dca00,43656,Modele 3D
+1663,m084_00.nsbca,0xf91800,3972,Animation de squelette 3D
+1664,m084_01.nsbca,0xf92800,12564,Animation de squelette 3D
+1665,m084_02.nsbca,0xf95a00,12508,Animation de squelette 3D
+1666,m084_03.nsbca,0xf98c00,7168,Animation de squelette 3D
+1667,m084_04.nsbca,0xf9a800,4900,Animation de squelette 3D
+1668,m084_10.nsbca,0xf9bc00,3816,Animation de squelette 3D
+1669,m084b.nsbmd,0x4e7600,43796,Modele 3D
+1670,m084c.nsbmd,0x4f2200,44740,Modele 3D
+1671,m087.nsbmd,0x4fd200,45164,Modele 3D
+1672,m087_00.nsbca,0xf9cc00,4328,Animation de squelette 3D
+1673,m087_01.nsbca,0xf9de00,37896,Animation de squelette 3D
+1674,m087_02.nsbca,0xfa7400,7892,Animation de squelette 3D
+1675,m087_03.nsbca,0xfa9400,12128,Animation de squelette 3D
+1676,m087_04.nsbca,0xfac400,7904,Animation de squelette 3D
+1677,m087_10.nsbca,0xfae400,4576,Animation de squelette 3D
+1678,m088.nsbmd,0x508400,44436,Modele 3D
+1679,m088_00.nsbca,0xfaf600,5604,Animation de squelette 3D
+1680,m088_01.nsbca,0xfb0c00,27796,Animation de squelette 3D
+1681,m088_02.nsbca,0xfb7a00,10404,Animation de squelette 3D
+1682,m088_03.nsbca,0xfba400,6420,Animation de squelette 3D
+1683,m088_04.nsbca,0xfbbe00,6732,Animation de squelette 3D
+1684,m095.nsbmd,0x513200,48436,Modele 3D
+1685,m095_00.nsbca,0xfbda00,9824,Animation de squelette 3D
+1686,m095_01.nsbca,0xfc0200,22704,Animation de squelette 3D
+1687,m095_02.nsbca,0xfc5c00,19152,Animation de squelette 3D
+1688,m095_03.nsbca,0xfca800,16568,Animation de squelette 3D
+1689,m095_04.nsbca,0xfcea00,8116,Animation de squelette 3D
+1690,m096.nsbmd,0x51f000,40452,Modele 3D
+1691,m096_00.nsbca,0xfd0a00,12924,Animation de squelette 3D
+1692,m096_01.nsbca,0xfd3e00,24448,Animation de squelette 3D
+1693,m096_02.nsbca,0xfd9e00,28436,Animation de squelette 3D
+1694,m096_03.nsbca,0xfe0e00,19472,Animation de squelette 3D
+1695,m096_04.nsbca,0xfe5c00,10220,Animation de squelette 3D
+1696,m097.nsbmd,0x529000,48672,Modele 3D
+1697,m097_00.nsbca,0xfe8400,8020,Animation de squelette 3D
+1698,m097_01.nsbca,0xfea400,33544,Animation de squelette 3D
+1699,m097_02.nsbca,0xff2800,10608,Animation de squelette 3D
+1700,m097_03.nsbca,0xff5200,16880,Animation de squelette 3D
+1701,m097_04.nsbca,0xff9400,5748,Animation de squelette 3D
+1702,m098.nsbmd,0x535000,35228,Modele 3D
+1703,m098_00.nsbca,0xffac00,2224,Animation de squelette 3D
+1704,m098_01.nsbca,0xffb600,20044,Animation de squelette 3D
+1705,m098_02.nsbca,0x1000600,6920,Animation de squelette 3D
+1706,m098_03.nsbca,0x1002200,4892,Animation de squelette 3D
+1707,m098_04.nsbca,0x1003600,2568,Animation de squelette 3D
+1708,m098_10.nsbca,0x1004200,3268,Animation de squelette 3D
+1709,m099.nsbmd,0x53da00,39512,Modele 3D
+1710,m099_00.nsbca,0x1005000,5644,Animation de squelette 3D
+1711,m099_01.nsbca,0x1006800,11504,Animation de squelette 3D
+1712,m099_02.nsbca,0x1009600,20144,Animation de squelette 3D
+1713,m099_03.nsbca,0x100e600,4348,Animation de squelette 3D
+1714,m099_04.nsbca,0x100f800,1928,Animation de squelette 3D
+1715,m099_10.nsbca,0x1010000,5028,Animation de squelette 3D
+1716,m100.nsbmd,0x547600,41664,Modele 3D
+1717,m100_00.nsbca,0x1011400,4596,Animation de squelette 3D
+1718,m100_01.nsbca,0x1012600,27036,Animation de squelette 3D
+1719,m100_02.nsbca,0x1019000,11092,Animation de squelette 3D
+1720,m100_03.nsbca,0x101bc00,8124,Animation de squelette 3D
+1721,m100_04.nsbca,0x101dc00,6108,Animation de squelette 3D
+1722,m100_10.nsbca,0x101f400,4724,Animation de squelette 3D
+1723,m101.nsbmd,0x551a00,52024,Modele 3D
+1724,m101_00.nsbca,0x1020800,3472,Animation de squelette 3D
+1725,m101_01.nsbca,0x1021600,10788,Animation de squelette 3D
+1726,m101_02.nsbca,0x1024200,36828,Animation de squelette 3D
+1727,m101_03.nsbca,0x102d200,10524,Animation de squelette 3D
+1728,m101_04.nsbca,0x102fc00,4380,Animation de squelette 3D
+1729,m101_10.nsbca,0x1030e00,41208,Animation de squelette 3D
+1730,m102.nsbmd,0x55e600,35220,Modele 3D
+1731,m102_00.nsbca,0x103b000,3156,Animation de squelette 3D
+1732,m102_01.nsbca,0x103be00,13880,Animation de squelette 3D
+1733,m102_02.nsbca,0x103f600,10000,Animation de squelette 3D
+1734,m102_03.nsbca,0x1041e00,8920,Animation de squelette 3D
+1735,m102_04.nsbca,0x1044200,2328,Animation de squelette 3D
+1736,m102_10.nsbca,0x1044c00,2988,Animation de squelette 3D
+1737,m102b.nsbmd,0x567000,35220,Modele 3D
+1738,m103.nsbmd,0x56fa00,31508,Modele 3D
+1739,m103_00.nsbca,0x1045800,2328,Animation de squelette 3D
+1740,m103_01.nsbca,0x1046200,7064,Animation de squelette 3D
+1741,m103_02.nsbca,0x1047e00,7960,Animation de squelette 3D
+1742,m103_03.nsbca,0x1049e00,7352,Animation de squelette 3D
+1743,m103_04.nsbca,0x104bc00,2576,Animation de squelette 3D
+1744,m103_10.nsbca,0x104c800,2148,Animation de squelette 3D
+1745,m105.nsbmd,0x577600,34840,Modele 3D
+1746,m105_00.nsbca,0x104d200,2200,Animation de squelette 3D
+1747,m105_01.nsbca,0x104dc00,36504,Animation de squelette 3D
+1748,m105_02.nsbca,0x1056c00,20564,Animation de squelette 3D
+1749,m105_03.nsbca,0x105be00,12724,Animation de squelette 3D
+1750,m105_04.nsbca,0x105f000,3784,Animation de squelette 3D
+1751,m105_10.nsbca,0x1060000,2236,Animation de squelette 3D
+1752,m106.nsbmd,0x580000,37460,Modele 3D
+1753,m106_00.nsbca,0x1060a00,4936,Animation de squelette 3D
+1754,m106_01.nsbca,0x1061e00,17736,Animation de squelette 3D
+1755,m106_02.nsbca,0x1066400,11656,Animation de squelette 3D
+1756,m106_03.nsbca,0x1069200,12092,Animation de squelette 3D
+1757,m106_04.nsbca,0x106c200,2984,Animation de squelette 3D
+1758,m106_10.nsbca,0x106ce00,2856,Animation de squelette 3D
+1759,m107.nsbmd,0x589400,39972,Modele 3D
+1760,m107_00.nsbca,0x106da00,5048,Animation de squelette 3D
+1761,m107_01.nsbca,0x106ee00,5092,Animation de squelette 3D
+1762,m107_02.nsbca,0x1070200,11380,Animation de squelette 3D
+1763,m107_03.nsbca,0x1073000,10928,Animation de squelette 3D
+1764,m107_04.nsbca,0x1075c00,2504,Animation de squelette 3D
+1765,m107_10.nsbca,0x1076600,2296,Animation de squelette 3D
+1766,m107b.nsbmd,0x593200,39972,Modele 3D
+1767,m108.nsbmd,0x59d000,20904,Modele 3D
+1768,m108_00.nsbca,0x1077000,1168,Animation de squelette 3D
+1769,m108_01.nsbca,0x1077600,4008,Animation de squelette 3D
+1770,m108_02.nsbca,0x1078600,2132,Animation de squelette 3D
+1771,m108_03.nsbca,0x1079000,3832,Animation de squelette 3D
+1772,m108_04.nsbca,0x107a000,908,Animation de squelette 3D
+1773,m108_10.nsbca,0x107a400,1336,Animation de squelette 3D
+1774,m109.nsbmd,0x5a2200,38068,Modele 3D
+1775,m109_00.nsbca,0x107aa00,2948,Animation de squelette 3D
+1776,m109_01.nsbca,0x107b600,17524,Animation de squelette 3D
+1777,m109_02.nsbca,0x107fc00,5556,Animation de squelette 3D
+1778,m109_03.nsbca,0x1081200,9356,Animation de squelette 3D
+1779,m109_04.nsbca,0x1083800,6720,Animation de squelette 3D
+1780,m110.nsbmd,0x5ab800,34008,Modele 3D
+1781,m110_00.nsbca,0x1085400,2112,Animation de squelette 3D
+1782,m110_01.nsbca,0x1085e00,19832,Animation de squelette 3D
+1783,m110_02.nsbca,0x108ac00,18376,Animation de squelette 3D
+1784,m110_03.nsbca,0x108f400,3588,Animation de squelette 3D
+1785,m110_04.nsbca,0x1090400,5208,Animation de squelette 3D
+1786,m111.nsbmd,0x5b3e00,43188,Modele 3D
+1787,m111_00.nsbca,0x1091a00,2960,Animation de squelette 3D
+1788,m111_01.nsbca,0x1092600,12460,Animation de squelette 3D
+1789,m111_02.nsbca,0x1095800,6472,Animation de squelette 3D
+1790,m111_03.nsbca,0x1097200,5400,Animation de squelette 3D
+1791,m111_04.nsbca,0x1098800,4004,Animation de squelette 3D
+1792,m112.nsbmd,0x5be800,42816,Modele 3D
+1793,m112_00.nsbca,0x1099800,3280,Animation de squelette 3D
+1794,m112_01.nsbca,0x109a600,12492,Animation de squelette 3D
+1795,m112_02.nsbca,0x109d800,6564,Animation de squelette 3D
+1796,m112_03.nsbca,0x109f200,10608,Animation de squelette 3D
+1797,m112_04.nsbca,0x10a1c00,7604,Animation de squelette 3D
+1798,m114.nsbmd,0x5c9000,48504,Modele 3D
+1799,m114_00.nsbca,0x10a3a00,4708,Animation de squelette 3D
+1800,m114_01.nsbca,0x10a4e00,11596,Animation de squelette 3D
+1801,m114_02.nsbca,0x10a7c00,30476,Animation de squelette 3D
+1802,m114_03.nsbca,0x10af400,30168,Animation de squelette 3D
+1803,m114_04.nsbca,0x10b6a00,4752,Animation de squelette 3D
+1804,m116.nsbmd,0x5d4e00,34320,Modele 3D
+1805,m116_00.nsbca,0x10b7e00,2716,Animation de squelette 3D
+1806,m116_01.nsbca,0x10b8a00,15888,Animation de squelette 3D
+1807,m116_02.nsbca,0x10bca00,11688,Animation de squelette 3D
+1808,m116_03.nsbca,0x10bf800,12332,Animation de squelette 3D
+1809,m116_04.nsbca,0x10c2a00,5656,Animation de squelette 3D
+1810,m116_10.nsbca,0x10c4200,4168,Animation de squelette 3D
+1811,m116b.nsbmd,0x5dd600,34772,Modele 3D
+1812,m117.nsbmd,0x5e5e00,42748,Modele 3D
+1813,m117_00.nsbca,0x10c5400,848,Animation de squelette 3D
+1814,m117_01.nsbca,0x10c5800,8232,Animation de squelette 3D
+1815,m117_02.nsbca,0x10c7a00,7340,Animation de squelette 3D
+1816,m117_03.nsbca,0x10c9800,6428,Animation de squelette 3D
+1817,m117_04.nsbca,0x10cb200,1172,Animation de squelette 3D
+1818,m117_10.nsbca,0x10cb800,3420,Animation de squelette 3D
+1819,m118.nsbmd,0x5f0600,44612,Modele 3D
+1820,m118_00.nsbca,0x10cc600,7264,Animation de squelette 3D
+1821,m118_01.nsbca,0x10ce400,21824,Animation de squelette 3D
+1822,m118_02.nsbca,0x10d3a00,18432,Animation de squelette 3D
+1823,m118_03.nsbca,0x10d8200,15020,Animation de squelette 3D
+1824,m118_04.nsbca,0x10dbe00,8608,Animation de squelette 3D
+1825,m119.nsbmd,0x5fb600,39964,Modele 3D
+1826,m119_00.nsbca,0x10de000,3444,Animation de squelette 3D
+1827,m119_01.nsbca,0x10dee00,18392,Animation de squelette 3D
+1828,m119_02.nsbca,0x10e3600,14612,Animation de squelette 3D
+1829,m119_03.nsbca,0x10e7000,6324,Animation de squelette 3D
+1830,m119_04.nsbca,0x10e8a00,9156,Animation de squelette 3D
+1831,m119_10.nsbca,0x10eae00,4688,Animation de squelette 3D
+1832,m119b.nsbmd,0x605400,39964,Modele 3D
+1833,m120.nsbmd,0x60f200,42688,Modele 3D
+1834,m120_00.nsbca,0x10ec200,2316,Animation de squelette 3D
+1835,m120_01.nsbca,0x10ecc00,12280,Animation de squelette 3D
+1836,m120_02.nsbca,0x10efc00,7440,Animation de squelette 3D
+1837,m120_03.nsbca,0x10f1a00,5512,Animation de squelette 3D
+1838,m120_04.nsbca,0x10f3000,4320,Animation de squelette 3D
+1839,m121.nsbmd,0x619a00,47300,Modele 3D
+1840,m121_00.nsbca,0x10f4200,8312,Animation de squelette 3D
+1841,m121_01.nsbca,0x10f6400,20952,Animation de squelette 3D
+1842,m121_02.nsbca,0x10fb600,20292,Animation de squelette 3D
+1843,m121_03.nsbca,0x1100600,14776,Animation de squelette 3D
+1844,m121_04.nsbca,0x1104000,9208,Animation de squelette 3D
+1845,m122.nsbmd,0x625400,44812,Modele 3D
+1846,m122_00.nsbca,0x1106400,3424,Animation de squelette 3D
+1847,m122_01.nsbca,0x1107200,35796,Animation de squelette 3D
+1848,m122_02.nsbca,0x110fe00,11776,Animation de squelette 3D
+1849,m122_03.nsbca,0x1112c00,24504,Animation de squelette 3D
+1850,m122_04.nsbca,0x1118c00,7904,Animation de squelette 3D
+1851,m130.nsbmd,0x630400,40624,Modele 3D
+1852,m130_00.nsbca,0x111ac00,3740,Animation de squelette 3D
+1853,m130_01.nsbca,0x111bc00,36992,Animation de squelette 3D
+1854,m130_02.nsbca,0x1124e00,28208,Animation de squelette 3D
+1855,m130_03.nsbca,0x112be00,13692,Animation de squelette 3D
+1856,m130_04.nsbca,0x112f400,5768,Animation de squelette 3D
+1857,m130_10.nsbca,0x1130c00,6816,Animation de squelette 3D
+1858,m130b.nsbmd,0x63a400,40976,Modele 3D
+1859,m132.nsbmd,0x644600,35728,Modele 3D
+1860,m132_00.nsbca,0x1132800,3360,Animation de squelette 3D
+1861,m132_01.nsbca,0x1133600,15444,Animation de squelette 3D
+1862,m132_02.nsbca,0x1137400,17768,Animation de squelette 3D
+1863,m132_03.nsbca,0x113ba00,6136,Animation de squelette 3D
+1864,m132_04.nsbca,0x113d200,4584,Animation de squelette 3D
+1865,m132_10.nsbca,0x113e400,5928,Animation de squelette 3D
+1866,m132b.nsbmd,0x64d200,35728,Modele 3D
+1867,m134.nsbmd,0x655e00,44108,Modele 3D
+1868,m134_00.nsbca,0x113fc00,3544,Animation de squelette 3D
+1869,m134_01.nsbca,0x1140a00,15016,Animation de squelette 3D
+1870,m134_02.nsbca,0x1144600,9880,Animation de squelette 3D
+1871,m134_03.nsbca,0x1146e00,6932,Animation de squelette 3D
+1872,m134_04.nsbca,0x1148a00,4168,Animation de squelette 3D
+1873,m134_10.nsbca,0x1149c00,5164,Animation de squelette 3D
+1874,m134b.nsbmd,0x660c00,45776,Modele 3D
+1875,m135.nsbmd,0x66c000,41732,Modele 3D
+1876,m135_00.nsbca,0x114b200,5024,Animation de squelette 3D
+1877,m135_01.nsbca,0x114c600,33280,Animation de squelette 3D
+1878,m135_02.nsbca,0x1154800,27696,Animation de squelette 3D
+1879,m135_03.nsbca,0x115b600,11816,Animation de squelette 3D
+1880,m135_04.nsbca,0x115e600,6812,Animation de squelette 3D
+1881,m135_10.nsbca,0x1160200,20944,Animation de squelette 3D
+1882,m135b.nsbmd,0x676400,41732,Modele 3D
+1883,m141.nsbmd,0x680800,48748,Modele 3D
+1884,m141_00.nsbca,0x1165400,12536,Animation de squelette 3D
+1885,m141_01.nsbca,0x1168600,23248,Animation de squelette 3D
+1886,m141_02.nsbca,0x116e200,15376,Animation de squelette 3D
+1887,m141_03.nsbca,0x1172000,13452,Animation de squelette 3D
+1888,m141_04.nsbca,0x1175600,5940,Animation de squelette 3D
+1889,m141b.nsbmd,0x68c800,49164,Modele 3D
+1890,m146.nsbmd,0x698a00,39988,Modele 3D
+1891,m146_00.nsbca,0x1176e00,11588,Animation de squelette 3D
+1892,m146_01.nsbca,0x1179c00,22388,Animation de squelette 3D
+1893,m146_02.nsbca,0x117f400,15588,Animation de squelette 3D
+1894,m146_03.nsbca,0x1183200,8928,Animation de squelette 3D
+1895,m146_04.nsbca,0x1185600,10592,Animation de squelette 3D
+1896,m146_10.nsbca,0x1188000,8664,Animation de squelette 3D
+1897,m147.nsbmd,0x6a2800,35600,Modele 3D
+1898,m147_00.nsbca,0x118a200,2280,Animation de squelette 3D
+1899,m147_01.nsbca,0x118ac00,5576,Animation de squelette 3D
+1900,m147_02.nsbca,0x118c200,3488,Animation de squelette 3D
+1901,m147_03.nsbca,0x118d000,4352,Animation de squelette 3D
+1902,m147_04.nsbca,0x118e200,1740,Animation de squelette 3D
+1903,m147_10.nsbca,0x118ea00,2356,Animation de squelette 3D
+1904,m148.nsbmd,0x6ab400,42136,Modele 3D
+1905,m148_00.nsbca,0x118f400,3728,Animation de squelette 3D
+1906,m148_01.nsbca,0x1190400,20556,Animation de squelette 3D
+1907,m148_02.nsbca,0x1195600,10804,Animation de squelette 3D
+1908,m148_03.nsbca,0x1198200,8524,Animation de squelette 3D
+1909,m148_04.nsbca,0x119a400,4608,Animation de squelette 3D
+1910,m148_10.nsbca,0x119b600,3712,Animation de squelette 3D
+1911,m149.nsbmd,0x6b5a00,37648,Modele 3D
+1912,m149_00.nsbca,0x119c600,2932,Animation de squelette 3D
+1913,m149_01.nsbca,0x119d200,10896,Animation de squelette 3D
+1914,m149_02.nsbca,0x119fe00,21144,Animation de squelette 3D
+1915,m149_03.nsbca,0x11a5200,10844,Animation de squelette 3D
+1916,m149_04.nsbca,0x11a7e00,2704,Animation de squelette 3D
+1917,m149_10.nsbca,0x11a8a00,4040,Animation de squelette 3D
+1918,m149b.nsbmd,0x6bee00,37784,Modele 3D
+1919,m150.nsbmd,0x6c8200,39592,Modele 3D
+1920,m150_00.nsbca,0x11a9a00,3428,Animation de squelette 3D
+1921,m150_01.nsbca,0x11aa800,13656,Animation de squelette 3D
+1922,m150_02.nsbca,0x11ade00,8420,Animation de squelette 3D
+1923,m150_03.nsbca,0x11b0000,7972,Animation de squelette 3D
+1924,m150_04.nsbca,0x11b2000,5324,Animation de squelette 3D
+1925,m150_10.nsbca,0x11b3600,5036,Animation de squelette 3D
+1926,m151.nsbmd,0x6d1e00,40724,Modele 3D
+1927,m151_00.nsbca,0x11b4a00,2724,Animation de squelette 3D
+1928,m151_01.nsbca,0x11b5600,22912,Animation de squelette 3D
+1929,m151_02.nsbca,0x11bb000,6188,Animation de squelette 3D
+1930,m151_03.nsbca,0x11bca00,5288,Animation de squelette 3D
+1931,m151_04.nsbca,0x11be000,2420,Animation de squelette 3D
+1932,m151_10.nsbca,0x11bea00,2784,Animation de squelette 3D
+1933,m152.nsbmd,0x6dbe00,40964,Modele 3D
+1934,m152_00.nsbca,0x11bf600,3200,Animation de squelette 3D
+1935,m152_01.nsbca,0x11c0400,18352,Animation de squelette 3D
+1936,m152_02.nsbca,0x11c4c00,18296,Animation de squelette 3D
+1937,m152_03.nsbca,0x11c9400,12036,Animation de squelette 3D
+1938,m152_04.nsbca,0x11cc400,2764,Animation de squelette 3D
+1939,m152_10.nsbca,0x11cd000,3580,Animation de squelette 3D
+1940,m152b.nsbmd,0x6e6000,41332,Modele 3D
+1941,m152c.nsbmd,0x6f0200,41364,Modele 3D
+1942,m153.nsbmd,0x6fa400,37492,Modele 3D
+1943,m153_00.nsbca,0x11cde00,12252,Animation de squelette 3D
+1944,m153_01.nsbca,0x11d0e00,28640,Animation de squelette 3D
+1945,m153_02.nsbca,0x11d7e00,15984,Animation de squelette 3D
+1946,m153_03.nsbca,0x11dbe00,27236,Animation de squelette 3D
+1947,m153_04.nsbca,0x11e2a00,10900,Animation de squelette 3D
+1948,m153_10.nsbca,0x11e5600,7844,Animation de squelette 3D
+1949,m153b.nsbmd,0x703800,37940,Modele 3D
+1950,m154.nsbmd,0x70ce00,44020,Modele 3D
+1951,m154_00.nsbca,0x11e7600,2624,Animation de squelette 3D
+1952,m154_01.nsbca,0x11e8200,16064,Animation de squelette 3D
+1953,m154_02.nsbca,0x11ec200,24800,Animation de squelette 3D
+1954,m154_03.nsbca,0x11f2400,12048,Animation de squelette 3D
+1955,m154_04.nsbca,0x11f5400,7728,Animation de squelette 3D
+1956,m154_10.nsbca,0x11f7400,4728,Animation de squelette 3D
+1957,m155.nsbmd,0x717a00,48568,Modele 3D
+1958,m155_00.nsbca,0x11f8800,6060,Animation de squelette 3D
+1959,m155_01.nsbca,0x11fa000,39996,Animation de squelette 3D
+1960,m155_02.nsbca,0x1203e00,22860,Animation de squelette 3D
+1961,m155_03.nsbca,0x1209800,7676,Animation de squelette 3D
+1962,m155_04.nsbca,0x120b600,4984,Animation de squelette 3D
+1963,m155_10.nsbca,0x120ca00,6364,Animation de squelette 3D
+1964,m155b.nsbmd,0x723800,48568,Modele 3D
+1965,m156.nsbmd,0x72f600,45160,Modele 3D
+1966,m156_00.nsbca,0x120e400,4056,Animation de squelette 3D
+1967,m156_01.nsbca,0x120f400,32484,Animation de squelette 3D
+1968,m156_02.nsbca,0x1217400,14644,Animation de squelette 3D
+1969,m156_03.nsbca,0x121ae00,27288,Animation de squelette 3D
+1970,m156_04.nsbca,0x1221a00,7676,Animation de squelette 3D
+1971,m156_10.nsbca,0x1223800,6916,Animation de squelette 3D
+1972,m157.nsbmd,0x73a800,44840,Modele 3D
+1973,m157_00.nsbca,0x1225400,6364,Animation de squelette 3D
+1974,m157_01.nsbca,0x1226e00,33628,Animation de squelette 3D
+1975,m157_02.nsbca,0x122f200,27844,Animation de squelette 3D
+1976,m157_03.nsbca,0x1236000,14784,Animation de squelette 3D
+1977,m157_04.nsbca,0x1239a00,8176,Animation de squelette 3D
+1978,m157_10.nsbca,0x123ba00,6884,Animation de squelette 3D
+1979,m157b.nsbmd,0x745800,44840,Modele 3D
+1980,m158.nsbmd,0x750800,47228,Modele 3D
+1981,m158_00.nsbca,0x123d600,8228,Animation de squelette 3D
+1982,m158_01.nsbca,0x123f800,16392,Animation de squelette 3D
+1983,m158_02.nsbca,0x1243a00,16472,Animation de squelette 3D
+1984,m158_03.nsbca,0x1247c00,12932,Animation de squelette 3D
+1985,m158_04.nsbca,0x124b000,7532,Animation de squelette 3D
+1986,m160.nsbmd,0x75c200,29676,Modele 3D
+1987,m160_00.nsbca,0x124ce00,504,Animation de squelette 3D
+1988,m160_01.nsbca,0x124d000,3104,Animation de squelette 3D
+1989,m160_02.nsbca,0x124de00,3304,Animation de squelette 3D
+1990,m160_03.nsbca,0x124ec00,2136,Animation de squelette 3D
+1991,m160_04.nsbca,0x124f600,628,Animation de squelette 3D
+1992,m160_10.nsbca,0x124fa00,544,Animation de squelette 3D
+1993,m160b.nsbmd,0x763600,32356,Modele 3D
+1994,m161.nsbmd,0x76b600,34272,Modele 3D
+1995,m161_00.nsbca,0x124fe00,1624,Animation de squelette 3D
+1996,m161_01.nsbca,0x1250600,4608,Animation de squelette 3D
+1997,m161_02.nsbca,0x1251800,5676,Animation de squelette 3D
+1998,m161_03.nsbca,0x1253000,5700,Animation de squelette 3D
+1999,m161_04.nsbca,0x1254800,1584,Animation de squelette 3D
+2000,m161_10.nsbca,0x1255000,1684,Animation de squelette 3D
+2001,m161b.nsbmd,0x773c00,34272,Modele 3D
+2002,m162.nsbmd,0x77c200,34496,Modele 3D
+2003,m162_00.nsbca,0x1255800,964,Animation de squelette 3D
+2004,m162_01.nsbca,0x1255c00,11312,Animation de squelette 3D
+2005,m162_02.nsbca,0x1258a00,3148,Animation de squelette 3D
+2006,m162_03.nsbca,0x1259800,5640,Animation de squelette 3D
+2007,m162_04.nsbca,0x125b000,1332,Animation de squelette 3D
+2008,m162_10.nsbca,0x125b600,1036,Animation de squelette 3D
+2009,m163.nsbmd,0x784a00,34484,Modele 3D
+2010,m163_00.nsbca,0x125bc00,1680,Animation de squelette 3D
+2011,m163_01.nsbca,0x125c400,9332,Animation de squelette 3D
+2012,m163_02.nsbca,0x125ea00,3304,Animation de squelette 3D
+2013,m163_03.nsbca,0x125f800,4652,Animation de squelette 3D
+2014,m163_04.nsbca,0x1260c00,2232,Animation de squelette 3D
+2015,m163_10.nsbca,0x1261600,1516,Animation de squelette 3D
+2016,m163b.nsbmd,0x78d200,27140,Modele 3D
+2017,m164.nsbmd,0x793e00,37160,Modele 3D
+2018,m164_00.nsbca,0x1261c00,12504,Animation de squelette 3D
+2019,m164_01.nsbca,0x1264e00,27844,Animation de squelette 3D
+2020,m164_02.nsbca,0x126bc00,19556,Animation de squelette 3D
+2021,m164_03.nsbca,0x1270a00,20068,Animation de squelette 3D
+2022,m164_04.nsbca,0x1275a00,6800,Animation de squelette 3D
+2023,m165.nsbmd,0x79d000,42896,Modele 3D
+2024,m165_00.nsbca,0x1277600,3512,Animation de squelette 3D
+2025,m165_01.nsbca,0x1278400,16292,Animation de squelette 3D
+2026,m165_02.nsbca,0x127c400,8560,Animation de squelette 3D
+2027,m165_03.nsbca,0x127e600,12204,Animation de squelette 3D
+2028,m165_04.nsbca,0x1281600,6412,Animation de squelette 3D
+2029,m165b.nsbmd,0x7a7800,42476,Modele 3D
+2030,m166.nsbmd,0x7b1e00,25624,Modele 3D
+2031,m166_00.nsbca,0x1283000,1084,Animation de squelette 3D
+2032,m166_01.nsbca,0x1283600,3920,Animation de squelette 3D
+2033,m166_02.nsbca,0x1284600,1284,Animation de squelette 3D
+2034,m166_03.nsbca,0x1284c00,2472,Animation de squelette 3D
+2035,m166_04.nsbca,0x1285600,1796,Animation de squelette 3D
+2036,m166b.nsbmd,0x7b8400,25624,Modele 3D
+2037,m167.nsbmd,0x7bea00,38744,Modele 3D
+2038,m167_00.nsbca,0x1285e00,4232,Animation de squelette 3D
+2039,m167_01.nsbca,0x1287000,23420,Animation de squelette 3D
+2040,m167_02.nsbca,0x128cc00,13632,Animation de squelette 3D
+2041,m167_03.nsbca,0x1290200,17584,Animation de squelette 3D
+2042,m167_04.nsbca,0x1294800,7188,Animation de squelette 3D
+2043,m167_10.nsbca,0x1296600,7944,Animation de squelette 3D
+2044,m168.nsbmd,0x7c8200,35076,Modele 3D
+2045,m168_00.nsbca,0x1298600,2072,Animation de squelette 3D
+2046,m168_01.nsbca,0x1299000,6284,Animation de squelette 3D
+2047,m168_02.nsbca,0x129aa00,5504,Animation de squelette 3D
+2048,m168_03.nsbca,0x129c000,5860,Animation de squelette 3D
+2049,m168_04.nsbca,0x129d800,2252,Animation de squelette 3D
+2050,m168_10.nsbca,0x129e200,3880,Animation de squelette 3D
+2051,m169.nsbmd,0x7d0c00,41992,Modele 3D
+2052,m169_00.nsbca,0x129f200,2984,Animation de squelette 3D
+2053,m169_01.nsbca,0x129fe00,17252,Animation de squelette 3D
+2054,m169_02.nsbca,0x12a4200,3688,Animation de squelette 3D
+2055,m169_03.nsbca,0x12a5200,2972,Animation de squelette 3D
+2056,m169_04.nsbca,0x12a5e00,3304,Animation de squelette 3D
+2057,m169_10.nsbca,0x12a6c00,5368,Animation de squelette 3D
+2058,m176.nsbmd,0x7db200,36532,Modele 3D
+2059,m176_00.nsbca,0x12a8200,8152,Animation de squelette 3D
+2060,m176_01.nsbca,0x12aa200,12308,Animation de squelette 3D
+2061,m176_02.nsbca,0x12ad400,13164,Animation de squelette 3D
+2062,m176_03.nsbca,0x12b0800,13768,Animation de squelette 3D
+2063,m176_04.nsbca,0x12b3e00,6748,Animation de squelette 3D
+2064,m177.nsbmd,0x7e4200,41656,Modele 3D
+2065,m177_00.nsbca,0x12b5a00,2440,Animation de squelette 3D
+2066,m177_01.nsbca,0x12b6400,12436,Animation de squelette 3D
+2067,m177_02.nsbca,0x12b9600,8276,Animation de squelette 3D
+2068,m177_03.nsbca,0x12bb800,7420,Animation de squelette 3D
+2069,m177_04.nsbca,0x12bd600,9060,Animation de squelette 3D
+2070,m178.nsbmd,0x7ee600,43184,Modele 3D
+2071,m178_00.nsbca,0x12bfa00,5132,Animation de squelette 3D
+2072,m178_01.nsbca,0x12c1000,11372,Animation de squelette 3D
+2073,m178_02.nsbca,0x12c3e00,11492,Animation de squelette 3D
+2074,m178_03.nsbca,0x12c6c00,8972,Animation de squelette 3D
+2075,m178_04.nsbca,0x12c9000,13240,Animation de squelette 3D
+2076,m179.nsbmd,0x7f9000,46696,Modele 3D
+2077,m179_00.nsbca,0x12cc400,9372,Animation de squelette 3D
+2078,m179_01.nsbca,0x12cea00,14936,Animation de squelette 3D
+2079,m179_02.nsbca,0x12d2600,14160,Animation de squelette 3D
+2080,m179_03.nsbca,0x12d5e00,11168,Animation de squelette 3D
+2081,m179_04.nsbca,0x12d8a00,8888,Animation de squelette 3D
+2082,m180.nsbmd,0x804800,45128,Modele 3D
+2083,m180_00.nsbca,0x12dae00,14520,Animation de squelette 3D
+2084,m180_01.nsbca,0x12de800,17772,Animation de squelette 3D
+2085,m180_02.nsbca,0x12e2e00,13948,Animation de squelette 3D
+2086,m180_03.nsbca,0x12e6600,10200,Animation de squelette 3D
+2087,m180_04.nsbca,0x12e8e00,7680,Animation de squelette 3D
+2088,m180b.nsbmd,0x80fa00,44936,Modele 3D
+2089,m180b_00.nsbca,0x12eac00,14520,Animation de squelette 3D
+2090,m180b_01.nsbca,0x12ee600,17752,Animation de squelette 3D
+2091,m180b_02.nsbca,0x12f2c00,13948,Animation de squelette 3D
+2092,m180b_03.nsbca,0x12f6400,10200,Animation de squelette 3D
+2093,m180b_04.nsbca,0x12f8c00,7680,Animation de squelette 3D
+2094,m180c.nsbmd,0x81aa00,45096,Modele 3D
+2095,m180c_00.nsbca,0x12faa00,14544,Animation de squelette 3D
+2096,m180c_01.nsbca,0x12fe400,17700,Animation de squelette 3D
+2097,m180c_02.nsbca,0x1302a00,14012,Animation de squelette 3D
+2098,m180c_03.nsbca,0x1306200,10260,Animation de squelette 3D
+2099,m180c_04.nsbca,0x1308c00,7744,Animation de squelette 3D
+2100,m181.nsbmd,0x825c00,40576,Modele 3D
+2101,m181_00.nsbca,0x130ac00,4444,Animation de squelette 3D
+2102,m181_01.nsbca,0x130be00,15040,Animation de squelette 3D
+2103,m181_02.nsbca,0x130fa00,9848,Animation de squelette 3D
+2104,m181_03.nsbca,0x1312200,5004,Animation de squelette 3D
+2105,m181_04.nsbca,0x1313600,4080,Animation de squelette 3D
+2106,m182.nsbmd,0x82fc00,43508,Modele 3D
+2107,m182_00.nsbca,0x1314600,2988,Animation de squelette 3D
+2108,m182_01.nsbca,0x1315200,16052,Animation de squelette 3D
+2109,m182_02.nsbca,0x1319200,9828,Animation de squelette 3D
+2110,m182_03.nsbca,0x131ba00,9512,Animation de squelette 3D
+2111,m182_04.nsbca,0x131e000,3384,Animation de squelette 3D
+2112,m183.nsbmd,0x83a600,46852,Modele 3D
+2113,m183_00.nsbca,0x131ee00,4100,Animation de squelette 3D
+2114,m183_01.nsbca,0x1320000,23464,Animation de squelette 3D
+2115,m183_02.nsbca,0x1325c00,6376,Animation de squelette 3D
+2116,m183_03.nsbca,0x1327600,9712,Animation de squelette 3D
+2117,m183_04.nsbca,0x1329c00,6520,Animation de squelette 3D
+2118,m188.nsbmd,0x845e00,39376,Modele 3D
+2119,m188_00.nsbca,0x132b600,3408,Animation de squelette 3D
+2120,m188_01.nsbca,0x132c400,16860,Animation de squelette 3D
+2121,m188_02.nsbca,0x1330600,8668,Animation de squelette 3D
+2122,m188_03.nsbca,0x1332800,14400,Animation de squelette 3D
+2123,m188_04.nsbca,0x1336200,5848,Animation de squelette 3D
+2124,m190.nsbmd,0x84f800,44184,Modele 3D
+2125,m190_00.nsbca,0x1337a00,3608,Animation de squelette 3D
+2126,m190_01.nsbca,0x1338a00,18328,Animation de squelette 3D
+2127,m190_02.nsbca,0x133d200,11116,Animation de squelette 3D
+2128,m190_03.nsbca,0x133fe00,11592,Animation de squelette 3D
+2129,m190_04.nsbca,0x1342c00,5116,Animation de squelette 3D
+2130,m191.nsbmd,0x85a600,48980,Modele 3D
+2131,m191_00.nsbca,0x1344000,7548,Animation de squelette 3D
+2132,m191_01.nsbca,0x1345e00,31200,Animation de squelette 3D
+2133,m191_02.nsbca,0x134d800,8780,Animation de squelette 3D
+2134,m191_03.nsbca,0x134fc00,14816,Animation de squelette 3D
+2135,m191_04.nsbca,0x1353600,6136,Animation de squelette 3D
+2136,m192.nsbmd,0x866600,42356,Modele 3D
+2137,m192_00.nsbca,0x1354e00,3528,Animation de squelette 3D
+2138,m192_01.nsbca,0x1355c00,16144,Animation de squelette 3D
+2139,m192_02.nsbca,0x1359c00,10000,Animation de squelette 3D
+2140,m192_03.nsbca,0x135c400,16064,Animation de squelette 3D
+2141,m192_04.nsbca,0x1360400,4764,Animation de squelette 3D
+2142,m193.nsbmd,0x870c00,43176,Modele 3D
+2143,m193_00.nsbca,0x1361800,6656,Animation de squelette 3D
+2144,m193_01.nsbca,0x1363200,21264,Animation de squelette 3D
+2145,m193_02.nsbca,0x1368600,19724,Animation de squelette 3D
+2146,m193_03.nsbca,0x136d400,19520,Animation de squelette 3D
+2147,m193_04.nsbca,0x1372200,12656,Animation de squelette 3D
+2148,m194.nsbmd,0x87b600,35272,Modele 3D
+2149,m194_00.nsbca,0x1375400,2148,Animation de squelette 3D
+2150,m194_01.nsbca,0x1375e00,5944,Animation de squelette 3D
+2151,m194_02.nsbca,0x1377600,3776,Animation de squelette 3D
+2152,m194_03.nsbca,0x1378600,4356,Animation de squelette 3D
+2153,m194_04.nsbca,0x1379800,2060,Animation de squelette 3D
+2154,m194_10.nsbca,0x137a200,3656,Animation de squelette 3D
+2155,m196.nsbmd,0x884000,42284,Modele 3D
+2156,m196_00.nsbca,0x137b200,2588,Animation de squelette 3D
+2157,m196_01.nsbca,0x137be00,12940,Animation de squelette 3D
+2158,m196_02.nsbca,0x137f200,9340,Animation de squelette 3D
+2159,m196_03.nsbca,0x1381800,9304,Animation de squelette 3D
+2160,m196_04.nsbca,0x1383e00,3756,Animation de squelette 3D
+2161,m197.nsbmd,0x88e600,41460,Modele 3D
+2162,m197_00.nsbca,0x1384e00,1732,Animation de squelette 3D
+2163,m197_01.nsbca,0x1385600,11000,Animation de squelette 3D
+2164,m197_02.nsbca,0x1388200,8080,Animation de squelette 3D
+2165,m197_03.nsbca,0x138a200,5356,Animation de squelette 3D
+2166,m197_04.nsbca,0x138b800,3828,Animation de squelette 3D
+2167,m198.nsbmd,0x898800,45524,Modele 3D
+2168,m198_00.nsbca,0x138c800,7680,Animation de squelette 3D
+2169,m198_01.nsbca,0x138e600,19856,Animation de squelette 3D
+2170,m198_02.nsbca,0x1393400,12472,Animation de squelette 3D
+2171,m198_03.nsbca,0x1396600,13568,Animation de squelette 3D
+2172,m198_04.nsbca,0x1399c00,7292,Animation de squelette 3D
+2173,m199.nsbmd,0x8a3a00,35584,Modele 3D
+2174,m199_00.nsbca,0x139ba00,2504,Animation de squelette 3D
+2175,m199_01.nsbca,0x139c400,6740,Animation de squelette 3D
+2176,m199_02.nsbca,0x139e000,3748,Animation de squelette 3D
+2177,m199_03.nsbca,0x139f000,3904,Animation de squelette 3D
+2178,m199_04.nsbca,0x13a0000,2388,Animation de squelette 3D
+2179,m199_10.nsbca,0x13a0a00,2540,Animation de squelette 3D
+2180,m200.nsbmd,0x8ac600,36592,Modele 3D
+2181,m200_00.nsbca,0x13a1400,3708,Animation de squelette 3D
+2182,m200_01.nsbca,0x13a2400,18736,Animation de squelette 3D
+2183,m200_02.nsbca,0x13a6e00,16672,Animation de squelette 3D
+2184,m200_03.nsbca,0x13ab000,15764,Animation de squelette 3D
+2185,m200_04.nsbca,0x13aee00,7360,Animation de squelette 3D
+2186,m200_10.nsbca,0x13b0c00,7380,Animation de squelette 3D
+2187,m201.nsbmd,0x8b5600,33500,Modele 3D
+2188,m201_00.nsbca,0x13b2a00,4052,Animation de squelette 3D
+2189,m201_01.nsbca,0x13b3a00,10248,Animation de squelette 3D
+2190,m201_02.nsbca,0x13b6400,8732,Animation de squelette 3D
+2191,m201_03.nsbca,0x13b8800,5956,Animation de squelette 3D
+2192,m201_04.nsbca,0x13ba000,3644,Animation de squelette 3D
+2193,m205.nsbmd,0x8bda00,45348,Modele 3D
+2194,m205_00.nsbca,0x13bb000,7120,Animation de squelette 3D
+2195,m205_01.nsbca,0x13bcc00,14940,Animation de squelette 3D
+2196,m205_02.nsbca,0x13c0800,9796,Animation de squelette 3D
+2197,m205_03.nsbca,0x13c3000,10440,Animation de squelette 3D
+2198,m205_04.nsbca,0x13c5a00,5696,Animation de squelette 3D
+2199,m206.nsbmd,0x8c8c00,45140,Modele 3D
+2200,m206_00.nsbca,0x13c7200,8644,Animation de squelette 3D
+2201,m206_01.nsbca,0x13c9400,30476,Animation de squelette 3D
+2202,m206_02.nsbca,0x13d0c00,18184,Animation de squelette 3D
+2203,m206_03.nsbca,0x13d5400,19256,Animation de squelette 3D
+2204,m206_04.nsbca,0x13da000,11112,Animation de squelette 3D
+2205,m206_10.nsbca,0x13dcc00,2960,Animation de squelette 3D
+2206,m207.nsbmd,0x8d3e00,35380,Modele 3D
+2207,m207_00.nsbca,0x13dd800,3200,Animation de squelette 3D
+2208,m207_01.nsbca,0x13de600,20928,Animation de squelette 3D
+2209,m207_02.nsbca,0x13e3800,9480,Animation de squelette 3D
+2210,m207_03.nsbca,0x13e5e00,11356,Animation de squelette 3D
+2211,m207_04.nsbca,0x13e8c00,6068,Animation de squelette 3D
+2212,m207_10.nsbca,0x13ea400,3736,Animation de squelette 3D
+2213,m209.nsbmd,0x8dca00,42892,Modele 3D
+2214,m209_00.nsbca,0x13eb400,5088,Animation de squelette 3D
+2215,m209_01.nsbca,0x13ec800,17036,Animation de squelette 3D
+2216,m209_02.nsbca,0x13f0c00,5384,Animation de squelette 3D
+2217,m209_03.nsbca,0x13f2200,8488,Animation de squelette 3D
+2218,m209_04.nsbca,0x13f4400,5564,Animation de squelette 3D
+2219,m209_10.nsbca,0x13f5a00,6860,Animation de squelette 3D
+2220,m210.nsbmd,0x8e7200,45628,Modele 3D
+2221,m210_00.nsbca,0x13f7600,3688,Animation de squelette 3D
+2222,m210_01.nsbca,0x13f8600,25812,Animation de squelette 3D
+2223,m210_02.nsbca,0x13fec00,5508,Animation de squelette 3D
+2224,m210_03.nsbca,0x1400200,13724,Animation de squelette 3D
+2225,m210_04.nsbca,0x1403800,7536,Animation de squelette 3D
+2226,m210_10.nsbca,0x1405600,3836,Animation de squelette 3D
+2227,m210b.nsbmd,0x8f2600,45644,Modele 3D
+2228,m211.nsbmd,0x8fda00,44276,Modele 3D
+2229,m211_00.nsbca,0x1406600,4732,Animation de squelette 3D
+2230,m211_01.nsbca,0x1407a00,22712,Animation de squelette 3D
+2231,m211_02.nsbca,0x140d400,15708,Animation de squelette 3D
+2232,m211_03.nsbca,0x1411200,16304,Animation de squelette 3D
+2233,m211_04.nsbca,0x1415200,8472,Animation de squelette 3D
+2234,m211_10.nsbca,0x1417400,4636,Animation de squelette 3D
+2235,m213.nsbmd,0x908800,45016,Modele 3D
+2236,m213_00.nsbca,0x1418800,9416,Animation de squelette 3D
+2237,m213_01.nsbca,0x141ae00,21616,Animation de squelette 3D
+2238,m213_02.nsbca,0x1420400,12020,Animation de squelette 3D
+2239,m213_03.nsbca,0x1423400,10644,Animation de squelette 3D
+2240,m213_04.nsbca,0x1425e00,6956,Animation de squelette 3D
+2241,m215.nsbmd,0x913800,43068,Modele 3D
+2242,m215_00.nsbca,0x1427a00,8744,Animation de squelette 3D
+2243,m215_01.nsbca,0x1429e00,15548,Animation de squelette 3D
+2244,m215_02.nsbca,0x142dc00,12724,Animation de squelette 3D
+2245,m215_03.nsbca,0x1430e00,10148,Animation de squelette 3D
+2246,m215_04.nsbca,0x1433600,4532,Animation de squelette 3D
+2247,m215_10.nsbca,0x1434800,6040,Animation de squelette 3D
+2248,m215b.nsbmd,0x91e200,42544,Modele 3D
+2249,m218.nsbmd,0x928a00,42104,Modele 3D
+2250,m218_00.nsbca,0x1436000,3836,Animation de squelette 3D
+2251,m218_01.nsbca,0x1437000,20248,Animation de squelette 3D
+2252,m218_02.nsbca,0x143c000,10068,Animation de squelette 3D
+2253,m218_03.nsbca,0x143e800,12696,Animation de squelette 3D
+2254,m218_04.nsbca,0x1441a00,6984,Animation de squelette 3D
+2255,m218_10.nsbca,0x1443600,7760,Animation de squelette 3D
+2256,m218b.nsbmd,0x933000,42468,Modele 3D
+2257,m220.nsbmd,0x93d600,43332,Modele 3D
+2258,m220_00.nsbca,0x1445600,3704,Animation de squelette 3D
+2259,m220_01.nsbca,0x1446600,22208,Animation de squelette 3D
+2260,m220_02.nsbca,0x144be00,11476,Animation de squelette 3D
+2261,m220_03.nsbca,0x144ec00,10684,Animation de squelette 3D
+2262,m220_04.nsbca,0x1451600,6280,Animation de squelette 3D
+2263,m220b.nsbmd,0x948000,43332,Modele 3D
+2264,m223.nsbmd,0x952a00,37296,Modele 3D
+2265,m223_00.nsbca,0x1453000,5604,Animation de squelette 3D
+2266,m223_01.nsbca,0x1454600,30844,Animation de squelette 3D
+2267,m223_02.nsbca,0x145c000,13784,Animation de squelette 3D
+2268,m223_03.nsbca,0x145f600,13292,Animation de squelette 3D
+2269,m223_04.nsbca,0x1462a00,7572,Animation de squelette 3D
+2270,m223_10.nsbca,0x1464800,17960,Animation de squelette 3D
+2271,m225.nsbmd,0x95bc00,47744,Modele 3D
+2272,m225_00.nsbca,0x1469000,6832,Animation de squelette 3D
+2273,m225_01.nsbca,0x146ac00,25120,Animation de squelette 3D
+2274,m225_02.nsbca,0x1471000,10848,Animation de squelette 3D
+2275,m225_03.nsbca,0x1473c00,26252,Animation de squelette 3D
+2276,m225_04.nsbca,0x147a400,8768,Animation de squelette 3D
+2277,m225b.nsbmd,0x967800,47744,Modele 3D
+2278,m226.nsbmd,0x973400,43604,Modele 3D
+2279,m226_00.nsbca,0x147c800,4496,Animation de squelette 3D
+2280,m226_01.nsbca,0x147da00,20360,Animation de squelette 3D
+2281,m226_02.nsbca,0x1482a00,12036,Animation de squelette 3D
+2282,m226_03.nsbca,0x1485a00,11888,Animation de squelette 3D
+2283,m226_04.nsbca,0x1488a00,6900,Animation de squelette 3D
+2284,m226_10.nsbca,0x148a600,4496,Animation de squelette 3D
+2285,m226b.nsbmd,0x97e000,43416,Modele 3D
+2286,m230.nsbmd,0x988a00,46260,Modele 3D
+2287,m230_00.nsbca,0x148b800,3748,Animation de squelette 3D
+2288,m230_01.nsbca,0x148c800,27040,Animation de squelette 3D
+2289,m230_02.nsbca,0x1493200,6792,Animation de squelette 3D
+2290,m230_03.nsbca,0x1494e00,15044,Animation de squelette 3D
+2291,m230_04.nsbca,0x1498a00,6132,Animation de squelette 3D
+2292,m231.nsbmd,0x994000,47432,Modele 3D
+2293,m231_00.nsbca,0x149a200,7120,Animation de squelette 3D
+2294,m231_01.nsbca,0x149be00,31692,Animation de squelette 3D
+2295,m231_02.nsbca,0x14a3a00,14076,Animation de squelette 3D
+2296,m231_03.nsbca,0x14a7200,14128,Animation de squelette 3D
+2297,m231_04.nsbca,0x14aaa00,7572,Animation de squelette 3D
+2298,m231b.nsbmd,0x99fa00,48112,Modele 3D
+2299,m232.nsbmd,0x9ab600,48496,Modele 3D
+2300,m232_00.nsbca,0x14ac800,8052,Animation de squelette 3D
+2301,m232_01.nsbca,0x14ae800,27308,Animation de squelette 3D
+2302,m232_02.nsbca,0x14b5400,11008,Animation de squelette 3D
+2303,m232_03.nsbca,0x14b8000,10248,Animation de squelette 3D
+2304,m232_04.nsbca,0x14baa00,8044,Animation de squelette 3D
+2305,m232_10.nsbca,0x14bca00,11820,Animation de squelette 3D
+2306,m233.nsbmd,0x9b7400,46448,Modele 3D
+2307,m233_00.nsbca,0x14bfa00,6804,Animation de squelette 3D
+2308,m233_01.nsbca,0x14c1600,23388,Animation de squelette 3D
+2309,m233_02.nsbca,0x14c7200,17528,Animation de squelette 3D
+2310,m233_03.nsbca,0x14cb800,22320,Animation de squelette 3D
+2311,m233_04.nsbca,0x14d1000,7376,Animation de squelette 3D
+2312,m233_10.nsbca,0x14d2e00,7912,Animation de squelette 3D
+2313,m233b.nsbmd,0x9c2a00,46448,Modele 3D
+2314,m234.nsbmd,0x9ce000,40736,Modele 3D
+2315,m234_00.nsbca,0x14d4e00,3540,Animation de squelette 3D
+2316,m234_01.nsbca,0x14d5c00,14472,Animation de squelette 3D
+2317,m234_02.nsbca,0x14d9600,17352,Animation de squelette 3D
+2318,m234_03.nsbca,0x14dda00,10084,Animation de squelette 3D
+2319,m234_04.nsbca,0x14e0200,6264,Animation de squelette 3D
+2320,m234_10.nsbca,0x14e1c00,3560,Animation de squelette 3D
+2321,m235.nsbmd,0x9d8000,46680,Modele 3D
+2322,m235_00.nsbca,0x14e2a00,4980,Animation de squelette 3D
+2323,m235_01.nsbca,0x14e3e00,28568,Animation de squelette 3D
+2324,m235_02.nsbca,0x14eae00,13372,Animation de squelette 3D
+2325,m235_03.nsbca,0x14ee400,9456,Animation de squelette 3D
+2326,m235_04.nsbca,0x14f0a00,4280,Animation de squelette 3D
+2327,m235_10.nsbca,0x14f1c00,5212,Animation de squelette 3D
+2328,m236.nsbmd,0x9e3800,40728,Modele 3D
+2329,m236_00.nsbca,0x14f3200,2744,Animation de squelette 3D
+2330,m236_01.nsbca,0x14f3e00,13220,Animation de squelette 3D
+2331,m236_02.nsbca,0x14f7200,5900,Animation de squelette 3D
+2332,m236_03.nsbca,0x14f8a00,8776,Animation de squelette 3D
+2333,m236_04.nsbca,0x14fae00,6240,Animation de squelette 3D
+2334,m236_10.nsbca,0x14fc800,2940,Animation de squelette 3D
+2335,m238.nsbmd,0x9ed800,44840,Modele 3D
+2336,m238_00.nsbca,0x14fd400,9744,Animation de squelette 3D
+2337,m238_01.nsbca,0x14ffc00,32680,Animation de squelette 3D
+2338,m238_02.nsbca,0x1507c00,27772,Animation de squelette 3D
+2339,m238_03.nsbca,0x150ea00,19468,Animation de squelette 3D
+2340,m238_04.nsbca,0x1513800,9116,Animation de squelette 3D
+2341,m238_10.nsbca,0x1515c00,9824,Animation de squelette 3D
+2342,m239.nsbmd,0x9f8800,46316,Modele 3D
+2343,m239_00.nsbca,0x1518400,20392,Animation de squelette 3D
+2344,m239_01.nsbca,0x151d400,25092,Animation de squelette 3D
+2345,m239_02.nsbca,0x1523800,33080,Animation de squelette 3D
+2346,m239_03.nsbca,0x152ba00,20484,Animation de squelette 3D
+2347,m239_04.nsbca,0x1530c00,5288,Animation de squelette 3D
+2348,m239b.nsbmd,0xa03e00,46336,Modele 3D
+2349,m240.nsbmd,0xa0f400,36952,Modele 3D
+2350,m240_00.nsbca,0x1532200,3096,Animation de squelette 3D
+2351,m240_01.nsbca,0x1533000,18504,Animation de squelette 3D
+2352,m240_02.nsbca,0x1537a00,5952,Animation de squelette 3D
+2353,m240_03.nsbca,0x1539200,12424,Animation de squelette 3D
+2354,m240_04.nsbca,0x153c400,8408,Animation de squelette 3D
+2355,m240_10.nsbca,0x153e600,4520,Animation de squelette 3D
+2356,m241.nsbmd,0xa18600,35804,Modele 3D
+2357,m241_00.nsbca,0x153f800,4144,Animation de squelette 3D
+2358,m241_01.nsbca,0x1540a00,20780,Animation de squelette 3D
+2359,m241_02.nsbca,0x1545c00,8136,Animation de squelette 3D
+2360,m241_03.nsbca,0x1547c00,6292,Animation de squelette 3D
+2361,m241_04.nsbca,0x1549600,2056,Animation de squelette 3D
+2362,m241_10.nsbca,0x154a000,4680,Animation de squelette 3D
+2363,m242.nsbmd,0xa21200,37004,Modele 3D
+2364,m242_00.nsbca,0x154b400,9284,Animation de squelette 3D
+2365,m242_01.nsbca,0x154da00,15404,Animation de squelette 3D
+2366,m242_02.nsbca,0x1551800,11888,Animation de squelette 3D
+2367,m242_03.nsbca,0x1554800,16788,Animation de squelette 3D
+2368,m242_04.nsbca,0x1558a00,9756,Animation de squelette 3D
+2369,m242_10.nsbca,0x155b200,7784,Animation de squelette 3D
+2370,m244.nsbmd,0xa2a400,44364,Modele 3D
+2371,m244_00.nsbca,0x155d200,15232,Animation de squelette 3D
+2372,m244_01.nsbca,0x1560e00,34328,Animation de squelette 3D
+2373,m244_02.nsbca,0x1569600,12784,Animation de squelette 3D
+2374,m244_03.nsbca,0x156c800,11964,Animation de squelette 3D
+2375,m244_04.nsbca,0x156f800,9300,Animation de squelette 3D
+2376,m244_10.nsbca,0x1571e00,3316,Animation de squelette 3D
+2377,m245.nsbmd,0xa35200,43380,Modele 3D
+2378,m245_00.nsbca,0x1572c00,6776,Animation de squelette 3D
+2379,m245_01.nsbca,0x1574800,27724,Animation de squelette 3D
+2380,m245_02.nsbca,0x157b600,9120,Animation de squelette 3D
+2381,m245_03.nsbca,0x157da00,8400,Animation de squelette 3D
+2382,m245_04.nsbca,0x157fc00,7232,Animation de squelette 3D
+2383,m245_10.nsbca,0x1581a00,10312,Animation de squelette 3D
+2384,m245b.nsbmd,0xa3fc00,43476,Modele 3D
+2385,m246.nsbmd,0xa4a600,34572,Modele 3D
+2386,m246_00.nsbca,0x1584400,8236,Animation de squelette 3D
+2387,m246_01.nsbca,0x1586600,33608,Animation de squelette 3D
+2388,m246_01.nsbmd,0xa52e00,41792,Modele 3D
+2389,m246_02.nsbca,0x158ea00,8532,Animation de squelette 3D
+2390,m246_03.nsbca,0x1590c00,8752,Animation de squelette 3D
+2391,m246_04.nsbca,0x1593000,9320,Animation de squelette 3D
+2392,m247.nsbmd,0xa5d200,25696,Modele 3D
+2393,m247_00.nsbca,0x1595600,684,Animation de squelette 3D
+2394,m247_01.nsbca,0x1595a00,8232,Animation de squelette 3D
+2395,m247_02.nsbca,0x1597c00,2288,Animation de squelette 3D
+2396,m247_03.nsbca,0x1598600,3376,Animation de squelette 3D
+2397,m247_04.nsbca,0x1599400,1224,Animation de squelette 3D
+2398,m247_10.nsbca,0x1599a00,1720,Animation de squelette 3D
+2399,m247b.nsbmd,0xa63800,25696,Modele 3D
+2400,m248.nsbmd,0xa69e00,19808,Modele 3D
+2401,m248_00.nsbca,0x159a200,1820,Animation de squelette 3D
+2402,m248_01.nsbca,0x159aa00,5492,Animation de squelette 3D
+2403,m248_02.nsbca,0x159c000,4296,Animation de squelette 3D
+2404,m248_03.nsbca,0x159d200,9388,Animation de squelette 3D
+2405,m248_04.nsbca,0x159f800,1876,Animation de squelette 3D
+2406,m248_10.nsbca,0x15a0000,2260,Animation de squelette 3D
+2407,MAP_D001.CHR,0x6a8c200,32768,
+2408,MAP_D001.PAL,0x6a94200,64,
+2409,MAP_D001.SCR,0x6a94400,8192,Script
+2410,MAP_D011.CHR,0x6a96400,32768,
+2411,MAP_D011.PAL,0x6a9e400,64,
+2412,MAP_D011.SCR,0x6a9e600,8192,Script
+2413,MAP_D012.CHR,0x6aa0600,32768,
+2414,MAP_D012.PAL,0x6aa8600,64,
+2415,MAP_D012.SCR,0x6aa8800,8192,Script
+2416,MAP_D013.CHR,0x6aaa800,32768,
+2417,MAP_D013.PAL,0x6ab2800,64,
+2418,MAP_D013.SCR,0x6ab2a00,8192,Script
+2419,MAP_D014.CHR,0x6ab4a00,32768,
+2420,MAP_D014.PAL,0x6abca00,64,
+2421,MAP_D014.SCR,0x6abcc00,8192,Script
+2422,MAP_D021.CHR,0x6abec00,32768,
+2423,MAP_D021.PAL,0x6ac6c00,64,
+2424,MAP_D021.SCR,0x6ac6e00,8192,Script
+2425,MAP_D022.CHR,0x6ac8e00,32768,
+2426,MAP_D022.PAL,0x6ad0e00,64,
+2427,MAP_D022.SCR,0x6ad1000,8192,Script
+2428,MAP_D031.CHR,0x6ad3000,32768,
+2429,MAP_D031.PAL,0x6adb000,64,
+2430,MAP_D031.SCR,0x6adb200,8192,Script
+2431,MAP_D032.CHR,0x6add200,32768,
+2432,MAP_D032.PAL,0x6ae5200,64,
+2433,MAP_D032.SCR,0x6ae5400,8192,Script
+2434,MAP_D033.CHR,0x6ae7400,32768,
+2435,MAP_D033.PAL,0x6aef400,64,
+2436,MAP_D033.SCR,0x6aef600,8192,Script
+2437,MAP_D034.CHR,0x6af1600,32768,
+2438,MAP_D034.PAL,0x6af9600,64,
+2439,MAP_D034.SCR,0x6af9800,8192,Script
+2440,MAP_D041.CHR,0x6afb800,32768,
+2441,MAP_D041.PAL,0x6b03800,64,
+2442,MAP_D041.SCR,0x6b03a00,8192,Script
+2443,MAP_D042.CHR,0x6b05a00,32768,
+2444,MAP_D042.PAL,0x6b0da00,64,
+2445,MAP_D042.SCR,0x6b0dc00,8192,Script
+2446,MAP_D043.CHR,0x6b0fc00,32768,
+2447,MAP_D043.PAL,0x6b17c00,64,
+2448,MAP_D043.SCR,0x6b17e00,8192,Script
+2449,MAP_D044.CHR,0x6b19e00,32768,
+2450,MAP_D044.PAL,0x6b21e00,64,
+2451,MAP_D044.SCR,0x6b22000,8192,Script
+2452,MAP_D045.CHR,0x6b24000,32768,
+2453,MAP_D045.PAL,0x6b2c000,64,
+2454,MAP_D045.SCR,0x6b2c200,8192,Script
+2455,MAP_D046.CHR,0x6b2e200,32768,
+2456,MAP_D046.PAL,0x6b36200,64,
+2457,MAP_D046.SCR,0x6b36400,8192,Script
+2458,MAP_D051.CHR,0x6b38400,32768,
+2459,MAP_D051.PAL,0x6b40400,64,
+2460,MAP_D051.SCR,0x6b40600,8192,Script
+2461,MAP_D052.CHR,0x6b42600,32768,
+2462,MAP_D052.PAL,0x6b4a600,64,
+2463,MAP_D052.SCR,0x6b4a800,8192,Script
+2464,MAP_D053.CHR,0x6b4c800,32768,
+2465,MAP_D053.PAL,0x6b54800,64,
+2466,MAP_D053.SCR,0x6b54a00,8192,Script
+2467,MAP_D054.CHR,0x6b56a00,32768,
+2468,MAP_D054.PAL,0x6b5ea00,64,
+2469,MAP_D054.SCR,0x6b5ec00,8192,Script
+2470,MAP_D055.CHR,0x6b60c00,32768,
+2471,MAP_D055.PAL,0x6b68c00,64,
+2472,MAP_D055.SCR,0x6b68e00,8192,Script
+2473,MAP_D071.CHR,0x6b6ae00,32768,
+2474,MAP_D071.PAL,0x6b72e00,64,
+2475,MAP_D071.SCR,0x6b73000,8192,Script
+2476,MAP_D072.CHR,0x6b75000,32768,
+2477,MAP_D072.PAL,0x6b7d000,64,
+2478,MAP_D072.SCR,0x6b7d200,8192,Script
+2479,MAP_D073.CHR,0x6b7f200,32768,
+2480,MAP_D073.PAL,0x6b87200,64,
+2481,MAP_D073.SCR,0x6b87400,8192,Script
+2482,MAP_D074.CHR,0x6b89400,32768,
+2483,MAP_D074.PAL,0x6b91400,64,
+2484,MAP_D074.SCR,0x6b91600,8192,Script
+2485,MAP_D075.CHR,0x6b93600,32768,
+2486,MAP_D075.PAL,0x6b9b600,64,
+2487,MAP_D075.SCR,0x6b9b800,8192,Script
+2488,MAP_D076.CHR,0x6b9d800,32768,
+2489,MAP_D076.PAL,0x6ba5800,64,
+2490,MAP_D076.SCR,0x6ba5a00,8192,Script
+2491,MAP_D077.CHR,0x6ba7a00,32768,
+2492,MAP_D077.PAL,0x6bafa00,64,
+2493,MAP_D077.SCR,0x6bafc00,8192,Script
+2494,MAP_D078.CHR,0x6bb1c00,32768,
+2495,MAP_D078.PAL,0x6bb9c00,64,
+2496,MAP_D078.SCR,0x6bb9e00,8192,Script
+2497,MAP_F020.CHR,0x6bbbe00,32768,
+2498,MAP_F020.PAL,0x6bc3e00,64,
+2499,MAP_F020.SCR,0x6bc4000,8192,Script
+2500,MAP_H001.CHR,0x6bc6000,32768,
+2501,MAP_H001.PAL,0x6bce000,64,
+2502,MAP_H001.SCR,0x6bce200,8192,Script
+2503,MAP_H002.CHR,0x6bd0200,32768,
+2504,MAP_H002.PAL,0x6bd8200,64,
+2505,MAP_H002.SCR,0x6bd8400,8192,Script
+2506,MAP_H003.CHR,0x6bda400,32768,
+2507,MAP_H003.PAL,0x6be2400,64,
+2508,MAP_H003.SCR,0x6be2600,8192,Script
+2509,MAP_I002.CHR,0x6be4600,32768,
+2510,MAP_I002.PAL,0x6bec600,64,
+2511,MAP_I002.SCR,0x6bec800,8192,Script
+2512,MAP_I004.CHR,0x6bee800,32768,
+2513,MAP_I004.PAL,0x6bf6800,64,
+2514,MAP_I004.SCR,0x6bf6a00,8192,Script
+2515,MAP_I008.CHR,0x6bf8a00,32768,
+2516,MAP_I008.PAL,0x6c00a00,64,
+2517,MAP_I008.SCR,0x6c00c00,8192,Script
+2518,MAP_I009.CHR,0x6c02c00,32768,
+2519,MAP_I009.PAL,0x6c0ac00,64,
+2520,MAP_I009.SCR,0x6c0ae00,8192,Script
+2521,MAP_I010.CHR,0x6c0ce00,32768,
+2522,MAP_I010.PAL,0x6c14e00,64,
+2523,MAP_I010.SCR,0x6c15000,8192,Script
+2524,MAP_S001.CHR,0x6c17000,32768,
+2525,MAP_S001.PAL,0x6c1f000,64,
+2526,MAP_S001.SCR,0x6c1f200,8192,Script
+2527,MAP_S011.CHR,0x6c21200,32768,
+2528,MAP_S011.PAL,0x6c29200,64,
+2529,MAP_S011.SCR,0x6c29400,8192,Script
+2530,MAP_S021.CHR,0x6c2b400,32768,
+2531,MAP_S021.PAL,0x6c33400,64,
+2532,MAP_S021.SCR,0x6c33600,8192,Script
+2533,MAP_S022.CHR,0x6c35600,32768,
+2534,MAP_S022.PAL,0x6c3d600,64,
+2535,MAP_S022.SCR,0x6c3d800,8192,Script
+2536,MAP_S023.CHR,0x6c3f800,32768,
+2537,MAP_S023.PAL,0x6c47800,64,
+2538,MAP_S023.SCR,0x6c47a00,8192,Script
+2539,MAP_S031.CHR,0x6c49a00,32768,
+2540,MAP_S031.PAL,0x6c51a00,64,
+2541,MAP_S031.SCR,0x6c51c00,8192,Script
+2542,MAP_S032.CHR,0x6c53c00,32768,
+2543,MAP_S032.PAL,0x6c5bc00,64,
+2544,MAP_S032.SCR,0x6c5be00,8192,Script
+2545,MAP_S033.CHR,0x6c5de00,32768,
+2546,MAP_S033.PAL,0x6c65e00,64,
+2547,MAP_S033.SCR,0x6c66000,8192,Script
+2548,MAP_S034.CHR,0x6c68000,32768,
+2549,MAP_S034.PAL,0x6c70000,64,
+2550,MAP_S034.SCR,0x6c70200,8192,Script
+2551,MAP_S035.CHR,0x6c72200,32768,
+2552,MAP_S035.PAL,0x6c7a200,64,
+2553,MAP_S035.SCR,0x6c7a400,8192,Script
+2554,MAP_S041.CHR,0x6c7c400,32768,
+2555,MAP_S041.PAL,0x6c84400,64,
+2556,MAP_S041.SCR,0x6c84600,8192,Script
+2557,MAP_S042.CHR,0x6c86600,32768,
+2558,MAP_S042.PAL,0x6c8e600,64,
+2559,MAP_S042.SCR,0x6c8e800,8192,Script
+2560,MAP_S043.CHR,0x6c90800,32768,
+2561,MAP_S043.PAL,0x6c98800,64,
+2562,MAP_S043.SCR,0x6c98a00,8192,Script
+2563,MAP_S044.CHR,0x6c9aa00,32768,
+2564,MAP_S044.PAL,0x6ca2a00,64,
+2565,MAP_S044.SCR,0x6ca2c00,8192,Script
+2566,MAP_S051.CHR,0x6ca4c00,32768,
+2567,MAP_S051.PAL,0x6cacc00,64,
+2568,MAP_S051.SCR,0x6cace00,8192,Script
+2569,MAP_S052.CHR,0x6caee00,32768,
+2570,MAP_S052.PAL,0x6cb6e00,64,
+2571,MAP_S052.SCR,0x6cb7000,8192,Script
+2572,MAP_S053.CHR,0x6cb9000,32768,
+2573,MAP_S053.PAL,0x6cc1000,64,
+2574,MAP_S053.SCR,0x6cc1200,8192,Script
+2575,MAP_S061.CHR,0x6cc3200,32768,
+2576,MAP_S061.PAL,0x6ccb200,64,
+2577,MAP_S061.SCR,0x6ccb400,8192,Script
+2578,MAP_S062.CHR,0x6ccd400,32768,
+2579,MAP_S062.PAL,0x6cd5400,64,
+2580,MAP_S062.SCR,0x6cd5600,8192,Script
+2581,MAP_S071.CHR,0x6cd7600,32768,
+2582,MAP_S071.PAL,0x6cdf600,64,
+2583,MAP_S071.SCR,0x6cdf800,8192,Script
+2584,MAP_S072.CHR,0x6ce1800,32768,
+2585,MAP_S072.PAL,0x6ce9800,64,
+2586,MAP_S072.SCR,0x6ce9a00,8192,Script
+2587,mes_bank.binD,0x63fc600,449,
+2588,mes_bank.binE,0x63fc800,406,
+2589,mes_bank.binF,0x63fca00,412,
+2590,mes_bank.binI,0x63fcc00,447,
+2591,mes_bank.binS,0x63fce00,437,
+2592,mes_bbs.binD,0x63fd000,17027,
+2593,mes_bbs.binE,0x6401400,15086,
+2594,mes_bbs.binF,0x6405000,15858,
+2595,mes_bbs.binI,0x6408e00,16190,
+2596,mes_bbs.binS,0x640ce00,14841,
+2597,mes_book.binD,0x6410800,1287,
+2598,mes_book.binE,0x6410e00,1087,
+2599,mes_book.binF,0x6411400,1364,
+2600,mes_book.binI,0x6411a00,1269,
+2601,mes_book.binS,0x6412000,1309,
+2602,mes_colosseum.binD,0x6412600,727,
+2603,mes_colosseum.binE,0x6412a00,631,
+2604,mes_colosseum.binF,0x6412e00,800,
+2605,mes_colosseum.binI,0x6413200,821,
+2606,mes_colosseum.binS,0x6413600,706,
+2607,mes_command.binD,0x6413a00,4382,
+2608,mes_command.binE,0x6414c00,3770,
+2609,mes_command.binF,0x6415c00,4647,
+2610,mes_command.binI,0x6417000,4409,
+2611,mes_command.binS,0x6418200,4301,
+2612,mes_console.binD,0x6419400,1994,
+2613,mes_console.binE,0x6419c00,1854,
+2614,mes_console.binF,0x641a400,2050,
+2615,mes_console.binI,0x641ae00,2097,
+2616,mes_console.binS,0x641b800,1921,
+2617,mes_endsave.binD,0x641c000,407,
+2618,mes_endsave.binE,0x641c200,339,
+2619,mes_endsave.binF,0x641c400,388,
+2620,mes_endsave.binI,0x641c600,472,
+2621,mes_endsave.binS,0x641c800,383,
+2622,mes_error.binD,0x641ca00,1978,
+2623,mes_error.binE,0x641d200,1570,
+2624,mes_error.binF,0x641da00,2012,
+2625,mes_error.binI,0x641e200,2045,
+2626,mes_error.binS,0x641ea00,2463,
+2627,mes_exchange.binD,0x641f400,781,
+2628,mes_exchange.binE,0x641f800,755,
+2629,mes_exchange.binF,0x641fc00,881,
+2630,mes_exchange.binI,0x6420000,894,
+2631,mes_exchange.binS,0x6420400,870,
+2632,mes_firstmon.binD,0x6420800,114,
+2633,mes_firstmon.binE,0x6420a00,94,
+2634,mes_firstmon.binF,0x6420c00,162,
+2635,mes_firstmon.binI,0x6420e00,113,
+2636,mes_firstmon.binS,0x6421000,119,
+2637,mes_flddiscont.binD,0x6422200,473,
+2638,mes_flddiscont.binE,0x6422400,354,
+2639,mes_flddiscont.binF,0x6422600,434,
+2640,mes_flddiscont.binI,0x6422800,507,
+2641,mes_flddiscont.binS,0x6422a00,433,
+2642,mes_fldequip.binE,0x6422c00,245,
+2643,mes_fldhnsi.binD,0x6422e00,44,
+2644,mes_fldhnsi.binE,0x6423000,44,
+2645,mes_fldhnsi.binF,0x6423200,44,
+2646,mes_fldhnsi.binI,0x6423400,44,
+2647,mes_fldhnsi.binS,0x6423600,44,
+2648,mes_flditem.binD,0x6423800,2547,
+2649,mes_flditem.binE,0x6424200,2040,
+2650,mes_flditem.binF,0x6424a00,2367,
+2651,mes_flditem.binI,0x6425400,2348,
+2652,mes_flditem.binS,0x6425e00,2247,
+2653,mes_fldLib.binD,0x6421200,717,
+2654,mes_fldlib.binE,0x6426800,644,
+2655,mes_fldLib.binF,0x6421600,855,
+2656,mes_fldLib.binI,0x6421a00,759,
+2657,mes_fldLib.binS,0x6421e00,859,
+2658,mes_fldoperate.binD,0x6426c00,395,
+2659,mes_fldoperate.binE,0x6426e00,369,
+2660,mes_fldoperate.binF,0x6427000,403,
+2661,mes_fldoperate.binI,0x6427200,419,
+2662,mes_fldoperate.binS,0x6427400,396,
+2663,mes_fldtokugi.binD,0x6427600,930,
+2664,mes_fldtokugi.binE,0x6427a00,732,
+2665,mes_fldtokugi.binF,0x6427e00,885,
+2666,mes_fldtokugi.binI,0x6428200,753,
+2667,mes_fldtokugi.binS,0x6428600,829,
+2668,mes_gparts.binD,0x6428a00,102,
+2669,mes_gparts.binE,0x6428c00,101,
+2670,mes_gparts.binF,0x6428e00,107,
+2671,mes_gparts.binI,0x6429000,103,
+2672,mes_gparts.binS,0x6429200,103,
+2673,mes_haigou.binD,0x6429400,4103,
+2674,mes_haigou.binE,0x642a600,3770,
+2675,mes_haigou.binF,0x642b600,4169,
+2676,mes_haigou.binI,0x642c800,4370,
+2677,mes_haigou.binS,0x642da00,3871,
+2678,mes_hint.binD,0x642ea00,890,
+2679,mes_hint.binE,0x642ee00,835,
+2680,mes_hint.binF,0x642f200,968,
+2681,mes_hint.binI,0x642f600,926,
+2682,mes_hint.binS,0x642fa00,947,
+2683,mes_itemomitname.binD,0x642fe00,1804,
+2684,mes_itemomitname.binE,0x6430600,1796,
+2685,mes_itemomitname.binF,0x6430e00,1930,
+2686,mes_itemomitname.binI,0x6431600,1935,
+2687,mes_itemomitname.binS,0x6431e00,1886,
+2688,mes_itemsname.binD,0x6432600,2363,
+2689,mes_itemsname.binE,0x6433000,2461,
+2690,mes_itemsname.binF,0x6433a00,2563,
+2691,mes_itemsname.binI,0x6434600,2201,
+2692,mes_itemsname.binS,0x6435000,2286,
+2693,mes_keep.binD,0x6435a00,2907,
+2694,mes_keep.binE,0x6436600,2524,
+2695,mes_keep.binF,0x6437000,2727,
+2696,mes_keep.binI,0x6437c00,2853,
+2697,mes_keep.binS,0x6438800,2619,
+2698,mes_keyboard.binD,0x6439400,249,
+2699,mes_keyboard.binE,0x6439600,249,
+2700,mes_keyboard.binF,0x6439800,249,
+2701,mes_keyboard.binI,0x6439a00,249,
+2702,mes_keyboard.binS,0x6439c00,249,
+2703,mes_know.binD,0x6439e00,19212,
+2704,mes_know.binE,0x643ea00,16298,
+2705,mes_know.binF,0x6442a00,16379,
+2706,mes_know.binI,0x6446a00,19320,
+2707,mes_know.binS,0x644b600,17597,
+2708,mes_library.binD,0x644fc00,116,
+2709,mes_library.binE,0x644fe00,109,
+2710,mes_library.binF,0x6450000,126,
+2711,mes_library.binI,0x6450200,136,
+2712,mes_library.binS,0x6450400,117,
+2713,mes_macro.binD,0x6450600,1537,
+2714,mes_macro.binE,0x6450e00,325,
+2715,mes_macro.binF,0x6451000,1537,
+2716,mes_macro.binI,0x6451800,1537,
+2717,mes_macro.binS,0x6452000,1537,
+2718,mes_mapname.binD,0x6452800,1252,
+2719,mes_mapname.binE,0x6452e00,1361,
+2720,mes_mapname.binF,0x6453400,1449,
+2721,mes_mapname.binI,0x6453a00,1573,
+2722,mes_mapname.binS,0x6454200,1443,
+2723,mes_master_name.binD,0x6454800,163,
+2724,mes_master_name.binE,0x6454a00,144,
+2725,mes_master_name.binF,0x6454c00,150,
+2726,mes_master_name.binI,0x6454e00,155,
+2727,mes_master_name.binS,0x6455000,150,
+2728,mes_monstersname.binD,0x6455200,3235,
+2729,mes_monstersname.binE,0x6456000,2810,
+2730,mes_monstersname.binF,0x6456c00,2885,
+2731,mes_monstersname.binI,0x6457800,2850,
+2732,mes_monstersname.binS,0x6458400,3392,
+2733,mes_name.binD,0x6459200,1723,
+2734,mes_name.binE,0x6459a00,1723,
+2735,mes_name.binF,0x645a200,1723,
+2736,mes_name.binI,0x645aa00,1723,
+2737,mes_name.binS,0x645b200,1723,
+2738,mes_native.binD,0x645ba00,1256,
+2739,mes_native.binE,0x645c000,1261,
+2740,mes_native.binF,0x645c600,1260,
+2741,mes_native.binI,0x645cc00,1275,
+2742,mes_native.binS,0x645d200,1273,
+2743,mes_passed.binD,0x645d800,1592,
+2744,mes_passed.binE,0x645e000,1414,
+2745,mes_passed.binF,0x645e600,1601,
+2746,mes_passed.binI,0x645ee00,1670,
+2747,mes_passed.binS,0x645f600,1567,
+2748,mes_random_monster_name.binD,0x645fe00,6835,
+2749,mes_random_monster_name.binE,0x6461a00,6835,
+2750,mes_random_monster_name.binF,0x6463600,6835,
+2751,mes_random_monster_name.binI,0x6465200,6835,
+2752,mes_random_monster_name.binS,0x6466e00,6835,
+2753,mes_robby.binD,0x6468a00,4155,
+2754,mes_robby.binE,0x6469c00,3652,
+2755,mes_robby.binF,0x646ac00,4092,
+2756,mes_robby.binI,0x646bc00,4257,
+2757,mes_robby.binS,0x646ce00,3701,
+2758,mes_save.binD,0x646de00,2102,
+2759,mes_save.binE,0x646e800,1722,
+2760,mes_save.binF,0x646f000,1994,
+2761,mes_save.binI,0x646f800,2025,
+2762,mes_save.binS,0x6470000,1903,
+2763,mes_skillomitname.binD,0x6470800,2158,
+2764,mes_skillomitname.binE,0x6471200,1924,
+2765,mes_skillomitname.binF,0x6471a00,2075,
+2766,mes_skillomitname.binI,0x6472400,2179,
+2767,mes_skillomitname.binS,0x6472e00,2103,
+2768,mes_stage.binD,0x6473800,86,
+2769,mes_stage.binE,0x6473a00,100,
+2770,mes_stage.binF,0x6473c00,94,
+2771,mes_stage.binI,0x6473e00,110,
+2772,mes_stage.binS,0x6474000,109,
+2773,mes_status.binD,0x6474200,321,
+2774,mes_status.binE,0x6474400,343,
+2775,mes_status.binF,0x6474600,397,
+2776,mes_status.binI,0x6474800,357,
+2777,mes_status.binS,0x6474a00,384,
+2778,mes_sub.binD,0x6474c00,3097,
+2779,mes_sub.binE,0x6475a00,2543,
+2780,mes_sub.binF,0x6476400,2844,
+2781,mes_sub.binI,0x6477000,3208,
+2782,mes_sub.binS,0x6477e00,2758,
+2783,mes_taisei.binD,0x6478a00,4073,
+2784,mes_taisei.binE,0x6479a00,3639,
+2785,mes_taisei.binF,0x647aa00,4756,
+2786,mes_taisei.binI,0x647be00,4588,
+2787,mes_taisei.binS,0x647d000,4823,
+2788,mes_title.binD,0x647e400,1802,
+2789,mes_title.binE,0x647ec00,1504,
+2790,mes_title.binF,0x647f200,1768,
+2791,mes_title.binI,0x647fa00,1862,
+2792,mes_title.binS,0x6480200,1788,
+2793,mes_trade.binD,0x6480a00,2068,
+2794,mes_trade.binE,0x6481400,1867,
+2795,mes_trade.binF,0x6481c00,2217,
+2796,mes_trade.binI,0x6482600,2131,
+2797,mes_trade.binS,0x6483000,1997,
+2798,mes_wifi.binD,0x6483800,8000,
+2799,mes_wifi.binE,0x6485800,7406,
+2800,mes_wifi.binF,0x6487600,8106,
+2801,mes_wifi.binI,0x6489600,8012,
+2802,mes_wifi.binS,0x648b600,7682,
+2803,mes_wifi_additionals.binD,0x648d600,2285,
+2804,mes_wifi_additionals.binE,0x648e000,1984,
+2805,mes_wifi_additionals.binF,0x648e800,2262,
+2806,mes_wifi_additionals.binI,0x648f200,2304,
+2807,mes_wifi_additionals.binS,0x648fc00,2058,
+2808,mes_yorozu.binD,0x6490600,1212,
+2809,mes_yorozu.binE,0x6490c00,1103,
+2810,mes_yorozu.binF,0x6491200,1214,
+2811,mes_yorozu.binI,0x6491800,1255,
+2812,mes_yorozu.binS,0x6491e00,1201,
+2813,message0.binD,0x6492400,48548,
+2814,message0.binE,0x649e200,44425,
+2815,message0.binF,0x64a9000,47522,
+2816,message0.binI,0x64b4a00,50529,
+2817,message0.binS,0x64c1000,49970,
+2818,message1.binD,0x64cd400,29701,
+2819,message1.binE,0x64d4a00,24547,
+2820,message1.binF,0x64daa00,26598,
+2821,message1.binI,0x64e1200,29505,
+2822,message1.binS,0x64e8600,28851,
+2823,message2.binD,0x64ef800,9308,
+2824,message2.binE,0x64f1e00,9152,
+2825,message2.binF,0x64f4200,9467,
+2826,message2.binI,0x64f6800,9503,
+2827,message2.binS,0x64f8e00,9003,
+2828,messageEXPL.binD,0x64fb200,9607,
+2829,messageEXPL.binE,0x64fd800,7338,
+2830,messageEXPL.binF,0x64ff600,8430,
+2831,messageEXPL.binI,0x6501800,9801,
+2832,messageEXPL.binS,0x6504000,8499,
+2833,ModelTbl.bin,0x63e1800,3048,Donnees brutes (a identifier)
+2834,MotionTbl.bin,0x63e2400,22608,Donnees brutes (a identifier)
+2835,MstrPtnTbl.bin,0x63e7e00,7652,Donnees brutes (a identifier)
+2836,n002.nsbmd,0xa6ec00,30832,Modele 3D
+2837,n002_00.nsbca,0x15a0a00,2864,Animation de squelette 3D
+2838,n002_01.nsbca,0x15a1600,3884,Animation de squelette 3D
+2839,n002_02.nsbca,0x15a2600,2644,Animation de squelette 3D
+2840,n002_03.nsbca,0x15a3200,3616,Animation de squelette 3D
+2841,n002_04.nsbca,0x15a4200,1592,Animation de squelette 3D
+2842,n002_05.nsbca,0x15a4a00,3844,Animation de squelette 3D
+2843,n002_10.nsbca,0x15a5a00,5148,Animation de squelette 3D
+2844,n003.nsbmd,0xa76600,33696,Modele 3D
+2845,n003_00.nsbca,0x15a7000,1864,Animation de squelette 3D
+2846,n003_01.nsbca,0x15a7800,2588,Animation de squelette 3D
+2847,n003_02.nsbca,0x15a8400,2456,Animation de squelette 3D
+2848,n003_03.nsbca,0x15a8e00,2720,Animation de squelette 3D
+2849,n003_04.nsbca,0x15a9a00,2456,Animation de squelette 3D
+2850,n003_05.nsbca,0x15aa400,4012,Animation de squelette 3D
+2851,n003_10.nsbca,0x15ab400,4792,Animation de squelette 3D
+2852,n004.nsbmd,0xa7ea00,36120,Modele 3D
+2853,n004_00.nsbca,0x15ac800,6408,Animation de squelette 3D
+2854,n004_01.nsbca,0x15ae200,4676,Animation de squelette 3D
+2855,n004_02.nsbca,0x15af600,3380,Animation de squelette 3D
+2856,n004_03.nsbca,0x15b0400,3260,Animation de squelette 3D
+2857,n004_04.nsbca,0x15b1200,6496,Animation de squelette 3D
+2858,n004_05.nsbca,0x15b2c00,6760,Animation de squelette 3D
+2859,n004_10.nsbca,0x15b4800,9708,Animation de squelette 3D
+2860,n005.nsbmd,0xa87800,28968,Modele 3D
+2861,n005_00.nsbca,0x15b6e00,5168,Animation de squelette 3D
+2862,n005_01.nsbca,0x15b8400,7768,Animation de squelette 3D
+2863,n005_02.nsbca,0x15ba400,1900,Animation de squelette 3D
+2864,n005_03.nsbca,0x15bac00,3956,Animation de squelette 3D
+2865,n005_04.nsbca,0x15bbc00,2732,Animation de squelette 3D
+2866,n005_05.nsbca,0x15bc800,7468,Animation de squelette 3D
+2867,n005_10.nsbca,0x15be600,12488,Animation de squelette 3D
+2868,n006.nsbmd,0xa8ea00,28472,Modele 3D
+2869,n006_00.nsbca,0x15c1800,3924,Animation de squelette 3D
+2870,n006_01.nsbca,0x15c2800,2476,Animation de squelette 3D
+2871,n006_02.nsbca,0x15c3200,2476,Animation de squelette 3D
+2872,n006_03.nsbca,0x15c3c00,812,Animation de squelette 3D
+2873,n006_04.nsbca,0x15c4000,6752,Animation de squelette 3D
+2874,n006_05.nsbca,0x15c5c00,812,Animation de squelette 3D
+2875,n006_10.nsbca,0x15c6000,812,Animation de squelette 3D
+2876,n006b_00.nsbca,0x15c6400,3924,Animation de squelette 3D
+2877,n006b_01.nsbca,0x15c7400,2476,Animation de squelette 3D
+2878,n006b_02.nsbca,0x15c7e00,2476,Animation de squelette 3D
+2879,n006b_03.nsbca,0x15c8800,812,Animation de squelette 3D
+2880,n006b_04.nsbca,0x15c8c00,6752,Animation de squelette 3D
+2881,n007.nsbmd,0xa95a00,29432,Modele 3D
+2882,n007_00.nsbca,0x15ca800,3312,Animation de squelette 3D
+2883,n007_01.nsbca,0x15cb600,3172,Animation de squelette 3D
+2884,n007_02.nsbca,0x15cc400,3424,Animation de squelette 3D
+2885,n007_03.nsbca,0x15cd200,2260,Animation de squelette 3D
+2886,n007_04.nsbca,0x15cdc00,1448,Animation de squelette 3D
+2887,n007_05.nsbca,0x15ce200,1036,Animation de squelette 3D
+2888,n007_10.nsbca,0x15ce800,1036,Animation de squelette 3D
+2889,n008.nsbmd,0xa9ce00,25068,Modele 3D
+2890,n008_00.nsbca,0x15cee00,2624,Animation de squelette 3D
+2891,n008_01.nsbca,0x15cfa00,1588,Animation de squelette 3D
+2892,n008_02.nsbca,0x15d0200,2120,Animation de squelette 3D
+2893,n008_03.nsbca,0x15d0c00,1588,Animation de squelette 3D
+2894,n008_04.nsbca,0x15d1400,2340,Animation de squelette 3D
+2895,n008_05.nsbca,0x15d1e00,4076,Animation de squelette 3D
+2896,n008_10.nsbca,0x15d2e00,3132,Animation de squelette 3D
+2897,n009.nsbmd,0xaa3000,27480,Modele 3D
+2898,n009_00.nsbca,0x15d3c00,4184,Animation de squelette 3D
+2899,n009_10.nsbca,0x15d4e00,7036,Animation de squelette 3D
+2900,n010.nsbmd,0xaa9c00,30988,Modele 3D
+2901,n010_00.nsbca,0x15d6a00,8052,Animation de squelette 3D
+2902,n010_01.nsbca,0x15d8a00,6248,Animation de squelette 3D
+2903,n010_02.nsbca,0x15da400,4812,Animation de squelette 3D
+2904,n010_03.nsbca,0x15db800,6124,Animation de squelette 3D
+2905,n010_04.nsbca,0x15dd000,6312,Animation de squelette 3D
+2906,n010_05.nsbca,0x15dea00,2924,Animation de squelette 3D
+2907,n010_10.nsbca,0x15df600,10528,Animation de squelette 3D
+2908,n011.nsbmd,0xab1600,34264,Modele 3D
+2909,n011_00.nsbca,0x15e2000,6296,Animation de squelette 3D
+2910,n011_01.nsbca,0x15e3a00,4328,Animation de squelette 3D
+2911,n011_02.nsbca,0x15e4c00,2700,Animation de squelette 3D
+2912,n011_03.nsbca,0x15e5800,884,Animation de squelette 3D
+2913,n011_04.nsbca,0x15e5c00,884,Animation de squelette 3D
+2914,n011_05.nsbca,0x15e6000,6168,Animation de squelette 3D
+2915,n011_10.nsbca,0x15e7a00,10604,Animation de squelette 3D
+2916,n012.nsbmd,0xab9c00,32764,Modele 3D
+2917,n012_00.nsbca,0x15ea400,2812,Animation de squelette 3D
+2918,n012_01.nsbca,0x15eb000,3796,Animation de squelette 3D
+2919,n012_02.nsbca,0x15ec000,2592,Animation de squelette 3D
+2920,n012_03.nsbca,0x15ecc00,3528,Animation de squelette 3D
+2921,n012_04.nsbca,0x15eda00,2592,Animation de squelette 3D
+2922,n012_05.nsbca,0x15ee600,720,Animation de squelette 3D
+2923,n012_10.nsbca,0x15eea00,5100,Animation de squelette 3D
+2924,n013.nsbmd,0xac1c00,33308,Modele 3D
+2925,n013_00.nsbca,0x15efe00,3300,Animation de squelette 3D
+2926,n013_01.nsbca,0x15f0c00,2940,Animation de squelette 3D
+2927,n013_02.nsbca,0x15f1800,1840,Animation de squelette 3D
+2928,n013_03.nsbca,0x15f2000,2908,Animation de squelette 3D
+2929,n013_04.nsbca,0x15f2c00,1840,Animation de squelette 3D
+2930,n013_05.nsbca,0x15f3400,4808,Animation de squelette 3D
+2931,n013_10.nsbca,0x15f4800,5680,Animation de squelette 3D
+2932,n014.nsbmd,0xaca000,29692,Modele 3D
+2933,n014_00.nsbca,0x15f6000,4572,Animation de squelette 3D
+2934,n014_01.nsbca,0x15f7200,4164,Animation de squelette 3D
+2935,n014_02.nsbca,0x15f8400,3584,Animation de squelette 3D
+2936,n014_03.nsbca,0x15f9200,3116,Animation de squelette 3D
+2937,n014_04.nsbca,0x15fa000,2884,Animation de squelette 3D
+2938,n014_05.nsbca,0x15fac00,4732,Animation de squelette 3D
+2939,n014_10.nsbca,0x15fc000,5456,Animation de squelette 3D
+2940,n015.nsbmd,0xad1400,29544,Modele 3D
+2941,n015_00.nsbca,0x15fd600,2012,Animation de squelette 3D
+2942,n015_01.nsbca,0x15fde00,4404,Animation de squelette 3D
+2943,n015_02.nsbca,0x15ff000,1528,Animation de squelette 3D
+2944,n015_03.nsbca,0x15ff600,5760,Animation de squelette 3D
+2945,n015_04.nsbca,0x1600e00,688,Animation de squelette 3D
+2946,n015_05.nsbca,0x1601200,2012,Animation de squelette 3D
+2947,n015_10.nsbca,0x1601a00,4588,Animation de squelette 3D
+2948,n020.nsbmd,0xad8800,17712,Modele 3D
+2949,n020_00.nsbca,0x1602c00,96,Animation de squelette 3D
+2950,n020_01.nsbca,0x1602e00,96,Animation de squelette 3D
+2951,n020_02.nsbca,0x1603000,96,Animation de squelette 3D
+2952,n020_03.nsbca,0x1603200,96,Animation de squelette 3D
+2953,n020_04.nsbca,0x1603400,96,Animation de squelette 3D
+2954,n020_05.nsbca,0x1603600,96,Animation de squelette 3D
+2955,n020_10.nsbca,0x1603800,96,Animation de squelette 3D
+2956,n022.nsbmd,0xadce00,35924,Modele 3D
+2957,n022_00.nsbca,0x1603a00,2360,Animation de squelette 3D
+2958,n022_01.nsbca,0x1604400,2784,Animation de squelette 3D
+2959,n022_02.nsbca,0x1605000,2692,Animation de squelette 3D
+2960,n022_03.nsbca,0x1605c00,2668,Animation de squelette 3D
+2961,n022_04.nsbca,0x1606800,2360,Animation de squelette 3D
+2962,n022_05.nsbca,0x1607200,4860,Animation de squelette 3D
+2963,n022_10.nsbca,0x1608600,5072,Animation de squelette 3D
+2964,o000.map,0x1f2f600,350576,
+2965,o001.map,0x1f85000,258332,
+2966,o002.map,0x1fc4200,333312,
+2967,o003.map,0x2015800,362884,
+2968,o004.map,0x206e200,441488,
+2969,o005.map,0x20da000,364960,
+2970,o006.map,0x2133200,310240,
+2971,o007.map,0x217ee00,366468,
+2972,o_031ha.nsbmd,0x2cff400,6040,Modele 3D
+2973,o_031haa.nsbca,0x2d00c00,372,Animation de squelette 3D
+2974,o_031hab.nsbca,0x2d00e00,352,Animation de squelette 3D
+2975,o_031hb.nsbmd,0x2d01000,6044,Modele 3D
+2976,o_031hba.nsbca,0x2d02800,372,Animation de squelette 3D
+2977,o_031hbb.nsbca,0x2d02a00,352,Animation de squelette 3D
+2978,o_072hashi.nsbca,0x2d02c00,2076,Animation de squelette 3D
+2979,o_072hashi.nsbmd,0x2d03600,5540,Modele 3D
+2980,o_1obca.nsbca,0x2d04c00,1340,Animation de squelette 3D
+2981,o_1obca.nsbmd,0x2d05200,10768,Modele 3D
+2982,o_2swcb.nsbmd,0x2d07e00,18896,Modele 3D
+2983,o_2swcba.nsbca,0x2d0c800,968,Animation de squelette 3D
+2984,o_2swcbb.nsbca,0x2d0cc00,1076,Animation de squelette 3D
+2985,o_2swcbc.nsbca,0x2d0d200,2900,Animation de squelette 3D
+2986,o_3obcb.nsbca,0x2d0de00,1340,Animation de squelette 3D
+2987,o_3obcb.nsbmd,0x2d0e400,10740,Modele 3D
+2988,o_3swca.nsbmd,0x2d10e00,18896,Modele 3D
+2989,o_3swcaa.nsbca,0x2d15800,968,Animation de squelette 3D
+2990,o_3swcab.nsbca,0x2d15c00,1076,Animation de squelette 3D
+2991,o_3swcac.nsbca,0x2d16200,2900,Animation de squelette 3D
+2992,o_4bazu.nsbmd,0x2d16e00,28924,Modele 3D
+2993,o_ajitoA.nsbmd,0x2d1e000,63136,Modele 3D
+2994,o_ajitoB.nsbmd,0x2d2d800,82988,Modele 3D
+2995,o_aud.nsbmd,0x2d41e00,22380,Modele 3D
+2996,o_aud.nsbta,0x2d47600,364,Animation de texture (SRT)
+2997,o_bird.nsbca,0x2d47800,16672,Animation de squelette 3D
+2998,o_bird.nsbmd,0x2d4ba00,2228,Modele 3D
+2999,o_bk.nsbca,0x2d4c400,3316,Animation de squelette 3D
+3000,o_bk.nsbmd,0x2d4d200,10060,Modele 3D
+3001,o_box.nsbmd,0x2d4fa00,2880,Modele 3D
+3002,o_cry.nsbma,0x2d50600,296,Animation de materiau
+3003,o_cry.nsbmd,0x2d50800,8972,Modele 3D
+3004,o_d72brain.nsbca,0x2d52c00,2312,Animation de squelette 3D
+3005,o_d72brain.nsbmd,0x2d53600,64580,Modele 3D
+3006,o_d72brain.nsbta,0x2d63400,1892,Animation de texture (SRT)
+3007,o_d73mnsa.nsbmd,0x2d63c00,17576,Modele 3D
+3008,o_d74bohu.nsbca,0x2d68200,3796,Animation de squelette 3D
+3009,o_d74bohu.nsbmd,0x2d69200,22136,Modele 3D
+3010,o_d74bohu.nsbta,0x2d6ea00,332,Animation de texture (SRT)
+3011,o_d75bohu.nsbca,0x2d6ec00,628,Animation de squelette 3D
+3012,o_d75bohu.nsbmd,0x2d6f000,9812,Modele 3D
+3013,o_d76obj.nsbca,0x2d71800,1228,Animation de squelette 3D
+3014,o_d76obj.nsbmd,0x2d71e00,20008,Modele 3D
+3015,o_daiLight.nsbmd,0x2d76e00,9524,Modele 3D
+3016,o_daiLight1.nsbma,0x2d79400,456,Animation de materiau
+3017,o_daiLight2.nsbma,0x2d79600,316,Animation de materiau
+3018,o_doorA.nsbca,0x2d79800,160,Animation de squelette 3D
+3019,o_doorA.nsbmd,0x2d79a00,4828,Modele 3D
+3020,o_doorA2.nsbca,0x2d7ae00,144,Animation de squelette 3D
+3021,o_doorB.nsbca,0x2d7b000,160,Animation de squelette 3D
+3022,o_doorB.nsbmd,0x2d7b200,4828,Modele 3D
+3023,o_doorB2.nsbca,0x2d7c600,144,Animation de squelette 3D
+3024,o_doorC.nsbca,0x2d7c800,4800,Animation de squelette 3D
+3025,o_doorC.nsbmd,0x2d7dc00,9844,Modele 3D
+3026,o_doorD.nsbca,0x2d80400,4800,Animation de squelette 3D
+3027,o_doorD.nsbmd,0x2d81800,9836,Modele 3D
+3028,o_doorE.nsbca,0x2d84000,304,Animation de squelette 3D
+3029,o_doorE.nsbmd,0x2d84200,9760,Modele 3D
+3030,o_doorF.nsbca,0x2d86a00,304,Animation de squelette 3D
+3031,o_doorF.nsbmd,0x2d86c00,9760,Modele 3D
+3032,o_dr00.nsbca,0x2d89400,392,Animation de squelette 3D
+3033,o_dr00.nsbmd,0x2d89600,4932,Modele 3D
+3034,o_dr01.nsbca,0x2d8aa00,392,Animation de squelette 3D
+3035,o_dr01.nsbmd,0x2d8ac00,4932,Modele 3D
+3036,o_dr02.nsbca,0x2d8c000,392,Animation de squelette 3D
+3037,o_dr02.nsbmd,0x2d8c200,4932,Modele 3D
+3038,o_dr03.nsbca,0x2d8d600,392,Animation de squelette 3D
+3039,o_dr03.nsbmd,0x2d8d800,4932,Modele 3D
+3040,o_dr04.nsbca,0x2d8ec00,392,Animation de squelette 3D
+3041,o_dr04.nsbmd,0x2d8ee00,4932,Modele 3D
+3042,o_drde.nsbca,0x2d90200,1588,Animation de squelette 3D
+3043,o_drde.nsbmd,0x2d90a00,5756,Modele 3D
+3044,o_drp.nsbca,0x2d92200,656,Animation de squelette 3D
+3045,o_drp.nsbmd,0x2d92600,3024,Modele 3D
+3046,o_dtaka.nsbca,0x2d93200,372,Animation de squelette 3D
+3047,o_dtaka.nsbmd,0x2d93400,5504,Modele 3D
+3048,o_fr01.nsbmd,0x2d94a00,11508,Modele 3D
+3049,o_fr02.nsbmd,0x2d97800,11508,Modele 3D
+3050,o_fr03.nsbmd,0x2d9a600,11508,Modele 3D
+3051,o_fr04.nsbmd,0x2d9d400,11508,Modele 3D
+3052,o_gagoil.nsbca,0x2da0200,29056,Animation de squelette 3D
+3053,o_gagoil.nsbmd,0x2da7400,11280,Modele 3D
+3054,o_guideA1.nsbma,0x2daa200,216,Animation de materiau
+3055,o_guideA1.nsbmd,0x2daa400,2820,Modele 3D
+3056,o_guideA2.nsbma,0x2dab000,216,Animation de materiau
+3057,o_guideA2.nsbmd,0x2dab200,1936,Modele 3D
+3058,o_guideA3.nsbma,0x2daba00,216,Animation de materiau
+3059,o_guideA3.nsbmd,0x2dabc00,2184,Modele 3D
+3060,o_guideB1.nsbma,0x2dac600,216,Animation de materiau
+3061,o_guideB1.nsbmd,0x2dac800,2760,Modele 3D
+3062,o_guideB2.nsbma,0x2dad400,216,Animation de materiau
+3063,o_guideB2.nsbmd,0x2dad600,1940,Modele 3D
+3064,o_guideB3.nsbma,0x2dade00,216,Animation de materiau
+3065,o_guideB3.nsbmd,0x2dae000,2152,Modele 3D
+3066,o_ha.nsbmd,0x2daea00,8252,Modele 3D
+3067,o_haa.nsbca,0x2db0c00,376,Animation de squelette 3D
+3068,o_hab.nsbca,0x2db0e00,356,Animation de squelette 3D
+3069,o_hb.nsbmd,0x2db1000,8200,Modele 3D
+3070,o_hba.nsbca,0x2db3200,376,Animation de squelette 3D
+3071,o_hbb.nsbca,0x2db3400,356,Animation de squelette 3D
+3072,o_hole.nsbmd,0x2db3600,2484,Modele 3D
+3073,o_jet.nsbmd,0x2db4000,24232,Modele 3D
+3074,o_kemuri.nsbca,0x2dba000,3772,Animation de squelette 3D
+3075,o_kemuri.nsbma,0x2dbb000,456,Animation de materiau
+3076,o_kemuri.nsbmd,0x2dbb200,2216,Modele 3D
+3077,o_kim.nsbca,0x2dbbc00,15448,Animation de squelette 3D
+3078,o_kim.nsbmd,0x2dbfa00,19672,Modele 3D
+3079,o_kui.nsbca,0x2dc4800,272,Animation de squelette 3D
+3080,o_kui.nsbmd,0x2dc4a00,2512,Modele 3D
+3081,o_kulev.nsbca,0x2dc5400,260,Animation de squelette 3D
+3082,o_kulev.nsbmd,0x2dc5600,2504,Modele 3D
+3083,o_leverA.nsbca,0x2dc6000,700,Animation de squelette 3D
+3084,o_leverA.nsbmd,0x2dc6400,10224,Modele 3D
+3085,o_leverB.nsbca,0x2dc8c00,700,Animation de squelette 3D
+3086,o_leverB.nsbmd,0x2dc9000,10224,Modele 3D
+3087,o_lit.nsbca,0x2dcb800,244,Animation de squelette 3D
+3088,o_lit.nsbma,0x2dcba00,816,Animation de materiau
+3089,o_lit.nsbmd,0x2dcbe00,6584,Modele 3D
+3090,o_lit_00.nsbca,0x2dcd800,244,Animation de squelette 3D
+3091,o_lit_00.nsbma,0x2dcda00,816,Animation de materiau
+3092,o_lit_01.nsbca,0x2dcde00,244,Animation de squelette 3D
+3093,o_lit_01.nsbma,0x2dce000,540,Animation de materiau
+3094,o_mirror001.nsbca,0x2dce400,6836,Animation de squelette 3D
+3095,o_mirror001.nsbmd,0x2dd0000,33532,Modele 3D
+3096,o_mirror002.nsbmd,0x2dd8400,13312,Modele 3D
+3097,o_mirror003.nsbma,0x2ddb800,296,Animation de materiau
+3098,o_mirror003.nsbmd,0x2ddba00,20060,Modele 3D
+3099,o_mirror004.nsbma,0x2de0a00,296,Animation de materiau
+3100,o_mirror004.nsbmd,0x2de0c00,20072,Modele 3D
+3101,o_mirror005.nsbma,0x2de5c00,296,Animation de materiau
+3102,o_mirror005.nsbmd,0x2de5e00,22468,Modele 3D
+3103,o_mirror006.nsbma,0x2deb600,296,Animation de materiau
+3104,o_mirror006.nsbmd,0x2deb800,5432,Modele 3D
+3105,o_mirror007.nsbma,0x2dece00,496,Animation de materiau
+3106,o_mirror007.nsbmd,0x2ded000,6288,Modele 3D
+3107,o_mirrorminiA.nsbca,0x2deea00,28236,Animation de squelette 3D
+3108,o_mirrorminiA.nsbmd,0x2df5a00,36908,Modele 3D
+3109,o_mirrorminiB.nsbca,0x2dfec00,28236,Animation de squelette 3D
+3110,o_mirrorminiB.nsbmd,0x2e05c00,36348,Modele 3D
+3111,o_mon.nsbca,0x2e0ea00,4932,Animation de squelette 3D
+3112,o_mon.nsbmd,0x2e0fe00,42292,Modele 3D
+3113,o_moon.nsbmd,0x2e1a400,3400,Modele 3D
+3114,o_mtaka.nsbca,0x2e1b200,372,Animation de squelette 3D
+3115,o_mtaka.nsbmd,0x2e1b400,5504,Modele 3D
+3116,o_obe1.nsbma,0x2e1ca00,336,Animation de materiau
+3117,o_obe1.nsbmd,0x2e1cc00,17020,Modele 3D
+3118,o_obe2.nsbma,0x2e21000,336,Animation de materiau
+3119,o_obe2.nsbmd,0x2e21200,17064,Modele 3D
+3120,o_obe3.nsbma,0x2e25600,336,Animation de materiau
+3121,o_obe3.nsbmd,0x2e25800,17216,Modele 3D
+3122,o_qu.nsbmd,0x2e29c00,1516,Modele 3D
+3123,o_s71sl.nsbca,0x2e2a200,19012,Animation de squelette 3D
+3124,o_s71sl.nsbmd,0x2e2ee00,10136,Modele 3D
+3125,o_s71sl.nsbta,0x2e31600,1132,Animation de texture (SRT)
+3126,o_s72sl.nsbca,0x2e31c00,14808,Animation de squelette 3D
+3127,o_s72sl.nsbmd,0x2e35600,10204,Modele 3D
+3128,o_s72sl.nsbta,0x2e37e00,972,Animation de texture (SRT)
+3129,o_sigemi.nsbca,0x2e38200,3936,Animation de squelette 3D
+3130,o_sigemi.nsbmd,0x2e39200,8820,Modele 3D
+3131,o_sun.nsbmd,0x2e3b600,3416,Modele 3D
+3132,o_switchA.nsbca,0x2e3c400,168,Animation de squelette 3D
+3133,o_switchA.nsbmd,0x2e3c600,11756,Modele 3D
+3134,o_switchB.nsbca,0x2e3f400,168,Animation de squelette 3D
+3135,o_switchB.nsbmd,0x2e3f600,10036,Modele 3D
+3136,o_switchC.nsbmd,0x2e41e00,1880,Modele 3D
+3137,o_switchC2.nsbmd,0x2e42600,18624,Modele 3D
+3138,o_switchD.nsbmd,0x2e47000,1880,Modele 3D
+3139,o_switchD2.nsbmd,0x2e47800,18624,Modele 3D
+3140,o_yume.nsbca,0x2e4c200,9108,Animation de squelette 3D
+3141,o_yume.nsbmd,0x2e4e600,24740,Modele 3D
+3142,o_yumeswichA.nsbca,0x2e54800,2432,Animation de squelette 3D
+3143,o_yumeswichA.nsbma,0x2e55200,1032,Animation de materiau
+3144,o_yumeswichA.nsbmd,0x2e55800,11292,Modele 3D
+3145,o_yumeswichB.nsbca,0x2e58600,2432,Animation de squelette 3D
+3146,o_yumeswichB.nsbma,0x2e59000,1032,Animation de materiau
+3147,o_yumeswichB.nsbmd,0x2e59600,11292,Modele 3D
+3148,o_yumeswichC.nsbca,0x2e5c400,2432,Animation de squelette 3D
+3149,o_yumeswichC.nsbma,0x2e5ce00,1032,Animation de materiau
+3150,o_yumeswichC.nsbmd,0x2e5d400,11292,Modele 3D
+3151,o_yumeswichD.nsbca,0x2e60200,2432,Animation de squelette 3D
+3152,o_yumeswichD.nsbma,0x2e60c00,1032,Animation de materiau
+3153,o_yumeswichD.nsbmd,0x2e61200,11292,Modele 3D
+3154,omiaitbl.bin,0x63fbe00,1960,Donnees brutes (a identifier)
+3155,pirate.d16,0x683a600,98312,
+3156,S001.enct,0x2cfa400,520,
+3157,s001.evD,0x3f52a00,128400,
+3158,s001.evF,0x3f72000,128352,
+3159,s001.evI,0x3f91600,128816,
+3160,s001.evS,0x3fb0e00,128168,
+3161,s001.evt,0x3fd0400,127420,
+3162,s001.map,0x21d8600,507548,
+3163,S011.enct,0x2cfa800,904,
+3164,s011.evD,0x3fef600,137308,
+3165,s011.evF,0x4011000,137380,
+3166,s011.evI,0x4032a00,137860,
+3167,s011.evS,0x4054600,137300,
+3168,s011.evt,0x4076000,136460,
+3169,s011.map,0x2254600,457004,
+3170,s021.evD,0x4097600,297436,
+3171,s021.evF,0x40e0000,298952,
+3172,s021.evI,0x4129000,299352,
+3173,s021.evS,0x4172200,293068,
+3174,s021.evt,0x41b9c00,289564,
+3175,s021.map,0x22c4000,410140,
+3176,s022.evD,0x4200800,37096,
+3177,s022.evF,0x4209a00,36808,
+3178,s022.evI,0x4212a00,36968,
+3179,s022.evS,0x421bc00,36328,
+3180,s022.evt,0x4224a00,36116,
+3181,s022.map,0x2328400,311988,
+3182,s023.evD,0x422d800,179356,
+3183,s023.evF,0x4259600,180332,
+3184,s023.evI,0x4285800,182576,
+3185,s023.evS,0x42b2200,177092,
+3186,s023.evt,0x42dd600,175872,
+3187,s023.map,0x2374800,276196,
+3188,S031.enct,0x2cfac00,104,
+3189,s031.evD,0x4308600,87324,
+3190,s031.evF,0x431dc00,87440,
+3191,s031.evI,0x4333200,87840,
+3192,s031.evS,0x4348a00,87236,
+3193,s031.evt,0x435e000,86492,
+3194,s031.map,0x23b8000,377408,
+3195,S032.enct,0x2cfae00,72,
+3196,s032.evD,0x4373200,54188,
+3197,s032.evF,0x4380600,54264,
+3198,s032.evI,0x438da00,54244,
+3199,s032.evS,0x439ae00,54348,
+3200,s032.evt,0x43a8400,53984,
+3201,s032.map,0x2414400,292412,
+3202,S033.enct,0x2cfb000,72,
+3203,s033.evD,0x43b5800,79204,
+3204,s033.evF,0x43c8e00,79252,
+3205,s033.evI,0x43dc400,79224,
+3206,s033.evS,0x43efa00,79344,
+3207,s033.evt,0x4403000,78972,
+3208,s033.map,0x245bc00,344740,
+3209,S034.enct,0x2cfb200,200,
+3210,s034.evD,0x4416600,107152,
+3211,s034.evF,0x4430a00,107416,
+3212,s034.evI,0x444ae00,107676,
+3213,s034.evS,0x4465400,107196,
+3214,s034.evt,0x447f800,106844,
+3215,s034.map,0x24b0000,341936,
+3216,S035.enct,0x2cfb400,232,
+3217,s035.evD,0x4499a00,91608,
+3218,s035.evF,0x44b0000,91488,
+3219,s035.evI,0x44c6600,91624,
+3220,s035.evS,0x44dcc00,91600,
+3221,s035.evt,0x44f3200,90828,
+3222,s035.map,0x2503800,356888,
+3223,S041.enct,0x2cfb600,328,
+3224,s041.evD,0x4509600,138900,
+3225,s041.evF,0x452b600,138948,
+3226,s041.evI,0x454d600,139404,
+3227,s041.evS,0x456f800,138776,
+3228,s041.evt,0x4591800,138088,
+3229,s041.map,0x255ac00,417280,
+3230,s042.evD,0x45b3400,32372,
+3231,s042.evF,0x45bb400,32424,
+3232,s042.evI,0x45c3400,32392,
+3233,s042.evS,0x45cb400,32116,
+3234,s042.evt,0x45d3200,32328,
+3235,s042.map,0x25c0a00,149708,
+3236,S043.enct,0x2cfb800,200,
+3237,s043.evD,0x45db200,71812,
+3238,s043.evF,0x45ecc00,72056,
+3239,s043.evI,0x45fe600,72544,
+3240,s043.evS,0x4610200,71712,
+3241,s043.evt,0x4621c00,71472,
+3242,s043.map,0x25e5400,317808,
+3243,s044.evD,0x4633400,25976,
+3244,s044.evF,0x4639a00,25976,
+3245,s044.evI,0x4640000,26052,
+3246,s044.evS,0x4646600,26144,
+3247,s044.evt,0x464ce00,25840,
+3248,s044.map,0x2632e00,215756,
+3249,S051.enct,0x2cfba00,392,
+3250,s051.evD,0x4653400,87632,
+3251,s051.evF,0x4668c00,87704,
+3252,s051.evI,0x467e400,88224,
+3253,s051.evS,0x4693e00,87528,
+3254,s051.evt,0x46a9400,86828,
+3255,s051.map,0x2667a00,294536,
+3256,S052.enct,0x2cfbc00,40,
+3257,s052.evD,0x46be800,40936,
+3258,s052.evF,0x46c8800,40996,
+3259,s052.evI,0x46d2a00,40976,
+3260,s052.evS,0x46dcc00,40884,
+3261,s052.evt,0x46e6c00,40584,
+3262,s052.map,0x26afa00,169956,
+3263,S053.enct,0x2cfbe00,360,
+3264,s053.evD,0x46f0c00,81172,
+3265,s053.evF,0x4704a00,80984,
+3266,s053.evI,0x4718800,81224,
+3267,s053.evS,0x472c600,81164,
+3268,s053.evt,0x4740400,80440,
+3269,s053.map,0x26d9200,334820,
+3270,S061.enct,0x2cfc000,456,
+3271,s061.evD,0x4754000,94184,
+3272,s061.evF,0x476b000,94380,
+3273,s061.evI,0x4782200,94812,
+3274,s061.evS,0x4799600,93964,
+3275,s061.evt,0x47b0600,93300,
+3276,s061.map,0x272ae00,388844,
+3277,S062.enct,0x2cfc200,72,
+3278,s062.evD,0x47c7400,59292,
+3279,s062.evF,0x47d5c00,59104,
+3280,s062.evI,0x47e4400,59332,
+3281,s062.evS,0x47f2c00,59280,
+3282,s062.evt,0x4801400,58560,
+3283,s062.map,0x2789e00,179208,
+3284,S071.enct,0x2cfc400,456,
+3285,s071.evD,0x480fa00,68560,
+3286,s071.evF,0x4820600,68848,
+3287,s071.evI,0x4831400,69072,
+3288,s071.evS,0x4842200,68444,
+3289,s071.evt,0x4852e00,68232,
+3290,s071.map,0x27b5c00,388844,
+3291,S072.enct,0x2cfc600,168,
+3292,s072.evD,0x4863a00,47972,
+3293,s072.evF,0x486f600,47996,
+3294,s072.evI,0x487b200,48064,
+3295,s072.evS,0x4886e00,48124,
+3296,s072.evt,0x4892a00,47812,
+3297,s072.map,0x2814c00,341336,
+3298,s091.map,0x2868200,51580,
+3299,sd_0000.dma,0x6d64400,288,
+3300,sd_0000.pal,0x6d64600,32,
+3301,sd_0001.dma,0x6d64800,288,
+3302,sd_0001.pal,0x6d64a00,32,
+3303,sd_0002.dma,0x6d64c00,288,
+3304,sd_0002.pal,0x6d64e00,32,
+3305,sd_0003.dma,0x6d65000,288,
+3306,sd_0003.pal,0x6d65200,32,
+3307,sd_0004.dma,0x6d65400,288,
+3308,sd_0004.pal,0x6d65600,32,
+3309,sd_0005.dma,0x6d65800,288,
+3310,sd_0005.pal,0x6d65a00,32,
+3311,sd_0006.dma,0x6d65c00,288,
+3312,sd_0006.pal,0x6d65e00,32,
+3313,sd_0007.dma,0x6d66000,288,
+3314,sd_0007.pal,0x6d66200,32,
+3315,sd_0008.dma,0x6d66400,288,
+3316,sd_0008.pal,0x6d66600,32,
+3317,sd_0009.dma,0x6d66800,288,
+3318,sd_0009.pal,0x6d66a00,32,
+3319,sd_000a.dma,0x6d66c00,288,
+3320,sd_000a.pal,0x6d66e00,32,
+3321,sd_000b.dma,0x6d67000,288,
+3322,sd_000b.pal,0x6d67200,32,
+3323,sd_000c.dma,0x6d67400,288,
+3324,sd_000c.pal,0x6d67600,32,
+3325,sd_000d.dma,0x6d67800,288,
+3326,sd_000d.pal,0x6d67a00,32,
+3327,sd_000e.dma,0x6d67c00,288,
+3328,sd_000e.pal,0x6d67e00,32,
+3329,sd_000f.dma,0x6d68000,288,
+3330,sd_000f.pal,0x6d68200,32,
+3331,sd_0010.dma,0x6d68400,288,
+3332,sd_0010.pal,0x6d68600,32,
+3333,sd_0011.dma,0x6d68800,288,
+3334,sd_0011.pal,0x6d68a00,32,
+3335,sd_0012.dma,0x6d68c00,288,
+3336,sd_0012.pal,0x6d68e00,32,
+3337,sd_0013.dma,0x6d69000,288,
+3338,sd_0013.pal,0x6d69200,32,
+3339,sd_0014.dma,0x6d69400,288,
+3340,sd_0014.pal,0x6d69600,32,
+3341,sd_0015.dma,0x6d69800,288,
+3342,sd_0015.pal,0x6d69a00,32,
+3343,sd_0016.dma,0x6d69c00,288,
+3344,sd_0016.pal,0x6d69e00,32,
+3345,sd_0017.dma,0x6d6a000,288,
+3346,sd_0017.pal,0x6d6a200,32,
+3347,sd_0018.dma,0x6d6a400,288,
+3348,sd_0018.pal,0x6d6a600,32,
+3349,sd_0019.dma,0x6d6a800,288,
+3350,sd_0019.pal,0x6d6aa00,32,
+3351,sd_001a.dma,0x6d6ac00,288,
+3352,sd_001a.pal,0x6d6ae00,32,
+3353,sd_001b.dma,0x6d6b000,288,
+3354,sd_001b.pal,0x6d6b200,32,
+3355,sd_001c.dma,0x6d6b400,288,
+3356,sd_001c.pal,0x6d6b600,32,
+3357,sd_0031.dma,0x6d6b800,288,
+3358,sd_0031.pal,0x6d6ba00,32,
+3359,sd_0033.dma,0x6d6bc00,288,
+3360,sd_0033.pal,0x6d6be00,32,
+3361,sd_0035.dma,0x6d6c000,288,
+3362,sd_0035.pal,0x6d6c200,32,
+3363,sd_0037.dma,0x6d6c400,288,
+3364,sd_0037.pal,0x6d6c600,32,
+3365,sd_0038.dma,0x6d6c800,288,
+3366,sd_0038.pal,0x6d6ca00,32,
+3367,sd_003a.dma,0x6d6cc00,288,
+3368,sd_003a.pal,0x6d6ce00,32,
+3369,sd_003b.dma,0x6d6d000,288,
+3370,sd_003b.pal,0x6d6d200,32,
+3371,sd_003c.dma,0x6d6d400,288,
+3372,sd_003c.pal,0x6d6d600,32,
+3373,sd_003d.dma,0x6d6d800,288,
+3374,sd_003d.pal,0x6d6da00,32,
+3375,sd_003f.dma,0x6d6dc00,288,
+3376,sd_003f.pal,0x6d6de00,32,
+3377,sd_0040.dma,0x6d6e000,288,
+3378,sd_0040.pal,0x6d6e200,32,
+3379,sd_0041.dma,0x6d6e400,288,
+3380,sd_0041.pal,0x6d6e600,32,
+3381,sd_0042.dma,0x6d6e800,288,
+3382,sd_0042.pal,0x6d6ea00,32,
+3383,sd_0044.dma,0x6d6ec00,288,
+3384,sd_0044.pal,0x6d6ee00,32,
+3385,sd_0046.dma,0x6d6f000,288,
+3386,sd_0046.pal,0x6d6f200,32,
+3387,sd_0047.dma,0x6d6f400,288,
+3388,sd_0047.pal,0x6d6f600,32,
+3389,sd_0048.dma,0x6d6f800,288,
+3390,sd_0048.pal,0x6d6fa00,32,
+3391,sd_0049.dma,0x6d6fc00,288,
+3392,sd_0049.pal,0x6d6fe00,32,
+3393,sd_004a.dma,0x6d70000,288,
+3394,sd_004a.pal,0x6d70200,32,
+3395,sd_004b.dma,0x6d70400,288,
+3396,sd_004b.pal,0x6d70600,32,
+3397,sd_004c.dma,0x6d70800,288,
+3398,sd_004c.pal,0x6d70a00,32,
+3399,sd_004d.dma,0x6d70c00,288,
+3400,sd_004d.pal,0x6d70e00,32,
+3401,sd_004e.dma,0x6d71000,288,
+3402,sd_004e.pal,0x6d71200,32,
+3403,sd_004f.dma,0x6d71400,288,
+3404,sd_004f.pal,0x6d71600,32,
+3405,sd_0050.dma,0x6d71800,288,
+3406,sd_0050.pal,0x6d71a00,32,
+3407,sd_0051.dma,0x6d71c00,288,
+3408,sd_0051.pal,0x6d71e00,32,
+3409,sd_0052.dma,0x6d72000,288,
+3410,sd_0052.pal,0x6d72200,32,
+3411,sd_0053.dma,0x6d72400,288,
+3412,sd_0053.pal,0x6d72600,32,
+3413,sd_0054.dma,0x6d72800,288,
+3414,sd_0054.pal,0x6d72a00,32,
+3415,sd_0060.dma,0x6d72c00,288,
+3416,sd_0060.pal,0x6d72e00,32,
+3417,sd_0061.dma,0x6d73000,288,
+3418,sd_0061.pal,0x6d73200,32,
+3419,sd_0062.dma,0x6d73400,288,
+3420,sd_0062.pal,0x6d73600,32,
+3421,sd_0063.dma,0x6d73800,288,
+3422,sd_0063.pal,0x6d73a00,32,
+3423,sd_0064.dma,0x6d73c00,288,
+3424,sd_0064.pal,0x6d73e00,32,
+3425,sd_0065.dma,0x6d74000,288,
+3426,sd_0065.pal,0x6d74200,32,
+3427,sd_0066.dma,0x6d74400,288,
+3428,sd_0066.pal,0x6d74600,32,
+3429,sd_0067.dma,0x6d74800,288,
+3430,sd_0067.pal,0x6d74a00,32,
+3431,sd_0068.dma,0x6d74c00,288,
+3432,sd_0068.pal,0x6d74e00,32,
+3433,sd_0069.dma,0x6d75000,288,
+3434,sd_0069.pal,0x6d75200,32,
+3435,sd_006a.dma,0x6d75400,288,
+3436,sd_006a.pal,0x6d75600,32,
+3437,sd_006b.dma,0x6d75800,288,
+3438,sd_006b.pal,0x6d75a00,32,
+3439,sd_006c.dma,0x6d75c00,288,
+3440,sd_006c.pal,0x6d75e00,32,
+3441,sd_006e.dma,0x6d76000,288,
+3442,sd_006e.pal,0x6d76200,32,
+3443,sd_006f.dma,0x6d76400,288,
+3444,sd_006f.pal,0x6d76600,32,
+3445,sd_0070.dma,0x6d76800,288,
+3446,sd_0070.pal,0x6d76a00,32,
+3447,sd_0071.dma,0x6d76c00,288,
+3448,sd_0071.pal,0x6d76e00,32,
+3449,sd_0072.dma,0x6d77000,288,
+3450,sd_0072.pal,0x6d77200,32,
+3451,sd_0073.dma,0x6d77400,288,
+3452,sd_0073.pal,0x6d77600,32,
+3453,sd_0074.dma,0x6d77800,288,
+3454,sd_0074.pal,0x6d77a00,32,
+3455,sd_0075.dma,0x6d77c00,288,
+3456,sd_0075.pal,0x6d77e00,32,
+3457,sd_0079.dma,0x6d78000,288,
+3458,sd_0079.pal,0x6d78200,32,
+3459,sd_007a.dma,0x6d78400,288,
+3460,sd_007a.pal,0x6d78600,32,
+3461,sd_007b.dma,0x6d78800,288,
+3462,sd_007b.pal,0x6d78a00,32,
+3463,sd_007c.dma,0x6d78c00,288,
+3464,sd_007c.pal,0x6d78e00,32,
+3465,sd_007d.dma,0x6d79000,288,
+3466,sd_007d.pal,0x6d79200,32,
+3467,sd_007f.dma,0x6d79400,288,
+3468,sd_007f.pal,0x6d79600,32,
+3469,sd_0080.dma,0x6d79800,288,
+3470,sd_0080.pal,0x6d79a00,32,
+3471,sd_0081.dma,0x6d79c00,288,
+3472,sd_0081.pal,0x6d79e00,32,
+3473,sd_0082.dma,0x6d7a000,288,
+3474,sd_0082.pal,0x6d7a200,32,
+3475,sd_0090.dma,0x6d7a400,288,
+3476,sd_0090.pal,0x6d7a600,32,
+3477,sd_0091.dma,0x6d7a800,288,
+3478,sd_0091.pal,0x6d7aa00,32,
+3479,sd_0092.dma,0x6d7ac00,288,
+3480,sd_0092.pal,0x6d7ae00,32,
+3481,sd_0093.dma,0x6d7b000,288,
+3482,sd_0093.pal,0x6d7b200,32,
+3483,sd_0094.dma,0x6d7b400,288,
+3484,sd_0094.pal,0x6d7b600,32,
+3485,sd_0096.dma,0x6d7b800,288,
+3486,sd_0096.pal,0x6d7ba00,32,
+3487,sd_0097.dma,0x6d7bc00,288,
+3488,sd_0097.pal,0x6d7be00,32,
+3489,sd_0098.dma,0x6d7c000,288,
+3490,sd_0098.pal,0x6d7c200,32,
+3491,sd_0099.dma,0x6d7c400,288,
+3492,sd_0099.pal,0x6d7c600,32,
+3493,sd_009a.dma,0x6d7c800,288,
+3494,sd_009a.pal,0x6d7ca00,32,
+3495,sd_009b.dma,0x6d7cc00,288,
+3496,sd_009b.pal,0x6d7ce00,32,
+3497,sd_009c.dma,0x6d7d000,288,
+3498,sd_009c.pal,0x6d7d200,32,
+3499,sd_009d.dma,0x6d7d400,288,
+3500,sd_009d.pal,0x6d7d600,32,
+3501,sd_009f.dma,0x6d7d800,288,
+3502,sd_009f.pal,0x6d7da00,32,
+3503,sd_00a0.dma,0x6d7dc00,288,
+3504,sd_00a0.pal,0x6d7de00,32,
+3505,sd_00a2.dma,0x6d7e000,288,
+3506,sd_00a2.pal,0x6d7e200,32,
+3507,sd_00a3.dma,0x6d7e400,288,
+3508,sd_00a3.pal,0x6d7e600,32,
+3509,sd_00a5.dma,0x6d7e800,288,
+3510,sd_00a5.pal,0x6d7ea00,32,
+3511,sd_00a7.dma,0x6d7ec00,288,
+3512,sd_00a7.pal,0x6d7ee00,32,
+3513,sd_00a8.dma,0x6d7f000,288,
+3514,sd_00a8.pal,0x6d7f200,32,
+3515,sd_00a9.dma,0x6d7f400,288,
+3516,sd_00a9.pal,0x6d7f600,32,
+3517,sd_00aa.dma,0x6d7f800,288,
+3518,sd_00aa.pal,0x6d7fa00,32,
+3519,sd_00ab.dma,0x6d7fc00,288,
+3520,sd_00ab.pal,0x6d7fe00,32,
+3521,sd_00ac.dma,0x6d80000,288,
+3522,sd_00ac.pal,0x6d80200,32,
+3523,sd_00ad.dma,0x6d80400,288,
+3524,sd_00ad.pal,0x6d80600,32,
+3525,sd_00ae.dma,0x6d80800,288,
+3526,sd_00ae.pal,0x6d80a00,32,
+3527,sd_00af.dma,0x6d80c00,288,
+3528,sd_00af.pal,0x6d80e00,32,
+3529,sd_00b0.dma,0x6d81000,288,
+3530,sd_00b0.pal,0x6d81200,32,
+3531,sd_00b1.dma,0x6d81400,288,
+3532,sd_00b1.pal,0x6d81600,32,
+3533,sd_00c0.dma,0x6d81800,288,
+3534,sd_00c0.pal,0x6d81a00,32,
+3535,sd_00c1.dma,0x6d81c00,288,
+3536,sd_00c1.pal,0x6d81e00,32,
+3537,sd_00c2.dma,0x6d82000,288,
+3538,sd_00c2.pal,0x6d82200,32,
+3539,sd_00c3.dma,0x6d82400,288,
+3540,sd_00c3.pal,0x6d82600,32,
+3541,sd_00c4.dma,0x6d82800,288,
+3542,sd_00c4.pal,0x6d82a00,32,
+3543,sd_00c5.dma,0x6d82c00,288,
+3544,sd_00c5.pal,0x6d82e00,32,
+3545,sd_00c6.dma,0x6d83000,288,
+3546,sd_00c6.pal,0x6d83200,32,
+3547,sd_00c7.dma,0x6d83400,288,
+3548,sd_00c7.pal,0x6d83600,32,
+3549,sd_00c8.dma,0x6d83800,288,
+3550,sd_00c8.pal,0x6d83a00,32,
+3551,sd_00c9.dma,0x6d83c00,288,
+3552,sd_00c9.pal,0x6d83e00,32,
+3553,sd_00ca.dma,0x6d84000,288,
+3554,sd_00ca.pal,0x6d84200,32,
+3555,sd_00cb.dma,0x6d84400,288,
+3556,sd_00cb.pal,0x6d84600,32,
+3557,sd_00cc.dma,0x6d84800,288,
+3558,sd_00cc.pal,0x6d84a00,32,
+3559,sd_00cd.dma,0x6d84c00,288,
+3560,sd_00cd.pal,0x6d84e00,32,
+3561,sd_00ce.dma,0x6d85000,288,
+3562,sd_00ce.pal,0x6d85200,32,
+3563,sd_00cf.dma,0x6d85400,288,
+3564,sd_00cf.pal,0x6d85600,32,
+3565,sd_00d0.dma,0x6d85800,288,
+3566,sd_00d0.pal,0x6d85a00,32,
+3567,sd_00d1.dma,0x6d85c00,288,
+3568,sd_00d1.pal,0x6d85e00,32,
+3569,sd_00d2.dma,0x6d86000,288,
+3570,sd_00d2.pal,0x6d86200,32,
+3571,sd_00d3.dma,0x6d86400,288,
+3572,sd_00d3.pal,0x6d86600,32,
+3573,sd_00d4.dma,0x6d86800,288,
+3574,sd_00d4.pal,0x6d86a00,32,
+3575,sd_00d5.dma,0x6d86c00,288,
+3576,sd_00d5.pal,0x6d86e00,32,
+3577,sd_00d7.dma,0x6d87000,288,
+3578,sd_00d7.pal,0x6d87200,32,
+3579,sd_00d8.dma,0x6d87400,288,
+3580,sd_00d8.pal,0x6d87600,32,
+3581,sd_00d9.dma,0x6d87800,288,
+3582,sd_00d9.pal,0x6d87a00,32,
+3583,sd_00da.dma,0x6d87c00,288,
+3584,sd_00da.pal,0x6d87e00,32,
+3585,sd_00db.dma,0x6d88000,288,
+3586,sd_00db.pal,0x6d88200,32,
+3587,sd_00dc.dma,0x6d88400,288,
+3588,sd_00dc.pal,0x6d88600,32,
+3589,sd_00dd.dma,0x6d88800,288,
+3590,sd_00dd.pal,0x6d88a00,32,
+3591,sd_00de.dma,0x6d88c00,288,
+3592,sd_00de.pal,0x6d88e00,32,
+3593,sd_00df.dma,0x6d89000,288,
+3594,sd_00df.pal,0x6d89200,32,
+3595,sd_00e0.dma,0x6d89400,288,
+3596,sd_00e0.pal,0x6d89600,32,
+3597,sd_00e1.dma,0x6d89800,288,
+3598,sd_00e1.pal,0x6d89a00,32,
+3599,sd_00f0.dma,0x6d89c00,288,
+3600,sd_00f0.pal,0x6d89e00,32,
+3601,sd_00f1.dma,0x6d8a000,288,
+3602,sd_00f1.pal,0x6d8a200,32,
+3603,sd_00f2.dma,0x6d8a400,288,
+3604,sd_00f2.pal,0x6d8a600,32,
+3605,sd_00f3.dma,0x6d8a800,288,
+3606,sd_00f3.pal,0x6d8aa00,32,
+3607,sd_00f4.dma,0x6d8ac00,288,
+3608,sd_00f4.pal,0x6d8ae00,32,
+3609,sd_00f5.dma,0x6d8b000,288,
+3610,sd_00f5.pal,0x6d8b200,32,
+3611,sd_00f6.dma,0x6d8b400,288,
+3612,sd_00f6.pal,0x6d8b600,32,
+3613,sd_00f8.dma,0x6d8b800,288,
+3614,sd_00f8.pal,0x6d8ba00,32,
+3615,sd_00f9.dma,0x6d8bc00,288,
+3616,sd_00f9.pal,0x6d8be00,32,
+3617,sd_00fa.dma,0x6d8c000,288,
+3618,sd_00fa.pal,0x6d8c200,32,
+3619,sd_00fc.dma,0x6d8c400,288,
+3620,sd_00fc.pal,0x6d8c600,32,
+3621,sd_00fd.dma,0x6d8c800,288,
+3622,sd_00fd.pal,0x6d8ca00,32,
+3623,sd_00ff.dma,0x6d8cc00,288,
+3624,sd_00ff.pal,0x6d8ce00,32,
+3625,sd_0100.dma,0x6d8d000,288,
+3626,sd_0100.pal,0x6d8d200,32,
+3627,sd_0101.dma,0x6d8d400,288,
+3628,sd_0101.pal,0x6d8d600,32,
+3629,sd_0102.dma,0x6d8d800,288,
+3630,sd_0102.pal,0x6d8da00,32,
+3631,sd_0103.dma,0x6d8dc00,288,
+3632,sd_0103.pal,0x6d8de00,32,
+3633,sd_0104.dma,0x6d8e000,288,
+3634,sd_0104.pal,0x6d8e200,32,
+3635,sd_0105.dma,0x6d8e400,288,
+3636,sd_0105.pal,0x6d8e600,32,
+3637,sd_0106.dma,0x6d8e800,288,
+3638,sd_0106.pal,0x6d8ea00,32,
+3639,sd_0107.dma,0x6d8ec00,288,
+3640,sd_0107.pal,0x6d8ee00,32,
+3641,sd_0108.dma,0x6d8f000,288,
+3642,sd_0108.pal,0x6d8f200,32,
+3643,sd_0109.dma,0x6d8f400,288,
+3644,sd_0109.pal,0x6d8f600,32,
+3645,sd_010a.dma,0x6d8f800,288,
+3646,sd_010a.pal,0x6d8fa00,32,
+3647,sd_010b.dma,0x6d8fc00,288,
+3648,sd_010b.pal,0x6d8fe00,32,
+3649,sd_010c.dma,0x6d90000,288,
+3650,sd_010c.pal,0x6d90200,32,
+3651,sd_010d.dma,0x6d90400,288,
+3652,sd_010d.pal,0x6d90600,32,
+3653,sd_010e.dma,0x6d90800,288,
+3654,sd_010e.pal,0x6d90a00,32,
+3655,sd_010f.dma,0x6d90c00,288,
+3656,sd_010f.pal,0x6d90e00,32,
+3657,sd_0110.dma,0x6d91000,288,
+3658,sd_0110.pal,0x6d91200,32,
+3659,sd_0111.dma,0x6d91400,288,
+3660,sd_0111.pal,0x6d91600,32,
+3661,sd_0112.dma,0x6d91800,288,
+3662,sd_0112.pal,0x6d91a00,32,
+3663,sd_0113.dma,0x6d91c00,288,
+3664,sd_0113.pal,0x6d91e00,32,
+3665,sd_0114.dma,0x6d92000,288,
+3666,sd_0114.pal,0x6d92200,32,
+3667,sd_0115.dma,0x6d92400,288,
+3668,sd_0115.pal,0x6d92600,32,
+3669,sd_0116.dma,0x6d92800,288,
+3670,sd_0116.pal,0x6d92a00,32,
+3671,sd_0117.dma,0x6d92c00,288,
+3672,sd_0117.pal,0x6d92e00,32,
+3673,sd_0118.dma,0x6d93000,288,
+3674,sd_0118.pal,0x6d93200,32,
+3675,sd_0121.dma,0x6d93400,288,
+3676,sd_0121.pal,0x6d93600,32,
+3677,sd_0122.dma,0x6d93800,288,
+3678,sd_0122.pal,0x6d93a00,32,
+3679,sd_0124.dma,0x6d93c00,288,
+3680,sd_0124.pal,0x6d93e00,32,
+3681,sd_0126.dma,0x6d94000,288,
+3682,sd_0126.pal,0x6d94200,32,
+3683,sd_0128.dma,0x6d94400,288,
+3684,sd_0128.pal,0x6d94600,32,
+3685,sd_0129.dma,0x6d94800,288,
+3686,sd_0129.pal,0x6d94a00,32,
+3687,sd_012a.dma,0x6d94c00,288,
+3688,sd_012a.pal,0x6d94e00,32,
+3689,sd_012b.dma,0x6d95000,288,
+3690,sd_012b.pal,0x6d95200,32,
+3691,sd_012c.dma,0x6d95400,288,
+3692,sd_012c.pal,0x6d95600,32,
+3693,sd_012d.dma,0x6d95800,288,
+3694,sd_012d.pal,0x6d95a00,32,
+3695,sd_012e.dma,0x6d95c00,288,
+3696,sd_012e.pal,0x6d95e00,32,
+3697,sd_012f.dma,0x6d96000,288,
+3698,sd_012f.pal,0x6d96200,32,
+3699,sd_0130.dma,0x6d96400,288,
+3700,sd_0130.pal,0x6d96600,32,
+3701,sd_0131.dma,0x6d96800,288,
+3702,sd_0131.pal,0x6d96a00,32,
+3703,sd_0132.dma,0x6d96c00,288,
+3704,sd_0132.pal,0x6d96e00,32,
+3705,sd_0133.dma,0x6d97000,288,
+3706,sd_0133.pal,0x6d97200,32,
+3707,sd_0134.dma,0x6d97400,288,
+3708,sd_0134.pal,0x6d97600,32,
+3709,sd_0135.dma,0x6d97800,288,
+3710,sd_0135.pal,0x6d97a00,32,
+3711,sd_0136.dma,0x6d97c00,288,
+3712,sd_0136.pal,0x6d97e00,32,
+3713,sd_0137.dma,0x6d98000,288,
+3714,sd_0137.pal,0x6d98200,32,
+3715,sd_0138.dma,0x6d98400,288,
+3716,sd_0138.pal,0x6d98600,32,
+3717,sd_0139.dma,0x6d98800,288,
+3718,sd_0139.pal,0x6d98a00,32,
+3719,sd_013a.dma,0x6d98c00,288,
+3720,sd_013a.pal,0x6d98e00,32,
+3721,sd_013b.dma,0x6d99000,288,
+3722,sd_013b.pal,0x6d99200,32,
+3723,sd_013c.dma,0x6d99400,288,
+3724,sd_013c.pal,0x6d99600,32,
+3725,sd_013d.dma,0x6d99800,288,
+3726,sd_013d.pal,0x6d99a00,32,
+3727,sd_013e.dma,0x6d99c00,288,
+3728,sd_013e.pal,0x6d99e00,32,
+3729,sd_0150.dma,0x6d9a000,288,
+3730,sd_0150.pal,0x6d9a200,32,
+3731,sd_0151.dma,0x6d9a400,288,
+3732,sd_0151.pal,0x6d9a600,32,
+3733,sd_0152.dma,0x6d9a800,288,
+3734,sd_0152.pal,0x6d9aa00,32,
+3735,sd_0153.dma,0x6d9ac00,288,
+3736,sd_0153.pal,0x6d9ae00,32,
+3737,sd_0154.dma,0x6d9b000,288,
+3738,sd_0154.pal,0x6d9b200,32,
+3739,sd_0155.dma,0x6d9b400,288,
+3740,sd_0155.pal,0x6d9b600,32,
+3741,sd_0156.dma,0x6d9b800,288,
+3742,sd_0156.pal,0x6d9ba00,32,
+3743,sd_0157.dma,0x6d9bc00,288,
+3744,sd_0157.pal,0x6d9be00,32,
+3745,sd_0158.dma,0x6d9c000,288,
+3746,sd_0158.pal,0x6d9c200,32,
+3747,sd_9998.dma,0x6d9c400,288,
+3748,sd_9998.pal,0x6d9c600,32,
+3749,sd_9999.dma,0x6d9c800,288,
+3750,sd_9999.pal,0x6d9ca00,32,
+3751,sd_data.bin,0x6968800,70900,Donnees brutes (a identifier)
+3752,shadow.nsbmd,0xae5c00,660,Modele 3D
+3753,shop_data.bin,0x6979e00,46132,Donnees brutes (a identifier)
+3754,shop_data_D.bin,0x6985400,45920,Donnees brutes (a identifier)
+3755,shop_data_E.bin,0x6990800,46120,Donnees brutes (a identifier)
+3756,shop_data_F.bin,0x699be00,45920,Donnees brutes (a identifier)
+3757,shop_data_I.bin,0x69a7200,45936,Donnees brutes (a identifier)
+3758,shop_data_S.bin,0x69b2600,46136,Donnees brutes (a identifier)
+3759,shop_vram.bin,0x69bdc00,65556,Donnees brutes (a identifier)
+3760,shop_vram_D.bin,0x69cde00,65556,Donnees brutes (a identifier)
+3761,shop_vram_E.bin,0x69de000,65556,Donnees brutes (a identifier)
+3762,shop_vram_F.bin,0x69ee200,65556,Donnees brutes (a identifier)
+3763,shop_vram_I.bin,0x69fe400,65556,Donnees brutes (a identifier)
+3764,shop_vram_S.bin,0x6a0e600,65556,Donnees brutes (a identifier)
+3765,SkillPointTbl.bin,0x63e9c00,99,Donnees brutes (a identifier)
+3766,SkillTbl.bin,0x63e9e00,46568,Donnees brutes (a identifier)
+3767,sound_data.sadl,0x50d3000,12212,
+3768,sound_data.sdat,0x50d6000,19649760,Archive sonore complete (musiques + SFX)
+3769,start_data.bin,0x6a1e800,14884,Donnees brutes (a identifier)
+3770,status_data.bin,0x6a22400,49908,Donnees brutes (a identifier)
+3771,status_data_D.bin,0x6a2e800,49908,Donnees brutes (a identifier)
+3772,status_data_E.bin,0x6a3ac00,49908,Donnees brutes (a identifier)
+3773,status_data_F.bin,0x6a47000,49908,Donnees brutes (a identifier)
+3774,status_data_I.bin,0x6a53400,49908,Donnees brutes (a identifier)
+3775,status_data_S.bin,0x6a5f800,49908,Donnees brutes (a identifier)
+3776,t000.map,0x2874c00,32404,
+3777,t000a.nsbmd,0xae6000,30740,Modele 3D
+3778,takara.nsbca,0x2e64000,376,Animation de squelette 3D
+3779,takara.nsbmd,0x2e64200,5536,Modele 3D
+3780,takara_d.nsbca,0x2e65800,376,Animation de squelette 3D
+3781,takara_d.nsbmd,0x2e65a00,5812,Modele 3D
+3782,taru.nsbca,0x2e67200,4044,Animation de squelette 3D
+3783,taru.nsbmd,0x2e68200,4560,Modele 3D
+3784,TokugiDataTbl.bin,0x63f5400,10240,Donnees brutes (a identifier)
+3785,TokugiMacroTbl.binD,0x63f7c00,1290,
+3786,TokugiMacroTbl.binE,0x63f8200,1290,
+3787,TokugiMacroTbl.binF,0x63f8800,1290,
+3788,TokugiMacroTbl.binI,0x63f8e00,1290,
+3789,TokugiMacroTbl.binS,0x63f9400,1290,
+3790,ViewChrTbl.bin,0x63f9a00,9152,Donnees brutes (a identifier)
+3791,w000.evD,0x489e600,13144,
+3792,w000.evF,0x48a1a00,13144,
+3793,w000.evI,0x48a4e00,13144,
+3794,w000.evS,0x48a8200,13144,
+3795,w000.evt,0x48ab600,13152,
+3796,w001.evD,0x48aea00,13144,
+3797,w001.evF,0x48b1e00,13144,
+3798,w001.evI,0x48b5200,13144,
+3799,w001.evS,0x48b8600,13144,
+3800,w001.evt,0x48bba00,13152,
+3801,w002.evD,0x48bee00,13144,
+3802,w002.evF,0x48c2200,13144,
+3803,w002.evI,0x48c5600,13144,
+3804,w002.evS,0x48c8a00,13144,
+3805,w002.evt,0x48cbe00,13152,
+3806,w003.evD,0x48cf200,13144,
+3807,w003.evF,0x48d2600,13144,
+3808,w003.evI,0x48d5a00,13144,
+3809,w003.evS,0x48d8e00,13144,
+3810,w003.evt,0x48dc200,13152,
+3811,wall_bank.bin,0x6a6bc00,18492,Donnees brutes (a identifier)
+3812,wall_base.bin,0x6a70600,18492,Donnees brutes (a identifier)
+3813,wall_combi.bin,0x6a75000,18492,Donnees brutes (a identifier)
+3814,wall_gpinfo.bin,0x6a79a00,18492,Donnees brutes (a identifier)
+3815,wall_itemshop.bin,0x6a7e400,18492,Donnees brutes (a identifier)
+3816,wall_keep.bin,0x6a82e00,18492,Donnees brutes (a identifier)
+3817,wall_skillpoint.bin,0x6a87800,18492,Donnees brutes (a identifier)
+3818,WF000.nsbmd,0x287cc00,19764,Modele 3D
+3819,WF001.nsbmd,0x2881a00,61672,Modele 3D
+3820,WF002.nsbmd,0x2890c00,34568,Modele 3D
+3821,X032.enct,0x2cfc800,72,
+3822,X033.enct,0x2cfca00,72,
+3823,X034.enct,0x2cfcc00,200,
+3824,X035.enct,0x2cfce00,264,
+3825,X071.enct,0x2cfd000,40,
+3826,X072.enct,0x2cfd200,40,
+3827,X073.enct,0x2cfd400,40,
+3828,X074.enct,0x2cfd600,40,
+3829,X075.enct,0x2cfd800,72,
+3830,X078.enct,0x2cfda00,40,
+3831,XW071.enct,0x2cfdc00,40,
+3832,XW072.enct,0x2cfde00,40,
+3833,XW073.enct,0x2cfe000,40,
+3834,XW074.enct,0x2cfe200,40,
+3835,XW075.enct,0x2cfe400,72,
+3836,XW078.enct,0x2cfe600,40,
+3837,Z071.enct,0x2cfe800,40,
+3838,Z072.enct,0x2cfea00,40,
+3839,Z073.enct,0x2cfec00,40,
+3840,Z074.enct,0x2cfee00,40,
+3841,Z075.enct,0x2cff000,72,
+3842,Z078.enct,0x2cff200,40,
+3843,Z_000.nsbca,0xaeda00,972,Animation de squelette 3D
+3844,Z_000.nsbmd,0x220e00,27452,Modele 3D
+3845,Z_001.nsbca,0xaede00,1644,Animation de squelette 3D
+3846,Z_001.nsbmd,0x227a00,19720,Modele 3D
+3847,dwc/utility.bin,0x6d9cc00,929892,Donnees brutes (a identifier)

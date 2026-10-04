@@ -1,0 +1,48 @@
+# =============================================================================
+# DQMJ1 Ultimate Decompilation - Git Ignore Rules
+# =============================================================================
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Node & web dependencies / tools
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Blender temp and backup files
+*.blend1
+*.blend2
+*.blend@
+
+# Uncompressed extracted ROM file (>100MB limit for Git, keep .7z archive instead)
+*.nds
+rom/*.nds
+
+# Large extracted ROM working directories & local caches
+work/extracted/
+work/ghidra_proj/
+work/maps_raw/
+out/
+png/
+ModelBlender/
+
+
+# Working directories redundant with src/ and assets/
+work/decompiled/
+work/maps/
