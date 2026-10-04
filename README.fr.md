@@ -1,7 +1,7 @@
 # Dragon Quest Monsters: Joker — Décompilation Intégrale & Rétro-Ingénierie
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="Dragon Quest Monsters: Joker Logo" width="460" />
+  <img src="https://dqmj1.wiki/api/assets/images/logo.png" alt="Dragon Quest Monsters: Joker Logo" width="460" />
 </p>
 
 [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
