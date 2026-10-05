@@ -11,7 +11,6 @@
 [![Disassembly & Tooling](https://img.shields.io/badge/Analysis-Ghidra%20Headless%20%7C%20objdump-orange.svg)]()
 [![File Formats](https://img.shields.io/badge/Custom%20Parsers-SDAT%20%7C%20NSBMD%20%7C%20D16%20%7C%20FPK%20%7C%20EVT-purple.svg)]()
 [![Multi-language](https://img.shields.io/badge/Data%20Localization-5%20Languages%20%28EN%2FFR%2FDE%2FIT%2FES%29-teal.svg)]()
-[![Status](https://img.shields.io/badge/Status-Production%20Grade%20Research-brightgreen.svg)]()
 [![Companion Wiki](https://img.shields.io/badge/Companion%20Wiki-dqmj1.wiki-blueviolet.svg?style=flat)](https://dqmj1.wiki/)
 
 Comprehensive reverse engineering, bytecode analysis, and full-stack C decompilation for **Dragon Quest Monsters: Joker** (Nintendo DS, 2006-2008, European version `NTR-AJRP-EUR`).
@@ -151,7 +150,6 @@ DQMJ1_Ultimate_Decompilation/
 |   |-- en/                   Technical documentation (English)
 |   |-- fr/                   Detailed guides and tutorials (French)
 |   `-- architecture/         Hardware diagrams and memory specs
-|-- rom/                      ROM dumps and release info (compressed)
 |-- CONTRIBUTING.md           Guidelines for contributors
 |-- CODE_OF_CONDUCT.md        Community standards
 |-- LICENSE                   MIT License

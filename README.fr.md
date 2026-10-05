@@ -11,7 +11,6 @@
 [![Désassemblage & Outils](https://img.shields.io/badge/Analyse-Ghidra%20Headless%20%7C%20objdump-orange.svg)]()
 [![Formats Propriétaires](https://img.shields.io/badge/D%C3%A9codeurs-SDAT%20%7C%20NSBMD%20%7C%20D16%20%7C%20FPK%20%7C%20EVT-purple.svg)]()
 [![Multilingue](https://img.shields.io/badge/Localisation-5%20Langues%20%28EN%2FFR%2FDE%2FIT%2FES%29-teal.svg)]()
-[![Statut](https://img.shields.io/badge/Statut-Recherche%20Industrielle-brightgreen.svg)]()
 [![Wiki Compagnon](https://img.shields.io/badge/Wiki%20en%20ligne-dqmj1.wiki-blueviolet.svg?style=flat)](https://dqmj1.wiki/)
 
 Projet complet de rétro-ingénierie avancée, analyse de bytecode et décompilation C pour **Dragon Quest Monsters: Joker** (Nintendo DS, version européenne `NTR-AJRP-EUR`).

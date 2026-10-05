@@ -30,9 +30,11 @@ Thumbs.db
 *.blend2
 *.blend@
 
-# Uncompressed extracted ROM file (>100MB limit for Git, keep .7z archive instead)
+# ROM files and raw binary dumps (never tracked in repository)
 *.nds
-rom/*.nds
+*.7z
+rom/
+work/code/*.bin
 
 # Large extracted ROM working directories & local caches
 work/extracted/
