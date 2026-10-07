@@ -196,6 +196,14 @@ Please review [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_O
 
 ---
 
+## Contact
+
+Questions, findings, corrections or collaboration on the decompilation: **fanta@dqmj1.wiki**
+
+The live companion wiki and its public REST API are at [dqmj1.wiki](https://dqmj1.wiki/) (site contact: contact@dqmj1.wiki).
+
+---
+
 ## Legal & Disclaimer
 
 This is an academic reverse engineering and preservation project conducted under applicable interoperability laws. Dragon Quest and Dragon Quest Monsters: Joker are trademarks and copyrights of Square Enix Co., Ltd. and Armor Project.

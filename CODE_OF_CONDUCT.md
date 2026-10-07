@@ -22,5 +22,5 @@ This project is a scientific and technical decompilation effort:
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainers. All complaints will be reviewed and
+reported to the project maintainers at fanta@dqmj1.wiki. All complaints will be reviewed and
 investigated promptly and fairly.

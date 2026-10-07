@@ -161,6 +161,14 @@ python3 tools/render_sseq_audio.py
 
 ---
 
+## Contact
+
+Questions, découvertes, corrections ou collaboration sur la décompilation : **fanta@dqmj1.wiki**
+
+Le wiki compagnon en ligne et son API REST publique sont sur [dqmj1.wiki](https://dqmj1.wiki/) (contact du site : contact@dqmj1.wiki).
+
+---
+
 ## Cadre Légal
 
 Projet d'étude technique et de préservation patrimoniale mené à des fins d'interopérabilité. Dragon Quest et Dragon Quest Monsters: Joker sont des marques déposées et propriétés exclusives de Square Enix Co., Ltd. et Armor Project.
