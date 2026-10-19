@@ -1,0 +1,1067 @@
+{
+  "m000": {
+    "id": "m000",
+    "monster_id": 1,
+    "description_en": "This little monster sports soft skin and a silly<fe>smile'"
+  },
+  "m005b": {
+    "id": "m005b",
+    "monster_id": 2,
+    "description_en": "This blob was born of a poisonous swamp and<fe>carries the same toxins in its body'"
+  },
+  "m160": {
+    "id": "m160",
+    "monster_id": 3,
+    "description_en": "When surprised or threatened' these timid little<fe>fellows take refuge under their sturdy shells'"
+  },
+  "m003": {
+    "id": "m003",
+    "monster_id": 4,
+    "description_en": "These sweet little creatures wave their tentacles<fe>about in the most adorable manner'"
+  },
+  "m161": {
+    "id": "m161",
+    "monster_id": 5,
+    "description_en": "These slimes count dragons amongst their relatives'"
+  },
+  "m000b": {
+    "id": "m000b",
+    "monster_id": 6,
+    "description_en": "These slimes are astonishingly agile despite their<fe>heavy metal coating'"
+  },
+  "m004": {
+    "id": "m004",
+    "monster_id": 7,
+    "description_en": "Contrary to popular opinion' it is actually the slime<fe>giving the orders<70>"
+  },
+  "m162": {
+    "id": "m162",
+    "monster_id": 8,
+    "description_en": "These unruly slimes slice their unsuspecting prey<fe>with swift slashes from their claws'"
+  },
+  "m005": {
+    "id": "m005",
+    "monster_id": 9,
+    "description_en": "Their liquid metal bodies soften even the most<fe>powerful impacts'"
+  },
+  "m163": {
+    "id": "m163",
+    "monster_id": 10,
+    "description_en": "Slimes who live virtuous lives are reincarnated in<fe>this saintly form'"
+  },
+  "m006": {
+    "id": "m006",
+    "monster_id": 11,
+    "description_en": "This whopper is created from the cooperative power<fe>of a group of slimes merged into one'"
+  },
+  "m164": {
+    "id": "m164",
+    "monster_id": 12,
+    "description_en": "Bubble slimes figured out how to join together too'<fe>after watching normal slimes do their little trick'"
+  },
+  "m006b": {
+    "id": "m006b",
+    "monster_id": 13,
+    "description_en": "These monarchs move with menacing speed that is<fe>never hampered by their protoplasm'"
+  },
+  "m165": {
+    "id": "m165",
+    "monster_id": 14,
+    "description_en": "These sagely slimes are privy to arcane<fe>knowledge' and even the secret of the ooze'"
+  },
+  "m166": {
+    "id": "m166",
+    "monster_id": 15,
+    "description_en": "These multi-faceted slimes are strong against any<fe>manner of attack'"
+  },
+  "m009": {
+    "id": "m009",
+    "monster_id": 16,
+    "description_en": "<9a>My word<70> Where am I<71><fe>And just where is my precious Medea<70><71>'"
+  },
+  "m000c": {
+    "id": "m000c",
+    "monster_id": 17,
+    "description_en": "Slimologists have recently discovered that<fe>carnivorous slimes turn a reddish shade'"
+  },
+  "m160b": {
+    "id": "m160b",
+    "monster_id": 18,
+    "description_en": "These quirky slimes are more nimble than their<fe>heavy shells might have you believe'"
+  },
+  "m003b": {
+    "id": "m003b",
+    "monster_id": 19,
+    "description_en": "These medical specialists are more adept than<fe>their healslime cousins'"
+  },
+  "m247": {
+    "id": "m247",
+    "monster_id": 20,
+    "description_en": "These slimes have undergone a transformation<fe>brought about by contact with dark matter'"
+  },
+  "m247b": {
+    "id": "m247b",
+    "monster_id": 21,
+    "description_en": "She-slimes exposed to dark matter become even<fe>more carnivorous<70>"
+  },
+  "m161b": {
+    "id": "m161b",
+    "monster_id": 22,
+    "description_en": "Although they resemble drackies' they are actually<fe>allergic to blood<70>"
+  },
+  "m004b": {
+    "id": "m004b",
+    "monster_id": 23,
+    "description_en": "It is believed that these knights have sworn fealty<fe>to their beloved metal slimes'"
+  },
+  "m165b": {
+    "id": "m165b",
+    "monster_id": 24,
+    "description_en": "These slimes revere honour and chivalry above all<fe>else'"
+  },
+  "m004c": {
+    "id": "m004c",
+    "monster_id": 25,
+    "description_en": "These slimes have been tainted by the villainous<fe>knights who ride them'"
+  },
+  "m163b": {
+    "id": "m163b",
+    "monster_id": 26,
+    "description_en": "Similar to drackies' these sinister slimes enjoy<fe>slurping on the blood of humans'"
+  },
+  "m006c": {
+    "id": "m006c",
+    "monster_id": 27,
+    "description_en": "These masters of healing cast Omniheal with the<fe>greatest of ease'"
+  },
+  "m166b": {
+    "id": "m166b",
+    "monster_id": 28,
+    "description_en": "Although made of darkonium' they won't get a scout<fe>into the finals of the challenge'"
+  },
+  "m215": {
+    "id": "m215",
+    "monster_id": 49,
+    "description_en": "Giant lizards that hunt scouts for sport'"
+  },
+  "m130": {
+    "id": "m130",
+    "monster_id": 51,
+    "description_en": "These lizards intimidate their enemies by unfurling<fe>their imposing neck frills'"
+  },
+  "m218": {
+    "id": "m218",
+    "monster_id": 53,
+    "description_en": "The tough scales of this dragon can only be<fe>pierced by exceptional blades'"
+  },
+  "m132": {
+    "id": "m132",
+    "monster_id": 55,
+    "description_en": "These dragons keep a special brew in their jars<fe>especially for post-battle celebrations'"
+  },
+  "m220": {
+    "id": "m220",
+    "monster_id": 56,
+    "description_en": "It is said these man-made machines are imbued with<fe>the spirits of dragons'"
+  },
+  "m134": {
+    "id": "m134",
+    "monster_id": 58,
+    "description_en": "With axe in hand' they are dedicated to chopping<fe>everything they find into tiny pieces'"
+  },
+  "m218b": {
+    "id": "m218b",
+    "monster_id": 59,
+    "description_en": "Legends say these dragons were born in volcanic<fe>furnaces beneath the ground'"
+  },
+  "m132b": {
+    "id": "m132b",
+    "monster_id": 60,
+    "description_en": "These practical fellows store food in their urns in<fe>case they get peckish during battle'"
+  },
+  "m135": {
+    "id": "m135",
+    "monster_id": 61,
+    "description_en": "As argon lizards grow older' their bellies grow<fe>bolder'"
+  },
+  "m220b": {
+    "id": "m220b",
+    "monster_id": 63,
+    "description_en": "Love of gold has turned these miserly machines into<fe>their favourite colour'"
+  },
+  "m225": {
+    "id": "m225",
+    "monster_id": 64,
+    "description_en": "The golden scales of this mighty dragon shield it<fe>from both frost and flame'"
+  },
+  "m226": {
+    "id": "m226",
+    "monster_id": 65,
+    "description_en": "The gigantic arms of this burly dragon are<fe>registered as lethal weapons'"
+  },
+  "m198": {
+    "id": "m198",
+    "monster_id": 66,
+    "description_en": "This monarch spoken of in ancient lore was once<fe>bested by the legendary dragon warrior'"
+  },
+  "m141": {
+    "id": "m141",
+    "monster_id": 68,
+    "description_en": "The Lord of the Dragovians' having discarded his<fe>human form'"
+  },
+  "m223": {
+    "id": "m223",
+    "monster_id": 70,
+    "description_en": "Loath to relinquish life' this creature lives on<fe>though its flesh is long gone'"
+  },
+  "m245": {
+    "id": "m245",
+    "monster_id": 71,
+    "description_en": "These creatures are born when bunches of vines<fe>gain sentience and take the form of dragons'"
+  },
+  "m215b": {
+    "id": "m215b",
+    "monster_id": 72,
+    "description_en": "The horn of a nardragon can pierce any armour'"
+  },
+  "m130b": {
+    "id": "m130b",
+    "monster_id": 73,
+    "description_en": "These creatures use their saw-like teeth to shred<fe>the bellies of their prey' Ouch<70>"
+  },
+  "m239": {
+    "id": "m239",
+    "monster_id": 74,
+    "description_en": "It is quite enjoyable to wrap around your enemy<fe>and slowly squeeze the life out of it'"
+  },
+  "m233": {
+    "id": "m233",
+    "monster_id": 75,
+    "description_en": "Their powerful jaws confirm their place as rulers<fe>of the sea'"
+  },
+  "m245b": {
+    "id": "m245b",
+    "monster_id": 76,
+    "description_en": "Most often found in cold' arid regions'"
+  },
+  "m226b": {
+    "id": "m226b",
+    "monster_id": 77,
+    "description_en": "Greedy dragons who covet shiny objects and never<fe>forget a debt'"
+  },
+  "m134b": {
+    "id": "m134b",
+    "monster_id": 78,
+    "description_en": "Smashing enemies into little bits brings a gleeful<fe>grin to their wicked faces'"
+  },
+  "m225b": {
+    "id": "m225b",
+    "monster_id": 79,
+    "description_en": "Some believe these dragons were turned black by<fe>the blistering heat of their own breath'"
+  },
+  "m135b": {
+    "id": "m135b",
+    "monster_id": 80,
+    "description_en": "Experts at hurling their titanic bulk at enemies to<fe>devastating effect'"
+  },
+  "m233b": {
+    "id": "m233b",
+    "monster_id": 81,
+    "description_en": "Their mighty bodies can withstand even the pressure<fe>of the ocean depths'"
+  },
+  "m239b": {
+    "id": "m239b",
+    "monster_id": 82,
+    "description_en": "Serpents that reside in only the cleanest of<fe>waters'"
+  },
+  "m141b": {
+    "id": "m141b",
+    "monster_id": 83,
+    "description_en": "This regal deity is known as the Zenith dragon on<fe>another plane of existence'"
+  },
+  "m207": {
+    "id": "m207",
+    "monster_id": 96,
+    "description_en": "Their waggish expression belies their ferocity'"
+  },
+  "m167": {
+    "id": "m167",
+    "monster_id": 97,
+    "description_en": "Though still young cubs' their razor-sharp claws<fe>are already vicious weapons'"
+  },
+  "m168": {
+    "id": "m168",
+    "monster_id": 98,
+    "description_en": "They battle day and night' seeking to ascend to the<fe>throne of bug-kind'"
+  },
+  "m201": {
+    "id": "m201",
+    "monster_id": 99,
+    "description_en": "Mad birds that are adept at wily manoeuvring in<fe>combat'"
+  },
+  "m010": {
+    "id": "m010",
+    "monster_id": 100,
+    "description_en": "These felines are especially fond of their stripes'"
+  },
+  "m020": {
+    "id": "m020",
+    "monster_id": 101,
+    "description_en": "These sea-dwellers know they're cute <96><fe>and flaunt it<70>"
+  },
+  "m232": {
+    "id": "m232",
+    "monster_id": 102,
+    "description_en": "Peppery pals proficient at pulverising passing<fe>perpetrators'"
+  },
+  "m017": {
+    "id": "m017",
+    "monster_id": 103,
+    "description_en": "These insect assassins are skilled at skewering<fe>foes with their striking stingers'"
+  },
+  "m018": {
+    "id": "m018",
+    "monster_id": 104,
+    "description_en": "Fowl faces that bode foul magic'"
+  },
+  "m035": {
+    "id": "m035",
+    "monster_id": 105,
+    "description_en": "Their fearsome appearance hides a surprisingly<fe>caring demeanour'"
+  },
+  "m244": {
+    "id": "m244",
+    "monster_id": 106,
+    "description_en": "Two faces can be better than one' providing they<fe>can both breathe underwater'"
+  },
+  "m169": {
+    "id": "m169",
+    "monster_id": 107,
+    "description_en": "This hard-shelled crustacean boasts a nifty line<fe>in sidestepping'"
+  },
+  "m014": {
+    "id": "m014",
+    "monster_id": 108,
+    "description_en": "Trying to tip these bovines over will earn you a<fe>kick in the rear'"
+  },
+  "m027": {
+    "id": "m027",
+    "monster_id": 110,
+    "description_en": "Its penchant for spraying clouds of poisonous dust<fe>makes it a dangerous adversary'"
+  },
+  "m029": {
+    "id": "m029",
+    "monster_id": 111,
+    "description_en": "Chop bits off and they'll just grow back <96><fe>truly a lumberjack's worst nightmare'"
+  },
+  "m023": {
+    "id": "m023",
+    "monster_id": 112,
+    "description_en": "Shrimpy monsters who pack a wallop with their set<fe>of claws' Don't come the raw prawn with them<70>"
+  },
+  "m026": {
+    "id": "m026",
+    "monster_id": 113,
+    "description_en": "Primates who use their tremendous brute strength to<fe>swing a mighty club'"
+  },
+  "m034": {
+    "id": "m034",
+    "monster_id": 114,
+    "description_en": "The poisonous tails of these predators can<fe>paralyse their prey at a pinch'"
+  },
+  "m028": {
+    "id": "m028",
+    "monster_id": 115,
+    "description_en": "These alligators have evolved into flying beasts<fe>resistant to fire and ice'"
+  },
+  "m031": {
+    "id": "m031",
+    "monster_id": 116,
+    "description_en": "Deadly predators who use their amazing speed to<fe>shred their victims with lethal claws'"
+  },
+  "m035b": {
+    "id": "m035b",
+    "monster_id": 117,
+    "description_en": "Gigantic birds of regal appearance feared<fe>throughout the skies'"
+  },
+  "m041": {
+    "id": "m041",
+    "monster_id": 121,
+    "description_en": "This killing machine of the sea is armed with long<fe>and deadly tentacles'"
+  },
+  "m042": {
+    "id": "m042",
+    "monster_id": 122,
+    "description_en": "Likes to play puppet shows with its tentacles at<fe>passing ships'"
+  },
+  "m043": {
+    "id": "m043",
+    "monster_id": 123,
+    "description_en": "This chaotic canine appears to be empowered <96><fe>or is it controlled<71> <96> by the sceptre'"
+  },
+  "m044": {
+    "id": "m044",
+    "monster_id": 124,
+    "description_en": "This holy bird soars between worlds' protecting<fe>them from the darkness'"
+  },
+  "m011": {
+    "id": "m011",
+    "monster_id": 125,
+    "description_en": "It's clear from the horn that you won't be brushing<fe>this hare aside in a hurry'"
+  },
+  "m240": {
+    "id": "m240",
+    "monster_id": 127,
+    "description_en": "Pig-like fish at home in both sea and sky'"
+  },
+  "m241": {
+    "id": "m241",
+    "monster_id": 128,
+    "description_en": "Evil eels with fearsome fangs to match their<fe>atrocious appetites'"
+  },
+  "m235": {
+    "id": "m235",
+    "monster_id": 129,
+    "description_en": "These lightning-fast warriors of the sea have<fe>made an art of surprising unwary mariners'"
+  },
+  "m040b": {
+    "id": "m040b",
+    "monster_id": 130,
+    "description_en": "Their huge horns are heralded as the horror of the<fe>insect world'"
+  },
+  "m099": {
+    "id": "m099",
+    "monster_id": 144,
+    "description_en": "Who knows what mischief these moles get up to<fe>with their spades'''"
+  },
+  "m056": {
+    "id": "m056",
+    "monster_id": 145,
+    "description_en": "Denizens of the forest who live in trees' targeting<fe>those who pass beneath the canopy'"
+  },
+  "m102": {
+    "id": "m102",
+    "monster_id": 146,
+    "description_en": "It's not the size of the hammer that counts'<fe>It's how you wield it'"
+  },
+  "m066": {
+    "id": "m066",
+    "monster_id": 147,
+    "description_en": "The sight of one of these beasts dancing all by<fe>itself is strangely sorrowful'"
+  },
+  "m037": {
+    "id": "m037",
+    "monster_id": 148,
+    "description_en": "Once this vicious beast picks up the scent' its prey<fe>has little hope of escaping in one piece'"
+  },
+  "m030": {
+    "id": "m030",
+    "monster_id": 150,
+    "description_en": "These dirty dogs wrap their collars around their<fe>victims before landing the final blow'"
+  },
+  "m101": {
+    "id": "m101",
+    "monster_id": 151,
+    "description_en": "He made the puppets all by himself'"
+  },
+  "m040": {
+    "id": "m040",
+    "monster_id": 152,
+    "description_en": "A natural speedster' this beetle excels in body<fe>slams'"
+  },
+  "m036": {
+    "id": "m036",
+    "monster_id": 153,
+    "description_en": "Driven from their forest homes' they have turned<fe>on humans'"
+  },
+  "m065": {
+    "id": "m065",
+    "monster_id": 154,
+    "description_en": "These hyperactive hooligans often hyperbolise<fe>about how many heads they've hunted'"
+  },
+  "m231": {
+    "id": "m231",
+    "monster_id": 155,
+    "description_en": "Priests who have fallen' and can't summon up the<fe>will to return to the light'"
+  },
+  "m063": {
+    "id": "m063",
+    "monster_id": 156,
+    "description_en": "Foxy warriors whose skill with a foil is<fe>unsurpassed'"
+  },
+  "m066b": {
+    "id": "m066b",
+    "monster_id": 157,
+    "description_en": "Unlike their cousins' these creatures dance for the<fe>good of their health'"
+  },
+  "m078": {
+    "id": "m078",
+    "monster_id": 159,
+    "description_en": "Winged warriors that track their targets from<fe>above before swooping in for the kill'"
+  },
+  "m209": {
+    "id": "m209",
+    "monster_id": 160,
+    "description_en": "These feline beasts have become possessed by the<fe>very men they ate'"
+  },
+  "m082": {
+    "id": "m082",
+    "monster_id": 162,
+    "description_en": "These giants carry clubs carved from the trunks of<fe>even more gigantic trees'"
+  },
+  "m077": {
+    "id": "m077",
+    "monster_id": 163,
+    "description_en": "Cocky fighters who are fearless in combat'"
+  },
+  "m073": {
+    "id": "m073",
+    "monster_id": 165,
+    "description_en": "Masters of the blade who laugh in the face of<fe>Death' How rude'"
+  },
+  "m083": {
+    "id": "m083",
+    "monster_id": 167,
+    "description_en": "These bloodthirsty fiends pound their enemies into<fe>the ground' and the ground into dust'"
+  },
+  "m082b": {
+    "id": "m082b",
+    "monster_id": 168,
+    "description_en": "Once opposed a certain trio of warriors while in<fe>the service of Hargon'"
+  },
+  "m122": {
+    "id": "m122",
+    "monster_id": 169,
+    "description_en": "An amateur musician whose enthusiasm far' far'<fe>FAR exceeds his musical talent'"
+  },
+  "m081": {
+    "id": "m081",
+    "monster_id": 170,
+    "description_en": "An infamous bandit who steals from the rich and<fe>gives to no one'"
+  },
+  "m095": {
+    "id": "m095",
+    "monster_id": 171,
+    "description_en": "The final form of a jester who yearned for the<fe>forbidden power of a sceptre'"
+  },
+  "m096": {
+    "id": "m096",
+    "monster_id": 172,
+    "description_en": "A mighty god of darkness who comes in a very<fe>small package'"
+  },
+  "m097": {
+    "id": "m097",
+    "monster_id": 173,
+    "description_en": "A mighty god of darkness who comes in a very<fe>large package'"
+  },
+  "m180b": {
+    "id": "m180b",
+    "monster_id": 174,
+    "description_en": "The Incarnus' terrible alternative form' tainted<fe>and transmogrified by dark matter'"
+  },
+  "m102b": {
+    "id": "m102b",
+    "monster_id": 175,
+    "description_en": "Though typically mild-mannered' these monsters<fe>swing their hammers when angered'"
+  },
+  "m098": {
+    "id": "m098",
+    "monster_id": 192,
+    "description_en": "These barbarous bags may be smiling' but they're a<fe>sackful of trouble'"
+  },
+  "m194": {
+    "id": "m194",
+    "monster_id": 193,
+    "description_en": "Few monsters can hold a candle to these sparky<fe>fellows'"
+  },
+  "m055": {
+    "id": "m055",
+    "monster_id": 194,
+    "description_en": "As its name suggests' it likes to play with fire'<fe>However' it is not fond of the cold'"
+  },
+  "m106": {
+    "id": "m106",
+    "monster_id": 195,
+    "description_en": "Clockwork birds with an uncanny constitution'"
+  },
+  "m103": {
+    "id": "m103",
+    "monster_id": 196,
+    "description_en": "Magical puppets brought to life for the sole<fe>purpose of dancing'"
+  },
+  "m105": {
+    "id": "m105",
+    "monster_id": 197,
+    "description_en": "Play around with one of these and you're sure to<fe>get into trouble'"
+  },
+  "m100": {
+    "id": "m100",
+    "monster_id": 198,
+    "description_en": "Decadent monsters whose love for worldly<fe>possessions keeps a smile on their faces'"
+  },
+  "m057": {
+    "id": "m057",
+    "monster_id": 199,
+    "description_en": "Who knows what evil lurks in the hearts of men<71><fe>These monsters do'"
+  },
+  "m107": {
+    "id": "m107",
+    "monster_id": 200,
+    "description_en": "Wicked monsters who take the form of chests to<fe>lure adventurers in for the kill'"
+  },
+  "m070": {
+    "id": "m070",
+    "monster_id": 201,
+    "description_en": "Small' sentient suns circled by similar' somewhat<fe>smaller satellites'"
+  },
+  "m119b": {
+    "id": "m119b",
+    "monster_id": 202,
+    "description_en": "A fearsome' four-legged machine created to hunt<fe>metal monsters'"
+  },
+  "m108": {
+    "id": "m108",
+    "monster_id": 203,
+    "description_en": "These rugged rocks smile through to the bitter end'"
+  },
+  "m109": {
+    "id": "m109",
+    "monster_id": 204,
+    "description_en": "Claims to be a natural-born leader and ingenious<fe>strategist'"
+  },
+  "m116": {
+    "id": "m116",
+    "monster_id": 205,
+    "description_en": "Hardened goliaths possessing extraordinary power<fe>which they use to crush foes'"
+  },
+  "m110": {
+    "id": "m110",
+    "monster_id": 206,
+    "description_en": "Curls its arms and legs up into a ball to sleep at<fe>night <96> how cute<70>"
+  },
+  "m024": {
+    "id": "m024",
+    "monster_id": 207,
+    "description_en": "These fiery creatures are actually passionate<fe>lovers as well as fighters'"
+  },
+  "m111": {
+    "id": "m111",
+    "monster_id": 208,
+    "description_en": "There is a nasty rumour going around that he is<fe>boe's twin brother'"
+  },
+  "m024b": {
+    "id": "m024b",
+    "monster_id": 209,
+    "description_en": "This monster's chilling exterior masks a rather cool<fe>and laid-back interior'"
+  },
+  "m112": {
+    "id": "m112",
+    "monster_id": 210,
+    "description_en": "There is a nasty rumour going around that he is<fe>jum's twin brother'"
+  },
+  "m025": {
+    "id": "m025",
+    "monster_id": 211,
+    "description_en": "This musician keeps his mic polished at all times'<fe>and is always ready to croon a tune'"
+  },
+  "m107b": {
+    "id": "m107b",
+    "monster_id": 212,
+    "description_en": "These cowardly monsters spend their whole lives<fe>hiding inside treasure boxes'"
+  },
+  "m114": {
+    "id": "m114",
+    "monster_id": 213,
+    "description_en": "Masked marauders who hide their faces out of<fe>courtesy to beautiful monsters'"
+  },
+  "m116b": {
+    "id": "m116b",
+    "monster_id": 215,
+    "description_en": "Glittery golems who have the Midas touch <96><fe>and an explosive punch'"
+  },
+  "m117": {
+    "id": "m117",
+    "monster_id": 216,
+    "description_en": "Powerful' ancient magic has breathed life into<fe>these once immobile titans'"
+  },
+  "m118": {
+    "id": "m118",
+    "monster_id": 217,
+    "description_en": "Few who fall into this ingenious trap ever live to<fe>tell the tale'"
+  },
+  "m119": {
+    "id": "m119",
+    "monster_id": 218,
+    "description_en": "These mechanical monstrosities were manufactured<fe>to menace all mankind'"
+  },
+  "m120": {
+    "id": "m120",
+    "monster_id": 219,
+    "description_en": "This creature is walking proof that a whole can be<fe>greater than the sum of its parts'"
+  },
+  "m121": {
+    "id": "m121",
+    "monster_id": 220,
+    "description_en": "A malevolent beast born of the remnants of an<fe>ancient castle'"
+  },
+  "m196": {
+    "id": "m196",
+    "monster_id": 221,
+    "description_en": "Harnessing the power of evolution' this mighty<fe>demon has become destruction incarnate'"
+  },
+  "m197": {
+    "id": "m197",
+    "monster_id": 222,
+    "description_en": "A lord of the underworld from before recorded<fe>history'"
+  },
+  "m246": {
+    "id": "m246",
+    "monster_id": 223,
+    "description_en": "Rusty anchors left unattended for long periods<fe>can turn rabid when magic is afoot'"
+  },
+  "m053": {
+    "id": "m053",
+    "monster_id": 240,
+    "description_en": "Small' agile creatures with contagious grins that<fe>fly through the darkness'"
+  },
+  "m067": {
+    "id": "m067",
+    "monster_id": 241,
+    "description_en": "These slobbery monsters are renowned for their<fe>slippery skin'"
+  },
+  "m058": {
+    "id": "m058",
+    "monster_id": 242,
+    "description_en": "Keep a close watch on these monsters <96><fe>they can strike in the blink of an eye'"
+  },
+  "m059": {
+    "id": "m059",
+    "monster_id": 243,
+    "description_en": "Mischievous fiends who delight in blowing things up'"
+  },
+  "m064": {
+    "id": "m064",
+    "monster_id": 244,
+    "description_en": "The bodies of these wizards are highly resistant to<fe>the effects of magic'"
+  },
+  "m068": {
+    "id": "m068",
+    "monster_id": 245,
+    "description_en": "Giant bat-like monsters that are most active<fe>during the hours of darkness'"
+  },
+  "m060": {
+    "id": "m060",
+    "monster_id": 246,
+    "description_en": "The dancing moves of these devils cannot be<fe>matched by any other monster'"
+  },
+  "m062": {
+    "id": "m062",
+    "monster_id": 248,
+    "description_en": "Though most at home in water' these sea creatures<fe>have also learnt to travel on land'"
+  },
+  "m071": {
+    "id": "m071",
+    "monster_id": 249,
+    "description_en": "Wicked demons created in the very heart of<fe>darkness to be a plague upon the world'"
+  },
+  "m074": {
+    "id": "m074",
+    "monster_id": 250,
+    "description_en": "Mighty beasts kin to both lion and eagle'"
+  },
+  "m075": {
+    "id": "m075",
+    "monster_id": 252,
+    "description_en": "Powerful warriors of the sea that take pleasure<fe>in skewering their enemies'"
+  },
+  "m210": {
+    "id": "m210",
+    "monster_id": 253,
+    "description_en": "Winged' silver monkeys with a slightly majestic<fe>air about them'"
+  },
+  "m084": {
+    "id": "m084",
+    "monster_id": 255,
+    "description_en": "High-level demons whose expertise in explosive<fe>magic makes them feared by all'"
+  },
+  "m211": {
+    "id": "m211",
+    "monster_id": 256,
+    "description_en": "These rugged ruffians are masters of both the<fe>martial and mental arts'"
+  },
+  "m087": {
+    "id": "m087",
+    "monster_id": 257,
+    "description_en": "Wild monsters that use their horns to toss their<fe>prey about before feasting'"
+  },
+  "m074b": {
+    "id": "m074b",
+    "monster_id": 258,
+    "description_en": "A mighty fiend whose training has made it twice<fe>the threat it once was'"
+  },
+  "m088": {
+    "id": "m088",
+    "monster_id": 259,
+    "description_en": "The intimidating hairdos of these beasts will make<fe>your own hair stand on end'"
+  },
+  "m210b": {
+    "id": "m210b",
+    "monster_id": 260,
+    "description_en": "This fiendish creature has dyed its fur a<fe>terrifying shade of PINK<70>"
+  },
+  "m188": {
+    "id": "m188",
+    "monster_id": 261,
+    "description_en": "This legendary king rules over all the monsters<fe>of the sea'"
+  },
+  "m084b": {
+    "id": "m084b",
+    "monster_id": 262,
+    "description_en": "Demonic creatures who excel at both physical and<fe>magical combat'"
+  },
+  "m190": {
+    "id": "m190",
+    "monster_id": 263,
+    "description_en": "During the daytime' these beasts practise their<fe>clubbing techniques on small animals'"
+  },
+  "m191": {
+    "id": "m191",
+    "monster_id": 264,
+    "description_en": "A god of destruction who plans to usher death<fe>unto all living beings'"
+  },
+  "m192": {
+    "id": "m192",
+    "monster_id": 265,
+    "description_en": "The vast powers wielded by this dark lord strike<fe>fear into even spirits of darkness'"
+  },
+  "m213": {
+    "id": "m213",
+    "monster_id": 266,
+    "description_en": "This great ruler is worshipped as a god by many<fe>monsters'"
+  },
+  "m193": {
+    "id": "m193",
+    "monster_id": 267,
+    "description_en": "A monstrous king whose ambitions extend even unto<fe>the world of dreams'"
+  },
+  "m205": {
+    "id": "m205",
+    "monster_id": 268,
+    "description_en": "In ages past' he sought to become a god'"
+  },
+  "m242": {
+    "id": "m242",
+    "monster_id": 269,
+    "description_en": "Prickly denizens of the sea who see everything'<fe>you see'"
+  },
+  "m084c": {
+    "id": "m084c",
+    "monster_id": 270,
+    "description_en": "These demons give cutlery a bad name'"
+  },
+  "m152c": {
+    "id": "m152c",
+    "monster_id": 271,
+    "description_en": "These deadly knights are stained with the blood<fe>of their victims'"
+  },
+  "m248": {
+    "id": "m248",
+    "monster_id": 272,
+    "description_en": "Gigantic drackies that move much more slowly<fe>than their smaller counterparts'"
+  },
+  "m231b": {
+    "id": "m231b",
+    "monster_id": 273,
+    "description_en": "Dark priests who have strayed far from the light'"
+  },
+  "m230": {
+    "id": "m230",
+    "monster_id": 274,
+    "description_en": "Elite soldiers of darkness who have mastered<fe>numerous weapons'"
+  },
+  "m199": {
+    "id": "m199",
+    "monster_id": 289,
+    "description_en": "Small spectres that delight in making young<fe>children cry'"
+  },
+  "m200": {
+    "id": "m200",
+    "monster_id": 290,
+    "description_en": "Once tall and proud' it now fights to avenge all<fe>the other trees cut down in their prime'"
+  },
+  "m146": {
+    "id": "m146",
+    "monster_id": 292,
+    "description_en": "The souls of those who died in swamps'''<fe>Always ready to give fellow monsters a hand<70>"
+  },
+  "m147": {
+    "id": "m147",
+    "monster_id": 294,
+    "description_en": "Pestilent creatures that spawn in moist' dark<fe>places'"
+  },
+  "m148": {
+    "id": "m148",
+    "monster_id": 296,
+    "description_en": "These zombies serve as a warning to all would-be<fe>grave robbers'"
+  },
+  "m154": {
+    "id": "m154",
+    "monster_id": 297,
+    "description_en": "Speedy savages whose sport is spiting slothful<fe>stragglers'"
+  },
+  "m149": {
+    "id": "m149",
+    "monster_id": 298,
+    "description_en": "The risen remains of warriors felled in long-<fe>forgotten wars'"
+  },
+  "m152": {
+    "id": "m152",
+    "monster_id": 299,
+    "description_en": "The soul inside the armour searches for something<fe>it lost long ago'"
+  },
+  "m155b": {
+    "id": "m155b",
+    "monster_id": 300,
+    "description_en": "Knights who are slain astride their beloved steeds<fe>sometimes ride on into undeath'"
+  },
+  "m150": {
+    "id": "m150",
+    "monster_id": 301,
+    "description_en": "Malicious mummies who spread pestilence among<fe>the living'"
+  },
+  "m151": {
+    "id": "m151",
+    "monster_id": 302,
+    "description_en": "Dark spirits born from the crews of ships that<fe>sink at sea'"
+  },
+  "m025b": {
+    "id": "m025b",
+    "monster_id": 303,
+    "description_en": "Singers of the sea who synchronise their<fe>symphonic slap assaults'"
+  },
+  "m153": {
+    "id": "m153",
+    "monster_id": 304,
+    "description_en": "Those felled by the blade often take it up in<fe>the afterlife'"
+  },
+  "m152b": {
+    "id": "m152b",
+    "monster_id": 305,
+    "description_en": "This knight has dedicated himself to protecting<fe>one special person'"
+  },
+  "m155": {
+    "id": "m155",
+    "monster_id": 306,
+    "description_en": "These sadistic aristocrats continue to oppress<fe>the masses even in death'"
+  },
+  "m156": {
+    "id": "m156",
+    "monster_id": 307,
+    "description_en": "Fearsome warriors who have lost their heading<fe>and their heads<70>"
+  },
+  "m157": {
+    "id": "m157",
+    "monster_id": 308,
+    "description_en": "Men of the cloth who perform evil deeds are<fe>punished severely for their sins'"
+  },
+  "m158": {
+    "id": "m158",
+    "monster_id": 309,
+    "description_en": "A powerful pirate who perished pursuing a line of<fe>light leading to legendary lands'"
+  },
+  "m206": {
+    "id": "m206",
+    "monster_id": 310,
+    "description_en": "He never did get along well with the other<fe>children in school'"
+  },
+  "m234": {
+    "id": "m234",
+    "monster_id": 311,
+    "description_en": "Smelly boots inhabited by smellier sprites'"
+  },
+  "m236": {
+    "id": "m236",
+    "monster_id": 312,
+    "description_en": "The buzz of their flapping wings is enough to<fe>unnerve anybody'"
+  },
+  "m238": {
+    "id": "m238",
+    "monster_id": 313,
+    "description_en": "Leopold's pack' tainted like him by darkness'"
+  },
+  "m149b": {
+    "id": "m149b",
+    "monster_id": 314,
+    "description_en": "One scratch from this skeleton's scythe may well<fe>earn you a free trip to the underworld'"
+  },
+  "m153b": {
+    "id": "m153b",
+    "monster_id": 315,
+    "description_en": "The cloaks of these warriors are actually<fe>stained with grape juice'"
+  },
+  "m157b": {
+    "id": "m157b",
+    "monster_id": 316,
+    "description_en": "The lost soul of a king who terrorised his people<fe>and ruined the kingdom'"
+  },
+  "m176": {
+    "id": "m176",
+    "monster_id": 336,
+    "description_en": "A being suffused with holy energy whose<fe>existence is shrouded in mystery'"
+  },
+  "m177": {
+    "id": "m177",
+    "monster_id": 337,
+    "description_en": "A divine bird who can command the element of fire'"
+  },
+  "m178": {
+    "id": "m178",
+    "monster_id": 338,
+    "description_en": "A divine monkey who can command the element of<fe>earth'"
+  },
+  "m179": {
+    "id": "m179",
+    "monster_id": 339,
+    "description_en": "A divine lizard who can command the element of<fe>water'"
+  },
+  "m180": {
+    "id": "m180",
+    "monster_id": 340,
+    "description_en": "Its holy mission is to seal the entrance to the<fe>dark world using the power of the Mark'"
+  },
+  "m181": {
+    "id": "m181",
+    "monster_id": 341,
+    "description_en": "A mighty bird whose wings beat with the force of<fe>a firestorm'"
+  },
+  "m182": {
+    "id": "m182",
+    "monster_id": 342,
+    "description_en": "A mighty ape whose hide is tougher than an<fe>earthen fortress wall'"
+  },
+  "m183": {
+    "id": "m183",
+    "monster_id": 343,
+    "description_en": "A mighty dragon whose vault of knowledge and<fe>lore is deeper than all the seas'"
+  },
+  "m180c": {
+    "id": "m180c",
+    "monster_id": 344,
+    "description_en": "The final form of the Incarnus' empowered by the<fe>magic of the Mark'"
+  },
+  "m246_01": {
+    "id": "m246_01",
+    "monster_id": 223,
+    "description_en": "Rusty anchors left unattended for long periods<fe>can turn rabid when magic is afoot'"
+  },
+  "cool": {
+    "id": "cool",
+    "monster_id": 0,
+    "description_en": "UNDER CONSTRUCTION'"
+  },
+  "cool_jet": {
+    "id": "cool_jet",
+    "monster_id": 0,
+    "description_en": "UNDER CONSTRUCTION'"
+  }
+}

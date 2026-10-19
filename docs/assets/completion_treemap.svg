@@ -1,0 +1,455 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 580" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
+      .header-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 16px; fill: #1f2328; }
+      .header-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #57606a; }
+      .sector-bg { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+      .sector-bar { fill: #eaeef2; }
+      .sector-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 600; font-size: 13px; fill: #1f2328; }
+      .sector-weight { font-family: "SFMono-Regular", Consolas, monospace; font-size: 11px; fill: #57606a; }
+      .tile-bg { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
+      .tile-bg-done { fill: #f0fdf4; stroke: #1a7f37; stroke-width: 1; }
+      .tile-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 600; font-size: 11px; fill: #1f2328; }
+      .tile-pct { font-family: "SFMono-Regular", Consolas, monospace; font-weight: 700; font-size: 13px; fill: #1f2328; }
+      .tile-pct-done { font-family: "SFMono-Regular", Consolas, monospace; font-weight: 700; font-size: 13px; fill: #1a7f37; }
+      .tile-meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10px; fill: #57606a; }
+      .sq-done { fill: #1a7f37; }
+      .sq-empty { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 0.8; }
+    </style>
+  </defs>
+
+  <!-- Background: Clean White / Light Theme -->
+  <rect width="960" height="580" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Header -->
+  <g transform="translate(24, 26)">
+    <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="16px" x="0" y="0">DQMJ1 DECOMPILATION PROGRESSION TREEMAP</text>
+    <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12px" x="0" y="18">Proportional Module Weights (7,140 Functions) — Monochromatic Architecture with Completion Highlights</text>
+  </g>
+
+  <!-- Global Metrics -->
+  <g transform="translate(710, 18)">
+    <rect x="0" y="0" width="105" height="26" rx="4" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="10" y="17" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12px">Extracted: <tspan fill="#1a7f37" font-weight="700">100%</tspan></text>
+    <rect x="115" y="0" width="105" height="26" rx="4" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="125" y="17" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12px">Analyzed: <tspan fill="#1f2328" font-weight="700">~28%</tspan></text>
+  </g>
+
+  <!-- ==================== TOP ROW ==================== -->
+
+  <!-- Sector 1: ARM9.BIN (36% Weight, 2,541 Functions) -->
+  <g transform="translate(24, 64)">
+    <rect width="490" height="244" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <rect width="490" height="26" rx="4" fill="#eaeef2"/>
+    <rect y="20" width="490" height="6" fill="#eaeef2"/>
+    <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="13px" x="12" y="17">arm9.bin — Kernel, 3D Engine &amp; Core Logic</text>
+    <text fill="#57606a" font-family="SFMono-Regular, Consolas, monospace" font-size="11px" x="385" y="17">36% | 2,541 F</text>
+
+    <!-- Sub-tile 1: Memory Map & Paging (100% Complete) -->
+    <g transform="translate(10, 34)">
+      <rect width="230" height="96" rx="3" fill="#f0fdf4" stroke="#1a7f37" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Memory Map &amp; Paging</text>
+      <text fill="#1a7f37" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">100%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="55" y="38">Base: 0x02000000</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+      </g>
+    </g>
+
+    <!-- Sub-tile 2: Game Data Tables (40% Analyzed) -->
+    <g transform="translate(250, 34)">
+      <rect width="230" height="96" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Game Data Tables</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">40%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="38">Ability &amp; Species</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <!-- Sub-tile 3: Nitro Runtime & Math (25% Analyzed) -->
+    <g transform="translate(10, 138)">
+      <rect width="230" height="96" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Nitro 3D &amp; Math Runtime</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">25%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="38">Geometry pipeline</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <!-- Sub-tile 4: Game Loop Scheduler (15% Analyzed) -->
+    <g transform="translate(250, 138)">
+      <rect width="230" height="96" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Task Scheduler &amp; Loops</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">15%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="38">FUN_02000xxx</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Sector 2: OVERLAY_0001.BIN (29% Weight, 2,105 Functions) -->
+  <g transform="translate(524, 64)">
+    <rect width="412" height="244" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <rect width="412" height="26" rx="4" fill="#eaeef2"/>
+    <rect y="20" width="412" height="6" fill="#eaeef2"/>
+    <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="13px" x="12" y="17">overlay_0001.bin — Battle System &amp; AI</text>
+    <text fill="#57606a" font-family="SFMono-Regular, Consolas, monospace" font-size="11px" x="310" y="17">29% | 2,105 F</text>
+
+    <!-- Sub-tile 1: Scouting Formula (100% Complete) -->
+    <g transform="translate(10, 34)">
+      <rect width="191" height="96" rx="3" fill="#f0fdf4" stroke="#1a7f37" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Scouting Formula</text>
+      <text fill="#1a7f37" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">100%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="55" y="38">0x92924</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+      </g>
+    </g>
+
+    <!-- Sub-tile 2: Battle AI Engine (45% Analyzed) -->
+    <g transform="translate(211, 34)">
+      <rect width="191" height="96" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Battle AI Engine</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">45%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="38">131 profiles</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <!-- Sub-tile 3: Damage Matrix (35% Analyzed) -->
+    <g transform="translate(10, 138)">
+      <rect width="191" height="96" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Damage Matrix</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">35%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="38">Wisdom curves</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <!-- Sub-tile 4: Status Effects (10% Analyzed) -->
+    <g transform="translate(211, 138)">
+      <rect width="191" height="96" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="10" y="18">Status &amp; Turn Order</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="10" y="38">10%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="38">Ghidra scan</text>
+      <g transform="translate(10, 52)">
+        <rect x="0" y="0" width="13" height="11" rx="1.5" fill="#1a7f37"/>
+        <rect x="17" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="0" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="17" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="34" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="51" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="68" y="15" width="13" height="11" rx="1.5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- ==================== BOTTOM ROW ==================== -->
+
+  <!-- Sector 3: OVERLAY_0000.BIN (16% Weight, 1,120 Functions) -->
+  <g transform="translate(24, 318)">
+    <rect width="360" height="236" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <rect width="360" height="26" rx="4" fill="#eaeef2"/>
+    <rect y="20" width="360" height="6" fill="#eaeef2"/>
+    <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="13px" x="12" y="17">overlay_0000.bin — Synthesis &amp; World</text>
+    <text fill="#57606a" font-family="SFMono-Regular, Consolas, monospace" font-size="11px" x="260" y="17">16% | 1,120 F</text>
+
+    <!-- Sub-tiles -->
+    <g transform="translate(10, 34)">
+      <rect width="165" height="92" rx="3" fill="#f0fdf4" stroke="#1a7f37" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Synthesis Solver</text>
+      <text fill="#1a7f37" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">100%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="50" y="34">2P &amp; 4P</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="42" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="56" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="42" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="56" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+      </g>
+    </g>
+
+    <g transform="translate(185, 34)">
+      <rect width="165" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Incarnus Tree</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">80%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="45" y="34">0x0218c4b8</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="42" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="56" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="42" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="56" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(10, 134)">
+      <rect width="165" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Stat Growth Curves</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">60%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="45" y="34">AbilityTbl</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="42" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="56" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="42" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="56" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(185, 134)">
+      <rect width="165" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Overworld Navigation</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">15%</text>
+      <text fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10px" x="45" y="34">Field FSM</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="42" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="56" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="42" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="56" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Sector 4: OVERLAY_0002.BIN (15% Weight, 1,062 Functions) -->
+  <g transform="translate(394, 318)">
+    <rect width="320" height="236" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <rect width="320" height="26" rx="4" fill="#eaeef2"/>
+    <rect y="20" width="320" height="6" fill="#eaeef2"/>
+    <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="13px" x="12" y="17">overlay_0002.bin — Menus &amp; UI</text>
+    <text fill="#57606a" font-family="SFMono-Regular, Consolas, monospace" font-size="11px" x="220" y="17">15% | 1,062 F</text>
+
+    <!-- Sub-tiles -->
+    <g transform="translate(10, 34)">
+      <rect width="145" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Menu FSM</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">15%</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="10" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="13" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="13" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(165, 34)">
+      <rect width="145" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Bag Inventory</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">10%</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="10" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="13" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="13" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(10, 134)">
+      <rect width="145" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Save Data</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">5%</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="13" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="13" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(165, 134)">
+      <rect width="145" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="8" y="16">Touch Submenus</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="8" y="34">2%</text>
+      <g transform="translate(8, 48)">
+        <rect x="0" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="13" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="0" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="13" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="26" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="39" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="52" y="13" width="10" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Sector 5: ARM7.BIN (4% Weight, 312 Functions) -->
+  <g transform="translate(724, 318)">
+    <rect width="212" height="236" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <rect width="212" height="26" rx="4" fill="#eaeef2"/>
+    <rect y="20" width="212" height="6" fill="#eaeef2"/>
+    <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="13px" x="12" y="17">arm7.bin — Audio &amp; IPC</text>
+    <text fill="#57606a" font-family="SFMono-Regular, Consolas, monospace" font-size="11px" x="140" y="17">4% | 312 F</text>
+
+    <!-- Sub-tiles -->
+    <g transform="translate(10, 34)">
+      <rect width="91" height="92" rx="3" fill="#f0fdf4" stroke="#1a7f37" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="6" y="16">SDAT Driver</text>
+      <text fill="#1a7f37" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="6" y="34">100%</text>
+      <g transform="translate(6, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+      </g>
+    </g>
+
+    <g transform="translate(111, 34)">
+      <rect width="91" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="6" y="16">SSEQ Engine</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="6" y="34">60%</text>
+      <g transform="translate(6, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(10, 134)">
+      <rect width="91" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="6" y="16">IPC Queues</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="6" y="34">20%</text>
+      <g transform="translate(6, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(111, 134)">
+      <rect width="91" height="92" rx="3" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+      <text fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600" font-size="11px" x="6" y="16">ADPCM Mixer</text>
+      <text fill="#1f2328" font-family="SFMono-Regular, Consolas, monospace" font-weight="700" font-size="13px" x="6" y="34">15%</text>
+      <g transform="translate(6, 48)">
+        <rect x="0" y="0" width="11" height="9" rx="1" fill="#1a7f37"/>
+        <rect x="14" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="28" y="0" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="0" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="14" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+        <rect x="28" y="13" width="11" height="9" rx="1" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+
+</svg>

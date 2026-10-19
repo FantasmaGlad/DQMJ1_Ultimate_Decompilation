@@ -1,0 +1,111 @@
+{
+  "rom": "2109 - Dragon Quest Monsters - Joker (E)(EXiMiUS).nds",
+  "title": "DQM:JOKER",
+  "gameCode": "AJRP",
+  "developerCode": "GD",
+  "architecture": "ARM (little-endian) - ARM9 = ARM946E-S (ARMv5TE), ARM7 = ARM7TDMI (ARMv4T)",
+  "ghidraLanguage": "ARM:LE:32:v5t",
+  "binaries": [
+    {
+      "name": "arm9",
+      "file": "arm9.bin",
+      "baseAddress": 33554432,
+      "entryPoint": 33556480,
+      "size": 492576,
+      "bssSize": 0,
+      "implicit": true,
+      "role": "Code principal du jeu (ARM946E-S, ARMv5TE, mixte ARM/Thumb)"
+    },
+    {
+      "name": "arm9_section1",
+      "file": "arm9_sec_01FF8000.bin",
+      "baseAddress": 33521664,
+      "entryPoint": null,
+      "size": 1408,
+      "bssSize": 0,
+      "implicit": false,
+      "role": "recopiee a 0x01FF8000 au boot par la copy table ; bss 0 o"
+    },
+    {
+      "name": "arm9_section2",
+      "file": "arm9_sec_027E0000.bin",
+      "baseAddress": 41811968,
+      "entryPoint": null,
+      "size": 96,
+      "bssSize": 32,
+      "implicit": false,
+      "role": "recopiee a 0x027E0000 au boot par la copy table ; bss 32 o"
+    },
+    {
+      "name": "arm7",
+      "file": "arm7.bin",
+      "baseAddress": 37224448,
+      "entryPoint": 37224448,
+      "size": 432,
+      "bssSize": 0,
+      "implicit": true,
+      "role": "ARM7TDMI : audio, Wi-Fi, ecran tactile, horloge temps reel",
+      "ghidraLanguage": "ARM:LE:32:v4t"
+    },
+    {
+      "name": "arm7_section1",
+      "file": "arm7_sec_037F8000.bin",
+      "baseAddress": 58687488,
+      "entryPoint": null,
+      "size": 61784,
+      "bssSize": 15996,
+      "implicit": false,
+      "role": "ARM7TDMI : audio, Wi-Fi, ecran tactile, horloge temps reel",
+      "ghidraLanguage": "ARM:LE:32:v4t"
+    },
+    {
+      "name": "arm7_section2",
+      "file": "arm7_sec_027E0000.bin",
+      "baseAddress": 41811968,
+      "entryPoint": null,
+      "size": 95876,
+      "bssSize": 6504,
+      "implicit": false,
+      "role": "ARM7TDMI : audio, Wi-Fi, ecran tactile, horloge temps reel",
+      "ghidraLanguage": "ARM:LE:32:v4t"
+    },
+    {
+      "name": "overlay_0",
+      "file": "overlay_00.bin",
+      "baseAddress": 35146560,
+      "size": 378912,
+      "bssSize": 198016,
+      "wasCompressed": false,
+      "staticInitStart": 35510688,
+      "staticInitEnd": 35510704,
+      "role": "Overlay 0 - module de code charge dynamiquement"
+    },
+    {
+      "name": "overlay_1",
+      "file": "overlay_01.bin",
+      "baseAddress": 35146560,
+      "size": 618112,
+      "bssSize": 21472,
+      "wasCompressed": false,
+      "staticInitStart": 35761952,
+      "staticInitEnd": 35761956,
+      "role": "Overlay 1 - module de code charge dynamiquement"
+    },
+    {
+      "name": "overlay_2",
+      "file": "overlay_02.bin",
+      "baseAddress": 35146560,
+      "size": 480736,
+      "bssSize": 132320,
+      "wasCompressed": false,
+      "staticInitStart": 35602476,
+      "staticInitEnd": 35602480,
+      "role": "Overlay 2 - module de code charge dynamiquement"
+    }
+  ],
+  "notes": [
+    "Les 2 premiers Ko de arm9.bin (Secure Area) sont chiffres par la DS : une fois dechiffres ils ne contiennent que 'encryObj' + des zeros. Ils sont remplaces par des zeros ici pour ne pas polluer l'analyse.",
+    "Le point d'entree reel de l'ARM9 est 0x02000800, juste apres la Secure Area.",
+    "Les overlays sont charges a la MEME adresse RAM : un seul est resident a la fois. A analyser comme des binaires distincts."
+  ]
+}

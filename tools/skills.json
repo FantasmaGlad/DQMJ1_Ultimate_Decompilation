@@ -1,0 +1,1346 @@
+{
+  "1": {
+    "skill_id": 1,
+    "name_short_en": "Frzz Bng",
+    "name_display_en": "Frizz & Bang",
+    "base_name": "Frizz & Bang",
+    "tier": 1
+  },
+  "2": {
+    "skill_id": 2,
+    "name_short_en": "Frzz Bng <8d>",
+    "name_display_en": "Frizz & Bang II",
+    "base_name": "Frizz & Bang",
+    "tier": 2
+  },
+  "3": {
+    "skill_id": 3,
+    "name_short_en": "Frzz Bng <8e>",
+    "name_display_en": "Frizz & Bang III",
+    "base_name": "Frizz & Bang",
+    "tier": 3
+  },
+  "4": {
+    "skill_id": 4,
+    "name_short_en": "Frzz Wsh",
+    "name_display_en": "Frizz & Woosh",
+    "base_name": "Frizz & Woosh",
+    "tier": 1
+  },
+  "5": {
+    "skill_id": 5,
+    "name_short_en": "Frzz Wsh <8d>",
+    "name_display_en": "Frizz & Woosh II",
+    "base_name": "Frizz & Woosh",
+    "tier": 2
+  },
+  "6": {
+    "skill_id": 6,
+    "name_short_en": "Frzz Wsh <8e>",
+    "name_display_en": "Frizz & Woosh III",
+    "base_name": "Frizz & Woosh",
+    "tier": 3
+  },
+  "7": {
+    "skill_id": 7,
+    "name_short_en": "Frzz Zap",
+    "name_display_en": "Frizz & Zap",
+    "base_name": "Frizz & Zap",
+    "tier": 1
+  },
+  "8": {
+    "skill_id": 8,
+    "name_short_en": "Frzz Zap <8d>",
+    "name_display_en": "Frizz & Zap II",
+    "base_name": "Frizz & Zap",
+    "tier": 2
+  },
+  "9": {
+    "skill_id": 9,
+    "name_short_en": "Frzz Zap <8e>",
+    "name_display_en": "Frizz & Zap III",
+    "base_name": "Frizz & Zap",
+    "tier": 3
+  },
+  "10": {
+    "skill_id": 10,
+    "name_short_en": "Frzz Zam",
+    "name_display_en": "Frizz & Zam",
+    "base_name": "Frizz & Zam",
+    "tier": 1
+  },
+  "11": {
+    "skill_id": 11,
+    "name_short_en": "Frzz Zam <8d>",
+    "name_display_en": "Frizz & Zam II",
+    "base_name": "Frizz & Zam",
+    "tier": 2
+  },
+  "12": {
+    "skill_id": 12,
+    "name_short_en": "Frzz Zam <8e>",
+    "name_display_en": "Frizz & Zam III",
+    "base_name": "Frizz & Zam",
+    "tier": 3
+  },
+  "13": {
+    "skill_id": 13,
+    "name_short_en": "Bng Wsh",
+    "name_display_en": "Bang & Woosh",
+    "base_name": "Bang & Woosh",
+    "tier": 1
+  },
+  "14": {
+    "skill_id": 14,
+    "name_short_en": "Bng Wsh <8d>",
+    "name_display_en": "Bang & Woosh II",
+    "base_name": "Bang & Woosh",
+    "tier": 2
+  },
+  "15": {
+    "skill_id": 15,
+    "name_short_en": "Bng Wsh <8e>",
+    "name_display_en": "Bang & Woosh III",
+    "base_name": "Bang & Woosh",
+    "tier": 3
+  },
+  "16": {
+    "skill_id": 16,
+    "name_short_en": "Bng Crk",
+    "name_display_en": "Bang & Crack",
+    "base_name": "Bang & Crack",
+    "tier": 1
+  },
+  "17": {
+    "skill_id": 17,
+    "name_short_en": "Bng Crk <8d>",
+    "name_display_en": "Bang & Crack II",
+    "base_name": "Bang & Crack",
+    "tier": 2
+  },
+  "18": {
+    "skill_id": 18,
+    "name_short_en": "Bng Crk <8e>",
+    "name_display_en": "Bang & Crack III",
+    "base_name": "Bang & Crack",
+    "tier": 3
+  },
+  "19": {
+    "skill_id": 19,
+    "name_short_en": "Bng Zap",
+    "name_display_en": "Bang & Zap",
+    "base_name": "Bang & Zap",
+    "tier": 1
+  },
+  "20": {
+    "skill_id": 20,
+    "name_short_en": "Bng Zap <8d>",
+    "name_display_en": "Bang & Zap II",
+    "base_name": "Bang & Zap",
+    "tier": 2
+  },
+  "21": {
+    "skill_id": 21,
+    "name_short_en": "Bng Zap <8e>",
+    "name_display_en": "Bang & Zap III",
+    "base_name": "Bang & Zap",
+    "tier": 3
+  },
+  "22": {
+    "skill_id": 22,
+    "name_short_en": "Bng Zam",
+    "name_display_en": "Bang & Zam",
+    "base_name": "Bang & Zam",
+    "tier": 1
+  },
+  "23": {
+    "skill_id": 23,
+    "name_short_en": "Bng Zam <8d>",
+    "name_display_en": "Bang & Zam II",
+    "base_name": "Bang & Zam",
+    "tier": 2
+  },
+  "24": {
+    "skill_id": 24,
+    "name_short_en": "Bng Zam <8e>",
+    "name_display_en": "Bang & Zam III",
+    "base_name": "Bang & Zam",
+    "tier": 3
+  },
+  "25": {
+    "skill_id": 25,
+    "name_short_en": "Wsh Crk",
+    "name_display_en": "Woosh & Crack",
+    "base_name": "Woosh & Crack",
+    "tier": 1
+  },
+  "26": {
+    "skill_id": 26,
+    "name_short_en": "Wsh Crk <8d>",
+    "name_display_en": "Woosh & Crack II",
+    "base_name": "Woosh & Crack",
+    "tier": 2
+  },
+  "27": {
+    "skill_id": 27,
+    "name_short_en": "Wsh Crk <8e>",
+    "name_display_en": "Woosh & Crack III",
+    "base_name": "Woosh & Crack",
+    "tier": 3
+  },
+  "28": {
+    "skill_id": 28,
+    "name_short_en": "Wsh Zap",
+    "name_display_en": "Woosh & Zap",
+    "base_name": "Woosh & Zap",
+    "tier": 1
+  },
+  "29": {
+    "skill_id": 29,
+    "name_short_en": "Wsh Zap <8d>",
+    "name_display_en": "Woosh & Zap II",
+    "base_name": "Woosh & Zap",
+    "tier": 2
+  },
+  "30": {
+    "skill_id": 30,
+    "name_short_en": "Wsh Zap <8e>",
+    "name_display_en": "Woosh & Zap III",
+    "base_name": "Woosh & Zap",
+    "tier": 3
+  },
+  "31": {
+    "skill_id": 31,
+    "name_short_en": "Wsh Zam",
+    "name_display_en": "Woosh & Zam",
+    "base_name": "Woosh & Zam",
+    "tier": 1
+  },
+  "32": {
+    "skill_id": 32,
+    "name_short_en": "Wsh Zam <8d>",
+    "name_display_en": "Woosh & Zam II",
+    "base_name": "Woosh & Zam",
+    "tier": 2
+  },
+  "33": {
+    "skill_id": 33,
+    "name_short_en": "Wsh Zam <8e>",
+    "name_display_en": "Woosh & Zam III",
+    "base_name": "Woosh & Zam",
+    "tier": 3
+  },
+  "34": {
+    "skill_id": 34,
+    "name_short_en": "Crk Zap",
+    "name_display_en": "Crack & Zap",
+    "base_name": "Crack & Zap",
+    "tier": 1
+  },
+  "35": {
+    "skill_id": 35,
+    "name_short_en": "Crk Zap <8d>",
+    "name_display_en": "Crack & Zap II",
+    "base_name": "Crack & Zap",
+    "tier": 2
+  },
+  "36": {
+    "skill_id": 36,
+    "name_short_en": "Crk Zap <8e>",
+    "name_display_en": "Crack & Zap III",
+    "base_name": "Crack & Zap",
+    "tier": 3
+  },
+  "37": {
+    "skill_id": 37,
+    "name_short_en": "Crk Zam",
+    "name_display_en": "Crack & Zam",
+    "base_name": "Crack & Zam",
+    "tier": 1
+  },
+  "38": {
+    "skill_id": 38,
+    "name_short_en": "Crk Zam <8d>",
+    "name_display_en": "Crack & Zam II",
+    "base_name": "Crack & Zam",
+    "tier": 2
+  },
+  "39": {
+    "skill_id": 39,
+    "name_short_en": "Crk Zam <8e>",
+    "name_display_en": "Crack & Zam III",
+    "base_name": "Crack & Zam",
+    "tier": 3
+  },
+  "40": {
+    "skill_id": 40,
+    "name_short_en": "Fire",
+    "name_display_en": "Fire",
+    "base_name": "Fire",
+    "tier": 1
+  },
+  "41": {
+    "skill_id": 41,
+    "name_short_en": "Fire <8d>",
+    "name_display_en": "Fire II",
+    "base_name": "Fire",
+    "tier": 2
+  },
+  "42": {
+    "skill_id": 42,
+    "name_short_en": "Fire <8e>",
+    "name_display_en": "Fire III",
+    "base_name": "Fire",
+    "tier": 3
+  },
+  "43": {
+    "skill_id": 43,
+    "name_short_en": "Ice",
+    "name_display_en": "Ice",
+    "base_name": "Ice",
+    "tier": 1
+  },
+  "44": {
+    "skill_id": 44,
+    "name_short_en": "Ice <8d>",
+    "name_display_en": "Ice II",
+    "base_name": "Ice",
+    "tier": 2
+  },
+  "45": {
+    "skill_id": 45,
+    "name_short_en": "Ice <8e>",
+    "name_display_en": "Ice III",
+    "base_name": "Ice",
+    "tier": 3
+  },
+  "46": {
+    "skill_id": 46,
+    "name_short_en": "Breath",
+    "name_display_en": "Breath",
+    "base_name": "Breath",
+    "tier": 1
+  },
+  "47": {
+    "skill_id": 47,
+    "name_short_en": "Breath <8d>",
+    "name_display_en": "Breath II",
+    "base_name": "Breath",
+    "tier": 2
+  },
+  "48": {
+    "skill_id": 48,
+    "name_short_en": "Breath <8e>",
+    "name_display_en": "Breath III",
+    "base_name": "Breath",
+    "tier": 3
+  },
+  "49": {
+    "skill_id": 49,
+    "name_short_en": "Frwnd Slsh",
+    "name_display_en": "Firewind Slashes",
+    "base_name": "Firewind Slashes",
+    "tier": 1
+  },
+  "50": {
+    "skill_id": 50,
+    "name_short_en": "Thwnd Slsh",
+    "name_display_en": "Thunderwind Slashes",
+    "base_name": "Thunderwind Slashes",
+    "tier": 1
+  },
+  "51": {
+    "skill_id": 51,
+    "name_short_en": "Iceplo Slash",
+    "name_display_en": "Iceplosion Slashes",
+    "base_name": "Iceplosion Slashes",
+    "tier": 1
+  },
+  "52": {
+    "skill_id": 52,
+    "name_short_en": "Drkli Slash",
+    "name_display_en": "Darklight Slashes",
+    "base_name": "Darklight Slashes",
+    "tier": 1
+  },
+  "53": {
+    "skill_id": 53,
+    "name_short_en": "Fire Fighter",
+    "name_display_en": "Fire Fighter",
+    "base_name": "Fire Fighter",
+    "tier": 1
+  },
+  "54": {
+    "skill_id": 54,
+    "name_short_en": "Boom Boxer",
+    "name_display_en": "Boom Boxer",
+    "base_name": "Boom Boxer",
+    "tier": 1
+  },
+  "55": {
+    "skill_id": 55,
+    "name_short_en": "Wind Blowr",
+    "name_display_en": "Wind Blower",
+    "base_name": "Wind Blower",
+    "tier": 1
+  },
+  "56": {
+    "skill_id": 56,
+    "name_short_en": "Icemeister",
+    "name_display_en": "Icemeister",
+    "base_name": "Icemeister",
+    "tier": 1
+  },
+  "57": {
+    "skill_id": 57,
+    "name_short_en": "White Knight",
+    "name_display_en": "White Knight",
+    "base_name": "White Knight",
+    "tier": 1
+  },
+  "58": {
+    "skill_id": 58,
+    "name_short_en": "Dark Knight",
+    "name_display_en": "Dark Knight",
+    "base_name": "Dark Knight",
+    "tier": 1
+  },
+  "59": {
+    "skill_id": 59,
+    "name_short_en": "Healer",
+    "name_display_en": "Healer",
+    "base_name": "Healer",
+    "tier": 1
+  },
+  "60": {
+    "skill_id": 60,
+    "name_short_en": "Cure-all",
+    "name_display_en": "Cure-all",
+    "base_name": "Cure-all",
+    "tier": 1
+  },
+  "61": {
+    "skill_id": 61,
+    "name_short_en": "Cleanser",
+    "name_display_en": "Cleanser",
+    "base_name": "Cleanser",
+    "tier": 1
+  },
+  "62": {
+    "skill_id": 62,
+    "name_short_en": "Champion",
+    "name_display_en": "Champion",
+    "base_name": "Champion",
+    "tier": 1
+  },
+  "63": {
+    "skill_id": 63,
+    "name_short_en": "Defender",
+    "name_display_en": "Defender",
+    "base_name": "Defender",
+    "tier": 1
+  },
+  "64": {
+    "skill_id": 64,
+    "name_short_en": "Speedster",
+    "name_display_en": "Speedster",
+    "base_name": "Speedster",
+    "tier": 1
+  },
+  "65": {
+    "skill_id": 65,
+    "name_short_en": "Mage Aid",
+    "name_display_en": "Mage Aid",
+    "base_name": "Mage Aid",
+    "tier": 1
+  },
+  "66": {
+    "skill_id": 66,
+    "name_short_en": "Fortifier",
+    "name_display_en": "Fortifier",
+    "base_name": "Fortifier",
+    "tier": 1
+  },
+  "67": {
+    "skill_id": 67,
+    "name_short_en": "Enfeebler",
+    "name_display_en": "Enfeebler",
+    "base_name": "Enfeebler",
+    "tier": 1
+  },
+  "68": {
+    "skill_id": 68,
+    "name_short_en": "Saboteur",
+    "name_display_en": "Saboteur",
+    "base_name": "Saboteur",
+    "tier": 1
+  },
+  "69": {
+    "skill_id": 69,
+    "name_short_en": "Antimagic",
+    "name_display_en": "Antimagic",
+    "base_name": "Antimagic",
+    "tier": 1
+  },
+  "70": {
+    "skill_id": 70,
+    "name_short_en": "Antimagic <8d>",
+    "name_display_en": "Antimagic II",
+    "base_name": "Antimagic",
+    "tier": 2
+  },
+  "71": {
+    "skill_id": 71,
+    "name_short_en": "Anti-dragon",
+    "name_display_en": "Anti-dragon",
+    "base_name": "Anti-dragon",
+    "tier": 1
+  },
+  "72": {
+    "skill_id": 72,
+    "name_short_en": "Anti-metal",
+    "name_display_en": "Anti-metal",
+    "base_name": "Anti-metal",
+    "tier": 1
+  },
+  "73": {
+    "skill_id": 73,
+    "name_short_en": "Bolsterer",
+    "name_display_en": "Bolsterer",
+    "base_name": "Bolsterer",
+    "tier": 1
+  },
+  "74": {
+    "skill_id": 74,
+    "name_short_en": "Barricade",
+    "name_display_en": "Barricade",
+    "base_name": "Barricade",
+    "tier": 1
+  },
+  "75": {
+    "skill_id": 75,
+    "name_short_en": "Seal",
+    "name_display_en": "Seal",
+    "base_name": "Seal",
+    "tier": 1
+  },
+  "76": {
+    "skill_id": 76,
+    "name_short_en": "Hypnotist",
+    "name_display_en": "Hypnotist",
+    "base_name": "Hypnotist",
+    "tier": 1
+  },
+  "77": {
+    "skill_id": 77,
+    "name_short_en": "Toxifier",
+    "name_display_en": "Toxifier",
+    "base_name": "Toxifier",
+    "tier": 1
+  },
+  "78": {
+    "skill_id": 78,
+    "name_short_en": "Fear-monger",
+    "name_display_en": "Fear-monger",
+    "base_name": "Fear-monger",
+    "tier": 1
+  },
+  "79": {
+    "skill_id": 79,
+    "name_short_en": "Bad Breath",
+    "name_display_en": "Bad Breath",
+    "base_name": "Bad Breath",
+    "tier": 1
+  },
+  "80": {
+    "skill_id": 80,
+    "name_short_en": "Diminisher",
+    "name_display_en": "Diminisher",
+    "base_name": "Diminisher",
+    "tier": 1
+  },
+  "81": {
+    "skill_id": 81,
+    "name_short_en": "Guerrilla",
+    "name_display_en": "Guerrilla",
+    "base_name": "Guerrilla",
+    "tier": 1
+  },
+  "82": {
+    "skill_id": 82,
+    "name_short_en": "Assassin",
+    "name_display_en": "Assassin",
+    "base_name": "Assassin",
+    "tier": 1
+  },
+  "83": {
+    "skill_id": 83,
+    "name_short_en": "Huntsman",
+    "name_display_en": "Huntsman",
+    "base_name": "Huntsman",
+    "tier": 1
+  },
+  "84": {
+    "skill_id": 84,
+    "name_short_en": "Bnty Hunter",
+    "name_display_en": "Bounty Hunter",
+    "base_name": "Bounty Hunter",
+    "tier": 1
+  },
+  "85": {
+    "skill_id": 85,
+    "name_short_en": "Crusader",
+    "name_display_en": "Crusader",
+    "base_name": "Crusader",
+    "tier": 1
+  },
+  "86": {
+    "skill_id": 86,
+    "name_short_en": "Cursader",
+    "name_display_en": "Cursader",
+    "base_name": "Cursader",
+    "tier": 1
+  },
+  "87": {
+    "skill_id": 87,
+    "name_short_en": "Muspell",
+    "name_display_en": "Muspell",
+    "base_name": "Muspell",
+    "tier": 1
+  },
+  "88": {
+    "skill_id": 88,
+    "name_short_en": "Niflheim",
+    "name_display_en": "Niflheim",
+    "base_name": "Niflheim",
+    "tier": 1
+  },
+  "89": {
+    "skill_id": 89,
+    "name_short_en": "Dancer",
+    "name_display_en": "Dancer",
+    "base_name": "Dancer",
+    "tier": 1
+  },
+  "90": {
+    "skill_id": 90,
+    "name_short_en": "Bombardier",
+    "name_display_en": "Bombardier",
+    "base_name": "Bombardier",
+    "tier": 1
+  },
+  "91": {
+    "skill_id": 91,
+    "name_short_en": "Toughie",
+    "name_display_en": "Toughie",
+    "base_name": "Toughie",
+    "tier": 1
+  },
+  "92": {
+    "skill_id": 92,
+    "name_short_en": "Berserker",
+    "name_display_en": "Berserker",
+    "base_name": "Berserker",
+    "tier": 1
+  },
+  "93": {
+    "skill_id": 93,
+    "name_short_en": "Martyr",
+    "name_display_en": "Martyr",
+    "base_name": "Martyr",
+    "tier": 1
+  },
+  "94": {
+    "skill_id": 94,
+    "name_short_en": "Reaper",
+    "name_display_en": "Reaper",
+    "base_name": "Reaper",
+    "tier": 1
+  },
+  "95": {
+    "skill_id": 95,
+    "name_short_en": "Nightmare",
+    "name_display_en": "Nightmare",
+    "base_name": "Nightmare",
+    "tier": 1
+  },
+  "96": {
+    "skill_id": 96,
+    "name_short_en": "Cold Sleep",
+    "name_display_en": "Cold Sleep",
+    "base_name": "Cold Sleep",
+    "tier": 1
+  },
+  "97": {
+    "skill_id": 97,
+    "name_short_en": "Cleric",
+    "name_display_en": "Cleric",
+    "base_name": "Cleric",
+    "tier": 1
+  },
+  "98": {
+    "skill_id": 98,
+    "name_short_en": "Aquapthcary",
+    "name_display_en": "Aquapothecary",
+    "base_name": "Aquapothecary",
+    "tier": 1
+  },
+  "99": {
+    "skill_id": 99,
+    "name_short_en": "All-Rounder",
+    "name_display_en": "All-Rounder",
+    "base_name": "All-Rounder",
+    "tier": 1
+  },
+  "100": {
+    "skill_id": 100,
+    "name_short_en": "Mime",
+    "name_display_en": "Mime",
+    "base_name": "Mime",
+    "tier": 1
+  },
+  "101": {
+    "skill_id": 101,
+    "name_short_en": "Trickster",
+    "name_display_en": "Trickster",
+    "base_name": "Trickster",
+    "tier": 1
+  },
+  "102": {
+    "skill_id": 102,
+    "name_short_en": "Slimer",
+    "name_display_en": "Slimer",
+    "base_name": "Slimer",
+    "tier": 1
+  },
+  "103": {
+    "skill_id": 103,
+    "name_short_en": "Naturalist",
+    "name_display_en": "Naturalist",
+    "base_name": "Naturalist",
+    "tier": 1
+  },
+  "104": {
+    "skill_id": 104,
+    "name_short_en": "Graveheart",
+    "name_display_en": "Graveheart",
+    "base_name": "Graveheart",
+    "tier": 1
+  },
+  "105": {
+    "skill_id": 105,
+    "name_short_en": "Diabolist",
+    "name_display_en": "Diabolist",
+    "base_name": "Diabolist",
+    "tier": 1
+  },
+  "106": {
+    "skill_id": 106,
+    "name_short_en": "Dragon Lore",
+    "name_display_en": "Dragon Lore",
+    "base_name": "Dragon Lore",
+    "tier": 1
+  },
+  "107": {
+    "skill_id": 107,
+    "name_short_en": "Bird Brain",
+    "name_display_en": "Bird Brain",
+    "base_name": "Bird Brain",
+    "tier": 1
+  },
+  "108": {
+    "skill_id": 108,
+    "name_short_en": "Green Finger",
+    "name_display_en": "Green Finger",
+    "base_name": "Green Finger",
+    "tier": 1
+  },
+  "109": {
+    "skill_id": 109,
+    "name_short_en": "Hive Mind",
+    "name_display_en": "Hive Mind",
+    "base_name": "Hive Mind",
+    "tier": 1
+  },
+  "110": {
+    "skill_id": 110,
+    "name_short_en": "Materialist",
+    "name_display_en": "Materialist",
+    "base_name": "Materialist",
+    "tier": 1
+  },
+  "111": {
+    "skill_id": 111,
+    "name_short_en": "Wulfspade",
+    "name_display_en": "Wulfspade",
+    "base_name": "Wulfspade",
+    "tier": 1
+  },
+  "112": {
+    "skill_id": 112,
+    "name_short_en": "WulfSp <8d>",
+    "name_display_en": "Wulfspade II",
+    "base_name": "Wulfspade",
+    "tier": 2
+  },
+  "113": {
+    "skill_id": 113,
+    "name_short_en": "Hawkhart",
+    "name_display_en": "Hawkhart",
+    "base_name": "Hawkhart",
+    "tier": 1
+  },
+  "114": {
+    "skill_id": 114,
+    "name_short_en": "Hawkhart <8d>",
+    "name_display_en": "Hawkhart II",
+    "base_name": "Hawkhart",
+    "tier": 2
+  },
+  "115": {
+    "skill_id": 115,
+    "name_short_en": "Diamagon",
+    "name_display_en": "Diamagon",
+    "base_name": "Diamagon",
+    "tier": 1
+  },
+  "116": {
+    "skill_id": 116,
+    "name_short_en": "Diamagon <8d>",
+    "name_display_en": "Diamagon II",
+    "base_name": "Diamagon",
+    "tier": 2
+  },
+  "117": {
+    "skill_id": 117,
+    "name_short_en": "Cluboon",
+    "name_display_en": "Cluboon",
+    "base_name": "Cluboon",
+    "tier": 1
+  },
+  "118": {
+    "skill_id": 118,
+    "name_short_en": "Cluboon <8d>",
+    "name_display_en": "Cluboon II",
+    "base_name": "Cluboon",
+    "tier": 2
+  },
+  "119": {
+    "skill_id": 119,
+    "name_short_en": "Dragonlord",
+    "name_display_en": "Dragonlord",
+    "base_name": "Dragonlord",
+    "tier": 1
+  },
+  "120": {
+    "skill_id": 120,
+    "name_short_en": "Drgvn Lord",
+    "name_display_en": "Dragovian Lord",
+    "base_name": "Dragovian Lord",
+    "tier": 1
+  },
+  "121": {
+    "skill_id": 121,
+    "name_short_en": "Leopold",
+    "name_display_en": "Leopold",
+    "base_name": "Leopold",
+    "tier": 1
+  },
+  "122": {
+    "skill_id": 122,
+    "name_short_en": "Dhoulmagus",
+    "name_display_en": "Dhoulmagus",
+    "base_name": "Dhoulmagus",
+    "tier": 1
+  },
+  "123": {
+    "skill_id": 123,
+    "name_short_en": "Rhapthorne",
+    "name_display_en": "Rhapthorne",
+    "base_name": "Rhapthorne",
+    "tier": 1
+  },
+  "124": {
+    "skill_id": 124,
+    "name_short_en": "Rhapthrn <8d>",
+    "name_display_en": "Rhapthorne II",
+    "base_name": "Rhapthorne",
+    "tier": 2
+  },
+  "125": {
+    "skill_id": 125,
+    "name_short_en": "Estark",
+    "name_display_en": "Estark",
+    "base_name": "Estark",
+    "tier": 1
+  },
+  "126": {
+    "skill_id": 126,
+    "name_short_en": "Nimzo",
+    "name_display_en": "Nimzo",
+    "base_name": "Nimzo",
+    "tier": 1
+  },
+  "127": {
+    "skill_id": 127,
+    "name_short_en": "Mortamor",
+    "name_display_en": "Mortamor",
+    "base_name": "Mortamor",
+    "tier": 1
+  },
+  "128": {
+    "skill_id": 128,
+    "name_short_en": "Captain Crow",
+    "name_display_en": "Captain Crow",
+    "base_name": "Captain Crow",
+    "tier": 1
+  },
+  "129": {
+    "skill_id": 129,
+    "name_short_en": "<55>ber Drk Dyn",
+    "name_display_en": "Über Dark Dynamiter",
+    "base_name": "Über Dark Dynamiter",
+    "tier": 1
+  },
+  "130": {
+    "skill_id": 130,
+    "name_short_en": "<55>ber Blss Blz",
+    "name_display_en": "Über Blessed Blizzardier",
+    "base_name": "Über Blessed Blizzardier",
+    "tier": 1
+  },
+  "131": {
+    "skill_id": 131,
+    "name_short_en": "<55>ber Mage",
+    "name_display_en": "Über Mage",
+    "base_name": "Über Mage",
+    "tier": 1
+  },
+  "132": {
+    "skill_id": 132,
+    "name_short_en": "<55>ber Breath",
+    "name_display_en": "Über Breath",
+    "base_name": "Über Breath",
+    "tier": 1
+  },
+  "133": {
+    "skill_id": 133,
+    "name_short_en": "<55>ber Knight",
+    "name_display_en": "Über Knight",
+    "base_name": "Über Knight",
+    "tier": 1
+  },
+  "134": {
+    "skill_id": 134,
+    "name_short_en": "<55>ber Healer",
+    "name_display_en": "Über Healer",
+    "base_name": "Über Healer",
+    "tier": 1
+  },
+  "135": {
+    "skill_id": 135,
+    "name_short_en": "<55> Helpful",
+    "name_display_en": "Über Helpful",
+    "base_name": "Über Helpful",
+    "tier": 1
+  },
+  "136": {
+    "skill_id": 136,
+    "name_short_en": "<55> Charmer",
+    "name_display_en": "Über Charmer",
+    "base_name": "Über Charmer",
+    "tier": 1
+  },
+  "137": {
+    "skill_id": 137,
+    "name_short_en": "Wulfspade <8e>",
+    "name_display_en": "Wulfspade III",
+    "base_name": "Wulfspade",
+    "tier": 3
+  },
+  "138": {
+    "skill_id": 138,
+    "name_short_en": "Diamagon <8e>",
+    "name_display_en": "Diamagon III",
+    "base_name": "Diamagon",
+    "tier": 3
+  },
+  "139": {
+    "skill_id": 139,
+    "name_short_en": "Hawkhart <8e>",
+    "name_display_en": "Hawkhart III",
+    "base_name": "Hawkhart",
+    "tier": 3
+  },
+  "140": {
+    "skill_id": 140,
+    "name_short_en": "Cluboon <8e>",
+    "name_display_en": "Cluboon III",
+    "base_name": "Cluboon",
+    "tier": 3
+  },
+  "141": {
+    "skill_id": 141,
+    "name_short_en": "Dr Snapped",
+    "name_display_en": "Dr. Snapped",
+    "base_name": "Dr. Snapped",
+    "tier": 1
+  },
+  "142": {
+    "skill_id": 142,
+    "name_short_en": "Atk Boost",
+    "name_display_en": "Attack Boost",
+    "base_name": "Attack Boost",
+    "tier": 1
+  },
+  "143": {
+    "skill_id": 143,
+    "name_short_en": "Atk Boost <8d>",
+    "name_display_en": "Attack Boost II",
+    "base_name": "Attack Boost",
+    "tier": 2
+  },
+  "144": {
+    "skill_id": 144,
+    "name_short_en": "Atk Boost <8e>",
+    "name_display_en": "Attack Boost III",
+    "base_name": "Attack Boost",
+    "tier": 3
+  },
+  "145": {
+    "skill_id": 145,
+    "name_short_en": "Def Boost",
+    "name_display_en": "Defense Boost",
+    "base_name": "Defense Boost",
+    "tier": 1
+  },
+  "146": {
+    "skill_id": 146,
+    "name_short_en": "Def Boost <8d>",
+    "name_display_en": "Defense Boost II",
+    "base_name": "Defense Boost",
+    "tier": 2
+  },
+  "147": {
+    "skill_id": 147,
+    "name_short_en": "Def Boost <8e>",
+    "name_display_en": "Defense Boost III",
+    "base_name": "Defense Boost",
+    "tier": 3
+  },
+  "148": {
+    "skill_id": 148,
+    "name_short_en": "Agi Boost",
+    "name_display_en": "Agility Boost",
+    "base_name": "Agility Boost",
+    "tier": 1
+  },
+  "149": {
+    "skill_id": 149,
+    "name_short_en": "Agi Boost <8d>",
+    "name_display_en": "Agility Boost II",
+    "base_name": "Agility Boost",
+    "tier": 2
+  },
+  "150": {
+    "skill_id": 150,
+    "name_short_en": "Agi Boost <8e>",
+    "name_display_en": "Agility Boost III",
+    "base_name": "Agility Boost",
+    "tier": 3
+  },
+  "151": {
+    "skill_id": 151,
+    "name_short_en": "Wis Boost",
+    "name_display_en": "Wisdom Booster",
+    "base_name": "Wisdom Booster",
+    "tier": 1
+  },
+  "152": {
+    "skill_id": 152,
+    "name_short_en": "Wis Boost <8d>",
+    "name_display_en": "Wisdom Booster II",
+    "base_name": "Wisdom Booster",
+    "tier": 2
+  },
+  "153": {
+    "skill_id": 153,
+    "name_short_en": "Wis Boost <8e>",
+    "name_display_en": "Wisdom Booster III",
+    "base_name": "Wisdom Booster",
+    "tier": 3
+  },
+  "154": {
+    "skill_id": 154,
+    "name_short_en": "Frizz Ward",
+    "name_display_en": "Frizz Ward",
+    "base_name": "Frizz Ward",
+    "tier": 1
+  },
+  "155": {
+    "skill_id": 155,
+    "name_short_en": "Bang Ward",
+    "name_display_en": "Bang Ward",
+    "base_name": "Bang Ward",
+    "tier": 1
+  },
+  "156": {
+    "skill_id": 156,
+    "name_short_en": "Woosh Ward",
+    "name_display_en": "Woosh Ward",
+    "base_name": "Woosh Ward",
+    "tier": 1
+  },
+  "157": {
+    "skill_id": 157,
+    "name_short_en": "Crack Ward",
+    "name_display_en": "Crack Ward",
+    "base_name": "Crack Ward",
+    "tier": 1
+  },
+  "158": {
+    "skill_id": 158,
+    "name_short_en": "Zap Ward",
+    "name_display_en": "Zap Ward",
+    "base_name": "Zap Ward",
+    "tier": 1
+  },
+  "159": {
+    "skill_id": 159,
+    "name_short_en": "Zam Ward",
+    "name_display_en": "Zam Ward",
+    "base_name": "Zam Ward",
+    "tier": 1
+  },
+  "160": {
+    "skill_id": 160,
+    "name_short_en": "Water Ward",
+    "name_display_en": "Water Ward",
+    "base_name": "Water Ward",
+    "tier": 1
+  },
+  "161": {
+    "skill_id": 161,
+    "name_short_en": "Thundr Wrd",
+    "name_display_en": "Thunder Ward",
+    "base_name": "Thunder Ward",
+    "tier": 1
+  },
+  "162": {
+    "skill_id": 162,
+    "name_short_en": "Fire Ward",
+    "name_display_en": "Fire Ward",
+    "base_name": "Fire Ward",
+    "tier": 1
+  },
+  "163": {
+    "skill_id": 163,
+    "name_short_en": "Earth Ward",
+    "name_display_en": "Earth Ward",
+    "base_name": "Earth Ward",
+    "tier": 1
+  },
+  "164": {
+    "skill_id": 164,
+    "name_short_en": "Fire Br Wrd",
+    "name_display_en": "Fire Breath Ward",
+    "base_name": "Fire Breath Ward",
+    "tier": 1
+  },
+  "165": {
+    "skill_id": 165,
+    "name_short_en": "Ice Br Wrd",
+    "name_display_en": "Ice Breath Ward",
+    "base_name": "Ice Breath Ward",
+    "tier": 1
+  },
+  "166": {
+    "skill_id": 166,
+    "name_short_en": "Whack Ward",
+    "name_display_en": "Whack Ward",
+    "base_name": "Whack Ward",
+    "tier": 1
+  },
+  "167": {
+    "skill_id": 167,
+    "name_short_en": "Dazzle Wrd",
+    "name_display_en": "Dazzle Ward",
+    "base_name": "Dazzle Ward",
+    "tier": 1
+  },
+  "168": {
+    "skill_id": 168,
+    "name_short_en": "Poison Ward",
+    "name_display_en": "Poison Ward",
+    "base_name": "Poison Ward",
+    "tier": 1
+  },
+  "169": {
+    "skill_id": 169,
+    "name_short_en": "Drain M Wrd",
+    "name_display_en": "Drain Magic Ward",
+    "base_name": "Drain Magic Ward",
+    "tier": 1
+  },
+  "170": {
+    "skill_id": 170,
+    "name_short_en": "AntiMgc Wrd",
+    "name_display_en": "Antimagic Ward",
+    "base_name": "Antimagic Ward",
+    "tier": 1
+  },
+  "171": {
+    "skill_id": 171,
+    "name_short_en": "Gobstop Wrd",
+    "name_display_en": "Gobstopper Ward",
+    "base_name": "Gobstopper Ward",
+    "tier": 1
+  },
+  "172": {
+    "skill_id": 172,
+    "name_short_en": "BnDnce Wrd",
+    "name_display_en": "Ban Dance Ward",
+    "base_name": "Ban Dance Ward",
+    "tier": 1
+  },
+  "173": {
+    "skill_id": 173,
+    "name_short_en": "Conf Ward",
+    "name_display_en": "Confusion Ward",
+    "base_name": "Confusion Ward",
+    "tier": 1
+  },
+  "174": {
+    "skill_id": 174,
+    "name_short_en": "Inact Ward",
+    "name_display_en": "Inaction Ward",
+    "base_name": "Inaction Ward",
+    "tier": 1
+  },
+  "175": {
+    "skill_id": 175,
+    "name_short_en": "Paral Ward",
+    "name_display_en": "Paralysis Ward",
+    "base_name": "Paralysis Ward",
+    "tier": 1
+  },
+  "176": {
+    "skill_id": 176,
+    "name_short_en": "Sleep Ward",
+    "name_display_en": "Sleep Ward",
+    "base_name": "Sleep Ward",
+    "tier": 1
+  },
+  "177": {
+    "skill_id": 177,
+    "name_short_en": "<55> H Boost",
+    "name_display_en": "Über Health Boost",
+    "base_name": "Über Health Boost",
+    "tier": 1
+  },
+  "178": {
+    "skill_id": 178,
+    "name_short_en": "<55> M Boost",
+    "name_display_en": "Über Magic Boost",
+    "base_name": "Über Magic Boost",
+    "tier": 1
+  },
+  "179": {
+    "skill_id": 179,
+    "name_short_en": "<55> Atk Boost",
+    "name_display_en": "Über Attack Boost",
+    "base_name": "Über Attack Boost",
+    "tier": 1
+  },
+  "180": {
+    "skill_id": 180,
+    "name_short_en": "<55> Def Boost",
+    "name_display_en": "Über Defense Boost",
+    "base_name": "Über Defense Boost",
+    "tier": 1
+  },
+  "181": {
+    "skill_id": 181,
+    "name_short_en": "<55> Agi Boost",
+    "name_display_en": "Über Agility Boost",
+    "base_name": "Über Agility Boost",
+    "tier": 1
+  },
+  "182": {
+    "skill_id": 182,
+    "name_short_en": "<55> Wis Boost",
+    "name_display_en": "Über Wisdom Boost",
+    "base_name": "Über Wisdom Boost",
+    "tier": 1
+  },
+  "183": {
+    "skill_id": 183,
+    "name_short_en": "<55> Heat Wrd",
+    "name_display_en": "Über Heat Ward",
+    "base_name": "Über Heat Ward",
+    "tier": 1
+  },
+  "184": {
+    "skill_id": 184,
+    "name_short_en": "<55> Cold Wrd",
+    "name_display_en": "Über Cold Ward",
+    "base_name": "Über Cold Ward",
+    "tier": 1
+  },
+  "185": {
+    "skill_id": 185,
+    "name_short_en": "<55> WdBl Wrd",
+    "name_display_en": "Über Windblast Ward",
+    "base_name": "Über Windblast Ward",
+    "tier": 1
+  },
+  "186": {
+    "skill_id": 186,
+    "name_short_en": "<55> DrkLi Wrd",
+    "name_display_en": "Über Darklight Ward",
+    "base_name": "Über Darklight Ward",
+    "tier": 1
+  },
+  "187": {
+    "skill_id": 187,
+    "name_short_en": "Warrior",
+    "name_display_en": "Warrior",
+    "base_name": "Warrior",
+    "tier": 1
+  },
+  "188": {
+    "skill_id": 188,
+    "name_short_en": "Mage",
+    "name_display_en": "Mage",
+    "base_name": "Mage",
+    "tier": 1
+  },
+  "189": {
+    "skill_id": 189,
+    "name_short_en": "Priest",
+    "name_display_en": "Priest",
+    "base_name": "Priest",
+    "tier": 1
+  },
+  "190": {
+    "skill_id": 190,
+    "name_short_en": "Martial Art",
+    "name_display_en": "Martial Artist",
+    "base_name": "Martial Artist",
+    "tier": 1
+  },
+  "191": {
+    "skill_id": 191,
+    "name_short_en": "Sage",
+    "name_display_en": "Sage",
+    "base_name": "Sage",
+    "tier": 1
+  },
+  "192": {
+    "skill_id": 192,
+    "name_short_en": "Thief",
+    "name_display_en": "Thief",
+    "base_name": "Thief",
+    "tier": 1
+  }
+}

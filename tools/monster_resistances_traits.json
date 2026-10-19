@@ -1,0 +1,1762 @@
+{
+ "m233b": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m180b": {
+  "resistances": [
+   "Fire Breathproof",
+   "Healed by Zam",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Zammeister"
+  ]
+ },
+ "m141b": {
+  "resistances": [
+   "Healed by Zap",
+   "Ice Breathproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m246": {
+  "resistances": [
+   "Inactionproof"
+  ],
+  "traits": []
+ },
+ "m163": {
+  "resistances": [
+   "Healed by Zap",
+   "Vulnerable to Zam",
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Zapmeister"
+  ]
+ },
+ "m084": {
+  "resistances": [
+   "Bangproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Bangmeister"
+  ]
+ },
+ "m130": {
+  "resistances": [
+   "Paralysisproof",
+   "Poisonproof"
+  ],
+  "traits": [
+   "Escape Artist"
+  ]
+ },
+ "m082b": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m098": {
+  "resistances": [],
+  "traits": []
+ },
+ "m040": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m040b": {
+  "resistances": [
+   "Dazzleproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m247": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Desperado"
+  ]
+ },
+ "m084b": {
+  "resistances": [
+   "Bangproof",
+   "Vulnerable to Fizzle",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble",
+   "Bangmeister"
+  ]
+ },
+ "m247b": {
+  "resistances": [
+   "Frizzproof"
+  ],
+  "traits": [
+   "Frizzmeister",
+   "Desperado"
+  ]
+ },
+ "m225b": {
+  "resistances": [
+   "Whackproof",
+   "Zamproof"
+  ],
+  "traits": [
+   "Zammeister"
+  ]
+ },
+ "m056": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": []
+ },
+ "m112": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": []
+ },
+ "m110": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": []
+ },
+ "m155": {
+  "resistances": [
+   "Inactionproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Counterstriker"
+  ]
+ },
+ "m083": {
+  "resistances": [
+   "Dazzleproof",
+   "Sleepproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m102b": {
+  "resistances": [
+   "Drain Magicproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m005b": {
+  "resistances": [
+   "Poisonproof"
+  ],
+  "traits": [
+   "Poisoner"
+  ]
+ },
+ "m087": {
+  "resistances": [
+   "Confusionproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m014": {
+  "resistances": [
+   "Sagproof",
+   "Vulnerable to Sleep"
+  ],
+  "traits": [
+   "Counterstriker"
+  ]
+ },
+ "m107": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Desperado"
+  ]
+ },
+ "m232": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m158": {
+  "resistances": [
+   "Confusionproof",
+   "Paralysisproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m030": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": []
+ },
+ "m018": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m178": {
+  "resistances": [
+   "Healed by Earth",
+   "Sagproof",
+   "Vulnerable to Fire"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m182": {
+  "resistances": [
+   "Healed by Earth",
+   "Poisonproof",
+   "Sleepproof",
+   "Vulnerable to Fire",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Critical Massacre"
+  ]
+ },
+ "m077": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": [
+   "Fly Swatter"
+  ]
+ },
+ "m169": {
+  "resistances": [
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m003b": {
+  "resistances": [
+   "Fizzleproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Health Professional"
+  ]
+ },
+ "m060": {
+  "resistances": [
+   "Drain Magicproof"
+  ],
+  "traits": []
+ },
+ "m024": {
+  "resistances": [
+   "Healed by Fire Breath",
+   "Healed by Frizz",
+   "Vulnerable to Crack"
+  ],
+  "traits": [
+   "Frizzmeister"
+  ]
+ },
+ "m163b": {
+  "resistances": [
+   "Healed by Zam",
+   "Vulnerable to Zap"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Zammeister"
+  ]
+ },
+ "m004c": {
+  "resistances": [
+   "Zamproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Zammeister"
+  ]
+ },
+ "m166b": {
+  "resistances": [
+   "Practically Invincible"
+  ],
+  "traits": [
+   "Metal Body",
+   "Escape Artist"
+  ]
+ },
+ "m230": {
+  "resistances": [
+   "Vulnerable to Sag",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m154": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Zap"
+  ],
+  "traits": [
+   "Counterstriker"
+  ]
+ },
+ "m084c": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": []
+ },
+ "m095": {
+  "resistances": [
+   "Whackproof",
+   "Wooshproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m179": {
+  "resistances": [
+   "Healed by Water",
+   "Ice Breathproof",
+   "Vulnerable to Lightning"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m183": {
+  "resistances": [
+   "Confusionproof",
+   "Healed by Water",
+   "Poisonproof",
+   "Vulnerable to Lightning",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Steady Recovery"
+  ]
+ },
+ "m114": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Wooshmeister"
+  ]
+ },
+ "m105": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": []
+ },
+ "m122": {
+  "resistances": [
+   "Inactionproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m206": {
+  "resistances": [
+   "Healed by Zam",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble",
+   "Psycho"
+  ]
+ },
+ "m053": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m161b": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m198": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m245": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m141": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre",
+   "Desperado"
+  ]
+ },
+ "m132b": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": []
+ },
+ "m161": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m226": {
+  "resistances": [
+   "Whackproof",
+   "Zapproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m226b": {
+  "resistances": [
+   "Bangproof",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m156": {
+  "resistances": [
+   "Paralysisproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m044": {
+  "resistances": [
+   "Healed by Zap",
+   "Sleepproof",
+   "Vulnerable to Zam",
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Zapmeister"
+  ]
+ },
+ "m197": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Sleep",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m241": {
+  "resistances": [
+   "Healed by Water",
+   "Poisonproof"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Poisoner"
+  ]
+ },
+ "m231": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Zammeister"
+  ]
+ },
+ "m063": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Early Bird"
+  ]
+ },
+ "m055": {
+  "resistances": [
+   "Healed by Fire Breath",
+   "Healed by Frizz",
+   "Vulnerable to Water"
+  ],
+  "traits": [
+   "Frizzmeister"
+  ]
+ },
+ "m236": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m244": {
+  "resistances": [
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m024b": {
+  "resistances": [
+   "Healed by Crack",
+   "Healed by Ice Breath",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Crackmeister"
+  ]
+ },
+ "m135b": {
+  "resistances": [
+   "Dazzleproof",
+   "Fire Breathproof",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m130b": {
+  "resistances": [
+   "Paralysisproof"
+  ],
+  "traits": []
+ },
+ "m147": {
+  "resistances": [
+   "Poisonproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m078": {
+  "resistances": [
+   "Inactionproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m035b": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m166": {
+  "resistances": [
+   "Practically Invincible"
+  ],
+  "traits": [
+   "Metal Body",
+   "Escape Artist"
+  ]
+ },
+ "m199": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m027": {
+  "resistances": [
+   "Paralysisproof",
+   "Poisonproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Poisoner"
+  ]
+ },
+ "m082": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Last Word"
+  ]
+ },
+ "m116b": {
+  "resistances": [
+   "Vulnerable to Sleep",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m116": {
+  "resistances": [
+   "Vulnerable to Sleep",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m100": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": []
+ },
+ "m026": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m188": {
+  "resistances": [
+   "Fizzleproof",
+   "Healed by Water"
+  ],
+  "traits": [
+   "Crackmeister"
+  ]
+ },
+ "m165": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Magic Regenerator"
+  ]
+ },
+ "m135": {
+  "resistances": [
+   "Fire Breathproof"
+  ],
+  "traits": []
+ },
+ "m248": {
+  "resistances": [
+   "Bangproof",
+   "Healed by Zam"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m225": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Frizzmeister"
+  ]
+ },
+ "m031": {
+  "resistances": [
+   "Decelerateproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Early Bird"
+  ]
+ },
+ "m167": {
+  "resistances": [
+   "Decelerateproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m218": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof"
+  ],
+  "traits": []
+ },
+ "m155b": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Zap"
+  ],
+  "traits": [
+   "Counterstriker"
+  ]
+ },
+ "m074": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": []
+ },
+ "m134": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m035": {
+  "resistances": [
+   "Ice Breathproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m102": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m177": {
+  "resistances": [
+   "Fizzleproof",
+   "Healed by Fire",
+   "Vulnerable to Water"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m181": {
+  "resistances": [
+   "Attack Magicproof",
+   "Healed by Fire",
+   "Vulnerable to Poison",
+   "Vulnerable to Sleep",
+   "Vulnerable to Water"
+  ],
+  "traits": [
+   "Psycho",
+   "Magic Regenerator"
+  ]
+ },
+ "m065": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Metal Beater"
+  ]
+ },
+ "m003": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Health Professional"
+  ]
+ },
+ "m028": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m017": {
+  "resistances": [
+   "Paralysisproof",
+   "Poisonproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Paralyser"
+  ]
+ },
+ "m238": {
+  "resistances": [
+   "Sagproof",
+   "Vulnerable to Zap"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m119b": {
+  "resistances": [
+   "Paralysisproof",
+   "Poisonproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Metal Beater"
+  ]
+ },
+ "m059": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Bangmeister"
+  ]
+ },
+ "m010": {
+  "resistances": [
+   "Crackproof"
+  ],
+  "traits": [
+   "Crackmeister"
+  ]
+ },
+ "m074b": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Inaction",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m132": {
+  "resistances": [
+   "Drain Magicproof"
+  ],
+  "traits": []
+ },
+ "m111": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": []
+ },
+ "m037": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": [
+   "Able Ambusher"
+  ]
+ },
+ "m042": {
+  "resistances": [
+   "Fizzleproof",
+   "Healed by Water",
+   "Whackproof"
+  ],
+  "traits": [
+   "Paralyser"
+  ]
+ },
+ "m020": {
+  "resistances": [
+   "Fizzleproof",
+   "Healed by Water"
+  ],
+  "traits": []
+ },
+ "m119": {
+  "resistances": [
+   "Dazzleproof",
+   "Vulnerable to Bang",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m164": {
+  "resistances": [
+   "Paralysisproof",
+   "Poisonproof"
+  ],
+  "traits": [
+   "Poisoner"
+  ]
+ },
+ "m006c": {
+  "resistances": [
+   "Fizzleproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Health Professional"
+  ]
+ },
+ "m025": {
+  "resistances": [
+   "Healed by Water",
+   "Sleepproof"
+  ],
+  "traits": []
+ },
+ "m006": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m041": {
+  "resistances": [
+   "Fizzleproof",
+   "Healed by Water"
+  ],
+  "traits": [
+   "Steady Recovery"
+  ]
+ },
+ "m215": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": []
+ },
+ "m043": {
+  "resistances": [
+   "Confusionproof",
+   "Healed by Zam",
+   "Vulnerable to Zap"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Zammeister"
+  ]
+ },
+ "m071": {
+  "resistances": [
+   "Bangproof"
+  ],
+  "traits": []
+ },
+ "m152c": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Able Ambusher"
+  ]
+ },
+ "m067": {
+  "resistances": [
+   "Drain Magicproof"
+  ],
+  "traits": []
+ },
+ "m005": {
+  "resistances": [
+   "Practically Invincible"
+  ],
+  "traits": [
+   "Metal Body",
+   "Escape Artist"
+  ]
+ },
+ "m117": {
+  "resistances": [
+   "Sleepproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m064": {
+  "resistances": [
+   "Attack Magicproof"
+  ],
+  "traits": []
+ },
+ "m191": {
+  "resistances": [
+   "Confusionproof",
+   "Healed by Zam",
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Psycho"
+  ]
+ },
+ "m106": {
+  "resistances": [
+   "Inactionproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m220b": {
+  "resistances": [
+   "Paralysisproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m239b": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Magic Regenerator"
+  ]
+ },
+ "m062": {
+  "resistances": [
+   "Dazzleproof",
+   "Healed by Water"
+  ],
+  "traits": []
+ },
+ "m220": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m165b": {
+  "resistances": [
+   "Practically Invincible"
+  ],
+  "traits": [
+   "Metal Body",
+   "Escape Artist"
+  ]
+ },
+ "m006b": {
+  "resistances": [
+   "Practically Invincible"
+  ],
+  "traits": [
+   "Metal Body",
+   "Escape Artist"
+  ]
+ },
+ "m000b": {
+  "resistances": [
+   "Practically Invincible"
+  ],
+  "traits": [
+   "Metal Body",
+   "Escape Artist"
+  ]
+ },
+ "m004b": {
+  "resistances": [
+   "Paralysisproof"
+  ],
+  "traits": [
+   "Counterstriker"
+  ]
+ },
+ "m107b": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m099": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m088": {
+  "resistances": [
+   "Sleepproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m211": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m193": {
+  "resistances": [
+   "Fire Breathproof",
+   "Ice Breathproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Steady Recovery",
+   "Magic Regenerator"
+  ]
+ },
+ "m103": {
+  "resistances": [
+   "Dazzleproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m146": {
+  "resistances": [
+   "Dazzleproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m109": {
+  "resistances": [],
+  "traits": []
+ },
+ "m120": {
+  "resistances": [
+   "Sleepproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Bangmeister"
+  ]
+ },
+ "m150": {
+  "resistances": [
+   "Crackproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m215b": {
+  "resistances": [],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m190": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m068": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m213": {
+  "resistances": [
+   "Healed by Zam",
+   "Vulnerable to Sap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m073": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": []
+ },
+ "m075": {
+  "resistances": [
+   "Healed by Water",
+   "Sagproof"
+  ],
+  "traits": []
+ },
+ "m036": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": []
+ },
+ "m205": {
+  "resistances": [
+   "Paralysisproof",
+   "Vulnerable to Confusion",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m066b": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": []
+ },
+ "m210b": {
+  "resistances": [
+   "Bangproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Wooshmeister"
+  ]
+ },
+ "m153": {
+  "resistances": [
+   "Vulnerable to Zap",
+   "Whackproof",
+   "Wooshproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m153b": {
+  "resistances": [
+   "Dazzleproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m207": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": []
+ },
+ "m196": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Desperado"
+  ]
+ },
+ "m101": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": []
+ },
+ "m218b": {
+  "resistances": [
+   "Fire Breathproof",
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Magic Regenerator"
+  ]
+ },
+ "m152": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m097": {
+  "resistances": [
+   "Healed by Zam",
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger",
+   "Zammeister"
+  ]
+ },
+ "m235": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Early Bird"
+  ]
+ },
+ "m081": {
+  "resistances": [
+   "Inactionproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m108": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m152b": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Paralysis",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ },
+ "m121": {
+  "resistances": [
+   "Confusionproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Last Word",
+   "Critical Massacre"
+  ]
+ },
+ "m066": {
+  "resistances": [
+   "Sleepproof"
+  ],
+  "traits": []
+ },
+ "m168": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m034": {
+  "resistances": [
+   "Paralysisproof",
+   "Poisonproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Critical Massacre",
+   "Paralyser"
+  ]
+ },
+ "m239": {
+  "resistances": [
+   "Bangproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m233": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m242": {
+  "resistances": [
+   "Fizzleproof",
+   "Healed by Water"
+  ],
+  "traits": [
+   "Health Professional"
+  ]
+ },
+ "m057": {
+  "resistances": [
+   "Healed by Zam",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Zammeister"
+  ]
+ },
+ "m160": {
+  "resistances": [],
+  "traits": []
+ },
+ "m000c": {
+  "resistances": [
+   "Frizzproof"
+  ],
+  "traits": [
+   "Frizzmeister"
+  ]
+ },
+ "m210": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m223": {
+  "resistances": [
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m149": {
+  "resistances": [
+   "Inactionproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m149b": {
+  "resistances": [
+   "Inactionproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m234": {
+  "resistances": [
+   "Inactionproof"
+  ],
+  "traits": []
+ },
+ "m000": {
+  "resistances": [],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m004": {
+  "resistances": [
+   "Confusionproof"
+  ],
+  "traits": [
+   "Counterstriker"
+  ]
+ },
+ "m160b": {
+  "resistances": [
+   "Dazzleproof"
+  ],
+  "traits": []
+ },
+ "m245b": {
+  "resistances": [
+   "Confusionproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m151": {
+  "resistances": [
+   "Poisonproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m011": {
+  "resistances": [
+   "Drain Magicproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m070": {
+  "resistances": [
+   "Healed by Bang",
+   "Vulnerable to Crack"
+  ],
+  "traits": [
+   "Bangmeister"
+  ]
+ },
+ "m201": {
+  "resistances": [
+   "Whackproof"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m200": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": []
+ },
+ "m157": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Poisoner"
+  ]
+ },
+ "m118": {
+  "resistances": [
+   "Paralysisproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m029": {
+  "resistances": [
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Steady Recovery"
+  ]
+ },
+ "m009": {
+  "resistances": [
+   "Fire Breathproof",
+   "Fizzleproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Counterstriker"
+  ]
+ },
+ "m134b": {
+  "resistances": [
+   "Sagproof"
+  ],
+  "traits": []
+ },
+ "m025b": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Frizz"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m148": {
+  "resistances": [
+   "Poisonproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": []
+ },
+ "m194": {
+  "resistances": [
+   "Sagproof"
+  ],
+  "traits": []
+ },
+ "m209": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Critical Massacre"
+  ]
+ },
+ "m157b": {
+  "resistances": [
+   "Sleepproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Poisoner"
+  ]
+ },
+ "m240": {
+  "resistances": [
+   "Drain Magicproof",
+   "Healed by Water"
+  ],
+  "traits": [
+   "Artful Dodger"
+  ]
+ },
+ "m162": {
+  "resistances": [
+   "Sagproof"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m180c": {
+  "resistances": [
+   "Fire Breathproof",
+   "Healed by Zap",
+   "Vulnerable to Zam",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Zapmeister"
+  ]
+ },
+ "m058": {
+  "resistances": [
+   "Dazzleproof",
+   "Whackproof"
+  ],
+  "traits": [
+   "Desperado"
+  ]
+ },
+ "m231b": {
+  "resistances": [
+   "Fizzleproof"
+  ],
+  "traits": [
+   "Wooshmeister"
+  ]
+ },
+ "m176": {
+  "resistances": [
+   "Healed by Lightning",
+   "Sagproof",
+   "Vulnerable to Earth"
+  ],
+  "traits": [
+   "Psycho"
+  ]
+ },
+ "m180": {
+  "resistances": [
+   "Healed by Lightning",
+   "Paralysisproof",
+   "Poisonproof",
+   "Vulnerable to Earth",
+   "Whackproof"
+  ],
+  "traits": [
+   "Psycho",
+   "Desperado"
+  ]
+ },
+ "m023": {
+  "resistances": [
+   "Confusionproof",
+   "Healed by Water"
+  ],
+  "traits": [
+   "Paralyser"
+  ]
+ },
+ "m192": {
+  "resistances": [
+   "Fizzleproof",
+   "Vulnerable to Zap",
+   "Whackproof"
+  ],
+  "traits": [
+   "Double Trouble"
+  ]
+ }
+}
